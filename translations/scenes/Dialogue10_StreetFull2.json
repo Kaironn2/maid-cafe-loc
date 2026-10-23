@@ -1,0 +1,2097 @@
+{
+  "0": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You arrive at the Nipponbashi Shopping Association as you promised Miyu."
+  },
+  "1": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(This road used to be blocked off for construction, \nbut it looks like I can go to this part of town through here now.)"
+  },
+  "2": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(At my old job, I only really went back and forth between the office\nand train station, and I got most of my meals at the convenience store,\nso I never got the chance to visit the Shopping Association at all.)"
+  },
+  "3": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Now that I think about it, that breakfast Miyu made me was so delicious...)"
+  },
+  "4": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "G'morn! You're here early, Manager!"
+  },
+  "5": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I totally thought I was gonna be here first...\nand after saying that I'd be waiting last night, too..."
+  },
+  "6": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It's fine... But why did you invite me all of a sudden?\""
+  },
+  "7": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Umm... Now that I work at a cafe, it got me thinking."
+  },
+  "8": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I haven't actually done any part time jobs before this,\nso at this rate, I might end up bothering Shiro instead of helping out."
+  },
+  "9": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "But you're so skilled for a beginner.:option1;It's okay if you mess up.:option2"
+  },
+  "10": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huh, really...?"
+  },
+  "11": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ehehe. You sure know how to flatter a girl, don'tcha? ♪"
+  },
+  "12": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's not that... I just don't wanna\ndrag you two down with me, y'know?"
+  },
+  "13": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That's why I wanna check out some of the\nshops nearby. Think of it as research! For work!"
+  },
+  "14": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I see. Where to, then?\""
+  },
+  "15": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "The boutique first, I guess. Oh, and then the game shop next?\nAnd then we could go get some spicy food afterwards! Let's go! ☆"
+  },
+  "16": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thanks for hanging out with me today, Manager! ☆"
+  },
+  "17": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I learned a lot today, and I had tons of fun!"
+  },
+  "18": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Oh, would you look at the time!\nMy train's coming!"
+  },
+  "19": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Should I walk you there?\""
+  },
+  "20": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Nah, I'll be fine! ☆\nBesides, I run faster when I'm alone!"
+  },
+  "21": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Hm...? Isn't that...?)"
+  },
+  "22": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Fufu.... The Great Favna has finally gotten her hands on\nthe forbidden tome that will enhance her spiritual abilities."
+  },
+  "23": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(That's the girl I bumped into the other day.)"
+  },
+  "24": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I shall return home and read it at once.\nFufu... How exciting... The days without the sequel have felt much too long..."
+  },
+  "25": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Wait, didn't I pick something up back then...?)"
+  },
+  "26": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Oops, she's already gone.\nOh, well. I'll head back to the apartment for today.)"
+  },
+  "27": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hey, could you take me to that girl?\""
+  },
+  "28": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Mroooow..."
+  },
+  "29": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Are you ignoring me, or... are you hungry?\""
+  },
+  "30": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(I should buy it something to eat.)"
+  },
+  "31": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "32": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Cats like fish, right...? Would they have something for it?)"
+  },
+  "33": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Oh, are you the owner of that black cat?"
+  },
+  "34": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "That kitty loves our sashimi.\nGive me a minute, I'll get you a fresh cut right now!"
+  },
+  "35": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You bought some sashimi. It looks really tasty...\nbut it's for the cat. You have to hold yourself back."
+  },
+  "36": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meowww?"
+  },
+  "37": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It looks hungry."
+  },
+  "38": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(It doesn't seem to want to budge unless I feed it...)"
+  },
+  "39": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Give it canned cat food:option3;Give it sashimi:option4;Leave:option5"
+  },
+  "40": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You gave the cat the deluxe golden fatty tuna cat food."
+  },
+  "41": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Mra mra mrow..."
+  },
+  "42": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Satisfied?\""
+  },
+  "43": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "......Hrmph."
+  },
+  "44": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Does it want something even MORE premium?!\nWhat expensive tastes...!)"
+  },
+  "45": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(What else do cats like to eat?)"
+  },
+  "46": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Umyamyameow...!"
+  },
+  "47": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(It's practically guzzling it down. This must be it...!)"
+  },
+  "48": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "...Phew. Meooow."
+  },
+  "49": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Don't tell me that wasn't enough! This greedy little...)"
+  },
+  "50": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(What else can I feed it...?)"
+  },
+  "51": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Purr purr purr... Meooow."
+  },
+  "52": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Now it looks happy.)"
+  },
+  "53": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I should follow the cat again.)"
+  },
+  "54": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Grrrr..."
+  },
+  "55": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(It doesn't seem to want to budge unless I feed it...)"
+  },
+  "56": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Welcome! Oh hey, it's Shiro-chan!"
+  },
+  "57": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hello! It's me!"
+  },
+  "58": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The fish here are so fresh, they're practically still glittering over the ice!"
+  },
+  "59": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "How's the black cat, by the way? Stop by again if you need more sashimi!"
+  },
+  "60": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Haha... I will.\""
+  },
+  "61": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(One day, I want to buy premium sashimi for myself instead...)"
+  },
+  "62": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Welcome... Oh, Shiro-oneechan!"
+  },
+  "63": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hello, Nana-chan. Are you tending the shop again today?\nHow's your grandmother doing?"
+  },
+  "64": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Granny's doing great! She's in the back organizing the stock."
+  },
+  "65": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Nice to meet you. You're so young, and you're already helping out?\""
+  },
+  "66": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Ehehe! I get more pocket money this way!"
+  },
+  "67": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Oh right, Shiro-oneechan. Did Fuwa Fuwa really reopen again?"
+  },
+  "68": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "I wanna see you in that cute frilly outfit too!"
+  },
+  "69": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Y'know what? I'm gonna save up pocket money so I can go\nplay at Fuwa Fuwa! I'm gonna work hard just like you!"
+  },
+  "70": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She already has an oshi maid at such a young age...\nShe has a bright future ahead of her...)"
+  },
+  "71": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Nana-chan...! Ough, I'm so touched!"
+  },
+  "72": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'll always be waiting, so stop by anytime with your dad!"
+  },
+  "73": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Huh... A tofu shop. Feels like they're kind of a rarity nowadays.)"
+  },
+  "74": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hello, Kondou-san!"
+  },
+  "75": {
+    "Personagem": "Takumi",
+    "PT": "",
+    "EN": "Oh, Fuwa Fuwa... Hi."
+  },
+  "76": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "Hey! That's no way to greet a customer!\nI'm sorry, Shiro-chan, my son's always like this..."
+  },
+  "77": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "But hey, who'd have thought little Shiro-chan\nwould bring her boyfriend along?"
+  },
+  "78": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "N-No, you've got it all wrong! This is Fuwa Fuwa's new manager!"
+  },
+  "79": {
+    "Personagem": "Takumi",
+    "PT": "",
+    "EN": "Oh, so you're the guy everyone's been talking about...\nNice to meet you."
+  },
+  "80": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, I know what you're thinking, but it's not \"just\" tofu, okay?\nIts simplicity is exactly what makes it so delicious! I could eat it every day!"
+  },
+  "81": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "Hey, flattery isn't gonna get you any free stuff! Wahaha!\nYou too, boy! Show some gratitude!"
+  },
+  "82": {
+    "Personagem": "Takumi",
+    "PT": "",
+    "EN": "Oh, right... Then how's about using our soy milk in your menu?\nI'll give you a discount."
+  },
+  "83": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait, really?\""
+  },
+  "84": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "Yep! You look pretty trustworthy.\nEspecially since you're Shiro-chan's boyfriend!"
+  },
+  "85": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "N-No! I just told you, that's not it~!"
+  },
+  "86": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you very much. This should add some more variety to our menu!\""
+  },
+  "87": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(A gyaru at a takoyaki place...? What's she doing there?)"
+  },
+  "88": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "......What?"
+  },
+  "89": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"S-Sorry, it was just kind of a rare sight, so I ended up staring...\""
+  },
+  "90": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, Memi-chan! How are you?"
+  },
+  "91": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "...Doing great, ma'am! It's been a while, Shiro-san!"
+  },
+  "92": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Sh-Shiro-san...?\""
+  },
+  "93": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Yessir! I owe a great deal to Shiro-san, sir!"
+  },
+  "94": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "On the day I broke up with my ex, I was standing outside\nthe train station in the rain, sopping wet, when Shiro-san walked by\nand gave me a doujinshi. That simple act is what saved my life..."
+  },
+  "95": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...I bought too many new releases from Surugaya that day,\nand my bag just broke when I met Memi-chan."
+  },
+  "96": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, right. Fuwa Fuwa finally reopened a while ago.\nThis person is our new manager!"
+  },
+  "97": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And here, you can have a flyer!"
+  },
+  "98": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Thank you!"
+  },
+  "99": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Haha. Shiro's still thinking about work even though it's a day off...)"
+  },
+  "100": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Shiro-san! Would you like some takoyaki?"
+  },
+  "101": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "That's right, I wanted something to eat! I'm so hungry...!"
+  },
+  "102": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, but I bought a bunch of new doujinshi the other day,\nso I don't think I have much money on me..."
+  },
+  "103": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"My treat, then. I wanted to eat takoyaki too.\""
+  },
+  "104": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "...Really? I guess you're more gentlemanly than you look!"
+  },
+  "105": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You and Shiro munch on the piping hot takoyaki together..."
+  },
+  "106": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Phew, that was delicious! I feel recharged...!\nThank you so much, Memi-chan, and you too, Manager!"
+  },
+  "107": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "I'll pop over to say hi once I have the time!\nI can't wait to visit your base, codename Fuwa Fuwa! Over!"
+  },
+  "108": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "Memi-chan might look a little intimidating,\nbut she's actually really nice once you get to know her."
+  },
+  "109": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "Please stop by for some takoyaki again sometime."
+  },
+  "110": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I didn't know there was a yakiniku place here.)"
+  },
+  "111": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I never had the time or money to eat out when I was an office worker...\nWell, I guess I still don't have the money now.)"
+  },
+  "112": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(If only I could treat Shiro and Miyu to some yakiniku,\nbut I still don't make enough to do that confidently...)"
+  },
+  "113": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "......"
+  },
+  "114": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Ah, Shiro?! S-Sorry!\""
+  },
+  "115": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh? Why are you apologizing, Manager?\nIf anything, I should apologize for spacing out."
+  },
+  "116": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I was thinking about yakiniku... I would love to have some,\nbut I've been really short on money, I probably shouldn't...\nWere you thinking the same thing, Manager?"
+  },
+  "117": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hehehe... We might not be able to now,\nbut I hope one day we can all have yakiniku together!"
+  },
+  "118": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hello.\""
+  },
+  "119": {
+    "Personagem": "Kaoru",
+    "PT": "",
+    "EN": "I've heard from my husband. You guys are really going at it, huh?\nYou can put your flyers here if you want."
+  },
+  "120": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Really? Thank you very much!"
+  },
+  "121": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hello.\""
+  },
+  "122": {
+    "Personagem": "Kaoru",
+    "PT": "",
+    "EN": "I've heard from my husband. You guys are really going at it, huh?\nYou can put your flyers here if you want."
+  },
+  "123": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thank you so much! We did it, Manager!"
+  },
+  "124": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hello.\""
+  },
+  "125": {
+    "Personagem": "Kaoru",
+    "PT": "",
+    "EN": "I've heard from my husband. You guys are really going at it, huh?\nYou can put your flyers here if you want."
+  },
+  "126": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Thank you kindly. This marks the completion of yet another mission."
+  },
+  "127": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Oh, you're the Fuwa Fuwa person!"
+  },
+  "128": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh, why are you tending the store today? Don't you have school?\""
+  },
+  "129": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "I'm going in a bit. Dad's packing my lunch box."
+  },
+  "130": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I see. Then could you give him these flyers?"
+  },
+  "131": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Oooh, Fuwa Fuwa flyers~! Thank you, Oneechan!"
+  },
+  "132": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Oh, you're the Fuwa Fuwa person!"
+  },
+  "133": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh, why are you tending the store today? Don't you have school?\""
+  },
+  "134": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "I'm going in a bit. Dad's making me a lunch box."
+  },
+  "135": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Good luck! Oh, then could you take these flyers too?"
+  },
+  "136": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Oooh, Fuwa Fuwa flyers~! Thank you, Oneechan!"
+  },
+  "137": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Oh, you're the Fuwa Fuwa person!"
+  },
+  "138": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh, why are you tending the store today? Don't you have school?\""
+  },
+  "139": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "I'm going in a bit. Dad's making me a lunch box."
+  },
+  "140": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Sorry to intrude. I offer you my blessings and these talismans."
+  },
+  "141": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Oooh, Fuwa Fuwa flyers~! Thank you, Oneechan!"
+  },
+  "142": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "The whole shrine deal, right? You sure had it rough, my guy!"
+  },
+  "143": {
+    "Personagem": "Takumi",
+    "PT": "",
+    "EN": "I'd love to help and all, but it's just me an' my pops...\nA bunch of guys going to a maid cafe is a little..."
+  },
+  "144": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "You blockhead!! When are you gonna help them out if not now?!"
+  },
+  "145": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much! Please stop by anytime."
+  },
+  "146": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "The whole shrine deal, right? You sure had it rough, my guy!"
+  },
+  "147": {
+    "Personagem": "Takumi",
+    "PT": "",
+    "EN": "I'd love to help and all, but...\nA maid cafe? With just guys...?"
+  },
+  "148": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "You blockhead!! When are you gonna help them out if not now?!"
+  },
+  "149": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "C'mon, don't be shy! Maid cafes are a lot of fun! ☆"
+  },
+  "150": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "The whole shrine deal, right? You sure had it rough, my guy!"
+  },
+  "151": {
+    "Personagem": "Takumi",
+    "PT": "",
+    "EN": "I'd love to help and all, but...\nA maid cafe? With just guys...?"
+  },
+  "152": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "You blockhead!! When are you gonna help them out if not now?!"
+  },
+  "153": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The Elysium is open to all. You need simply knock on its gates."
+  },
+  "154": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Forreal?! Codename Fuwa Fuwa's in deep water?!"
+  },
+  "155": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "A friend in need... That reminds me of that one iconic scene...!"
+  },
+  "156": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "\"Is there anyone who's chickenin' out when Fuwa Fuwa's been hurt?\""
+  },
+  "157": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "I didn't think so!!:option6;Maybe...?:option7"
+  },
+  "158": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Augh, that line lives rent free in my brain..."
+  },
+  "159": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Hang in there! I owe a lot to Shiro-san,\nso I'll save up and repay you tenfold! Sir! Yessir!"
+  },
+  "160": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm touched...! I can feel my heart swell with warmth!"
+  },
+  "161": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Whoops, my B..."
+  },
+  "162": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "I'll make sure not to disturb anyone!\nI'll sneak in real quiet, eat my food, and leave at once!"
+  },
+  "163": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Haha, you don't have to go that far...)"
+  },
+  "164": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Forreal?! Codename Fuwa Fuwa's in deep water?!"
+  },
+  "165": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "A friend in need... It reminds me of that iconic scene...!"
+  },
+  "166": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "\"Is there anyone who's chickenin' out when Fuwa Fuwa's been hurt?\""
+  },
+  "167": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "I didn't think so!!:option8;Maybe...?:option9"
+  },
+  "168": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Augh, this line is EVERYTHING..."
+  },
+  "169": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Hang in there! I'm gonna put together as much\nmoney as I can to repay you! Sir! Yessir!"
+  },
+  "170": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I'll be waiting with our signature dishes!"
+  },
+  "171": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Aw, you don't gonna..."
+  },
+  "172": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "I'll make sure not to disturb anyone!\nI'll sneak in real quiet, eat my food, and leave at once!"
+  },
+  "173": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Haha, you don't have to go that far...)"
+  },
+  "174": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "It sounds like you're having a hard time. Good luck."
+  },
+  "175": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "Come eat takoyaki whenever you'd like."
+  },
+  "176": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Forreal?! Codename Fuwa Fuwa's in deep water?!"
+  },
+  "177": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "A friend in need... It reminds me of that iconic scene...!"
+  },
+  "178": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "\"Is there anyone who's chickenin' out when Fuwa Fuwa's been hurt?\""
+  },
+  "179": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "I didn't think so!!:option10;Maybe...?:option11"
+  },
+  "180": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Augh, this line is EVERYTHING..."
+  },
+  "181": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Hang in there! I'm gonna put together as much\nmoney as I can to repay you! Sir! Yessir!"
+  },
+  "182": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Your burning flame of justice is quite impressive!"
+  },
+  "183": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Aw, haha..."
+  },
+  "184": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "I'll make sure not to disturb anyone!\nI'll sneak in real quiet, eat my food, and leave at once!"
+  },
+  "185": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Haha, you don't have to go that far...)"
+  },
+  "186": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "It sounds like you're having a hard time. Good luck."
+  },
+  "187": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "Come eat takoyaki whenever you'd like."
+  },
+  "188": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Memi-chan! I came to visit!"
+  },
+  "189": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Shiro-san! Thanks a lot for last time!!"
+  },
+  "190": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "I tried my hand at something new, too.\nI call it... the Ferocious Takoyaki!"
+  },
+  "191": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wow, that sounds delicious!"
+  },
+  "192": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Buy some for Shiro:option12;Buy something else:option13"
+  },
+  "193": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Really?! Thank you so much!"
+  },
+  "194": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Mmm, itsh sho gooood!"
+  },
+  "195": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Try one, Manager! Come on, say aaah!"
+  },
+  "196": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The second you bite into the takoyaki, the rich flavor of cheese\nfills your mouth...! It's been cooked to a wonderfully melty texture\non the inside, and slightly crispy on the outside... Ferociously indeed!"
+  },
+  "197": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You shared the piping hot takoyaki with Shiro..."
+  },
+  "198": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, that's fine too. Can't beat the classics!"
+  },
+  "199": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You order something different from Shiro\nand eat the piping hot takoyaki together..."
+  },
+  "200": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "It sounds like you're having a hard time. Good luck."
+  },
+  "201": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "Come eat takoyaki whenever you'd like."
+  },
+  "202": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Remember when Favna-chan did that whole summoning ritual thingy?\nThis is where I bought the chicken for it!"
+  },
+  "203": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I buy chicken for the black cat here, too.\nIt even ate the steak I bought when it was on sale...\""
+  },
+  "204": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huh! That's hilarious!"
+  },
+  "205": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ooh, steaks are on sale today too!\nI should grill some just for you next time!"
+  },
+  "206": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Good evening! Are you still open?"
+  },
+  "207": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Oh hey, Shiro-chan! You're out late.\nMiyu-chan too. Are you working part-time?"
+  },
+  "208": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeppers! And I'm starving now. Three mincemeat cutlets please!"
+  },
+  "209": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Comin' right up!"
+  },
+  "210": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "C'mon, you two should try it. My treat!\nThese cutlets are amazing!"
+  },
+  "211": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wow, thank you so much! Nom...!"
+  },
+  "212": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You take the cutlet Miyu hands you and munch on it."
+  },
+  "213": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The breading is crispy, and the meat is so juicy,\nit's practically glistening...!"
+  },
+  "214": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Long day today, huh, Manager?\nThough I guess it's not too bad when\nyou've got a cute girl in each arm, eh?"
+  },
+  "215": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Right?:option14;No, no, I'm just looking after them...:option14"
+  },
+  "216": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "S-Stop teasing us! Anyway, more importantly..."
+  },
+  "217": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Fuwa Fuwa is planning to hold a campaign\ninvolving other shops on Electric Street."
+  },
+  "218": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That's right. Visitors would go around the street\ncollecting stamps to exchange for an omurice on the house!"
+  },
+  "219": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Sounds like a good plan for a Fuwa Fuwa revival campaign."
+  },
+  "220": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ehehe, something like that. And so we would like to ask\nif the butcher could also join in and help with the campaign."
+  },
+  "221": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Of course! Have you talked to the Nipponbashi Shopping Association yet?"
+  },
+  "222": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh...? The Shopping Association...?"
+  },
+  "223": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "If you wanna get other shops involved,\nthey might help you out if you tell them what you're planning."
+  },
+  "224": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Those stamp cards you're holding were much cheaper than usual\nbecause we ordered them from a printing company in the Association."
+  },
+  "225": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Really? We were just about to ask where you got these made!"
+  },
+  "226": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I've seen the previous owner at a meeting before,\nso I'm pretty sure your cafe's already a member."
+  },
+  "227": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Maybe you should say hello to them and see if they can help!"
+  },
+  "228": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yes, I'll do that. Thank you for the advice!\""
+  },
+  "229": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "The Shopping Association... Yeah, it'd probably be a good idea to ask them."
+  },
+  "230": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We got some very valuable advice today!\nLet's tell the others tomorrow!"
+  },
+  "231": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "You need me to hand these out? Got it—they're going to our regulars!"
+  },
+  "232": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Aw, cheer up! Here, cutlets on the house."
+  },
+  "233": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much, Ichijou-san!"
+  },
+  "234": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I got the flyers! I'll give them out to our regulars!"
+  },
+  "235": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Aw, cheer up! Here, cutlets on the house."
+  },
+  "236": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yaaay! Don't mind if I do!"
+  },
+  "237": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I got the flyers! I'll give them out to our regulars!"
+  },
+  "238": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Aw, cheer up! Here, cutlets on the house."
+  },
+  "239": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "What a delicious offering. You have my thanks."
+  },
+  "240": {
+    "Personagem": "Tokuko",
+    "PT": "",
+    "EN": "Oh hello, Shiro-chan! And welcome to you too, Mr..."
+  },
+  "241": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "J-Just in case, we're not dating! He's our new manager!"
+  },
+  "242": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She hasn't even said anything yet...)"
+  },
+  "243": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um, we're planning a campaign that involves other shops\non Electric Street. Would the grocer's like to join in too?"
+  },
+  "244": {
+    "Personagem": "Tokuko",
+    "PT": "",
+    "EN": "A campaign? What's this all about?"
+  },
+  "245": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "If visitors shop at participating locations, they get a stamp.\nWhen they have enough, they can get\na free serving of omurice at Fuwa Fuwa!"
+  },
+  "246": {
+    "Personagem": "Tokuko",
+    "PT": "",
+    "EN": "Ooh, now that's pretty generous! And that means people\nwho want the omurice would have to shop here first,\nwhich means we get more customers."
+  },
+  "247": {
+    "Personagem": "Tokuko",
+    "PT": "",
+    "EN": "And well, how could I ever turn down a request\nfrom our dearest Shiro-chan? Count us in!"
+  },
+  "248": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wow! Thank you very much! Manager, please give her the thing!"
+  },
+  "249": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here, please read this pamphlet for the details!\""
+  },
+  "250": {
+    "Personagem": "Tokuko",
+    "PT": "",
+    "EN": "Oh, thank you. I'll ask my granddaughter\nto give out stamps when the time comes."
+  },
+  "251": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Good idea! I'm sure Nana-chan would be happy to help."
+  },
+  "252": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We'll contact you when we decide on the details of the campaign.\nOh, can I also have two bags each of carrots and onions, please?"
+  },
+  "253": {
+    "Personagem": "Tokuko",
+    "PT": "",
+    "EN": "Sure thing!"
+  },
+  "254": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Our next destination is the fishmonger's."
+  },
+  "255": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "...A stamp rally on Electric Street? Sounds fun. Count me in."
+  },
+  "256": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much! It's fun to collect stamps, isn't it?"
+  },
+  "257": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Next is the tofu store!"
+  },
+  "258": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "...I'll tell all our regulars about this fun thing you're planning.\nYou do your best too, okay Mr. Boyfriend?"
+  },
+  "259": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I've been telling you, he's NOT my boyfriend! Argh!"
+  },
+  "260": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...A-Anyway, let's ask Memi-chan from the takoyaki place!"
+  },
+  "261": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "...Of course I'm locked in, why would I ever say no to Shiro-san?\nPlease allow me to fight by your side! Over!"
+  },
+  "262": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yaaay! Thank you, Memi-chan!"
+  },
+  "263": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Next... Let's try going to Surugaya!"
+  },
+  "264": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...And so we have to ask a bunch of shops\nand make a lot of money! It's been soooo much work!"
+  },
+  "265": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I see. Well, I'll be joining in, so that's one less place you have to ask."
+  },
+  "266": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Really?! That's so nice of you!"
+  },
+  "267": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Oh, yeah. The owner of the Famistop nearby\nloves this kinda thing. I'll ring 'em up."
+  },
+  "268": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yay! Thank you!"
+  },
+  "269": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Then we just have to give them the pamphlet!"
+  },
+  "270": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I think we've visited every place we came up with.\nAin't ya gettin' a li'l hungry, Manager?"
+  },
+  "271": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We'll have to ask around more in the afternoon,\nso we should fill our bellies first! Ya can choose the place,\nI ain't picky as long as it's got good food!"
+  },
+  "272": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "Ooh, a kitty~! Pspspspsps~♪"
+  },
+  "273": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Purrrrrrr..."
+  },
+  "274": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I want to feed the cat some sashimi. Are you selling?\""
+  },
+  "275": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "Definitely! I'll go get Dad to cut some for you!"
+  },
+  "276": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Myaaaaa!"
+  },
+  "277": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You bought some sashimi. Looking at it already makes\nyour mouth water... but it's for the cat. Hold yourself back."
+  },
+  "278": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meow! Meow!"
+  },
+  "279": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oookay... This should satisfy you.\""
+  },
+  "280": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Whoa there... you're giving this premium meat to a cat?"
+  },
+  "281": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I promised, and I won't go back on my word!\""
+  },
+  "282": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "All right then, give me a minute. I'll put it on the grill for a bit."
+  },
+  "283": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you!\""
+  },
+  "284": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You fed the cat the premium steak..."
+  },
+  "285": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "...*burp* Mrooooooow."
+  },
+  "286": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(This is the bathhouse. It shouldn't be too packed at this hour!)"
+  },
+  "287": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "She looks very satisfied. You have done well, my familiar."
+  },
+  "288": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...I'm honored.\""
+  },
+  "289": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Mrow! Myamyamya!"
+  },
+  "290": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Oh, is that so? To think you would go to such lengths, little one..."
+  },
+  "291": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hm? What now?\""
+  },
+  "292": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "She wishes to lend you her strength... as a servant who will\nfight by your side in the Wavering Elysium of the Underworld."
+  },
+  "293": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh?! What does that mean?\""
+  },
+  "294": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Fufu. You'll know in due time."
+  },
+  "295": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Now follow me, little one."
+  },
+  "296": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meow mraaa!"
+  },
+  "297": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(When I see the rain, I can't help but\nremember the night I quit my last job.)"
+  },
+  "298": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I lost my job and my place to stay\nat the same time. I felt so helpless...)"
+  },
+  "299": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "......Manager?"
+  },
+  "300": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Please don't look like that. We're here with you."
+  },
+  "301": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You know, I..."
+  },
+  "302": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I remember looking out of the windows of an empty Fuwa Fuwa\non rainy days and feeling so forlorn..."
+  },
+  "303": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But when the rain stopped... I met you."
+  },
+  "304": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And so! If you're feeling gloomy and overcast,\nI'll be with you until the skies are clear."
+  },
+  "305": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Shiro...\""
+  },
+  "306": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Oh, the laundry's done.\nBut how should we go back...?"
+  },
+  "307": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, there they are!\nShiro! Manager!"
+  },
+  "308": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It appears you have been trapped in a force field of rain.\nBut there is no need to worry anymore."
+  },
+  "309": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We brought umbrellas and plastic bags. We'll help!"
+  },
+  "310": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you, everyone! Let's go back to Fuwa Fuwa!"
+  },
+  "311": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Manager..."
+  },
+  "312": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's easy to feel sentimental on rainy days, isn't it? I'm the same."
+  },
+  "313": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Before I met you... I was having a good time at school,\nbut there was always something bothering me at the back of my mind."
+  },
+  "314": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I didn't have any friends who shared my hobbies,\nand I couldn't really get invested in anything of my own...\nI always worried if I'd be stuck like that forever."
+  },
+  "315": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But now I have a place where I feel like I belong... Fuwa Fuwa."
+  },
+  "316": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "So there's nothing more for me to worry about anymore. And..."
+  },
+  "317": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "And I want to help you feel the same way, Manager."
+  },
+  "318": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Miyu...\""
+  },
+  "319": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, the laundry's done!\nBut hm, how should we go back...?"
+  },
+  "320": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Miyu~! Manager~!"
+  },
+  "321": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It appears you have been trapped in a force field of rain.\nBut there is no need to worry anymore."
+  },
+  "322": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We brought umbrellas and plastic bags. We'll help!"
+  },
+  "323": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thanks, everyone! Let's head back to Fuwa Fuwa, then!"
+  },
+  "324": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "......"
+  },
+  "325": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "All humans are lonely. That is one of the many twisted rules\nthe False God has imposed onto this world..."
+  },
+  "326": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "To me, the pact was my only hope to destroy the cycle of negativity..."
+  },
+  "327": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...After all, you are the man of my destiny."
+  },
+  "328": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Our fate are intertwined. We are each other's blessing."
+  },
+  "329": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Even if the rain never ceases and floods the earth...\nI will forever be by your side."
+  },
+  "330": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Favna...\""
+  },
+  "331": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...It seems the purification ritual has concluded.\nHowever, we do not have an ark to cross the waters with..."
+  },
+  "332": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Favna-chan~! Manager~!"
+  },
+  "333": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, we got here just in time!"
+  },
+  "334": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We brought umbrellas and plastic bags. We'll help!"
+  },
+  "335": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "An ark was unnecessary, after all.\nLet us return to the Elysium together."
+  },
+  "336": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Manager..."
+  },
+  "337": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I didn't know ya could look so sentimental.\nYa get more 'n' more relatable by the minute, don't ya."
+  },
+  "338": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "When I was so distressed from the ghost incident\nand ended up becomin' even more stubborn than ever..."
+  },
+  "339": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ya were the one who kept offering a helping hand."
+  },
+  "340": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Your kindness is somethin' I really, truly respect...\nMore than anyone in the world."
+  },
+  "341": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Honoka...\""
+  },
+  "342": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...Oh! Looks like the laundry's done.\nI'd love to hurry on back, but..."
+  },
+  "343": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "There they are! Honoka-chan! Manager!"
+  },
+  "344": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It appears you have been trapped in a force field of rain.\nBut there is no need to worry anymore."
+  },
+  "345": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Here, we brought umbrellas, and plastic bags too! We'll help!"
+  },
+  "346": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Thank ya kindly, everyone. Then let's go back to Fuwa Fuwa!"
+  },
+  "347": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hi, Nana-chan. Is your dad busy too today?"
+  },
+  "348": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Yeah. He's gonna open a corn stand at the festival!"
+  },
+  "349": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Corn fried with butter and soy sauce...! That's irresistible!"
+  },
+  "350": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Nana thinks we should also throw in something un-predict-able too."
+  },
+  "351": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Do you have any ideas, Onii-chan?"
+  },
+  "352": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Barbecue sauce:option15;Shichimi mayo:option16"
+  },
+  "353": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Ooh, I love barbecue!\nI'll ask Dad to make that!"
+  },
+  "354": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "They could have some ready in little packets!\nI'd love to try a different flavor, too!"
+  },
+  "355": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I've always wanted to try out the yakiniku place.\nI bet Shiro would be really happy if I treated her to yakiniku.)"
+  },
+  "356": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Once I'm full, I won't be able to eat anywhere else...\nbut yakiniku sounds really tempting right now.)"
+  },
+  "357": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Royal Premium Yakiniku Course: Matsu costs 10,000 yen for 2 people.\n...Are you really prepared to pay for this?"
+  },
+  "358": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Pay 10,000 yen:option17;Reconsider:option18"
+  },
+  "359": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(There's other things I would rather buy right now.)"
+  },
+  "360": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'd love to treat her to yakiniku,\nbut I don't have enough money...)"
+  },
+  "361": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(My resolve is firm. Let's go in!!)"
+  },
+  "362": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hello, Ichijou-san!"
+  },
+  "363": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Oh, hey there Shiro-chan!\nI heard that Fuwa Fuwa's open again! Congrats!"
+  },
+  "364": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you very much! This is our new manager."
+  },
+  "365": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Good luck, li'l guy! And whenever you get tuckered out,\nstop by to eat some of our cutlets! They'll recharge you right away!"
+  },
+  "366": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you!\""
+  },
+  "367": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Hey there, Miyu-chan!\nThanks for the omurice the other day!"
+  },
+  "368": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I'll treat you to a frankfurter at the festival."
+  },
+  "369": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thank you! I can't wait~♪"
+  },
+  "370": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I'm thinking of adding something different to the menu.\nDo you have any good ideas?"
+  },
+  "371": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Corndogs:option19;Cheese-filled sausages:option20"
+  },
+  "372": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Great idea! Kids would love that!"
+  },
+  "373": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Nice idea! They sure are satisfying to eat!"
+  },
+  "374": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I've always wanted to try out the yakiniku place.\nI bet Miyu would be really happy if I treated her to yakiniku.)"
+  },
+  "375": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Once I'm full, I won't be able to eat anywhere else...\nbut yakiniku sounds really tempting right now.)"
+  },
+  "376": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Royal Premium Yakiniku Course: Matsu costs 10,000 yen for 2 people.\n...Are you really prepared to pay for this?"
+  },
+  "377": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Pay 10,000 yen:option21;Reconsider:option22"
+  },
+  "378": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(There's other things I would rather buy right now.)"
+  },
+  "379": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'd love to treat her to yakiniku,\nbut I don't have enough money...)"
+  },
+  "380": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(My resolve is firm. Let's go in!!)"
+  },
+  "381": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Hey there, Miyu-chan!\nThanks for the omurice the other day!"
+  },
+  "382": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I'll treat you to a frankfurter at the festival."
+  },
+  "383": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thank you! I can't wait~♪"
+  },
+  "384": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I'm thinking of adding something different to the menu.\nDo you have any good ideas?"
+  },
+  "385": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Corndogs:option23;Cheese-filled sausages:option24"
+  },
+  "386": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Great idea! Kids would love that!"
+  },
+  "387": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Nice idea! They sure are satisfying to eat!"
+  },
+  "388": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I've always wanted to try out the yakiniku place.\nI bet Favna would be really happy if I treated her to yakiniku.)"
+  },
+  "389": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Once I'm full, I won't be able to eat anywhere else...\nbut yakiniku sounds really tempting right now.)"
+  },
+  "390": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Royal Premium Yakiniku Course: Matsu costs 10,000 yen for 2 people.\n...Are you really prepared to pay for this?"
+  },
+  "391": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Pay 10,000 yen:option25;Reconsider:option26"
+  },
+  "392": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(There's other things I would rather buy right now.)"
+  },
+  "393": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'd love to treat her to yakiniku,\nbut I don't have enough money...)"
+  },
+  "394": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(My resolve is firm. Let's go in!!)"
+  },
+  "395": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Hello there, Tanaka-san.\nYa must be busy preparin' for the summer festival."
+  },
+  "396": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Sure am! We're running a grilled squid stand again this year."
+  },
+  "397": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "But we're gonna get a bunch of leftover tentacles again..."
+  },
+  "398": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Deep fry them!:option27;Sell them for cheap in packs!:option29"
+  },
+  "399": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Ooh, that would go well with beer too! I'll give it a shot!"
+  },
+  "400": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I want some too! They can be deep fried, stir fried, simmered...\nThere's just so much ya can do with 'em!"
+  },
+  "401": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Manager, what do ya want for lunch?\nThere's this place I've been wantin' to try."
+  },
+  "402": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Once I'm full, I won't be able to eat anywhere else.\nIt's not every day I get to go on a date, so I should choose carefully.)"
+  },
+  "403": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Sure, let's go there.:option29;I'll think about it.:option30"
+  },
+  "404": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Daddy's a regular here, so I've always been curious!"
+  },
+  "405": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Okay, take your time."
+  },
+  "406": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I've always wanted to try out the yakiniku place.\nI bet Honoka would be really happy if I treated her to yakiniku.)"
+  },
+  "407": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Once I'm full, I won't be able to eat anywhere else...\nbut yakiniku sounds really tempting right now.)"
+  },
+  "408": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Royal Premium Yakiniku Course: Matsu costs 10,000 yen for 2 people.\n...Are you really prepared to pay for this?"
+  },
+  "409": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Pay 10,000 yen:option31;Reconsider:option32"
+  },
+  "410": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(There's other things I would rather buy right now.)"
+  },
+  "411": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'd love to treat her to yakiniku,\nbut I don't have enough money...)"
+  },
+  "412": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(My resolve is firm. Let's go in!!)"
+  },
+  "413": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "It went into that store! Let's follow!"
+  },
+  "414": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "There you are! Sorry if we're interrupting your meal,\nbut please give me my doll back!"
+  },
+  "415": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meow! Myameooooow!"
+  },
+  "416": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait!\""
+  },
+  "417": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "It ran into the store next door."
+  },
+  "418": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I have a bad feeling about this...\nbut I have no choice but to follow it.)"
+  }
+}

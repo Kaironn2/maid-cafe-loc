@@ -1,0 +1,65 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1002_Mari_Suit1_Idle",
+    "Type": "Suit1",
+    "Atlas": "1002_Mari_Suit1",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1002_Mari_Suit1_Walk",
+    "Type": "Suit1",
+    "Atlas": "1002_Mari_Suit1",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1002_Mari_Suit1_SideSitIdle",
+    "Type": "Suit1",
+    "Atlas": "1002_Mari_Suit1",
+    "Frame": "10_13"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "1002_Mari_Suit1_SideSitEat",
+    "Type": "Suit1",
+    "Atlas": "1002_Mari_Suit1",
+    "Frame": "14_26"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "1002_Mari_Suit1_SideSitOrder",
+    "Type": "Suit1",
+    "Atlas": "1002_Mari_Suit1",
+    "Frame": "27_27"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "1002_Mari_Suit1_SideSitDrink",
+    "Type": "Suit1",
+    "Atlas": "1002_Mari_Suit1",
+    "Frame": "28_35"
+  },
+  "7": {
+    "Id": 7,
+    "Name": "1002_Mari_Maid1_Idle",
+    "Type": "Maid1",
+    "Atlas": "1002_Mari_Maid1",
+    "Frame": "0_3"
+  },
+  "8": {
+    "Id": 8,
+    "Name": "1002_Mari_Maid1_Walk",
+    "Type": "Maid1",
+    "Atlas": "1002_Mari_Maid1",
+    "Frame": "4_9"
+  },
+  "9": {
+    "Id": 9,
+    "Name": "1003_Mari_Maid1_Welcome",
+    "Type": "Maid1",
+    "Atlas": "1002_Mari_Maid1",
+    "Frame": "10_19"
+  }
+}

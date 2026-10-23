@@ -1,0 +1,302 @@
+{
+  "1": {
+    "id": 1,
+    "ItemId": 252,
+    "CardPack": 1,
+    "PrizeKey": "R"
+  },
+  "2": {
+    "id": 2,
+    "ItemId": 253,
+    "CardPack": 1,
+    "PrizeKey": "R"
+  },
+  "3": {
+    "id": 3,
+    "ItemId": 254,
+    "CardPack": 1,
+    "PrizeKey": "R"
+  },
+  "4": {
+    "id": 4,
+    "ItemId": 255,
+    "CardPack": 1,
+    "PrizeKey": "R"
+  },
+  "5": {
+    "id": 5,
+    "ItemId": 256,
+    "CardPack": 1,
+    "PrizeKey": "R"
+  },
+  "6": {
+    "id": 6,
+    "ItemId": 257,
+    "CardPack": 1,
+    "PrizeKey": "SR"
+  },
+  "7": {
+    "id": 7,
+    "ItemId": 258,
+    "CardPack": 1,
+    "PrizeKey": "SR"
+  },
+  "8": {
+    "id": 8,
+    "ItemId": 259,
+    "CardPack": 1,
+    "PrizeKey": "SR"
+  },
+  "9": {
+    "id": 9,
+    "ItemId": 260,
+    "CardPack": 1,
+    "PrizeKey": "SSR"
+  },
+  "10": {
+    "id": 10,
+    "ItemId": 261,
+    "CardPack": 1,
+    "PrizeKey": "SSR"
+  },
+  "11": {
+    "id": 11,
+    "ItemId": 262,
+    "CardPack": 2,
+    "PrizeKey": "R"
+  },
+  "12": {
+    "id": 12,
+    "ItemId": 263,
+    "CardPack": 2,
+    "PrizeKey": "R"
+  },
+  "13": {
+    "id": 13,
+    "ItemId": 264,
+    "CardPack": 2,
+    "PrizeKey": "R"
+  },
+  "14": {
+    "id": 14,
+    "ItemId": 265,
+    "CardPack": 2,
+    "PrizeKey": "R"
+  },
+  "15": {
+    "id": 15,
+    "ItemId": 266,
+    "CardPack": 2,
+    "PrizeKey": "R"
+  },
+  "16": {
+    "id": 16,
+    "ItemId": 267,
+    "CardPack": 2,
+    "PrizeKey": "SR"
+  },
+  "17": {
+    "id": 17,
+    "ItemId": 268,
+    "CardPack": 2,
+    "PrizeKey": "SR"
+  },
+  "18": {
+    "id": 18,
+    "ItemId": 269,
+    "CardPack": 2,
+    "PrizeKey": "SR"
+  },
+  "19": {
+    "id": 19,
+    "ItemId": 270,
+    "CardPack": 2,
+    "PrizeKey": "SSR"
+  },
+  "20": {
+    "id": 20,
+    "ItemId": 271,
+    "CardPack": 2,
+    "PrizeKey": "SSR"
+  },
+  "21": {
+    "id": 21,
+    "ItemId": 228,
+    "CardPack": 3,
+    "PrizeKey": "R"
+  },
+  "22": {
+    "id": 22,
+    "ItemId": 229,
+    "CardPack": 3,
+    "PrizeKey": "R"
+  },
+  "23": {
+    "id": 23,
+    "ItemId": 230,
+    "CardPack": 3,
+    "PrizeKey": "R"
+  },
+  "24": {
+    "id": 24,
+    "ItemId": 231,
+    "CardPack": 3,
+    "PrizeKey": "R"
+  },
+  "25": {
+    "id": 25,
+    "ItemId": 232,
+    "CardPack": 3,
+    "PrizeKey": "R"
+  },
+  "26": {
+    "id": 26,
+    "ItemId": 233,
+    "CardPack": 3,
+    "PrizeKey": "SR"
+  },
+  "27": {
+    "id": 27,
+    "ItemId": 234,
+    "CardPack": 3,
+    "PrizeKey": "SR"
+  },
+  "28": {
+    "id": 28,
+    "ItemId": 235,
+    "CardPack": 3,
+    "PrizeKey": "SR"
+  },
+  "29": {
+    "id": 29,
+    "ItemId": 236,
+    "CardPack": 3,
+    "PrizeKey": "SSR"
+  },
+  "30": {
+    "id": 30,
+    "ItemId": 237,
+    "CardPack": 3,
+    "PrizeKey": "SSR"
+  },
+  "31": {
+    "id": 31,
+    "ItemId": 382,
+    "CardPack": 4,
+    "PrizeKey": "SR"
+  },
+  "32": {
+    "id": 32,
+    "ItemId": 383,
+    "CardPack": 4,
+    "PrizeKey": "R"
+  },
+  "33": {
+    "id": 33,
+    "ItemId": 384,
+    "CardPack": 4,
+    "PrizeKey": "R"
+  },
+  "34": {
+    "id": 34,
+    "ItemId": 385,
+    "CardPack": 4,
+    "PrizeKey": "R"
+  },
+  "35": {
+    "id": 35,
+    "ItemId": 386,
+    "CardPack": 4,
+    "PrizeKey": "R"
+  },
+  "36": {
+    "id": 36,
+    "ItemId": 387,
+    "CardPack": 4,
+    "PrizeKey": "SR"
+  },
+  "37": {
+    "id": 37,
+    "ItemId": 388,
+    "CardPack": 4,
+    "PrizeKey": "R"
+  },
+  "38": {
+    "id": 38,
+    "ItemId": 389,
+    "CardPack": 4,
+    "PrizeKey": "SSR"
+  },
+  "39": {
+    "id": 39,
+    "ItemId": 390,
+    "CardPack": 4,
+    "PrizeKey": "R"
+  },
+  "40": {
+    "id": 40,
+    "ItemId": 391,
+    "CardPack": 4,
+    "PrizeKey": "R"
+  },
+  "41": {
+    "id": 41,
+    "ItemId": 392,
+    "CardPack": 5,
+    "PrizeKey": "SSR"
+  },
+  "42": {
+    "id": 42,
+    "ItemId": 393,
+    "CardPack": 5,
+    "PrizeKey": "R"
+  },
+  "43": {
+    "id": 43,
+    "ItemId": 394,
+    "CardPack": 5,
+    "PrizeKey": "SR"
+  },
+  "44": {
+    "id": 44,
+    "ItemId": 395,
+    "CardPack": 5,
+    "PrizeKey": "R"
+  },
+  "45": {
+    "id": 45,
+    "ItemId": 396,
+    "CardPack": 5,
+    "PrizeKey": "R"
+  },
+  "46": {
+    "id": 46,
+    "ItemId": 397,
+    "CardPack": 5,
+    "PrizeKey": "R"
+  },
+  "47": {
+    "id": 47,
+    "ItemId": 398,
+    "CardPack": 5,
+    "PrizeKey": "R"
+  },
+  "48": {
+    "id": 48,
+    "ItemId": 399,
+    "CardPack": 5,
+    "PrizeKey": "R"
+  },
+  "49": {
+    "id": 49,
+    "ItemId": 400,
+    "CardPack": 5,
+    "PrizeKey": "SR"
+  },
+  "50": {
+    "id": 50,
+    "ItemId": 401,
+    "CardPack": 5,
+    "PrizeKey": "R"
+  }
+}

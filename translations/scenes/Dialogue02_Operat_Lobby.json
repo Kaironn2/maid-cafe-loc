@@ -1,0 +1,6802 @@
+{
+  "0": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "After hours, you see Shiro grinning at the tables as she cleans them."
+  },
+  "1": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Seeing all the dirty tables and cutlery we have to clean makes me a little happy."
+  },
+  "2": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...It's a reminder that we're actually getting new customers again."
+  },
+  "3": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I can finally say goodbye to the times when I had nothing to do \nbut sweep dust off the furniture..."
+  },
+  "4": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We'll probably start getting a lot more customers...\nAt this rate, I'm not sure if just Miyu and I will be enough..."
+  },
+  "5": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...But that's not something we have to worry about just yet!"
+  },
+  "6": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, Manager! What's that in your pocket?!"
+  },
+  "7": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-Is that...\nA free trial ticket from Miracle Maid Cafe?!"
+  },
+  "8": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You tell her how you received the ticket from a maid on the main street\nbefore you eventually found Fuwa Fuwa."
+  },
+  "9": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, this ticket is super rare!"
+  },
+  "10": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This cafe is so popular, there's always a long line of customers\nwaiting outside for a chance to meet their favorite maids."
+  },
+  "11": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...I think this is a great opportunity for us."
+  },
+  "12": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Let's go to Miracle Maid Cafe right now,\nand learn how to run a successful maid cafe like them!"
+  },
+  "13": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Right now?:option6;That's a great idea.:option7"
+  },
+  "14": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, right now.\nIf we don't go now, it'll be hard to get a seat at all...!"
+  },
+  "15": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's decided then! Let's go!"
+  },
+  "16": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, right...!"
+  },
+  "17": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...I should finish cleaning and change out of my uniform first."
+  },
+  "18": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Welcome back, Master, sorry to make you wait!"
+  },
+  "19": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh wait, give me a second."
+  },
+  "20": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Shiro quickly dashes into the locker room."
+  },
+  "21": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, huh. She's a totally different person offline."
+  },
+  "22": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Do you play with Shiro a lot?:option8;What's she like online?:option9"
+  },
+  "23": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We're the strongest duo the game has ever seen!"
+  },
+  "24": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "She's a real go-getter online."
+  },
+  "25": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "She gets real angry when she loses, too! Kinda scary, even."
+  },
+  "26": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Can't picture it, huh? I getcha~"
+  },
+  "27": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh right, and did you know that Shiro—"
+  },
+  "28": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(They haven't met in real life until today, but it seems like they're already really good friends.)"
+  },
+  "29": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm back! What were you talking about?"
+  },
+  "30": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Nothing! Is that your maid uniform?"
+  },
+  "31": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That's sooo adorable~!"
+  },
+  "32": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hehe~"
+  },
+  "33": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Welcome back, Master, my Lady."
+  },
+  "34": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, wow! Gosh, you look SUPER cute!"
+  },
+  "35": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Do you want to try on the uniform too, Miyu?"
+  },
+  "36": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You'd look really good in it! I'm sure of it!"
+  },
+  "37": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Can I?"
+  },
+  "38": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Of course! Come on, I'll show you to the locker room!"
+  },
+  "39": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The two girls practically skip towards the locker room, chatting away happily."
+  },
+  "40": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "...Leaving you all alone."
+  },
+  "41": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(No choice but to wait, I guess...)"
+  },
+  "42": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "~15 minutes later~"
+  },
+  "43": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager! What do you think?!"
+  },
+  "44": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miyu has changed into a maid outfit too."
+  },
+  "45": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Heyyy, you don't have to stare at me like that~!"
+  },
+  "46": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "S-Sorry...:option10;It really suits you.:option10"
+  },
+  "47": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It really does suit you, Miyu!"
+  },
+  "48": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Stoooop, I'm starting to get embarrassed..."
+  },
+  "49": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Won't you consider becoming a maid?:option11;But you like it, don't you?:option11"
+  },
+  "50": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "*stares expectantly*"
+  },
+  "51": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Okay, okay, fine. I'll give it a shot."
+  },
+  "52": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Just don't expect too much from me."
+  },
+  "53": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We did it, Manager! We recruited a new maid!"
+  },
+  "54": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You and Shiro cheer happily."
+  },
+  "55": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Tomorrow's the day Fuwa Fuwa will finally reopen!"
+  },
+  "56": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, tomorrow? That soon?"
+  },
+  "57": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Of course! I've been waiting for this day for so long!"
+  },
+  "58": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Well then, Miyu and I will go out to buy what we need,\nso you should rest up and get ready for tomorrow, Manager!"
+  },
+  "59": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Is there anything I can help with?:option12;Should I go with you?:option12"
+  },
+  "60": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Nope! There are secrets I want to tell Miyu."
+  },
+  "61": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Uh huh! No managers allowed! ☆"
+  },
+  "62": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Shiro and Miyu leave the cafe together."
+  },
+  "63": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I should go back to the apartment.)"
+  },
+  "64": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Nice work today, Shiro! And the manager too~!"
+  },
+  "65": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Y'know, work got me thinking...\nand I think that got me piecing a bunch of stuff out."
+  },
+  "66": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's all thanks to the research I did yesterday."
+  },
+  "67": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wait, yesterday? What do you mean?"
+  },
+  "68": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wasn't yesterday a day off...?\nWhat did you do yesterday?"
+  },
+  "69": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You tell Shiro what happened the day before."
+  },
+  "70": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You two went out together?! Just the two of you?!"
+  },
+  "71": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...No way! No fair!!"
+  },
+  "72": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Why didn't you invite me too?!"
+  },
+  "73": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Sorry, sorry."
+  },
+  "74": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You've been working oh-so hard all the time, so I figured that you oughta get some proper rest on your day off."
+  },
+  "75": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Sniffle...\nI appreciate the thought, but..."
+  },
+  "76": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But I want to do something for the cafe too!"
+  },
+  "77": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, right! How's this? Let's go to the shrine right now\nand pray for the success of the cafe together!"
+  },
+  "78": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, right now?!"
+  },
+  "79": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Don't worry, the shrine is right next door!"
+  },
+  "80": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Come on, let's go!"
+  },
+  "81": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, Shiro, at least change out of your uniform first..."
+  },
+  "82": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But hey, that sounds kinda fun.\nLet's go, too, Manager! ♪"
+  },
+  "83": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Alrighty! I'll make so much food today too~!"
+  },
+  "84": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(We've started to get used to this job, but we're getting \nmore customers faster than we can handle them...)"
+  },
+  "85": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, Miyu... G-Good morning..."
+  },
+  "86": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, Shiro. Good morning...?"
+  },
+  "87": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "*BAM!*"
+  },
+  "88": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You hear a loud noise from behind."
+  },
+  "89": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You turn around to see Shiro lying on the floor."
+  },
+  "90": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Shiro?! What happened?!"
+  },
+  "91": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Favna waltzes into the cafe as naturally as\nentering her own home and turns to look at you."
+  },
+  "92": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "\"Oh, Manager!\""
+  },
+  "93": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Shiro and Miyu see you as they get ready to go home."
+  },
+  "94": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I see...\nSo you work with such cute girls every day."
+  },
+  "95": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Favna speaks in a slightly disapproving tone as she looks at Shiro and Miyu."
+  },
+  "96": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager, who's this?"
+  },
+  "97": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "She's so mysterious and pretty!"
+  },
+  "98": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There is no need to look so worried, maidens.\nYours truly has foreseen this future ages ago."
+  },
+  "99": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I know the problem you now face: you are short-staffed.\nThe great Favna shall provide you with a solution...\nas the Maid Angel of Darkness!"
+  },
+  "100": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "With that, Favna looks at you."
+  },
+  "101": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Do you understand now, my familiar?\nThis is your true destiny with the great Favna."
+  },
+  "102": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Phew... I'm exhausted..."
+  },
+  "103": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Shiro, Manager! Nice work today!\nIt was such a busy day today, too."
+  },
+  "104": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We've slowly been getting more customers lately, haven't we?\nEhehe, I'm so happy!"
+  },
+  "105": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Okay, it's time to clean up! Miyu, I'll carry the dishes, so..."
+  },
+  "106": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Wah?!"
+  },
+  "107": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Shiro, watch out!)"
+  },
+  "108": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "M-Manager...?"
+  },
+  "109": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A... a... awawawawa... Th-Thank youuuu!"
+  },
+  "110": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Shiro, are you hurt...?!"
+  },
+  "111": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "N-No... Thanks to the manager, um... catching me..."
+  },
+  "112": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, but this plate was pretty expensive, too..."
+  },
+  "113": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Don't worry about it.:option13;I'm glad you're not injured.:option14;"
+  },
+  "114": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager... I'm so sorry. I'll work even harder to make up for the plate!"
+  },
+  "115": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager... You're so nice.\n...It makes me happy to hear you say that."
+  },
+  "116": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Totally! I'm SO glad you're okay!\nI'll clean that up, so could you do the dishes instead?"
+  },
+  "117": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Okay!"
+  },
+  "118": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Phew, all clean."
+  },
+  "119": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you for helping me, Miyu.\nYou could've left earlier..."
+  },
+  "120": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Nuh-uh, it's okay! There's something I wanted to do, anyway."
+  },
+  "121": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Really? Then I'll go home first."
+  },
+  "122": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "......"
+  },
+  "123": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "So, Manager, about what I said earlier."
+  },
+  "124": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...I want you to fight by my side!"
+  },
+  "125": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you for helping today, Manager!"
+  },
+  "126": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We're all done cleaning. Let's go, Shiro!"
+  },
+  "127": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(It seems like they're going out together today.)"
+  },
+  "128": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Remember that malatang place we went to last time?\nShiro said she wanted to go too!"
+  },
+  "129": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I don't really eat spicy food... but I wanted to at least try it once!"
+  },
+  "130": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Aw, there's no need to get all nervous about it.\nIf you can't finish your food, I'll eat it for you."
+  },
+  "131": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Okay then, we'll be off, Manager! Buh-bye~!"
+  },
+  "132": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(What should I do today, then?)"
+  },
+  "133": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "(Come, to the Promised Land,\nwhere the strings of fate cross... I await thee...)"
+  },
+  "134": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Oh, right... Today has to be the day\nI give that girl her pendant back.)"
+  },
+  "135": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you for helping today, Manager!"
+  },
+  "136": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We're all done cleaning. Let's go, Shiro!"
+  },
+  "137": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(It seems like they're going out together today.)"
+  },
+  "138": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Remember that malatang place we went to last time?\nShiro said she wanted to go too!"
+  },
+  "139": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I don't really eat spicy food... but I wanted to at least try it once!"
+  },
+  "140": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Aw, there's no need to get all nervous about it.\nIf you can't finish your food, I'll eat it for you."
+  },
+  "141": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Okay then, we'll be off, Manager! Buh-bye~!"
+  },
+  "142": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(What should I do today, then?)"
+  },
+  "143": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "(Come, to the Promised Land,\nwhere the strings of fate cross... I await thee...)"
+  },
+  "144": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Oh, right... Today has to be the day\nI find that girl and hear what she has to say.)"
+  },
+  "145": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thanks for the help! Today went by so smoothly!"
+  },
+  "146": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(It was a really peaceful day...\nThere's no \"catastrophe\" after all.)"
+  },
+  "147": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, wait! This tablecloth is all dirty. This one too...\nWe don't have enough spare ones to replace them with!"
+  },
+  "148": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Don't worry, we can wash them at the laundromat at the Shopping Association! \nCould you come with me, Manager?"
+  },
+  "149": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Okay.:option15;Is this the catastrophe...?:option16"
+  },
+  "150": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much! It'd be hard to go on my own."
+  },
+  "151": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager? Hehe, what are you muttering to yourself about? \nI'm going to leave you behind~!"
+  },
+  "152": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Then let's go to the laundromat! We'll leave the cleaning to you, Miyu.\nYou can go home first once you're done."
+  },
+  "153": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thankies! You're a great help!"
+  },
+  "154": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Suzuka-san was so happy! We did it!"
+  },
+  "155": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes! I hope we were able to repay Suzuka-san at least a little bit..."
+  },
+  "156": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She tried Miyu's cooking afterwards and liked that too.\nThis success is thanks to everyone from the cafe.)"
+  },
+  "157": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A while ago, I was about to give up and accept that\nFuwa Fuwa was going to shut down for good...\nIt almost feels like a dream now that everything's going so well."
+  },
+  "158": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You're getting way ahead of yourself~\nWe're just starting out!"
+  },
+  "159": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We'll get more staff, more customers,\nand make this place way more lively! ☆"
+  },
+  "160": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes... you're right. And so we have to do our best!"
+  },
+  "161": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yeah, but tomorrow's a day off,\nso I want both of you to get some proper rest.\""
+  },
+  "162": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, right, I almost forgot.\nDo you have any plans, Shiro?"
+  },
+  "163": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I, um..."
+  },
+  "164": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ahaha, okay, okay. Have fun!"
+  },
+  "165": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, are you, um... free tomorrow?"
+  },
+  "166": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Suzuka-san looked so relaxed when she drank your coffee,\nso I... I really can't thank you enough for that."
+  },
+  "167": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "So I, um! I thought I should repay you somehow...!\nCould you hang out with me tomorrow?"
+  },
+  "168": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Thank you.:option17;What about your day off?:option18"
+  },
+  "169": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wah...! No no, I'm the one who should thank you!"
+  },
+  "170": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's okay. We don't have to go out to spend time together, but..."
+  },
+  "171": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "(I can't just miss this chance...)"
+  },
+  "172": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Then let's meet up at the park tomorrow morning. I can't wait!"
+  },
+  "173": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You promise to go on a date with Shiro and go to bed..."
+  },
+  "174": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Here I am at the cafe...\nbut there's no way we can open today.)"
+  },
+  "175": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Good morning... Manager, are you there?"
+  },
+  "176": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait, Miyu? Why are you here...?!\""
+  },
+  "177": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Well, uh... I met a mysterious-looking girl,\nand she told me to come here."
+  },
+  "178": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Wait, is she talking about...)"
+  },
+  "179": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "...Everyone is here, I see."
+  },
+  "180": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Ah...\""
+  },
+  "181": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Favna waltzes into the cafe as naturally as\nentering her own home and turns to look at you."
+  },
+  "182": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Um, hey there...?"
+  },
+  "183": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Excuse me. The Angel of Darkness has descended before your very eyes,\nand yet you choose to ruin the mood just like that?"
+  },
+  "184": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"S-Sorry. What are you planning, Favna?\""
+  },
+  "185": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "If I really wanted to, I could eliminate the payment deadline for your rent,\nalong with the rest of this timeline... but that would also result in\nthe end of this world as we know it, so I would prefer not to."
+  },
+  "186": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And so, I shall solve your other problem: being short-staffed.\nKnow that my magic is as powerful as the combined power\nof 1000 servants of the Lord of the Underworld."
+  },
+  "187": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Does that mean... you're gonna help out at the cafe?!\nWow, thank you so much, you're a total savior~!"
+  },
+  "188": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I know I am, oh Chef Rouge de Magie.\nFollow my lead!"
+  },
+  "189": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "By the way... What do I do here?"
+  },
+  "190": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...Are we really going to be okay...?)"
+  },
+  "191": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Hmm... Pitch Black Spring of the Abyss. That's 500 yen.\nNow is the time to offer your payment."
+  },
+  "192": {
+    "Personagem": "malecustomer",
+    "PT": "",
+    "EN": "Thank you. Are you new here? See you again, I hope."
+  },
+  "193": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Phew, that was the last customer of the day. We pulled through somehow!"
+  },
+  "194": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(I was really worried at first, but Favna was better at customer service\nthan I expected. She's doing very well despite her inexperience.)"
+  },
+  "195": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Although her approach is a little... unique.)"
+  },
+  "196": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Favna, you've been a huge help! Thank you so much!\""
+  },
+  "197": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Noblesse oblige.\nI only did what I should have as a master."
+  },
+  "198": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "This man is destined to become my familiar, after all."
+  },
+  "199": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "A familiar? I don't really get it, but that sounds so cool!\nStraight out of a video game~!"
+  },
+  "200": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...As we promised, you shall pay the price for this service."
+  },
+  "201": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Tonight, your pendant will be fully charged with magic.\nThe fateful day of our pact draws near."
+  },
+  "202": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Until then, keep the pendant safe... No matter what it takes."
+  },
+  "203": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Okay, I got it.\""
+  },
+  "204": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She sure is a weird one... but maybe she's actually pretty nice.)"
+  },
+  "205": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Suzuka-san is coming to Fuwa Fuwa...! Oh, I can't wait...!\nBut ohhh, what should I do, what should I do...?!"
+  },
+  "206": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-I should contact Miyu first... okay, done!\nI have to clean up the place too! I can't leave even a single speck of dust!"
+  },
+  "207": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Shiro is getting really excited.\nHer enthusiasm is almost overwhelming.)"
+  },
+  "208": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Shiro, it's getting late. You should probably head home...\""
+  },
+  "209": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Mmn... But I can't let Suzuka-san see us at anything but our best condition."
+  },
+  "210": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'll just be here a liiittle bit longer...!\nYou should go upstairs and rest too, Manager."
+  },
+  "211": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Leave it to Shiro:option19;Offer to help:option20"
+  },
+  "212": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "O-Okay..."
+  },
+  "213": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'll be counting on you too, Manager.\nPlease brew the best coffee you can tomorrow!"
+  },
+  "214": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You leave the rest to Shiro and go to bed for the day..."
+  },
+  "215": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "B-But..."
+  },
+  "216": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You're not the only one who wants to make Suzuka-san happy.\""
+  },
+  "217": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Thank you, Manager.\nFor caring so much about Fuwa Fuwa..."
+  },
+  "218": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You work with Shiro to clean the cafe as thoroughly as possible,\nand then go to bed for the day..."
+  },
+  "219": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(All right... Thanks to Favna, we managed to open the cafe today!)"
+  },
+  "220": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Huff... huff... Wait, no."
+  },
+  "221": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Heh... It appears that the pathetic surface dwellers\nhave all fallen to the great Favna's powers of darkness."
+  },
+  "222": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thank you so much, Favna-chan!\nI feel like you're gonna be super popular in no time! ☆"
+  },
+  "223": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Good evening. Is anyone here? Manager? Miyu?"
+  },
+  "224": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh hey, Shiro! You look loads better, thank goodness!"
+  },
+  "225": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, I feel much better thanks to the day off!"
+  },
+  "226": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...By the way, who's this?"
+  },
+  "227": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "She's so mysterious and pretty!"
+  },
+  "228": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "My name is Favna. I am the Slayer of the False God,\nborn from the light that shines in the darkness..."
+  },
+  "229": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"She helped out so that we could open the cafe today.\""
+  },
+  "230": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I see... Thank you so much.\nYou're the savior of Fuwa Fuwa!"
+  },
+  "231": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There is no need to look so worried, maidens.\nYours truly has foreseen this future ages ago."
+  },
+  "232": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I shall solve the two problems that plague\nthe Wavering Elysium of the Underworld."
+  },
+  "233": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "First... You, the Apostle of White."
+  },
+  "234": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh, me? I'm fine now, though..."
+  },
+  "235": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There it is. You have the habit of forcing a smile on your face\nand putting on a tough front. In truth, you are still uneasy."
+  },
+  "236": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...!!"
+  },
+  "237": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is that true, Shiro...?\nIf you still don't feel well, you should tell us...\""
+  },
+  "238": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "No, that's not it! But it's just like Favna-san says...\nI think it's an emotional thing. I kind of want a pick-me-up."
+  },
+  "239": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager, could you make me a cup of nice hot coffee again?"
+  },
+  "240": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I think I'd feel much more energized with a cup of your coffee..."
+  },
+  "241": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Please do it for her, Manager!\nLittle things like these can really work wonders!"
+  },
+  "242": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Sure, no problem.\""
+  },
+  "243": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "There's something I wanna give you too, Shiro! Wait here."
+  },
+  "244": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...May I have a moment?"
+  },
+  "245": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You made Haitian coffee a while ago, did you not?"
+  },
+  "246": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh, yeah, when I served Suzuka-san...\n...Wait, how did you know that?\""
+  },
+  "247": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...I can perceive that much."
+  },
+  "248": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "We can't serve her alcohol, of course...\nso use this instead."
+  },
+  "249": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The tears of an angel of darkness... A magical potion\nthat can save wandering souls and change one's fate."
+  },
+  "250": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wow, it smells really nice. What's it made of?\""
+  },
+  "251": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That is a secret. Now, unleash your full power\nwith this noble treasure of Mystery!"
+  },
+  "252": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you, Favna. Leave the rest to me.\""
+  },
+  "253": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You use Favna's magic potion to brew a nice hot cup of coffee."
+  },
+  "254": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Wow, it's warming my body from within.\nI can feel my energy coming back...!"
+  },
+  "255": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Sorry for taking so long! Here, this is from me!"
+  },
+  "256": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-Is this... The Bleating Bavarois from the Magic Angel anime?!"
+  },
+  "257": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I wanted to cheer you up, so I tried recreating it.\nIt's just a little something! Hope you like it!"
+  },
+  "258": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Okay...!"
+  },
+  "259": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "*munch munch*... Mmm~! This is so good!\nI loooooove your cooking, Miyu!"
+  },
+  "260": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ahaha, thankies! ☆\nYou even said the line~!"
+  },
+  "261": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Shiro's bright smile has returned, and she seems\nto have fully recovered. What a relief...!"
+  },
+  "262": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, Miyu, and Favna-san, too!\nThank you so much! I think I can work again tomorrow!"
+  },
+  "263": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And thus, the soldiers of the underworld replenish their mana.\nNow, it is time to move on to the second problem."
+  },
+  "264": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The second problem... you mean how we're short-staffed?\""
+  },
+  "265": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Precisely. This problem has a very simple solution.\nI have already proved so with my immense power."
+  },
+  "266": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh! Does that mean..."
+  },
+  "267": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The guardian of the Wavering Elysium of the Underworld...\n'Tis I, Favna, the Maid Angel of Darkness!"
+  },
+  "268": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "With that, Favna strikes an elegant pose.\nShiro and Miyu smile ear to ear at the idea of Favna joining the team."
+  },
+  "269": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Do you understand now, my familiar?\nThis is Favna's true destiny."
+  },
+  "270": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yeah, that's great. Was that the ritual for our contract or whatever?\""
+  },
+  "271": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "No, you will have to wait a little longer for that.\n...Meet me again tonight, at the Promised Land."
+  },
+  "272": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Great work, everyone~! It's so much easier when there's four of us!"
+  },
+  "273": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But of course. I had already foreseen this outcome."
+  },
+  "274": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you so much, Favna. But since you're still just starting out,\ntry not to push yourself too hard before you get used to working here.\""
+  },
+  "275": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...I-I know that."
+  },
+  "276": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "......"
+  },
+  "277": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Shiro? What's the matter? You've been real quiet.\""
+  },
+  "278": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Is there something you want to say to Favna?:option21;Do you feel unwell?:option22"
+  },
+  "279": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh? N-No, I, um..."
+  },
+  "280": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You're the most experienced out of all of us, Shiro.\nIf you think there's something we can do better, please tell us.\n...You're okay with that too, right Favna?\""
+  },
+  "281": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Are you sick?!\nOh no, and you just passed out a while ago too..."
+  },
+  "282": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "N-No, no! I'm fine, don't worry! It's just..."
+  },
+  "283": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-It's not a big deal or anything, I just wanted to tell Favna-san, um..."
+  },
+  "284": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"What is it? Say it. You're okay with that too, right Favna?\""
+  },
+  "285": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Very well."
+  },
+  "286": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Th-Then, I'll say it..."
+  },
+  "287": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Favna-san, you... um..."
+  },
+  "288": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...You're soooo cool!!!"
+  },
+  "289": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Huh...?"
+  },
+  "290": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I was so taken aback! I've never seen anyone like you before in real life...\nIt was like you'd jumped right out of an anime!!"
+  },
+  "291": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And combined with the maid dress... you look so...! It's so...!\nThe contrast between your small stature and your grandeur...!"
+  },
+  "292": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A-And, and, it's so cool how you can think of such big words on a whim...\nIt's all an otaku could ever ask for! I-I mean like, personally...!"
+  },
+  "293": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Um... Thank you..."
+  },
+  "294": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ohh my goodness, what am I saying...?\nI-I'm sorry, I started rambling..."
+  },
+  "295": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "No, it's just... I didn't expect you to praise me like that."
+  },
+  "296": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I think your whole schtick is really cool too, Favna-chan!\nYou're so unique, you wouldn't lose to anyone from Miracle Maid Cafe! ☆"
+  },
+  "297": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"They're right. You should keep on being yourself, Favna.\""
+  },
+  "298": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"In my last job, everyone was forced to fit into a single mold...\nBut here, I want all of you to be true to yourselves.\""
+  },
+  "299": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Umm... Y-Yes, exactly!\nI'm looking forward to working with you, Favna-san!"
+  },
+  "300": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...My pleasure."
+  },
+  "301": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Ah, a vision. In the near future,\nthis place will become a true land of paradise...."
+  },
+  "302": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Then I shall take my leave.\nI must provide my kindred with sweet offerings."
+  },
+  "303": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Mrooow!"
+  },
+  "304": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh, right... That black cat keeps coming to my place all the time.\nCan you do something about that?\""
+  },
+  "305": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Oh? I see the little one has taken a liking to you... as a servant."
+  },
+  "306": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"A-A servant...\""
+  },
+  "307": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I guess I'll be seeing the cat around for a while.)"
+  },
+  "308": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The three of you have matters to attend to after this, do you not?\nThen I wish you a peaceful night..."
+  },
+  "309": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Byyyye, Favna-chan!"
+  },
+  "310": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "See you tomorrow!"
+  },
+  "311": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Well, that's what Favna said,\nbut do you two need me for something?\""
+  },
+  "312": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh! Right, yes, we do!"
+  },
+  "313": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Last night, I was talking to Shiro in chat,\nand we were like, if only we could make Favna's job easier!"
+  },
+  "314": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Her spells are really cool, but some older customers\nseem to have trouble understanding her..."
+  },
+  "315": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I see. We might have to do something about that.\""
+  },
+  "316": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I thought, maybe we could explain for her,\nbut we wouldn't be able to do that when it gets really busy."
+  },
+  "317": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's true. But Favna herself being the one to explain it\nwould just ruin the mysterious mood she'd created.\""
+  },
+  "318": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"If only there were something the customers themselves could do.\nSomething as easy as pulling out your phone and looking it up...\""
+  },
+  "319": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Looking it up... Ooh, I know!"
+  },
+  "320": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Y'know how we use dictionaries in English class and stuff?\nCould we make something like a \"Favna-Speak Dictionary\"?!"
+  },
+  "321": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "That's a great idea! We could put them next to the menu on the tables,\nso that the customers can read them whenever they need to!"
+  },
+  "322": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I know, right~? And if we make it a surprise,\nI bet Favna-chan would LOVE it! Let's try it out!"
+  },
+  "323": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, let's! Oh, but..."
+  },
+  "324": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "If we're going to make it a surprise,\nwe can't go to Favna-san to ask for the meanings..."
+  },
+  "325": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, yeaaah... I guess we could, like,\nask a trusty adult! Ooor something like that...?"
+  },
+  "326": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(A trusty adult? Does she mean...?)"
+  },
+  "327": {
+    "Personagem": "xiaobai&xinyou",
+    "PT": "",
+    "EN": "...... *stare*..."
+  },
+  "328": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Ough, fine. It's for Favna, I'll give it a shot.\""
+  },
+  "329": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That's our Manager! Okay, I'll say a Favna-word,\nand you'll tell us what it means!"
+  },
+  "330": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "First of all... \"The Wavering Elysium of the Underworld.\"\nWhat does this mean?"
+  },
+  "331": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miracle Maid Cafe:option23;Fuwa Fuwa Cafe:option24;The ramen store:option23"
+  },
+  "332": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yep, that's it! It's Fuwa Fuwa!"
+  },
+  "333": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I like how cute the name \"Fuwa Fuwa\" is,\nbut Favna-san's name makes it some so dignified... So cool!"
+  },
+  "334": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hmm... I think it probably refers to a shop, that's for sure..."
+  },
+  "335": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Let's ask her once we've made the Favna-Speak Dictionary."
+  },
+  "336": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Next up, \"Pitch Black Spring of the Abyss\"!\n...What's this supposed to be?"
+  },
+  "337": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Black tea:option25;Oolong tea:option25;Coffee:option26"
+  },
+  "338": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, I get it! It is \"pitch black\"!"
+  },
+  "339": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Even regular coffee sounds so cool and mature~!"
+  },
+  "340": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Mhm... I didn't expect it to be a drink. Thank you!"
+  },
+  "341": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The third name might be new to you too, Manager.\n\"The Frozen Coffin of Enchained Eternity\"...\nWhat do you think this could be?"
+  },
+  "342": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "A freezer:option27;A air conditioner:option28;A cold bath:option28"
+  },
+  "343": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, I see! By \"eternity\", she means how a freezer\ncan keep food fresh for a very long time!"
+  },
+  "344": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hmm... Maybe! It's got the frozen part down, at least!"
+  },
+  "345": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Okay, let's move on to the fourth name!\n\"The Purgatorial Army of Light that Shines in Concentrated Darkness.\"\nI think this is a drink too, but..."
+  },
+  "346": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"This one is difficult... Could darkness represent coffee?\nThen the light could be milk, maybe?\""
+  },
+  "347": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"The Purgatorial Army of Light that Shines in Concentrated Darkness.\"\nConcentrated coffee, and a lot of hot milk. The answer is..."
+  },
+  "348": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Cafe au lait:option29;Latte:option30;Coffee milk:option29"
+  },
+  "349": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That's it...! Concentrated coffee—espresso,\nand steamed milk—a lot of it! That's just like latte!"
+  },
+  "350": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "How did you figure that out? You're so smart, Manager!"
+  },
+  "351": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yep, it's gotta be coffee and milk!\nBut I keep mixing up cafe au lait and latte..."
+  },
+  "352": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Lastly... Oh, I almost forgot! When Favna-chan came in,\nshe said, \"Be consumed by the darkness!\"\n...What does THAT mean?!"
+  },
+  "353": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Goodbye:option31;Good night:option31;How are you?:option32"
+  },
+  "354": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ohhh, is that what it means?\nSo she was trying to greet Shiro!"
+  },
+  "355": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I didn't realize...! Ehehe, I'm glad!\nIt feels like Favna-san has accepted me!"
+  },
+  "356": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I see~ But is it just me, or does it sound super ominous?"
+  },
+  "357": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "That's just how it is to be edgy!\nAs long as it sounds cool enough, anything goes! ...Probably!"
+  },
+  "358": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thanks for answering our questions, Manager!"
+  },
+  "359": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Now it's our turn! We're gonna decorate the Favna-Speak Dictionary\nand make it look super sparkly and cute! ☆"
+  },
+  "360": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Yeah, I think Favna would love it!"
+  },
+  "361": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You walk Shiro to the station and go home for the day..."
+  },
+  "362": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(We finally have enough people to run the cafe,\nand so we can finally do business smoothly.)"
+  },
+  "363": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(And we're starting to get more recognition around town,\nso we're doing pretty well, right?)"
+  },
+  "364": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Favna-chan, Favna-chan!"
+  },
+  "365": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's nothing special, but... here you go!\nIt's something of a welcoming gift from us to you!"
+  },
+  "366": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "This apocalyptic scripture...\nAre you saying you have decoded my magicked words?"
+  },
+  "367": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Shiro and Miyu came up with it. They thought it would \nhelp you communicate better with the customers.\""
+  },
+  "368": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Ah... So the premonition I had was a good omen..."
+  },
+  "369": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You have my thanks, my allies in paradise."
+  },
+  "370": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Don't mention it! We're just glad you like it!"
+  },
+  "371": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I hope the definitions are accurate!\nThe manager did his best to guess them all."
+  },
+  "372": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "So that's why...! To think you could infer the truth this perfectly...\nI know this to be impossible for anyone but you!"
+  },
+  "373": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hahaha, you flatter me... I guess?\""
+  },
+  "374": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I see... Well, if you could infer this much of the truth,\nthen I suppose I could give you a passing grade."
+  },
+  "375": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thanks, I'm glad I gave it a shot.\""
+  },
+  "376": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Huh... Well, I suppose I could acknowledge the effort, if nothing else."
+  },
+  "377": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"As your loyal familiar, I'll do my best to learn more from you...\""
+  },
+  "378": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Is that so. And you didn't get a single one of them correct...\nI must educate you on the commandments of the world of darkness."
+  },
+  "379": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Ough, I'm ashamed...\""
+  },
+  "380": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I was betrayed by the False God and fell into the clutches of darkness...\nbut that is precisely why I must repay your kindness."
+  },
+  "381": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Until the day the land is completely enshrouded in darkness...!"
+  },
+  "382": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, let's all work hard together!"
+  },
+  "383": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hip, hip, hooray!"
+  },
+  "384": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um... Wasn't today a little weird?"
+  },
+  "385": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I don't get it! Why did people suddenly stop coming...?"
+  },
+  "386": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...Was my butler outfit really that off-putting...?)"
+  },
+  "387": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Of course not. There must be a reason for this."
+  },
+  "388": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Favna read my mind... But that's not important right now.\nThere has to be a reason for the sudden lack of customers.)"
+  },
+  "389": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Maybe something's happened in the streets nearby.\nI could go ask around.)"
+  },
+  "390": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "No customers today, either..."
+  },
+  "391": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We tried so hard to get people to come in, but no dice."
+  },
+  "392": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "......"
+  },
+  "393": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Don't be so hard on yourselves. We all did our best.\""
+  },
+  "394": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It's like the training arc in shounen manga.\nAs long as we give it our all and keep at it,\none day we'll succeed for sure!\""
+  },
+  "395": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager...!"
+  },
+  "396": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That's true... We did everything we could!\nI'm happy about that, at least!"
+  },
+  "397": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Fufu. To think that the day you assume the role of our guide\nhas finally dawned. I commend your determination."
+  },
+  "398": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much!\nI don't want to give up the cafe yet either...!"
+  },
+  "399": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's what I'm talking about!\""
+  },
+  "400": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Just as you all start to regain your motivation,\nyour phone rings with an incoming call."
+  },
+  "401": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "We can't lose to some evil spirit!"
+  },
+  "402": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Mr. Manager, could ya hear me out?"
+  },
+  "403": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(We can't let the evil spirit keep terrorizing the area.\nWe have to do something about it!)"
+  },
+  "404": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(We barely got any customers today either.\nI guess flyers could only do so much...)"
+  },
+  "405": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "...What's up, old man?"
+  },
+  "406": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "O-Old...?"
+  },
+  "407": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Heya! We closed early for the day so we could come by."
+  },
+  "408": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Don't go losin' to some weird rumors, ya hear me? We're rootin' for ya!"
+  },
+  "409": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Good thing the people from the Shopping Association came by today!"
+  },
+  "410": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, and while there weren't really all that many customers,\ntheir warmth and kindness more than made up for it...!"
+  },
+  "411": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A radiant beam of light has illuminated our paradise.\nYet, this is merely the prologue."
+  },
+  "412": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Exactly!\""
+  },
+  "413": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Touched by the kindness of the people of Electric Street,\nyou regained some of your motivation.\nYou feel like you can now face the ghost head-on!"
+  },
+  "414": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(We barely got any customers today either.\nI guess flyers could only do so much...)"
+  },
+  "415": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "...What's up, old man?"
+  },
+  "416": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "O-Old...?"
+  },
+  "417": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Heya! We closed early for the day so we could come by."
+  },
+  "418": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Don't go losin' to some weird rumors, ya hear me? We're rootin' for ya!"
+  },
+  "419": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "...That won't do. You need to stand up straight."
+  },
+  "420": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"ANA-san, Rin-san! Thank you so much for coming!!\""
+  },
+  "421": {
+    "Personagem": "Yui",
+    "PT": "",
+    "EN": "Remember to always hold your head up high, no matter the circumstances."
+  },
+  "422": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Good thing the people from the Shopping Association came by today!"
+  },
+  "423": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, and while there weren't really all that many customers,\ntheir warmth and kindness more than made up for it...!"
+  },
+  "424": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A radiant beam of light has illuminated our paradise.\nYet, this is merely the prologue."
+  },
+  "425": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Exactly!\""
+  },
+  "426": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Touched by the kindness of the people of Electric Street,\nyou regained some of your motivation.\nYou feel like you can now face the ghost head-on!"
+  },
+  "427": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I wanted to thank y'all for last night."
+  },
+  "428": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Might I treat y'all to some of your house blend while we chat?"
+  },
+  "429": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Between sips of coffee, you tell the others about\nthe conversation you had with the ghost..."
+  },
+  "430": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Who'd have thunk the ghost would end up being a girl around our age?"
+  },
+  "431": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "In order to properly appease her, we must find out\nwhat is keeping her in the mortal world."
+  },
+  "432": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"But yesterday she pushed us away without telling us anything...\""
+  },
+  "433": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Maybe that's because we don't know anything about her."
+  },
+  "434": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"That's true. We went and said that we wanted to be friends,\nbut we didn't even try to get to know her... That might've upset her even more.\""
+  },
+  "435": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Empty words will only ring hollow...\nEven dealing with the devil requires compromise."
+  },
+  "436": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "If we learn more about her, maybe we'll figure out\nwhat's keeping her from moving on!"
+  },
+  "437": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I agree. But the question is, where do we even start?"
+  },
+  "438": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "One thing we know for sure is that she is confined to this area."
+  },
+  "439": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Which means she must be connected to this place somehow."
+  },
+  "440": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Then maybe we should ask someone who knows a lot about the area?"
+  },
+  "441": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh, who would that be...?\""
+  },
+  "442": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Let's go!"
+  },
+  "443": {
+    "Personagem": "Yousuke",
+    "PT": "",
+    "EN": "Hey there~"
+  },
+  "444": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Why is everyone here? Did something happen?\""
+  },
+  "445": {
+    "Personagem": "Izumi",
+    "PT": "",
+    "EN": "We're returning the favor, obviously!"
+  },
+  "446": {
+    "Personagem": "Midori",
+    "PT": "",
+    "EN": "We wanted to thank you for your patronage by visiting your shop ourselves!\nThink of us as your regulars and serve up your best, okay~? ♪"
+  },
+  "447": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yes, of course! Thank you so much!\""
+  },
+  "448": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You opened the cafe just for your neighbors,\nserving them food and coffee..."
+  },
+  "449": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Honoka-san...?!\nOh no, please go help her!"
+  },
+  "450": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "But what about the cafe...?"
+  },
+  "451": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Who do you think we are? Even without you providing us with mana,\nguarding the Elysium for a single day is child's play."
+  },
+  "452": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeah, duh! Just leave the cafe to us!"
+  },
+  "453": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's all up to you and Honoka-chan to solve the ghost incident.\nWe're counting on you, Manager, so please go!"
+  },
+  "454": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We're ready to open!\nNow we just need to wait for our ghost friend!"
+  },
+  "455": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I wonder what she'll eat? CAN she eat?"
+  },
+  "456": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Do not worry too much. She would most likely\nwish to be treated the same as a member of the living."
+  },
+  "457": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "...Hello."
+  },
+  "458": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Welcome home, Honoka-san... wait, or are you Miyako-san?"
+  },
+  "459": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "Hehehe... What do you think?"
+  },
+  "460": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Honoka?:option33;Miyako?:option34"
+  },
+  "461": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "Too bad! It's me, Miyako!"
+  },
+  "462": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You look so giddy in that shrine maiden outfit...\nwhich means Honoka is already channeling you, right?\""
+  },
+  "463": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "Wow, you got me!"
+  },
+  "464": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She's so excited, it's almost hard to believe she's a ghost...\nBut I'm glad she seems to be enjoying herself.)"
+  },
+  "465": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "Now, it's time! Dress me up!\nLet me wear that frilly flowy dress!!"
+  },
+  "466": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "One maid, coming right up!"
+  },
+  "467": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "S-So this is... a maid dress...\nThe outfit I've been dying to wear even after I actually died...!"
+  },
+  "468": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "(Ough... My cheeks feel like they're gonna light on fire...)"
+  },
+  "469": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Relax, Honoka-chan! You look amazing! ☆"
+  },
+  "470": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "Don't be like that, you're ruining the good mood!\nCome on, have a bit more confidence in yourself!"
+  },
+  "471": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "(I can't believe I'm bein' scolded by a ghost... Thanks, though.)"
+  },
+  "472": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Oh wandering spirit. How do you feel?\nDo you hear the servants of the afterlife beckoning you...?"
+  },
+  "473": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "What, you want me to go ahead and move on already? Nuh-uh~!"
+  },
+  "474": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh?\""
+  },
+  "475": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "I want to really try being a waitress!\nI can't pass up this opportunity of an afterlifetime!"
+  },
+  "476": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "(Are you gonna serve customers in MY body?!)"
+  },
+  "477": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We don't mind. Why not let her experience being a maid for a day?"
+  },
+  "478": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "I'm glad you understand."
+  },
+  "479": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "All right then girls, it's time to open shop!"
+  },
+  "480": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Great work today, everyone."
+  },
+  "481": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You too, Miyako-san!"
+  },
+  "482": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "I-I'm... I'm..."
+  },
+  "483": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "...SOOOOO tired~!!!"
+  },
+  "484": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "I thought that it would be a breeze—\nthat I just had to put on a cute dress and a sweet smile... \nTurns out the actual work was harder than I expected."
+  },
+  "485": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "But this... This must be what it means to be alive."
+  },
+  "486": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "Alive... I'm alive!"
+  },
+  "487": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Miyako-san, while you're here,\nwould you like to experience another joy of the living?\""
+  },
+  "488": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "Like what...?"
+  },
+  "489": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"To the humble worker, there's nothing more special\nthan having your favorite drink at the end of the work day.\""
+  },
+  "490": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "That sounds a little forlorn coming from you..."
+  },
+  "491": {
+    "Personagem": "4_Honoka_Maid1_Ghost",
+    "PT": "",
+    "EN": "...But that sounds lovely. I would like to try it."
+  },
+  "492": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miyako sets down her cup,\nand a magical light suddenly surrounds her."
+  },
+  "493": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It appears the gates of heaven have opened for you."
+  },
+  "494": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Yes."
+  },
+  "495": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "This was so much fun, I'll never forget today...\nNot even after I move on to the next life!"
+  },
+  "496": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Thank you so much, manager, Shiro-san, Miyu-san, Favna-san..."
+  },
+  "497": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "And... Honoka-san.\nI ended up causing so much trouble for you."
+  },
+  "498": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "It's fine. All in all, it was kinda fun."
+  },
+  "499": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We won't forget you either!"
+  },
+  "500": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Let us meet again in another life..."
+  },
+  "501": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Come visit us any time!"
+  },
+  "502": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Thank you, everyone."
+  },
+  "503": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Goodbye... Until we meet again!"
+  },
+  "504": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...She's gone."
+  },
+  "505": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Now that she's gone, it feels like it went by so quickly...\nBut I'm just glad she's happy now."
+  },
+  "506": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "It's all thanks to y'all. I can't thank ya enough...!"
+  },
+  "507": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Don't mention it. With this, I've repaid your favor.\""
+  },
+  "508": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm glad I could become friends with Honoka-san and Miyako-san!"
+  },
+  "509": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Let's have a toast with the manager's coffee, then!"
+  },
+  "510": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Good idea. Let us have a grand banquet of triumph!"
+  },
+  "511": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "And so the ghost that set the town abuzz successfully moved on,\nand peace was restored to Electric Street..."
+  },
+  "512": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much. Have a safe trip, Master!"
+  },
+  "513": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Customers have returned to Fuwa Fuwa, and business is going smoothly.\nIt's almost like the eerie silence until yesterday was all a dream!)"
+  },
+  "514": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager... We did it! We did it!"
+  },
+  "515": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm... I'm so glad we didn't give up... Sniff... sniff sniff..."
+  },
+  "516": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Me too. Shiro, Miyu, Favna... Thank you all so much.\""
+  },
+  "517": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Mhm! I'm super stoked to get to cook for a bunch of customers again! ☆"
+  },
+  "518": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You have done a good job, my familiar."
+  },
+  "519": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Good evenin'! I see Fuwa Fuwa's gettin' more business too."
+  },
+  "520": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I heard our neighbors have been spreadin' rumors\nthat the shrine is safe to visit now."
+  },
+  "521": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "It's all thanks to y'all that our shrine hasn't been forgotten."
+  },
+  "522": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(We should thank everyone else for helping out, too.)"
+  },
+  "523": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Would ya kindly visit Ishida Shrine tonight?"
+  },
+  "524": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oooh, sure! Let's all go together!"
+  },
+  "525": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ahaha, were ya still sleepin'? I'm sorry if I woke you up."
+  },
+  "526": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I, um... I was thinkin' what to do with ya,\nbut then I came up with so many ideas..."
+  },
+  "527": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "If ya don't have anythin' particular in mind,\nwould ya mind taggin' along?"
+  },
+  "528": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Sure! I'll leave it to you, then.:option35;Oh well, why not.:option36"
+  },
+  "529": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Yay! It's our precious day off, so we're gonna be quick on our feet!"
+  },
+  "530": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Aw, don't look so upset. Or are ya bein' shy?"
+  },
+  "531": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "First of all, a movie! I don't have a specific movie in mind,\nbut it's been ages since I last went to the theater."
+  },
+  "532": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "So... how did it go?"
+  },
+  "533": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The chairman is on his way here.\""
+  },
+  "534": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh?! On his way? He's coming today?! NOW?!"
+  },
+  "535": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "O-Okay! Then you should get ready for the meeting!\nI'll clean the cafe and prepare drinks!"
+  },
+  "536": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Thank goodness Shiro's here...\nAll right, time to get my documents ready!)"
+  },
+  "537": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Excuse me, I'm Noyama from the Shopping Association."
+  },
+  "538": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Th-Thank you for taking time out of your busy day to visit us!\""
+  },
+  "539": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "No, no, thank you. However..."
+  },
+  "540": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Since you're a maid cafe, I was expecting a... different greeting.\nI was actually looking forward to it a little, haha."
+  },
+  "541": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Oh!! Right, I'm so sorry! Let me take it from the top..."
+  },
+  "542": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Welcome home, Master!"
+  },
+  "543": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Yes, that's it! I've always wanted to hear that in real life."
+  },
+  "544": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "You've grown so much, Shiro-chan.\nThe last time I saw you was...\nthe Shichi-Go-San ceremony, I believe?"
+  },
+  "545": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh?! H-Have I met you before, Mr. Chairman...?!"
+  },
+  "546": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Of course. All of the people who do business here are like family to me."
+  },
+  "547": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "And I know that Hoshimi-san's granddaughter, Kousaka-san's daughter,\nand Honoka-chan from the shrine next door are all working here."
+  },
+  "548": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Wow... he really knows everything about Fuwa Fuwa.)"
+  },
+  "549": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(If I don't present myself as a proper person,\nit would affect the image of the cafe as a whole.)"
+  },
+  "550": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "You were very cute in your tiny kimono during the ceremony,\nbut now you look very nice in that maid dress."
+  },
+  "551": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ehehe, thank you so much!"
+  },
+  "552": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Master, please follow me to your seat!"
+  },
+  "553": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Would you like to have a drink? Please choose anything you'd like."
+  },
+  "554": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Oh, thank you. I have a bit of a sweet tooth, you know."
+  },
+  "555": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Could I have a warm cup of caramel latte?"
+  },
+  "556": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Right away!"
+  },
+  "557": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you for waiting!\nHere is your caramel latte, made to order."
+  },
+  "558": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Please enjoy your delicious meal!\nFilled with warmth! Fuwa fuwa kyun! ☆"
+  },
+  "559": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Hahaha! If it's filled with warmth,\nit must be easy on my stomach. Thank you!"
+  },
+  "560": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Well then. I've heard the gist of it. You want to hold\na joint campaign with the other stores in the area, correct?"
+  },
+  "561": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yes! Let me explain...\""
+  },
+  "562": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "...I see. A stamp rally to direct customers to the other stores\nwhile also raising the visibility of this store at the same time."
+  },
+  "563": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "And so you want the Shopping Association to\nfinancially back this project. Am I getting this right?"
+  },
+  "564": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "This is a lovely place indeed, and I do want to see it\ncontinue to thrive here at Electric Street for as long as possible."
+  },
+  "565": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "I'm happy to hear you want to get the\nother stores involved to revitalize the whole area."
+  },
+  "566": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you very much. Th-Then...!"
+  },
+  "567": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "However, if you want financial backing,\nwe would need a more concrete plan."
+  },
+  "568": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "I would like you to show me three things."
+  },
+  "569": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "First of all, a list of the stores that would\nbe participating in the stamp rally."
+  },
+  "570": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Please get at least twenty other stores to join the project."
+  },
+  "571": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Twenty participating stores..."
+  },
+  "572": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Another thing is a realistic budget. Tell me how you would use the money."
+  },
+  "573": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Material costs, salaries... How much will you spend, and how?\nHow effective will you expect your expenses to be?"
+  },
+  "574": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "We need clear numbers in order to evaluate your project\nand decide whether or not to fund it."
+  },
+  "575": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Clear numbers... I should ask Honoka to help.)"
+  },
+  "576": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Lastly, and most importantly..."
+  },
+  "577": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Show me if we can really place our trust in your cafe."
+  },
+  "578": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "You'll be involving the other stores and the Shopping Association,\nso we can't have you suddenly go under somewhere along the way."
+  },
+  "579": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Let's put it this way: we need to know if we can trust you, the manager."
+  },
+  "580": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "B-But the manager is...!"
+  },
+  "581": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "A good person, I'm sure.\nI've lived long enough to tell."
+  },
+  "582": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "But from the way you talk and reading your proposal,\nI get the impression that you are not very experienced.\nOf course, you are quite young, which contributes to that."
+  },
+  "583": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "But am I correct to assume that you have\nno business or management experience,\nlet alone that of a cafe such as this?"
+  },
+  "584": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The chairman sees right through you, leaving you speechless."
+  },
+  "585": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(This is our first meeting, and we haven't even talked for that long...)"
+  },
+  "586": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "But that's exactly why I want to see what you can do."
+  },
+  "587": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "However, please understand that when we discuss money,\nit's very important to know how trustworthy the other party is."
+  },
+  "588": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I understand. How can I convince you that I'm trustworthy?\""
+  },
+  "589": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Show me that you have the ability to keep the cafe afloat."
+  },
+  "590": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Let's see... This location, and the usual flow of customers... Hmm."
+  },
+  "591": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Starting from today to next Sunday, if you can earn a total of [{0}] yen,\nthen I will be able to place my trust in you. How does that sound?"
+  },
+  "592": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager!"
+  },
+  "593": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Very well. I'll do my best!\""
+  },
+  "594": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Thank you for understanding. I'm glad we could talk today."
+  },
+  "595": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Next week, I will visit again, at around the same time.\nPlease contact me if you need anything.\nWell then, it's about time I took my leave..."
+  },
+  "596": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "W-Wait, Mr. Chairman!"
+  },
+  "597": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Hm? What's the matter, Shiro-chan?"
+  },
+  "598": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um... Please come try our new omurice\nwe're making for the stamp rally next week!"
+  },
+  "599": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's going to be made with ingredients from\nall the stores in the area... I think you would enjoy it!"
+  },
+  "600": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Oh, a taste testing party? That sounds wonderful!\nI'll bring other members of the Association with me."
+  },
+  "601": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you very much!"
+  },
+  "602": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Good luck. See you next week."
+  },
+  "603": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "604": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "There's no turning back now, Manager!\nWe need to earn [{0}] yen by Sunday!"
+  },
+  "605": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You saved Fuwa Fuwa from the brink of death,\nso I know you can definitely do it!"
+  },
+  "606": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you, Shiro!\""
+  },
+  "607": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ehehe. Let's do our best, Manager!"
+  },
+  "608": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(I'll have to tell everyone once we wrap up for the day!)"
+  },
+  "609": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you for waiting!"
+  },
+  "610": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Please enjoy your delicious meal!\nFilled with warmth! Fuwa fuwa kyun! ☆"
+  },
+  "611": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Thank you for the adorable little chant!\nBut this doesn't look like a caramel latte to me..."
+  },
+  "612": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Well then. I've heard the gist of it. You want to hold\na joint campaign with the other stores in the area, correct?"
+  },
+  "613": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yes! Let me explain...\""
+  },
+  "614": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "...I see. A stamp rally to direct customers to the other stores\nwhile also raising the visibility of this store at the same time."
+  },
+  "615": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "And so you want the Shopping Association to\nfinancially back this project. Am I getting this right?"
+  },
+  "616": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "This is a lovely place indeed, and I do want to see it\ncontinue to thrive here at Electric Street for as long as possible."
+  },
+  "617": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "I'm happy to hear you want to get the\nother stores involved to revitalize the whole area."
+  },
+  "618": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you very much. Th-Then...!"
+  },
+  "619": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "However, if you want financial backing,\nwe would need a more concrete plan."
+  },
+  "620": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "I would like you to show me three things."
+  },
+  "621": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "First of all, a list of the stores that would\nbe participating in the stamp rally."
+  },
+  "622": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Please get at least twenty other stores to join the project."
+  },
+  "623": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Twenty participating stores..."
+  },
+  "624": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Another thing is a realistic budget. Tell me how you would use the money."
+  },
+  "625": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Material costs, salaries... How much will you spend, and how?\nHow effective will you expect your expenses to be?"
+  },
+  "626": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "We need clear numbers in order to evaluate your project\nand decide whether or not to fund it."
+  },
+  "627": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Clear numbers... I should ask Honoka to help.)"
+  },
+  "628": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Lastly, and most importantly..."
+  },
+  "629": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Show me if we can really place our trust in your cafe."
+  },
+  "630": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "You'll be involving the other stores and the Shopping Association,\nso we can't have you suddenly go under somewhere along the way."
+  },
+  "631": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Let's put it this way: we need to know if we can trust you, the manager."
+  },
+  "632": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "B-But the manager is...!"
+  },
+  "633": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "A good person, I'm sure.\nI've lived long enough to tell."
+  },
+  "634": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "But from the way you talk and reading your proposal,\nI get the impression that you are not very experienced.\nOf course, you are quite young, which contributes to that."
+  },
+  "635": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "But am I correct to assume that you have\nno business or management experience,\nlet alone that of a cafe such as this?"
+  },
+  "636": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The chairman sees right through you, leaving you speechless."
+  },
+  "637": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(This is our first meeting, and we haven't even talked for that long...)"
+  },
+  "638": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "But that's exactly why I want to see what you can do."
+  },
+  "639": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "However, please understand that when we discuss money,\nit's very important to know how trustworthy the other party is."
+  },
+  "640": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I understand. How can I convince you that I'm trustworthy?\""
+  },
+  "641": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Show me that you have the ability to keep the cafe afloat."
+  },
+  "642": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Let's see... This location, and the usual flow of customers... Hmm."
+  },
+  "643": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Starting from today to next Sunday, if you can earn a total of [{0}] yen,\nthen I will be able to place my trust in you. How does that sound?"
+  },
+  "644": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager!"
+  },
+  "645": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Very well. I'll do my best!\""
+  },
+  "646": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Thank you for understanding. I'm glad we could talk today."
+  },
+  "647": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Next week, I will visit again, at around the same time.\nPlease contact me if you need anything.\nWell then, it's about time I took my leave..."
+  },
+  "648": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "W-Wait, Mr. Chairman!"
+  },
+  "649": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Hm? What's the matter, Shiro-chan?"
+  },
+  "650": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um... Please come try our new omurice\nwe're making for the stamp rally next week!"
+  },
+  "651": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's going to be made with ingredients from\nall the stores in the area... I think you would enjoy it!"
+  },
+  "652": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Oh, a taste testing party? That sounds wonderful!\nI'll bring other members of the Association with me."
+  },
+  "653": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you very much!"
+  },
+  "654": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Good luck. See you next week."
+  },
+  "655": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "656": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "There's no turning back now, Manager!\nWe need to earn [{0}] yen by Sunday!"
+  },
+  "657": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You saved Fuwa Fuwa from the brink of death,\nso I know you can definitely do it!"
+  },
+  "658": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Thank you, Shiro!"
+  },
+  "659": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ehehe. Let's do our best, Manager!"
+  },
+  "660": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(I'll have to tell everyone once we wrap up for the day!)"
+  },
+  "661": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Thank you for going out with me today,\neven though it was our day off..."
+  },
+  "662": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We had lunch, and watched a movie... It was a lot of fun."
+  },
+  "663": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It felt kind of like a date.\""
+  },
+  "664": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A-A date?! I wasn't...!"
+  },
+  "665": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Actually, maybe I was in that kind of mood, just a little bit. Ehehe..."
+  },
+  "666": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager, to tell you the truth..."
+  },
+  "667": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Even now, I sometimes feel like I'm still dreaming."
+  },
+  "668": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Maybe in reality, I'm still all alone,\nand you never visited the cafe."
+  },
+  "669": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Even now, when I'm working so happily with everyone,\nI sometimes think it's all a dream I'm having\nbecause I fell asleep while cleaning the cafe."
+  },
+  "670": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And... if I wake up..."
+  },
+  "671": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Then I'd be all alone again, in that dimly lit cafe...\nWhen I think too hard about it, I-I get so scared..."
+  },
+  "672": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "S-Sorry! I know it's real, that everyone's here with me, but..."
+  },
+  "673": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Now that I think about it, maybe I spent too much time\nwaiting all by myself, and maybe I was actually really lonely..."
+  },
+  "674": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Don't worry. I'm here for you.\""
+  },
+  "675": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...R-Right! You are!"
+  },
+  "676": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "B-But... I'm so happy that you and the others are here...\nMaybe even too happy, because I..."
+  },
+  "677": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "When I imagine a Fuwa Fuwa without you..."
+  },
+  "678": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "......"
+  },
+  "679": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager..."
+  },
+  "680": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I..."
+  },
+  "681": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You gently hold Shiro's shaking hands..."
+  },
+  "682": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We're baaack~!"
+  },
+  "683": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Waah!!"
+  },
+  "684": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh hey, Shiro and the manager! Didn't think you'd be back already."
+  },
+  "685": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We have a mighty good haul! Miyu and Favnyan got\na bunch of shops on board. I reckon we're on the right track!"
+  },
+  "686": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Is something wrong? You both look like\nforest spirits blinded by the light of civilization..."
+  },
+  "687": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "W-Welcome back, everyone!\nIt's nothing at all! Ummmm..."
+  },
+  "688": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The shops we visited all graciously gave us their approval too!"
+  },
+  "689": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "All right! Then let's see how much we've got before we wrap up for today!"
+  },
+  "690": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "R-Right! Oh, I'll get everyone some coffee too!"
+  },
+  "691": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Ehehe, I'm okay now, don't worry."
+  },
+  "692": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Because... your hands were so warm..."
+  },
+  "693": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We ended up messing around a bit\nwhile visiting all the stores."
+  },
+  "694": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh yeah, I'm remembering the first time I met Shiro IRL,\nthat was when I was playing Magic Angel in the arcade, right?"
+  },
+  "695": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ever since then, I've had a lot of fun being a maid at Fuwa Fuwa..."
+  },
+  "696": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But y'know, Manager..."
+  },
+  "697": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You're like... such a weird adult."
+  },
+  "698": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"A weird adult...?\""
+  },
+  "699": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, wait, not in a bad way or anything!\nI dunno how to put it, but it's like..."
+  },
+  "700": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You're helping Shiro reopen the cafe,\nand putting your trust in Favnyan..."
+  },
+  "701": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "And when you even helped a ghost move on to the afterlife...\nI, um... I just thought, y'know..."
+  },
+  "702": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I got a little touched that there's still adults out there\nwho are willing to work so hard and... earnestly, I guess."
+  },
+  "703": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Earnestly... Me?\""
+  },
+  "704": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeah. It's not like I'm surrounded by\nlazy adults or anything, it's just..."
+  },
+  "705": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I guess I've been watching you so close by for a while now, and..."
+  },
+  "706": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "And when I see you eat the omurice I make\nlike it's the best thing you've ever tasted..."
+  },
+  "707": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I-It just makes me really happy, and stuff...\nHappier than usual, even..."
+  },
+  "708": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "If, like, theoretically, I kept making all kinds of food, would you eat it all?"
+  },
+  "709": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Of course!\""
+  },
+  "710": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "For realsies? Wh-What if I did it... every day...?"
+  },
+  "711": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "W-Wait, this sounds like I'm proposing or something!\nThat's not what I mean, I'm just...!"
+  },
+  "712": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I..."
+  },
+  "713": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You take Miyu's hands in yours as she flushes bright red..."
+  },
+  "714": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We're baaack!"
+  },
+  "715": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Waaaah!"
+  },
+  "716": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, hello Miyu, and the manager too!\nYou're back early!"
+  },
+  "717": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We have a mighty good haul! Shiro and Favnyan got\na bunch of shops on board. I reckon we're on the right track!"
+  },
+  "718": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Is something wrong? You both look like\nforest spirits blinded by the light of civilization..."
+  },
+  "719": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "W-Welcome back, everyone!\nNothing's wrong, not at all! Aha, haha..."
+  },
+  "720": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, right! We got the approval of all the stores we visited too!"
+  },
+  "721": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "All right! Then let's see how much we've got before we wrap up for today!"
+  },
+  "722": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "R-Right! Oh, maybe I should get everyone\nsome coffee for once! Wait here!"
+  },
+  "723": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Hehe."
+  },
+  "724": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I'll make you omurice any time you want,\nso you'd better eat to your heart's content!"
+  },
+  "725": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Phew. The amber mana essence you pour\ntruly calms my soul... Fufu."
+  },
+  "726": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Thank you. Not for the amber... um, coffee, but also..."
+  },
+  "727": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The great Favna is always thankful for her familiar... for you."
+  },
+  "728": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "From how kindly everyone we talked to treated us,\nthe people of this street have accepted my fate."
+  },
+  "729": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But if I were in a different timeline... If I were born in\na different place or time, even by just a tiny fraction..."
+  },
+  "730": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Then I might have had to live in a world where no one\nunderstood me, where everyone would find me strange."
+  },
+  "731": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Sometimes, I find myself imagining that, and it...\nIt scares me. Quite a lot."
+  },
+  "732": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But every time, I also remember you."
+  },
+  "733": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Even if I were born in a different place...\nNo, in every parallel universe I could have been born in..."
+  },
+  "734": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I am now certain that you would have been led by fate,\nand would have met me and supported me all the same, no matter what."
+  },
+  "735": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And I'm sure that even in a parallel world...\nyou would lead me to the Maidens of Paradise as well."
+  },
+  "736": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And so... I must thank you.\nFor being in the same world as yours truly..."
+  },
+  "737": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Say, my familiar. If ten years were to pass..."
+  },
+  "738": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And I were to hide my identity as a goddess of fate,\nand behave as any other mortal..."
+  },
+  "739": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "If were to become a regular woman, would you still..."
+  },
+  "740": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Would you still stay by my side?"
+  },
+  "741": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I...\""
+  },
+  "742": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Favna looks up at you with glistening eyes.\nYou take her hands in yours..."
+  },
+  "743": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We're baaack!"
+  },
+  "744": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Hwah?!"
+  },
+  "745": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, hello Favnyan, and the manager too!\nYou're back early!"
+  },
+  "746": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We have a mighty good haul! Shiro and Miyu got\na bunch of shops on board. I reckon we're on the right track!"
+  },
+  "747": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Is something wrong? You look like\na pair of deer in headlights..."
+  },
+  "748": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "N-No, it's nothing. Welcome back, Maidens of Paradise."
+  },
+  "749": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "All who heard our call have accepted our offer."
+  },
+  "750": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "All right! Then let's see how much we've got before we wrap up for today!"
+  },
+  "751": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, you're drinking coffee today, Favnyan? That's rare!\nI'll get some coffee for everyone, then!"
+  },
+  "752": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Thank you."
+  },
+  "753": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Do not fret, I can see visions of our future...\ntransmitted by the warmth of your hands... fufu."
+  },
+  "754": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Phew, there we go. That should taste fine.\nIt must've been rough for ya today, Manager."
+  },
+  "755": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We've been mighty busy lately thanks to this whole campaign thing...\nbut it's startin' to take shape somehow, huh."
+  },
+  "756": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It's thanks to you and the other girls' hard work, Honoka!\""
+  },
+  "757": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ahaha. Well, I suppose I did work pretty hard.\nNot just me, but Shiro, Miyu and Favnyan too."
+  },
+  "758": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But ya should put more faith in yourself, y'know?"
+  },
+  "759": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Faith? In myself?\""
+  },
+  "760": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Yep. Remember what the old gramps from the late-night diner said?"
+  },
+  "761": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Thanks to ya comin' to Fuwa Fuwa and givin' it your all..."
+  },
+  "762": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "The whole street seems to be movin' forward, one step at a time.\nObviously there's the whole ghost incident..."
+  },
+  "763": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But I bet there's plenty of folks who're happy\nthat ya brought Fuwa Fuwa back to life."
+  },
+  "764": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Me too, honestly. Y'all are my precious friends now."
+  },
+  "765": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Shiro-chan and Favnyan are so cute, it's like I've gotten new baby sisters,\nand Miyu's real easy-goin', so I could talk about anythin' with her."
+  },
+  "766": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But you're the one who brought us all together, Manager.\nI think the chairman of the Shopping Association's noticed that too."
+  },
+  "767": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And pardon me for soundin' like a shrine maiden for a sec...\nbut it's like you're the one connecting our fates together."
+  },
+  "768": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"Me... connecting the fates of the people at Electric Street?\""
+  },
+  "769": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I reckon you're mighty happy to have met three of the\nprettiest girls you've ever seen, ain't ya?"
+  },
+  "770": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Why three? Don't you mean four?\""
+  },
+  "771": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "What're ya talkin' about? I'm nowhere near as cute as them.\nOh, but I suppose even the leaves are a part of a bouquet..."
+  },
+  "772": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You shouldn't undersell yourself, Honoka.\""
+  },
+  "773": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Y-You're flatterin' me! I don't need no flatterin'... but..."
+  },
+  "774": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...Do ya really think so?"
+  },
+  "775": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I'm not as soft as Shiro, or as peppy as Miyu,\nor as loveable as Favnyan..."
+  },
+  "776": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "B-But... But if ya..."
+  },
+  "777": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "If... you'd call me cute... I..."
+  },
+  "778": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I...\""
+  },
+  "779": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You hold Honoka's hands in yours as she\nturns red and starts to get more and more flustered..."
+  },
+  "780": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We're baaack!"
+  },
+  "781": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Owah?!"
+  },
+  "782": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, hello Honoka-chan, and the manager too!\nYou're back early!"
+  },
+  "783": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We have a great haul! Shiro and Favnyan got\na bunch of shops on board. I think we're on the right track!"
+  },
+  "784": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, is something wrong? You look like\na pair of deer in headlights..."
+  },
+  "785": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "N-Nope! Nothin' at all! Just got startled, is all...!"
+  },
+  "786": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "O-Oh, right! I'll pour y'all some coffee,\nand then we'll see how much we've got before we wrap up for today!"
+  },
+  "787": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Okay! Thank you so much!"
+  },
+  "788": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...We'll have to leave \"cute Honoka\" for another day."
+  },
+  "789": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I hope I can be a li'l braver next time. Hehe.."
+  },
+  "790": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Welcome back, Masters~!"
+  },
+  "791": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Oh, Shiro-chan, Miyu-chan! We're back!"
+  },
+  "792": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "Hey, someone knows his lines. You go to maid cafes often?"
+  },
+  "793": {
+    "Personagem": "Shinobu",
+    "PT": "",
+    "EN": "We can't wait to try that new omurice~!"
+  },
+  "794": {
+    "Personagem": "Daichi",
+    "PT": "",
+    "EN": "Aw, Favvy, aren't you gonna welcome us home too?"
+  },
+  "795": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "O-O Knight of Yore, I welcome you back to my abode.\nEnjoy your temporary return before you leave for Valhalla once more!"
+  },
+  "796": {
+    "Personagem": "Akiho",
+    "PT": "",
+    "EN": "Honoka-chan, ya look great in that maid dress.\nAin't ya gonna do that, whatchamacallit,\nthe whole \"Moe moe kyun ☆\" thing?"
+  },
+  "797": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "I-I'll do it for ya as many times as ya want, but later! Take a seat already!"
+  },
+  "798": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Hello. I'm glad to see the maids are getting along\nwith the other people of Electric Street."
+  },
+  "799": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Welcome back, Noyama-sama! Please, take a seat!"
+  },
+  "800": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Thank you, thank you. I'm looking forward to your new omurice!"
+  },
+  "801": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Right! ...Miyu, we have ten Masters in total!"
+  },
+  "802": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Got it~!"
+  },
+  "803": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"All right everyone, while we wait for the food to be ready,\nlet me briefly go over the details of the campaign...!\""
+  },
+  "804": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...And that's how the campaign aims to attract new customers\nand direct them to both our cafe and your businesses.\""
+  },
+  "805": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"We would really appreciate everyone's help. Please support us!\""
+  },
+  "806": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"S-So, what do you think...?\""
+  },
+  "807": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "I'm pleasantly surprised. This plan is very well thought-out."
+  },
+  "808": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Its main focus is to advertise the appeal of your cafe,\nbut the other participating stores have plenty to gain as well."
+  },
+  "809": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Hearing the chairman's praise, you can't help but\nsteal a glance at Honoka, and your eyes meet."
+  },
+  "810": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Honoka pumps her fist discreetly. She looks happy."
+  },
+  "811": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "However, it appears that there aren't many stores\nparticipating in your campaign. Is there a reason as to why?"
+  },
+  "812": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Th-That's...\""
+  },
+  "813": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "814": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Alriiiight, all done!"
+  },
+  "815": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miyu's voice rings brightly from the kitchen."
+  },
+  "816": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Masters, your food is ready! Please wait as I serve you!"
+  },
+  "817": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The tension in the air lifts in an instant."
+  },
+  "818": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Do your best, everyone...!)"
+  },
+  "819": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's time to cast a spell to make the food even tastier!"
+  },
+  "820": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "All together now...!"
+  },
+  "821": {
+    "Personagem": "四女主",
+    "PT": "",
+    "EN": "Please enjoy your delicious meal!\nFilled with warmth! Fuwa fuwa kyun! ☆"
+  },
+  "822": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Everyone, please say \"Fuwa fuwa kyun ☆\" with us!"
+  },
+  "823": {
+    "Personagem": "四女主",
+    "PT": "",
+    "EN": "Here we go! Fuwa fuwa kyun! ☆"
+  },
+  "824": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Fuwa fuwa kyun! ☆"
+  },
+  "825": {
+    "Personagem": "Akiho",
+    "PT": "",
+    "EN": "Fuwa fuwa kyun! ☆\n...I'm too old for this embarrassin' stuff..."
+  },
+  "826": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "It's more enjoyable the more you let yourself get into it!\nCome on now, everyone!"
+  },
+  "827": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you very much! Okay, one last time, here we go!"
+  },
+  "828": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Fuwa fuwa kyun! ☆"
+  },
+  "829": {
+    "Personagem": "四女主",
+    "PT": "",
+    "EN": "Thank you! Please enjoy your meal!"
+  },
+  "830": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The sound of applause fills the cafe."
+  },
+  "831": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Did you know? They're using a lot of meat from my place."
+  },
+  "832": {
+    "Personagem": "Tokuko",
+    "PT": "",
+    "EN": "Okonomiyaki-style omurice? Great idea!"
+  },
+  "833": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...H-How are you faring, gods of the Heavenly Convention?"
+  },
+  "834": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Ah, Hoshimi-san's granddaughter... How have you been?"
+  },
+  "835": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "M-My days in this Elysium have been very fulfilling!"
+  },
+  "836": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Amazing! You sound like a professional anime voice actor."
+  },
+  "837": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A professional...! That's so... I, I'm, um..."
+  },
+  "838": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The omurice seems to be well-received as well."
+  },
+  "839": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miyu and Shiro do a quick high five at the sight\nof all the happy customers enjoying the omurice."
+  },
+  "840": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(And now, it's time for me to do one final push!)"
+  },
+  "841": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Of course, the omurice isn't the only thing\nI want to promote with this campaign.\""
+  },
+  "842": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I want more people to know Fuwa Fuwa Cafe,\nand the hardworking maids who are our pride and joy.\""
+  },
+  "843": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"And I want more people to know about\nthose who supported us all this time...\""
+  },
+  "844": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"All of you, the people of Electric Street!\""
+  },
+  "845": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes! I'm what you would call, um, a regular otaku,\njust a regular girl who loves anime and video games."
+  },
+  "846": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I want to keep this store afloat here on Electric Street,\nwhere every corner is filled with things I love!"
+  },
+  "847": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "At first, I became a maid because I liked the idea\nof getting to cook for customers..."
+  },
+  "848": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "And I really want to see the happy faces of people\nenjoying my food, just like what I got to see today."
+  },
+  "849": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-I may walk a path that differs from a normal child of man..."
+  },
+  "850": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But I am fond of this place, where I am accepted\nand do not have to worry about such differences."
+  },
+  "851": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "I've spent all my life in this area, and I never grow tired of it.\nI love this place a lot, so..."
+  },
+  "852": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "I want Electric Street to be a place that future generations will enjoy\nfor many years to come, even when we've all become grannies."
+  },
+  "853": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The Association members quietly listen to everyone's speeches."
+  },
+  "854": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Please let us have this campaign! We need your support!\""
+  },
+  "855": {
+    "Personagem": "四女主",
+    "PT": "",
+    "EN": "We need your support!!!"
+  },
+  "856": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "......"
+  },
+  "857": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "I see you have 19 stores participating right now,\nand not 20 as we originally agreed on."
+  },
+  "858": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"W-We'll get one last store soon!\""
+  },
+  "859": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "......"
+  },
+  "860": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Then could we place stamp cards at the Association's\ngeneral information center? That would make 20 locations."
+  },
+  "861": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...!!"
+  },
+  "862": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "D-Does that mean...?!"
+  },
+  "863": {
+    "Personagem": "Akiho",
+    "PT": "",
+    "EN": "That's right, Mr. Chairman! Surely ya wouldn't\nfreeride on such a lovely project, would ya?"
+  },
+  "864": {
+    "Personagem": "Tokuko",
+    "PT": "",
+    "EN": "Right? We should let them print a lot of cards\nusing the Association's budget!"
+  },
+  "865": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Give 'em some cash to buy ingredients with, too.\nThe money'll all come back to us in the end anyway."
+  },
+  "866": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Yes, you're right. Since all the key members are here,\nI think we shall reach a consensus."
+  },
+  "867": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "The Association will recognize this as an official campaign\nand provide support accordingly. How does that sound?"
+  },
+  "868": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "869": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The cafe is immediately filled with the sound of applause."
+  },
+  "870": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Woohoo! Now that's what I love about Nipponbashi!"
+  },
+  "871": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "They liked my omurice that much...\nOmigosh, I think I'm gonna cry...!"
+  },
+  "872": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "We, and the Elysium of the Underworld,\nhave become the chosen ones,\napproved by the gods themselves...!"
+  },
+  "873": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Sniff... M-Manager.. everyone!\nThank you so much... sniffle..."
+  },
+  "874": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-It was just a silly idea of mine at first...\nb-but now it's grown so much, and... uweeeeh!"
+  },
+  "875": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You all worked so hard for this... and we did it!\nThank you, all of you!\""
+  },
+  "876": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Y-You're welcome!"
+  },
+  "877": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "*gasp* W-Wait! I almost forgot!\nOur work here isn't done yet!"
+  },
+  "878": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...All together now!"
+  },
+  "879": {
+    "Personagem": "四女主",
+    "PT": "",
+    "EN": "Dear Masters, would you like a cup of coffee after your meal?"
+  },
+  "880": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"Whoa?!\""
+  },
+  "881": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The second you run into the cafe, you hear the loud sound of\nparty poppers as colorful streamers fly towards you."
+  },
+  "882": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, thank you so much for the presentation!"
+  },
+  "883": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Congrats on the stamp rally~!"
+  },
+  "884": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You look around the cafe and notice that the walls and tables\nhave been adorned with handmade decorations."
+  },
+  "885": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Cute little plates of omurice line the tables."
+  },
+  "886": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "This is a feast to show our appreciation for your efforts, familiar.\nNow come and take the center seat."
+  },
+  "887": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Shiro-chan and Miyu were both so obvious,\nit was hard to keep myself from laughin'..."
+  },
+  "888": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "W-Were we? I thought I was acting perfectly normal..."
+  },
+  "889": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Your idea to text \"Don't come to the cafe!\" first thing in\nthe morning, though... That was WAY too sus!"
+  },
+  "890": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"So you sent me to Suzuka's place because\nyou were setting up the decorations and stuff...\""
+  },
+  "891": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Here, Manager! This is a thank-you gift to you,\nfor bringing my... no, our hard work to fruition!"
+  },
+  "892": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Quick, eat up while it's still hot!\nIt's an all-ya-can-eat party with Miyu's handmade omurice!"
+  },
+  "893": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I know I already served a bunch of omurice at the tasting party,\nbut I made a whole lot more from scrapped recipes, so... huh?"
+  },
+  "894": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Is something wrong, my familiar? You're awfully quiet..."
+  },
+  "895": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(You try your best to hold in the tears\nthat threaten to stream down your cheeks.)"
+  },
+  "896": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I have a present for all of you too.\""
+  },
+  "897": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You put the cake box you were holding onto the table,\nand show its contents to the others."
+  },
+  "898": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wow... it's so cute...!\nThe whipped cream frills look just like roses!"
+  },
+  "899": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "A chocolate cake shaped like a maid dress\nwith sooo many frills... This is totally custom-made!"
+  },
+  "900": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Strawberries, peaches, blueberries, and mandarins...\nThe glistening fruits resemble the jewels of legend\nthat rule over the four elements..."
+  },
+  "901": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "I've never seen a cake like this before... And I don't recall there\nbein' a fancy cake shop that would make these around here!"
+  },
+  "902": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Aw, no fair! This cake is so gorgeous,\nmy omurice is gonna pale in comparison~!"
+  },
+  "903": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's not true. Your omurice looks delicious too!\""
+  },
+  "904": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Now that I think about it, we never had a proper welcome\nparty for the manager or any of our new maids."
+  },
+  "905": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Then let this holy Mass be an event of communal joy and celebration!"
+  },
+  "906": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Yep, let's all celebrate together!\nAnd let's give our best as a team from now on!"
+  },
+  "907": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You enjoyed as much omurice and cake as you could, along with plenty of coffee."
+  },
+  "908": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "But even after that, you still wanted to keep hanging out...\nAnd so, you all end up at the karaoke place right after the party."
+  },
+  "909": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "What do I do...?\nAt this rate, the cafe will have to close down for good..."
+  },
+  "910": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "......"
+  },
+  "911": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "I have to find a new manager, and fast..."
+  },
+  "912": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "...!"
+  },
+  "913": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Huh? A customer?! Oh no, what do I do...?"
+  },
+  "914": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(The store is so quiet. There doesn't seem to be anyone here.)"
+  },
+  "915": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'll take a look around before I go.)"
+  },
+  "916": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You've been walking all day. Maybe you should sit down and take a break."
+  },
+  "917": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "For years, you spent your life in the frantic warzone of a toxic workplace.\nBut now, it's as if time itself has slowed down."
+  },
+  "918": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You lift your head and look around.\nHopefully you'll be able to relax for a moment."
+  },
+  "919": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "There's something about this place that makes it so comfortable and warm,\nas if you were far, far away from the source of your worries."
+  },
+  "920": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "921": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You're starting to get sleepy."
+  },
+  "922": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "923": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "...Excuse me!"
+  },
+  "924": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "925": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Hello...?"
+  },
+  "926": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "927": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Um...!"
+  },
+  "928": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "929": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Master!"
+  },
+  "930": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "931": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "You'll catch a cold if you sleep here."
+  },
+  "932": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Wake up..."
+  },
+  "933": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Please, wake up!"
+  },
+  "934": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Oh, you're up. Thank goodness!"
+  },
+  "935": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Good afternoon, Master."
+  },
+  "936": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "937": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "I'm one of the maids here."
+  },
+  "938": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "I saw you slumped over the table and got a little worried. You weren't moving at all for a bit, so I'm just here to make sure you're okay."
+  },
+  "939": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "You were sleeping so soundly, I can only imagine how tired you must be."
+  },
+  "940": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "But you can't sleep here, you'll catch a cold!"
+  },
+  "941": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "If you're really exhausted, you should go home and get some proper rest.\nIt's important to maintain a good work-life balance!"
+  },
+  "942": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Normally, I'd let you stay here for a little longer..."
+  },
+  "943": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "But we're not actually open at the moment, so we don't have anything to serve you."
+  },
+  "944": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "If, someday, the cafe reopens... Please come again."
+  },
+  "945": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Please wait!"
+  },
+  "946": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "947": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "We have just barely enough ingredients for a cup of Fuwa Fuwa Special.\nWould you like to try some?"
+  },
+  "948": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Sure.:option37;No thanks.:option38"
+  },
+  "949": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "I'm very sorry, but that's the only drink we have right now."
+  },
+  "950": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Won't you try a Fuwa Fuwa Special...? Please...?"
+  },
+  "951": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Thank you so much! Please wait here, Master."
+  },
+  "952": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Sure.:option39;No thanks.:option40"
+  },
+  "953": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Thank you so much! Please wait here, Master."
+  },
+  "954": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "I'm very sorry, but that's the only drink we have right now."
+  },
+  "955": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Won't you try a Fuwa Fuwa Special...? Please...?"
+  },
+  "956": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Huh? Wait... why isn't the coffee grinder moving?"
+  },
+  "957": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Oh, it wasn't plugged in..."
+  },
+  "958": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Okay, now I just push this button to grind the beans, right...?"
+  },
+  "959": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Wha?! The beans flew out?!\nOh no, the powder is getting everywhere!"
+  },
+  "960": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "What do I do, what do I do..."
+  },
+  "961": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "How do I use this huge machine again...?"
+  },
+  "962": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Oh right, the instruction manual..."
+  },
+  "963": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "\"Zuerst muß man den gemahlenen kaffepulver eingießen.\"\n...I-I can't read this!"
+  },
+  "964": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Um, well... I guess I just add the ground coffee in here..."
+  },
+  "965": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "What was that sound?!"
+  },
+  "966": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "I-It's okay, Master! I have everything under control!\nPlease wait juuust a little longer."
+  },
+  "967": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Even from the other side of the counter,\nyou can tell she's having a hard time. Lend her a hand?)"
+  },
+  "968": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She seems to be having a hard time. Lend her a hand?)"
+  },
+  "969": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Yes:option41;No:option42"
+  },
+  "970": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "What is it this time...?\nThat's strange, I swear I followed the instructions..."
+  },
+  "971": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Thank you... I'll leave it up to you, then."
+  },
+  "972": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "...I hope nothing explodes..."
+  },
+  "973": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(She seems to be having a hard time. Lend her a hand?)"
+  },
+  "974": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Yes:option43;No:option44"
+  },
+  "975": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Oh, are you offering to help?"
+  },
+  "976": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Thank you... I'll leave it up to you, then."
+  },
+  "977": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "What is it this time...?\nThat's strange, I swear I followed the instructions..."
+  },
+  "978": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "...I hope nothing explodes..."
+  },
+  "979": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(She seems to be having a hard time. Lend her a hand?)"
+  },
+  "980": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You and the maid finished making the cup of coffee together."
+  },
+  "981": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Thank you for waiting, Master!\nHere's your Fuwa Fuwa Special!"
+  },
+  "982": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Enjoy!"
+  },
+  "983": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Warm steam wafts from the cup of coffee, \nas well as a familiar aroma that fills the room."
+  },
+  "984": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You carefully take a sip. It's still a little hot."
+  },
+  "985": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "It starts off a bit bitter, but then it slowly mellows out. The aroma from the cinnamon and the touch of sweetness from the milk rounds out the flavor perfectly."
+  },
+  "986": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "I hope it doesn't taste weird!"
+  },
+  "987": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "The owner used to be in charge of the kitchen, so I hardly ever find myself back there. Thanks for helping me out."
+  },
+  "988": {
+    "Personagem": "Maid",
+    "PT": "",
+    "EN": "Thank you very much!"
+  },
+  "989": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Who are you?:option45;What is this place?:option46"
+  },
+  "990": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm Shiro Kamigishi, a maid of this cafe.\nThe customers call me Shiro."
+  },
+  "991": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I've been working here the longest!\nThat said, I'm the only one working here right now."
+  },
+  "992": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I come here every once in a while to clean, so I thought that I might as well put the dress on while I'm at it."
+  },
+  "993": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I wasn't expecting someone to suddenly come in,\nso I panicked and hid under the counter..."
+  },
+  "994": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ehehe, I'm so sorry..."
+  },
+  "995": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This is the Fuwa Fuwa Maid Cafe."
+  },
+  "996": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's not very big, but it's one of the oldest shops on Electric Street!"
+  },
+  "997": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We've been closed for a while now, though..."
+  },
+  "998": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(What should I ask...?)"
+  },
+  "999": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Who are you?:option47;What's this place?:option48;Why are you closed?:option49;Are there any other maids?:option50;Have you found someone else?:option51;End conversation:option52"
+  },
+  "1000": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm Shiro Kamigishi, a maid of this cafe.\nThe customers call me Shiro."
+  },
+  "1001": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I've been working here the longest!\nThat said, I'm the only one working here right now."
+  },
+  "1002": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I come here every once in a while to clean, so I thought that I might as well put the dress on while I'm at it."
+  },
+  "1003": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I wasn't expecting someone to suddenly come in,\nso I panicked and hid under the counter..."
+  },
+  "1004": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ehehe, I'm so sorry..."
+  },
+  "1005": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This is the Fuwa Fuwa Maid Cafe."
+  },
+  "1006": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's not very big, but it's one of the oldest shops on Electric Street!"
+  },
+  "1007": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We've been closed for a while now, though..."
+  },
+  "1008": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Because the owner's gone off somewhere."
+  },
+  "1009": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "While vacationing overseas, the owner's girlfriend got separated from him and went missing. So he just upped and left everything to go look for her. Last time we talked, he was on some remote island in the southern hemisphere."
+  },
+  "1010": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Before he left, he told me that if I could find a new manager to fill in for him, then I could keep the cafe running."
+  },
+  "1011": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But... Unfortunately, we've never been able to find anyone."
+  },
+  "1012": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "After the owner left, all the other girls quit."
+  },
+  "1013": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The owner ran the cafe as a kind of passion project, so it has never really turned a profit."
+  },
+  "1014": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Usually, he would find money from somewhere else to cover the costs, but that was back when we still had the other girls working here."
+  },
+  "1015": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Once he left, we couldn't make enough to support the cafe..."
+  },
+  "1016": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "So eventually, everyone else just gave up and quit."
+  },
+  "1017": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Sigh..."
+  },
+  "1018": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I've tried looking everywhere... But I can't find anyone who'd be willing to do it..."
+  },
+  "1019": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's not an easy job, especially since this cafe doesn't make much money... \nI can't imagine why anyone would even want the job."
+  },
+  "1020": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Sometimes I even fantasize of finding someone who's so desperate,\nthey have nowhere else to go... Then I could get them to be the manager!"
+  },
+  "1021": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Are you leaving, Master?"
+  },
+  "1022": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you for coming. I'm sorry for not being able to serve you today,\nso you don't have to pay anything. It's on the house."
+  },
+  "1023": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Take care, and please come again!"
+  },
+  "1024": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's been so long since we've gotten a customer.\nThis must be a good sign!"
+  },
+  "1025": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Maybe the new manager is right around the corner..."
+  },
+  "1026": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "......"
+  },
+  "1027": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Master, would you be interested in..."
+  },
+  "1028": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um, never mind. Please don't worry about it."
+  },
+  "1029": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "M-Master! Um...!"
+  },
+  "1030": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um, would you be interested in becoming the new manager of the cafe?"
+  },
+  "1031": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's really simple! All you would need to do is help with the cooking,\nor help me with the customers. You'll get the hang of it right away!"
+  },
+  "1032": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's a really hard job, but it'd be really fun!\n...At least, I think it'd be fun!"
+  },
+  "1033": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Me? The manager?:option53;Are you pulling my leg?:option53"
+  },
+  "1034": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We've been closed for almost the whole year now,\nbut somehow, I met you here today...\nIt must be because you're tied to this cafe by fate!"
+  },
+  "1035": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-It's okay if you don't want to! I was just asking...!"
+  },
+  "1036": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "From our conversation earlier, you sounded like a very reliable person..."
+  },
+  "1037": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "So I thought... It would be so nice if you could be the new manager..."
+  },
+  "1038": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "No.:option54;......:optoin54"
+  },
+  "1039": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yeah, that's fair..."
+  },
+  "1040": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "B-But! Being our new manager comes with a lot of perks!"
+  },
+  "1041": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Like, um..."
+  },
+  "1042": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You can have as many drinks as you want!\nYou can decorate the cafe however you like it!"
+  },
+  "1043": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You can work with a bunch of cute girls...\nOh, but I'm the only one left..."
+  },
+  "1044": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wait, no, I'm not even cute..."
+  },
+  "1045": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And, um... ummm..."
+  },
+  "1046": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh no... I can't think of anything else..."
+  },
+  "1047": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You wouldn't really get anything out of it...\nThere really isn't anything attractive about this cafe..."
+  },
+  "1048": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But still..."
+  },
+  "1049": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I really like this place..."
+  },
+  "1050": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Anyway... Have a safe trip home, and please come again..."
+  },
+  "1051": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'll clean up a bit and go home too."
+  },
+  "1052": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, wait... I still need to change the bedsheets in the owner's apartment."
+  },
+  "1053": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "What's the matter, Master? Do you need anything else?"
+  },
+  "1054": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The apartment? ...Oh, that.\nThe owner used to work here late at night,\nand sometimes he just stays on the floor above."
+  },
+  "1055": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Now that I think of it, when the owner left,\nhe said whoever became the manager could use the apartment."
+  },
+  "1056": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But since we haven't found a manager yet,\nthe apartment's been empty this whole time."
+  },
+  "1057": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Please let me work here!!:option55;Please take me in!:option55"
+  },
+  "1058": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh? You want to work here?\nYou'll be the new manager?"
+  },
+  "1059": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Really? Am I dreaming?!"
+  },
+  "1060": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yippee! Hip, hip, hooraaay!"
+  },
+  "1061": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Then I'll call you manager from now on!\nI look forward to working with you, Mr. Manager!"
+  },
+  "1062": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Then I'll show you to your room!"
+  },
+  "1063": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The apartment is right above the cafe.\nJust take the stairs at the back."
+  },
+  "1064": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Obtained: Old Notebook"
+  },
+  "1065": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Phewww..."
+  },
+  "1066": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wiping the tables like this reminds me\nof the Fuwa Fuwa taste testing party."
+  },
+  "1067": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh yeah, totally~ I'm so glad everyone enjoyed it!"
+  },
+  "1068": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And the Journey of the Book of Emblems of Forgiveness\nhas finally been approved."
+  },
+  "1069": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Sigh..."
+  },
+  "1070": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "...Hey, what's goin' on? Why are y'all just\nstandin' there with dopey looks on your faces?"
+  },
+  "1071": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "The stamp rally isn't in a hot minute,\nbut we've still got plenty of business to do!"
+  },
+  "1072": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ah! You're right!\nW-We should get ready to open...!"
+  },
+  "1073": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "That means ya too, Manager... I get how ya feel,\nbut don't just stand there grinnin' at us."
+  },
+  "1074": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Haha, sorry, sorry.\""
+  },
+  "1075": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(These peaceful days at Fuwa Fuwa have already\nbecome such a natural part of my everyday life...)"
+  },
+  "1076": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Good evening. Looks like you're having fun."
+  },
+  "1077": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, Mr. Chairman! Welcome back!"
+  },
+  "1078": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Umm... Was there somethin' wrong with the stamp rally after all...?"
+  },
+  "1079": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "No, no. I'm just here to see how the cafe is doing."
+  },
+  "1080": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Just a while ago, this place was on the brink of shutting down for good...\nAren't you moved by how far you've come?"
+  },
+  "1081": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Y-Yes... Yes, I am!"
+  },
+  "1082": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "And with the upcoming summer festival, the Shopping Association\nwill become even more lively. Do your best, Fuwa Fuwa."
+  },
+  "1083": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "A summer festival...!"
+  },
+  "1084": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh yeah, I've seen the posters around.\nIt starts on Tuesday two weeks from now, and lasts 3 days!"
+  },
+  "1085": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I see. So that's why Honoka said we still have plenty to do.)"
+  },
+  "1086": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Surface-dweller festivities, 11 days from now...\nThere is nothing more fitting for the end of summer."
+  },
+  "1087": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I can't wait for the summer festival!"
+  },
+  "1088": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh right, the chairman gave us some flyers and\nposters for the festival! Where should we put them?"
+  },
+  "1089": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The talismans of invitation should be placed near the entrance of the Elysium.\nThat way, they will be burned into the retinas of returning surface dwellers..."
+  },
+  "1090": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I'll go put up the posters outside!"
+  },
+  "1091": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And now everyone's minds have been taken over by the summer festival.\nBut well, if it gets 'em motivated, it's all peachy."
+  },
+  "1092": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You say that, but I can see a joyful aura emanating from you as well."
+  },
+  "1093": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...Hehe, guess I couldn't hide it."
+  },
+  "1094": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Good work, everyone.\""
+  },
+  "1095": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"By the way, if any of you want to take any time off\nfor the summer festival, tell me by tomorrow.\""
+  },
+  "1096": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, okay. I won't... but..."
+  },
+  "1097": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "M-Me neither! ...But..."
+  },
+  "1098": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I left the shrine to Daddy, so...\nI guess now it's up to a certain someone..."
+  },
+  "1099": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "......"
+  },
+  "1100": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...? What's wrong, everyone? Do you have something to say...?\""
+  },
+  "1101": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Familiar!"
+  },
+  "1102": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yes ma'am?!\""
+  },
+  "1103": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I ask of you! On the day of the Late Summer Banquet of Armageddon—"
+  },
+  "1104": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "(OMG! She's going for it...!)"
+  },
+  "1105": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Oh, a phone call. Sorry, you guys can go home first.\""
+  },
+  "1106": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "......"
+  },
+  "1107": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Only the gods know the truth, I suppose."
+  },
+  "1108": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Suzuka-san was so happy!"
+  },
+  "1109": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Y-Yes! Yay!"
+  },
+  "1110": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She also tried Miyu's cooking and found it delicious.)"
+  },
+  "1111": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A while ago, I was about to give up and accept that\nFuwa Fuwa was going to shut down for good...\nIt almost feels like a dream now that everything's going so well."
+  },
+  "1112": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You're getting way ahead of yourself~\nWe're just starting out!"
+  },
+  "1113": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We'll get more staff, more customers,\nand make this place way more lively! ☆"
+  },
+  "1114": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes... you're right. And so we have to do our best!"
+  },
+  "1115": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yeah, but tomorrow's a day off,\nso I want both of you to get some proper rest.\""
+  },
+  "1116": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Got it~!"
+  },
+  "1117": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Suzuka-san was so happy!"
+  },
+  "1118": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Y-Yes! Yay!"
+  },
+  "1119": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Suzuka came and tried Miyu's cooking,\nand she seemed to like it a lot.)"
+  },
+  "1120": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A while ago, I was about to give up and accept that\nFuwa Fuwa was going to shut down for good...\nIt almost feels like a dream now that everything's going so well."
+  },
+  "1121": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You're getting way ahead of yourself~\nWe're just starting out!"
+  },
+  "1122": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We'll get more staff, more customers,\nand make this place way more lively! ☆"
+  },
+  "1123": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes... you're right. And so we have to do our best!"
+  },
+  "1124": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yeah, but tomorrow's a day off,\nso I want both of you to get some proper rest.\""
+  },
+  "1125": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Got it~!"
+  },
+  "1126": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(All right... Thanks to Favna, we managed to open the cafe today!)"
+  },
+  "1127": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Huff... huff... Wait, no."
+  },
+  "1128": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Heh... It appears that the pathetic surface dwellers\nhave all fallen to the great Favna's powers of darkness."
+  },
+  "1129": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thank you so much, Favna!\nI feel like you're gonna be super popular in no time! ☆"
+  },
+  "1130": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Good evening. Is anyone here? Manager? Miyu?"
+  },
+  "1131": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh hey, Shiro! You look loads better, thank goodness!"
+  },
+  "1132": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, I feel much better thanks to the day off!"
+  },
+  "1133": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...By the way, who's this?"
+  },
+  "1134": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "She's so mysterious and pretty!"
+  },
+  "1135": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "My name is Favna. I am the Slayer of the False God,\nborn from the light that shines in the darkness..."
+  },
+  "1136": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"She helped out so that we could open the cafe today.\""
+  },
+  "1137": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I see... Thank you so much.\nYou're the savior of Fuwa Fuwa!"
+  },
+  "1138": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There is no need to look so worried, maidens.\nYours truly has foreseen this future ages ago."
+  },
+  "1139": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I shall solve the two problems that plague\nthe Wavering Elysium of the Underworld."
+  },
+  "1140": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "First... You, the Apostle of White."
+  },
+  "1141": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh, me? I'm fine now, though..."
+  },
+  "1142": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There it is. You have the habit of forcing a smile on your face\nand putting on a tough front. In truth, you are still uneasy."
+  },
+  "1143": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...!!"
+  },
+  "1144": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is that true, Shiro...?\nIf you still don't feel well, you should tell us...\""
+  },
+  "1145": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "No, that's not it! But it's just like Favna-san says...\nI think it's an emotional thing. I kind of want a pick-me-up."
+  },
+  "1146": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh right, there's something I wanna give you too, Shiro! Wait here."
+  },
+  "1147": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-Is this... The Bleating Bavarois from the Magic Angel anime?!"
+  },
+  "1148": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I wanted to cheer you up, so I tried recreating it.\nIt's just a little something! Hope you like it!"
+  },
+  "1149": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Okay...!"
+  },
+  "1150": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "*munch munch*... Mmm~! This is so good!\nI loooooove your cooking, Miyu!"
+  },
+  "1151": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ahaha, thankies! ☆\nYou even said the line~!"
+  },
+  "1152": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Shiro's bright smile has returned, and she seems\nto have fully recovered. What a relief...!"
+  },
+  "1153": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, Miyu, and Favna, too!\nThank you so much! I think I can work again tomorrow!"
+  },
+  "1154": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And thus, the soldiers of the underworld replenish their mana.\nNow, it is time to move on to the second problem."
+  },
+  "1155": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "The second problem... you mean how we're short-staffed?"
+  },
+  "1156": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Precisely. This problem has a very simple solution.\nI have already proved so with my immense power."
+  },
+  "1157": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh! Does that mean..."
+  },
+  "1158": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The guardian of the Wavering Elysium of the Underworld...\n'Tis I, Favna, the Maid Angel of Darkness!"
+  },
+  "1159": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "With that, Favna strikes an elegant pose.\nShiro and Miyu smile ear to ear at the idea of Favna joining the team."
+  },
+  "1160": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Do you understand now, my familiar?\nThis is Favna's true destiny."
+  },
+  "1161": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Yeah, that's great. Was that the ritual for our contract or whatever?"
+  },
+  "1162": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "No, you will have to wait a little longer for that.\n...Meet me again tonight, at the Promised Land."
+  },
+  "1163": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thanks for coming with me again, Shiro.\""
+  },
+  "1164": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Don't mention it! I should be the one to thank you, Manager."
+  },
+  "1165": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's all thanks to you and the other maids that\nthe autumn stamp rally could be approved..."
+  },
+  "1166": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And there must be so many fun things\nwaiting for us at the summer festival!"
+  },
+  "1167": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Heeey! Shiro! Manager!"
+  },
+  "1168": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, what's everyone doin' here?"
+  },
+  "1169": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "What a coincidence. Or perhaps this too is fate..."
+  },
+  "1170": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ehehe. I thought I'd take a break,\nand my feet just kinda took me to Fuwa Fuwa."
+  },
+  "1171": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Perfect timing, then. Why don't we have a coffee break together?\""
+  },
+  "1172": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "Yaaay!"
+  },
+  "1173": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Alright, let's call it a day...)"
+  },
+  "1174": {
+    "Personagem": "Yuuki",
+    "PT": "",
+    "EN": "Hey! Working hard out there, big guy!"
+  },
+  "1175": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Wait, Senpai?! When did you...?!\""
+  },
+  "1176": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hehe. He snuck in quietly because he wanted to surprise you, Manager!"
+  },
+  "1177": {
+    "Personagem": "Yuuki",
+    "PT": "",
+    "EN": "I had some of your coffee too. It tasted so comforting,\nI could feel my fatigue melting away."
+  },
+  "1178": {
+    "Personagem": "Yuuki",
+    "PT": "",
+    "EN": "I heard there's a festival next week, right?\nYou'll probably get a lot of customers, but don't push yourself too hard."
+  },
+  "1179": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Of course! You take care too.\""
+  },
+  "1180": {
+    "Personagem": "Yuuki",
+    "PT": "",
+    "EN": "Oh right, before I forget. Here you go."
+  },
+  "1181": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"A coupon? Oh, these are for the diner you always go to.\""
+  },
+  "1182": {
+    "Personagem": "Yuuki",
+    "PT": "",
+    "EN": "Grab some good food and come back refreshed! Seeya!"
+  },
+  "1183": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...He's so kind. He said a lot of good things about you too, Manager."
+  },
+  "1184": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Wow... Thank you so much, Senpai. Truly.)"
+  },
+  "1185": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You worked hard today, familiar.\nRest tonight so you may recover from the battle."
+  },
+  "1186": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You too. See you tomorrow!\""
+  },
+  "1187": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Oh, right... Maybe I should go check out the bathhouse?)"
+  },
+  "1188": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We sure got a lot of cleanin' done today!\nAnd we managed to finish up early too."
+  },
+  "1189": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, oh! Why don't we do some deep cleaning before the summer festival?"
+  },
+  "1190": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Good idea. As the festivities draw near, now is the perfect opportunity."
+  },
+  "1191": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Let's wash all the tablecloths too!"
+  },
+  "1192": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Sure! They look pretty heavy, so I'll go.\""
+  },
+  "1193": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Who should I ask to help me out?)"
+  },
+  "1194": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Shiro:option56;Miyu:option57;Favna:option58;Honoka:option59"
+  },
+  "1195": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Okay! Let's go to the laundromat!"
+  },
+  "1196": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Okie dokie! To the laundromat we go~♪"
+  },
+  "1197": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Very well. Let us depart for the Vault of Coin Guzzling Whirlpools..."
+  },
+  "1198": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Sure. Then let's hurry on to the laundromat!"
+  },
+  "1199": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The rain is getting heavier and heavier,\nso you tell the girls to go home early..."
+  },
+  "1200": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...Phew. All clean now.)"
+  },
+  "1201": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meowww."
+  },
+  "1202": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Haha, thanks for sticking with me till the end.\""
+  },
+  "1203": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...Hmm? Who could be here at this hour?)"
+  },
+  "1204": {
+    "Personagem": "Nonoka",
+    "PT": "",
+    "EN": "Ughhh, I'm SOAKED~!"
+  },
+  "1205": {
+    "Personagem": "Nanoka",
+    "PT": "",
+    "EN": "C'mon already, Honoka-onee~!"
+  },
+  "1206": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Huff, huff... I finally caught up..."
+  },
+  "1207": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Honoka? And your sisters too.\n...Are you okay?\""
+  },
+  "1208": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I went to pick up my sisters, but then my umbrella\ngot blown away... Could ya let us take shelter here?"
+  },
+  "1209": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Of course! I'll go get you some towels.\""
+  },
+  "1210": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "You're a real lifesaver, Manager.\nI knew I could count on my trusty business partner!"
+  },
+  "1211": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Nanoka, Nonoka. Don't forget to say thank you, now."
+  },
+  "1212": {
+    "Personagem": "Nonoka",
+    "PT": "",
+    "EN": "Okay! Thaaank youuu!"
+  },
+  "1213": {
+    "Personagem": "Nanoka",
+    "PT": "",
+    "EN": "You can have this, Manager!"
+  },
+  "1214": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"This is... a teru teru bouzu?\""
+  },
+  "1215": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oooh, now that's my li'l sister! You've got\na bright shrine maiden future ahead of ya!"
+  },
+  "1216": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "There's a custom here where, if your prayers are answered,\nyou let it drift away on the river along with an offering of sake."
+  },
+  "1217": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "C'mon, Manager! Let's pray to the teru teru bouzu together!"
+  },
+  "1218": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You had fun making teru teru bouzu with Honoka and her sisters..."
+  },
+  "1219": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The rain shows no sign of stopping. You feel restless for some reason,\nso you distract yourself by cleaning the cafe first thing in the morning."
+  },
+  "1220": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Thanks for lettin' us in last night, Manager.\nMy sisters had a lot of fun."
+  },
+  "1221": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Now if only the skies would clear up already..."
+  },
+  "1222": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Goooood morning! Oh hey, you two are here early!"
+  },
+  "1223": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Hey, what are these? Teru teru bouzu?"
+  },
+  "1224": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I made these with Honoka and her sisters yesterday.\""
+  },
+  "1225": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "A-All I did was offer a li'l help every now and then..."
+  },
+  "1226": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "They're sooo cute! I know they'll bring the sun out!"
+  },
+  "1227": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...Thanks. Let's hope they do!"
+  },
+  "1228": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We got a lot of customers, even though it rained all day!"
+  },
+  "1229": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We've come so far...!"
+  },
+  "1230": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That must mean I've become a better manager.\nI'm happy to have come so far too.\""
+  },
+  "1231": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Mhm!!"
+  },
+  "1232": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Heyyy, you two! Over here!"
+  },
+  "1233": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "What a great day for the cafe! So many customers came...\nIt almost feels like I'm dreaming!"
+  },
+  "1234": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Nice work, everyone. Have fun at the festival.\""
+  },
+  "1235": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Let's meet up at the station! You too, Manager, don't stand us up!"
+  },
+  "1236": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I should go to the summer festival too.\nWe'll be meeting up at the station.)"
+  },
+  "1237": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(It's the second day of the summer festival.\nWe'll get a lot of customers again, but let's do our best!)"
+  },
+  "1238": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"By the way, who are you girls going to the summer festival with?\""
+  },
+  "1239": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh? Of course it's..."
+  },
+  "1240": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "......Oh..."
+  },
+  "1241": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...? What's wrong?\""
+  },
+  "1242": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "N-No, it's nothing! I'll tell you later, Manager."
+  },
+  "1243": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Fuwa Fuwa, the maid cafe on Electric Street...\nBefore you knew it, an entire summer has passed in the blink of an eye."
+  },
+  "1244": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You not only managed to keep the cafe afloat,\nbut you brought smiles to the faces of many customers."
+  },
+  "1245": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "And it's all thanks to the fact that you've grown somewhat as a person,\nbut most importantly, it's thanks to the girls' support!"
+  },
+  "1246": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much for helping today, Manager!"
+  },
+  "1247": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "At this rate, Fuwa Fuwa'll be A-okay even after the summer!"
+  },
+  "1248": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And with the winds of autumn will come\nthe Pilgrimage of Emblems of Forgiveness."
+  },
+  "1249": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey everyone, sorry I took so long!\nThe preparations for the you-know-what are all done!"
+  },
+  "1250": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The you-know-what...?\""
+  },
+  "1251": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We wanted to thank you for everything you've done for us,\nso we worked together and made this in secret."
+  },
+  "1252": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Please accept our gift, Manager!"
+  },
+  "1253": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yep! It's all yours!"
+  },
+  "1254": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Accept this offering, my familiar.\nYou have served me well!"
+  },
+  "1255": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "C'mon, don't be shy! Ya should be proud!"
+  },
+  "1256": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you... all of you...!\""
+  },
+  "1257": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You feel the tears prick at the corners of your eyes.\nYou're almost choking up from how lucky you are\nto be blessed with such warm, kindhearted companions."
+  },
+  "1258": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You remember something you prepared yourself.\nIt's not exactly a return gift, but you also got presents just for them."
+  },
+  "1259": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Fuwa Fuwa, the maid cafe on Electric Street...\nBefore you knew it, an entire summer has passed in the blink of an eye."
+  },
+  "1260": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You not only managed to keep the cafe afloat,\nbut you brought smiles to the faces of many customers."
+  },
+  "1261": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "And it's all thanks to the fact that you've grown somewhat as a person,\nbut most importantly, it's thanks to the girls' support!"
+  },
+  "1262": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much for helping today, Manager!"
+  },
+  "1263": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "At this rate, Fuwa Fuwa'll be A-okay even after the summer!"
+  },
+  "1264": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And with the winds of autumn will come\nthe Pilgrimage of Emblems of Forgiveness."
+  },
+  "1265": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey everyone, sorry I took so long!\nThe preparations for the you-know-what are all done!"
+  },
+  "1266": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The you-know-what...?\""
+  },
+  "1267": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We all made it together in secret.\nIt's a token of our thanks to you!"
+  },
+  "1268": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Please accept our gift, Manager!"
+  },
+  "1269": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yep! It's all yours!"
+  },
+  "1270": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Accept this offering, my familiar.\nYou have served me well!"
+  },
+  "1271": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "C'mon, don't be shy! Ya should be proud!"
+  },
+  "1272": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you... all of you...!\""
+  },
+  "1273": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You feel the tears prick at the corners of your eyes.\nYou're almost choking up from how lucky you are\nto be blessed with such warm, kindhearted companions."
+  },
+  "1274": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You remember something you prepared yourself.\nIt's not exactly a return gift, but you also got presents just for them."
+  },
+  "1275": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Fuwa Fuwa, the maid cafe on Electric Street...\nBefore you knew it, an entire summer has passed in the blink of an eye."
+  },
+  "1276": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You not only managed to keep the cafe afloat,\nbut you brought smiles to the faces of many customers."
+  },
+  "1277": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "And it's all thanks to the fact that you've grown somewhat as a person,\nbut most importantly, it's thanks to the girls' support!"
+  },
+  "1278": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much for helping today, Manager!"
+  },
+  "1279": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "At this rate, Fuwa Fuwa'll be A-okay even after the summer!"
+  },
+  "1280": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And with the winds of autumn will come\nthe Pilgrimage of Emblems of Forgiveness."
+  },
+  "1281": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey everyone, sorry I took so long!\nThe preparations for the you-know-what are all done!"
+  },
+  "1282": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The you-know-what...?\""
+  },
+  "1283": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "We combined our strengths and wove this together\nin order to sing our praises to the hero of Elysium."
+  },
+  "1284": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Please accept our gift, Manager!"
+  },
+  "1285": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yep! It's all yours!"
+  },
+  "1286": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Accept this offering, my familiar.\nYou have served me well!"
+  },
+  "1287": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "C'mon, don't be shy! Ya should be proud!"
+  },
+  "1288": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you... all of you...!\""
+  },
+  "1289": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You feel the tears prick at the corners of your eyes.\nYou're almost choking up from how lucky you are\nto be blessed with such warm, kindhearted companions."
+  },
+  "1290": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You remember something you prepared yourself.\nIt's not exactly a return gift, but you also got presents just for them."
+  },
+  "1291": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Fuwa Fuwa, the maid cafe on Electric Street...\nBefore you knew it, an entire summer has passed in the blink of an eye."
+  },
+  "1292": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You not only managed to keep the cafe afloat,\nbut you brought smiles to the faces of many customers."
+  },
+  "1293": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "And it's all thanks to the fact that you've grown somewhat as a person,\nbut most importantly, it's thanks to the girls' support!"
+  },
+  "1294": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much for helping today, Manager!"
+  },
+  "1295": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "At this rate, Fuwa Fuwa'll be A-okay even after the summer!"
+  },
+  "1296": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And with the winds of autumn will come\nthe Pilgrimage of Emblems of Forgiveness."
+  },
+  "1297": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey everyone, sorry I took so long!\nThe preparations for the you-know-what are all done!"
+  },
+  "1298": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The you-know-what...?\""
+  },
+  "1299": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "We all worked together to make this in secret!\nIt's like a record of ya journey as our glorious manager, or somethin' like that!"
+  },
+  "1300": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Please accept our gift, Manager!"
+  },
+  "1301": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yep! It's all yours!"
+  },
+  "1302": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Accept this offering, my familiar.\nYou have served me well!"
+  },
+  "1303": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "C'mon, don't be shy! Ya should be proud!"
+  },
+  "1304": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you... all of you...!\""
+  },
+  "1305": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You feel the tears prick at the corners of your eyes.\nYou're almost choking up from how lucky you are\nto be blessed with such warm, kindhearted companions."
+  },
+  "1306": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You remember something you prepared yourself.\nIt's not exactly a return gift, but you also got presents just for them."
+  },
+  "1307": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here, Shiro. I ordered a custom-made apron for you.\nI hope you can always keep working as a maid with a smile on your face.\""
+  },
+  "1308": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wow...! Can I really have this...?!"
+  },
+  "1309": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "What a heartfelt gift... With this apron,\nI think I can overcome any problems I face with a smile!"
+  },
+  "1310": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'm glad I could see Shiro's smile.)"
+  },
+  "1311": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here, Miyu. I hope you can use this breadmaker\nto come up with even more new dishes to cook.\""
+  },
+  "1312": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, for real?! I've wanted this for ages!\nAre you a mind reader, Manager?!"
+  },
+  "1313": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thank you soooo much!\nWhen I come up with something, you'll be the first to taste test it! ☆"
+  },
+  "1314": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'm glad I could see Miyu's smile.)"
+  },
+  "1315": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here, Favna. This is all I could get for you...\nbut I hope it'll make you shine all the more brightly, Master.\""
+  },
+  "1316": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A mana stone...! I can feel your warm magic emanating from within..."
+  },
+  "1317": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I believe this will protect me from misfortune.\nThank you, my familiar. I will have it on me at all times."
+  },
+  "1318": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'm glad I could see Favna's smile.)"
+  },
+  "1319": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here, Honoka. You're always so hard at work both in the office\nand on your drawing board. I hope this pen will help you relax once in a while.\""
+  },
+  "1320": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Aw, it's a glass pen! It's so lovely, I can't help but stare at it~"
+  },
+  "1321": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "It must feel real nice to draw with this.\nI'll show ya first thing when I've drawn somethin'."
+  },
+  "1322": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'm glad I could see Honoka's smile.)"
+  },
+  "1323": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You want to keep running the cafe in order to make the girls and your customers smile.\nYou clutch the thank you letter as you swear to yourself with newfound resolve."
+  },
+  "1324": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...There we go.\""
+  },
+  "1325": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager! Good morning!"
+  },
+  "1326": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It is finally the day of the Pilgrimage of Emblems of Forgiveness."
+  },
+  "1327": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "The kitchen's all ready too!\nI'll be pouring my heart into every single dish! ☆"
+  },
+  "1328": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "We're gonna make buckets of money...\nand loads of masters and ladies smile!"
+  },
+  "1329": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you, everyone. Let's open the cafe, then.\""
+  },
+  "1330": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Of course! Fuwa Fuwa Cafe, open for business!"
+  },
+  "1331": {
+    "Personagem": "？？？",
+    "PT": "",
+    "EN": "......Master..."
+  },
+  "1332": {
+    "Personagem": "？？？",
+    "PT": "",
+    "EN": "...You're gonna catch a cold if you sleep here, y'know?"
+  },
+  "1333": {
+    "Personagem": "？？？",
+    "PT": "",
+    "EN": "Open your eyes, my familiar..."
+  },
+  "1334": {
+    "Personagem": "？？？",
+    "PT": "",
+    "EN": "...Rise and shine, Manager!"
+  },
+  "1335": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wah! Y-You guys...!\""
+  },
+  "1336": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, Manager. Did you really doze off just like that?"
+  },
+  "1337": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'm sorry. I woke up too early, so I came down to clean...\""
+  },
+  "1338": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Well, I can't blame you. It is the holy day\nof the Pilgrimage of Emblems of Forgiveness, after all."
+  },
+  "1339": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Well, ya better pull yourself together and get ready to welcome customers!"
+  },
+  "1340": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "So that we can put a smile on the faces of\nall the masters and ladies that visit Fuwa Fuwa!"
+  },
+  "1341": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Right. All right then... Fuwa Fuwa Cafe is open for business!\""
+  },
+  "1342": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "Okay!"
+  },
+  "1343": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "\"Welcome back, Master!\""
+  },
+  "1344": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"First, this is for you, Shiro. I ordered a custom-made apron for you.\nI hope you can always keep working as a maid with a smile on your face.\""
+  },
+  "1345": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wow...! Can I really have this...?!"
+  },
+  "1346": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "What a heartfelt gift... With this apron,\nI think I can overcome any problems I face with a smile!"
+  },
+  "1347": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'm glad I could see Shiro's smile.)"
+  },
+  "1348": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"For you, Miyu, I got this. I hope you can use this breadmaker\nto come up with even more new dishes to cook.\""
+  },
+  "1349": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, for real?! I've wanted this for ages!\nAre you a mind reader, manager?!"
+  },
+  "1350": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thank you soooo much!\nWhen I come up with something, you'll be the first to taste test it! ☆"
+  },
+  "1351": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'm glad I could see Miyu's smile.)"
+  },
+  "1352": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You're next, Favna. This is all I could get for you...\nbut I hope it'll make you shine all the more brightly, Master.\""
+  },
+  "1353": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A mana stone...! I can feel your warm magic emanating from within..."
+  },
+  "1354": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I believe this will protect me from misfortune.\nThank you, my familiar. I will have it on me at all times."
+  },
+  "1355": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'm glad I could see Favna's smile.)"
+  },
+  "1356": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Last but not least, Honoka. You're always so hard at work both in the office\nand on your drawing board. I hope this pen will help you relax once in a while.\""
+  },
+  "1357": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Aw, it's a glass pen! It's so lovely, I can't help but stare at it~"
+  },
+  "1358": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "It must feel real nice to draw with this.\nI'll show ya first thing when I've drawn somethin'."
+  },
+  "1359": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'm glad I could see Honoka's smile.)"
+  }
+}

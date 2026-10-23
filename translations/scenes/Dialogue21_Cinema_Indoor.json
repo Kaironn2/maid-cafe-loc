@@ -1,0 +1,2722 @@
+{
+  "0": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wait, no way... Is this...\nTh-The \"Kamen Writer BLANK\" movie...?!"
+  },
+  "1": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ever since it aired on TV as a part of the Higashi-A Movie Marathon,\nto this day, it's never gotten a physical release despite its legendary status...!\nI never thought I'd have the chance to watch a rerun here...!"
+  },
+  "2": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "As you'd expect, it features super moves and fiends specifically created for the movie.\nThey even invited the original author at the time, Koutarou Miginomori, to make a\nguest appearance! I've heard it's a whimsical and fun film!"
+  },
+  "3": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "M-Manager... Could I...\nCould I please watch the movie with you...?"
+  },
+  "4": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Of course!:option1;UNFORGIVABLE!:option2"
+  },
+  "5": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yay! Thank you so much!\nLet's go, let's go! Whoooosh!"
+  },
+  "6": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Waaah! That sounded just like Netarou-san!\nI didn't know you were a fan too, Manager! Let's go!"
+  },
+  "7": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Whew... Netarou-san was so cool.\nThat sort of passionate acting is something\nyou only see in the tokusatsu of that era!"
+  },
+  "8": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And the fact that he's destined to fight against his former friend...\nIt's the type of character drama that just never gets old..."
+  },
+  "9": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But I was thinking...\nIf I got turned into the evil Kamen Writer, Shadow Noon..."
+  },
+  "10": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And then I attacked you... What would you do?"
+  },
+  "11": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I'll use my words to convince you to stop!:option3;I'll wrap you up in my arms to stop you!:option4"
+  },
+  "12": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, of course! You'd believe that your words could reach me,\nthat I would be still lying dormant in the evil Writer's heart,\nand call out to me until the very end!"
+  },
+  "13": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I knew you would know how it goes, Manager!\nWhen the next Kamen Writer season starts, we should watch it together!"
+  },
+  "14": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hweh?! N-No, you can't do that! Absolutely not!"
+  },
+  "15": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "According to his official profile, Shadow Noon's punches are\nmuch, MUCH stronger than BLANK's! You'd get fatally wounded!"
+  },
+  "16": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "B-Besides, I wouldn't...! That's just... No!\nIt's... UNFORGIVABLE!"
+  },
+  "17": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, hey, is that Kamen Writer?\nOooh, I didn't know they had a movie."
+  },
+  "18": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huh?! You watch this kinda movie, Manager?\nI see... I've never actually watched anything like this before..."
+  },
+  "19": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Do you need to like, finish the TV series first\nbefore watching the movie for this kinda thing?"
+  },
+  "20": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You don't have to.:option5;UNFORGIVABLE!:option6"
+  },
+  "21": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ohh, okay. Then I guess I could give it a shot. Let's watch it!"
+  },
+  "22": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huh?! Is it THAT bad to skip the original?!\n...Oh, it's a line from the show? Geez, you scared me there~!"
+  },
+  "23": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "So you really like this show then, huh~? That just makes me\nwanna watch it with you even more! C'mon, let's go!"
+  },
+  "24": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wow, I got way more into it than I thought I would...\nIt was even better than I expected!"
+  },
+  "25": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But the bad guys were, like, REALLY evil...\nThey kidnapped children and turned them into monsters..."
+  },
+  "26": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Did stories like this scare you when you were a kid, manager?"
+  },
+  "27": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Now that you mention it, it was pretty scary...:option7;N-Not at all!:option8"
+  },
+  "28": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I know, right? I got, like, super scared once\nby a random show that just happened to be on TV~!"
+  },
+  "29": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, but maybe now that I'm older, it won't be as scary.\nI'll try to find the show, so watch it with me next time!"
+  },
+  "30": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Reeeally~? There's no need to act all tough,\nit's all in the past, anyway!"
+  },
+  "31": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I bet you weren't very cute as a kid, unlike now.\n...Hm? Yeah, you're pretty cute now, what about it?"
+  },
+  "32": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "What about you is cute?\n...Hehe, that's obviously a secret! ☆"
+  },
+  "33": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I see... so you enjoy epic tales of transforming heroes..."
+  },
+  "34": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Of course, I don't dislike them, myself.\nThere's something about the designs and moves that evoke\nimagery of gods and demons that resonates with my soul."
+  },
+  "35": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Are you planning on watching this now?\nVery well then... If you insist, then I will accompany you."
+  },
+  "36": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Yes, please do!:option9;UNFORGIVABLE!:option10"
+  },
+  "37": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Then please, lead me to our seats. Take care not to let the demons\nthat reside in the darkness take ahold of your ankles, familiar.\n...Fufu... a movie date..."
+  },
+  "38": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Is that... a quote said by one of the heroes in the show?\nEvidently, it's been engraved deeply in your soul..."
+  },
+  "39": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "If it's something you like that much, then as your master,\nI should learn more about it as well. Well then, will you lead the way?"
+  },
+  "40": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Fufu... The glowing red kick that pierced the last fiend...\nI felt the shockwaves from it in my very soul...!"
+  },
+  "41": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Transforming heroes... Yet another one of many possibilities\nwoven into the fate of the great Favna..."
+  },
+  "42": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Gasp! Could it be that you are secretly\ncapable of transforming into a Kamen Writer?!"
+  },
+  "43": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "How did you know...?!:option11;Unfortunately, no...:option12"
+  },
+  "44": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-I knew it! The savior who was led to me by fate herself\nwas not only my familiar, but also a hero..."
+  },
+  "45": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I shall look forward to it, then...\nTo the day you show me—and only me—your true form..."
+  },
+  "46": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Fufu, I know. Regular, powerless citizens are watching us,\nso you cannot speak the truth, no matter how much you want to..."
+  },
+  "47": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But I shall look forward to it...\nTo the day you show me—and only me—your true form..."
+  },
+  "48": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ohh, Kamen Writer really takes me back.\nI didn't know they were still around."
+  },
+  "49": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I know boys love this sorta thing, right, Manager?\nI kinda like 'em too, actually, so if you wanna watch it, let's go in!"
+  },
+  "50": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I dunno the original, but tokusatsu's all about the cool action, right?\nI should enjoy it just fine even if I can't understand the story!"
+  },
+  "51": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Yeah, it'll be fun!:option13;UNFORGIVABLE!:option14"
+  },
+  "52": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "As long as ya have fun, y'know?\nC'mon then, what're ya waitin' for?"
+  },
+  "53": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Huhhh...? Ya mean I should take it seriously and watch the show first?\nSheesh, tokusatsu fans are always so insistent..."
+  },
+  "54": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Then how 'bout you tell me aaall about it after the movie?\nOkay? Okay! C'mon then!"
+  },
+  "55": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Wow, that was even better than I was expectin'...\nI could feel the passion and hard work that must've went into it."
+  },
+  "56": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But the best part of it all...\nwas your face when your eyes were totally glued to the screen!"
+  },
+  "57": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "When Kamen Writer was in danger, I could even hear ya gulp in anticipation!\nYour love for the show really showed there."
+  },
+  "58": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Th-That's embarrassing...:option15;W-Watch the movie, not me!:option16"
+  },
+  "59": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ahaha! There's nothin' to be embarrassed about.\nIt was really fun to watch!"
+  },
+  "60": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Could ya tell me more about the things ya like\nfrom here on out? Please?"
+  },
+  "61": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Yeah, yeah, I hear ya. Of course I watched the movie!\nIt was a real feast for the eyes!"
+  },
+  "62": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I can't wait to see how ya look when ya watch other movies! Hehe!"
+  },
+  "63": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh! Don't they show this movie on TV all the time?\nIt's the one with the cool car and time machine!"
+  },
+  "64": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ehehe... You know, I've never actually watched it all the way through...\nI thought it'd be hard to understand, since it's about time travel and all..."
+  },
+  "65": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But it's one of the most well-known movies ever, so it must be good...\nI wonder if someone who doesn't know anything about sci-fi can still enjoy it?"
+  },
+  "66": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Of course, it's a lighthearted movie!:option17;It may not look like it, but it's heavy!:option18"
+  },
+  "67": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Really? Then since we're already here,\nmaybe I'll take the chance to watch it properly!"
+  },
+  "68": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wait, really? Then could you please explain it to me afterwards?"
+  },
+  "69": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Whooooa... That was such a good movie!"
+  },
+  "70": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "When the lightning struck JUST as they recovered the data...\nI was on the edge of my seat until the end!"
+  },
+  "71": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But at the end, both Murphy and Dog left in the repaired time machine..."
+  },
+  "72": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, if time machines were real,\nwould you go to the past or the future?"
+  },
+  "73": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "The future, of course.:option19;The past, of course.:option20"
+  },
+  "74": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, me too! I'd try to find out if that anime or movie gets a sequel,\nor the ending to that manga... or if that show really comes out some day...!"
+  },
+  "75": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "If you ever go to the future, please tell me\nall about the anime to come! In secret!"
+  },
+  "76": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "That sounds great too! Manga that's gone out of print,\nmerch that's become unavailable... I'd love to collect them all!"
+  },
+  "77": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Th-There's a piece of limited edition merch I missed a long time ago...\nIf you ever get to go to the past, please take me with you!"
+  },
+  "78": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, this is a great movie~! I always end up\nwatching until the end whenever it airs on TV!"
+  },
+  "79": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's amazing how some movies are so good that you can't help\nbut keep watching, even if you already know the plot!\nI dunno, maybe the pacing is just that good or something..."
+  },
+  "80": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, have you watched this movie before, Manager?"
+  },
+  "81": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Of course I have!:option21;Actually, I haven't...:option22"
+  },
+  "82": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeah, I figured~! Oh, but I've never watched it in a theater before...\nAll right then, let's go watch it together!"
+  },
+  "83": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "The last part with the clock tower must be so cool to watch on the big screen!\nOMG, I'm already getting so excited even though I know exactly what happens!"
+  },
+  "84": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, seriously?! Then you're SO lucky! I can't believe\nyou'll be watching this for the first time in a theater!\nI'm soooo jealous!"
+  },
+  "85": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Let's watch it together! Ohhh nooo, I gotta be careful\nnot to spoil you... I'll try to stay quiet, I prommy! C'mon!"
+  },
+  "86": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wow! It's really such a good movie, no matter how many times I see it!\nThe clock tower scene always gets me so anxious!"
+  },
+  "87": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "By the way, didn't you use to work in a super toxic workplace before\ncoming to Fuwa Fuwa? If you, like, got the chance to go back to the past..."
+  },
+  "88": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Do you think you'd tell your past self,\n\"No matter what you do, do NOT apply to that company!\"\nor something like that?"
+  },
+  "89": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "If I interfere with the past, the future would change, causing a time paradox!:option;Actually, I might...:option24"
+  },
+  "90": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeah, that's the problem, huh?\nIt wouldn't be fair if you could start over!"
+  },
+  "91": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Besides, if you changed the past, you might end up making it\nso we never meet or something! So you'd better not do that!"
+  },
+  "92": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wow... Your old workplace must've really sucked... There, there..."
+  },
+  "93": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But hey, that's the past that led you to our cafe, right?\nYou might wanna think twice about changing it!"
+  },
+  "94": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Hmm... An adventure about travelling to the past to alter the future...\nI've always been curious about this one."
+  },
+  "95": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "How will they utilize the power of time manipulation,\nsomething normally forbidden and beyond human reach...?\nFufu, how intriguing."
+  },
+  "96": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Oh, but it's quite well-known, so... maybe you've already watched it?\nIf you have, then... maybe you would be bored if you watch it again..."
+  },
+  "97": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "It's a movie that's fun every time!:option25;It'd be my first time watching with someone else.:option26;"
+  },
+  "98": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Hmm, that's quite the high praise... But I suppose the fact that it's being shown\nagain and again is proof of its excellent quality, even upon repeated viewings."
+  },
+  "99": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "If so, then the great Favna shall find out the source of\nits power to captivate the masses... Lead the way, my familiar!"
+  },
+  "100": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "O-Oh, is that so?! Th-Then this, too, must be fate.\nI will allow you to accompany me on my first viewing of this legendary tale!"
+  },
+  "101": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The great Favna will be the judge, and examine the weight\nof the sin of time manipulation! Now, my familiar, lead the way!\n...Eheheh."
+  },
+  "102": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Wow... That was so exciting...!\nAh, no, I mean... I see... What a frightening tale."
+  },
+  "103": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Changing their own fates with their own actions...\nThe friendship between the two brave adventurers was quite compelling."
+  },
+  "104": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "By the way... Wh-What do you think?\nDo you think even fate that's set in stone can be changed?"
+  },
+  "105": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I think fate can be changed.:option27;I think there are things that can never be changed.:option28"
+  },
+  "106": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Y-Yes, maybe so. Perhaps it is possible to turn the gears of fate\nwith enough determination, just like the adventurers in the movie..."
+  },
+  "107": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "However, don't forget that there are things that you wouldn't want to change...\nNo, that there are things mere humans can never change in a way that matters..."
+  },
+  "108": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Y-Yes, that's right! The fact that you're destined to\nbecome my familiar will never change, no matter what!"
+  },
+  "109": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "As long as you have the proof of our pact,\nno matter how much time passes, we will surely... Fufu..."
+  },
+  "110": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh hey, it's BFF. They're doin' a rerun here?\nIt'd be fun to watch that on the big screen!"
+  },
+  "111": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Did ya know? BFF has such a strong plot and structure that they\nsay it's one of the best ways to learn manga storytelling!"
+  },
+  "112": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And it's true! When I watched it on TV, there were scenes that made me go,\n\"Ohh! I didn't see that comin'!\" What do ya think, Manager?"
+  },
+  "113": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I think it's really well-made.:option29;I've actually never watched it before...:option30"
+  },
+  "114": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "You're right about that. It's got the perfect balance between comedy and drama...\nIt'd be a great reference for the manga I've been comin' up with."
+  },
+  "115": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "All right then! Let's watch it together!\nAnd then I'll have ya brainstorm with me afterwards!"
+  },
+  "116": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Huhhhh?! Really? I didn't think there'd be anyone who'd NEVER watched it\nbefore... Oh, but it IS pretty old, and not everyone likes movies, so..."
+  },
+  "117": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "All right then, I'll explain everythin' to ya afterwards if you need it! Let's go in!"
+  },
+  "118": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Hoo, that was great~! Even though I already knew what would happen,\nseein' it on the big screen feels so different, and everythin' looks so impressive."
+  },
+  "119": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "It was the first time I watched it with someone else too...\nOh right, imagine this for a minute, Manager."
+  },
+  "120": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "If ya went back in time and fell in love with\na cute girl from the past... What would you do?"
+  },
+  "121": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Would ya stay in the past to be with her,\nor find a way to go back to your own time?"
+  },
+  "122": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I'd stay in the past to be with her.:option31;I'd find a way to go back to my own time."
+  },
+  "123": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ohhh, really? You'd throw away your modern life\njust for the girl of your dreams...? How romantic!"
+  },
+  "124": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, but if ya do that... I and the other girls would be sad that you're gone,\nso we'd be happy if ya could cut her off after a while... Just kiddin'."
+  },
+  "125": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Y-Yeah, that's what I thought!\nFuwa Fuwa's just gotten back on track, after all!"
+  },
+  "126": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh! But if that girl is REALLY cute, ya could bring her back\nand let her be a maid at our cafe too... Hoo hoo! What a ladykiller!"
+  },
+  "127": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's finally here! The biggest kaijuu blockbuster ever,\ndirected by THE Annouji and filled with love and respect\ntowards the tokusatsu genre!"
+  },
+  "128": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I don't remember much about the original series\nother than how my dad used to rent tapes of it\nand watch them with me when I was little..."
+  },
+  "129": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "How about you, Manager? Do you like kaijuu movies?"
+  },
+  "130": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Giant monsters are the coolest!:option33;I haven't watched much, they look scary...:option34"
+  },
+  "131": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I know, right? And seeing how we small, insignificant humans try to\nfight against them... Trying to figure out if they're friend or foe... it's the coolest!"
+  },
+  "132": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Come on, let's fight Gojida as it wreaks havoc on the big screen!"
+  },
+  "133": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "N-Now that you mention it, a lot of the overseas versions\nare disaster or horror films..."
+  },
+  "134": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "B-But this one is made in Japan through and through!\nSo it should be fine! L-Let's gooo...!"
+  },
+  "135": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Whoa... Just when you think the government threw everything\nthey had at Gojida and finally defeated it, that ending... That ending...!"
+  },
+  "136": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This might mean a sequel is coming, Manager!"
+  },
+  "137": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Let's watch that together when it comes out then.:optoin35;No, that director loves teasing sequels and not making them...!:option36"
+  },
+  "138": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, of course!"
+  },
+  "139": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And if we're going to do that, we should watch\nthe original Gojida movies too before the sequel!"
+  },
+  "140": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I see... Maybe he left it open to interpretation on purpose...\nThat sounds possible, too!"
+  },
+  "141": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'd love to know how you interpret that ending, Manager!\nOh, but could we watch it one more time first?!"
+  },
+  "142": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh hey, it's Gojida! Is this one of the old ones or a newer one?"
+  },
+  "143": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huh?! This JUST came out? Oooh... It looks a little,\nI dunno, more intimidating than the suits did back then!"
+  },
+  "144": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I wanna watch it toooo! It's, like, a disaster film, right?\nDo I need to know anything about the old movies to watch this?"
+  },
+  "145": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "No, you'll be fine!:option37;But this is an Annouji movie, is that okay?:option38"
+  },
+  "146": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeah, I figured~! Then I'll go buy some popcorn and drinks.\nThis looks like the perfect movie for that!"
+  },
+  "147": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, who? Is he a famous director?\n...Ohh, I remember! He's the Nevergelion guy!"
+  },
+  "148": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That movie was real mysterious and full of suspense.\nAnd now he's made a kaijuu flick? What would that look like...?\n...Now I'm even more curious. Let's watch it!"
+  },
+  "149": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wow... I managed to stay focused throughout the entire movie...\nI didn't know kaijuu movies were so good!"
+  },
+  "150": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You know when Gojida came ashore, and he stepped on the part of town\nFuwa Fuwa's in and totally wrecked it? I caught myself looking for the cafe!"
+  },
+  "151": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But what would you do if that happened, Manager?\nIf you were told to leave the cafe behind and hide from Gojida..."
+  },
+  "152": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I'll die alongside the cafe...!:option39;I'll use the secret Electric Street Cannon to stop Gojida!:option40"
+  },
+  "153": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Nooooo, you can't do that! You have to run away with us!\nI'll get mad if you throw your life away like that!"
+  },
+  "154": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "As long as we all survive, we could start over somewhere else!\nYou should put your life above everything else at a time like this!\n...O-Of course I'm just talking like, hypothetically! It's just a story!"
+  },
+  "155": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ahahaha! OMG, that sounds so plausible for some reason!\nThe shops around here definitely have some kinda secret weapon!"
+  },
+  "156": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But yeah, it'd be fun to fight back with everyone else!\nLet's watch another kaijuu movie together when one comes out!"
+  },
+  "157": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Y-You wish to watch this movie...?\nThe Doomsday Dragon of Destruction who tramples upon mankind...?"
+  },
+  "158": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-I have seen the dragon once, when I was but a young child,\non the T—uh, the Phantasmic Box... And it was a terrifying thing to behold..."
+  },
+  "159": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-I would prefer not to witness the deaths of countless people...\nDo we, um, have to watch this together...?"
+  },
+  "160": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "It won't be so scary if we watch together.:opton41;Then maybe I should go in by myself.:option42"
+  },
+  "161": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A-Are you sure...? Well then, if this is our fate,\nthe great Favna shall accompany you on this quest...!"
+  },
+  "162": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "B-But I would appreciate if you could... um...\nIf you could maybe possibly hold my hand...\nwhen it gets scary...? Please...?"
+  },
+  "163": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Th-That's even worse...! It is your duty as\nmy familiar to stay by my side at all times...!"
+  },
+  "164": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I suppose I have no choice but to accompany you, just this once...\nBut next time, you will adhere to MY choice. Understood...?"
+  },
+  "165": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...It's over... Those puny mortals stood up to their doom\nwith the full extent of human knowledge... How moving...!"
+  },
+  "166": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Oh, um... That scene where the dragon's terrible beam of light\nrazed a town to the ground... It was truly horrifying to watch..."
+  },
+  "167": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...And so I think I... I probably gripped\nyour hand very tightly... D-Did it hurt...?"
+  },
+  "168": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I'm just glad I could help you feel less scared.:option43;Let's hold hands again next time we watch a kaijuu movie.:option44"
+  },
+  "169": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Y-Yes... It was thanks to you... that I could watch\nuntil the end without crying... Th-Thank you..."
+  },
+  "170": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Next time...? R-Right! Of course!\nI will be fine as long as I have my familiar by my side."
+  },
+  "171": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "B-But I think... it would be better... if we could\nwatch something that's... not so scary next time..."
+  },
+  "172": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ooh, Gojida. He's got a real mean look nowadays, huh..."
+  },
+  "173": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Are we watchin' this, Manager? I don't mind, but...\nFufu, just don't get ya hopes up, all right?"
+  },
+  "174": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I bet you're lookin' forward to me gettin' scared and going \"Kyaaaa!\"\nwhile grippin' your hand more than the actual movie, ain'tcha?"
+  },
+  "175": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Well, too bad! I'm not scared one bit as long as it's fictional!\nSorry to disappointed ya!"
+  },
+  "176": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I'm so disappointed...:option45;I might actually be the one gripping your hand...:option46"
+  },
+  "177": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ahaha! Aw, don't look so sad.\nLet's just enjoy the movie!"
+  },
+  "178": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I haven't watched a kaijuu movie in a looong time, and it's... my\nfirst time watchin' with someone else. This is kinda excitin'!"
+  },
+  "179": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Huh?! What am I supposed to do if ya\ngo all helpless maiden on me?!"
+  },
+  "180": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "J-Just watch the movie normally, you're grown-up enough to do that...\nI wouldn't know what to do...! A-Anyway, let's go!"
+  },
+  "181": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Whew, that was cool!"
+  },
+  "182": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "The old movies were more like... \"A man and woman,\ntrapped in a town under the kaijuu's attack!\" and stuff,\nbut I liked how this one was an all-out, no-nonsense fight against Gojida."
+  },
+  "183": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, but what do ya think, Manager?\nDo ya like movies more if they have romantic stuff in 'em?"
+  },
+  "184": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "It makes me feel a little uncomfortable, actually...:option47;Bring on the steamy scenes!:option48"
+  },
+  "185": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, yeah, me too... It makes my heart race\nand then I can't focus on the actual story."
+  },
+  "186": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Especially when you're sittin' right next to me, I start projectin'\nonto the characters and— Uhh, wait, no, it's not like THAT..."
+  },
+  "187": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Whoa, no shame at all.\nW-Well, maybe that's just how men are...\nIt's not like ya can help bein' interested..."
+  },
+  "188": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But, um... Could ya pick somethin' milder if you're watchin' with me?\n...I don't want my poor heart to go into overdrive...!"
+  },
+  "189": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, do you follow this series, Manager?"
+  },
+  "190": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I've always been a little interested in Cast Iron Skillet Man,\nsince the suit looks cool and his actor's also pretty dapper..."
+  },
+  "191": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But there's just so many different entries in the series,\nI have no idea which is which... Can I still enjoy this movie\nif I don't know anything about the series as a whole...?"
+  },
+  "192": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Just go by the rule of cool!:option49;You'd probably enjoy it more if you did.:option50"
+  },
+  "193": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "R-Right! There's nothing wrong with getting into the series\nstarting with the cool action and CGI!"
+  },
+  "194": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Well then, I want to watch this too, Manager!\nWhoa... I hope Cast Iron Skillet Man has a lot of cool fight scenes...!"
+  },
+  "195": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I see. Then... I'll watch this as a kind of prep work for the rest of the series!\nI might not know what's going on at all, but I could always watch it again!"
+  },
+  "196": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I want to follow the series with you, Manager,\nand I promise I'll watch all the others too, so let's go!"
+  },
+  "197": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oooh, what was this called again?\nThat series with Cast Iron Skillet Man and that\nhuge green guy, and a bunch of other guys too!"
+  },
+  "198": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I've seen Cast Iron Skillet Man on TV before,\nbut I don't know any of the others.\nWhat are they even fighting?"
+  },
+  "199": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Aliens planning to take over the world and such.:option51;I don't really know, either...:option52"
+  },
+  "200": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huh? Wait, that sounds pretty simple, actually.\nI could watch it with you if you want!"
+  },
+  "201": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "And it looks like Cast Iron Skillet Man is the main character,\nso I'll probably have fun. C'mon, let's watch it!"
+  },
+  "202": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ahaha! So you came to watch it even though\nyou have no idea what happens either?\nThen I guess I'll enjoy it no problem!"
+  },
+  "203": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's an American action movie, so I can just shut off\nmy brain and enjoy the show, probably! Let's go in!"
+  },
+  "204": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Hmm... These are transforming heroes that originate\nfrom the lands across the sea. Saviors that assemble\nat the call of a great power... it must be something like that."
+  },
+  "205": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I have occasionally seen them on the phantasmic box,\nbut I have limited knowledge of them..."
+  },
+  "206": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I... I know you are fond of epic tales of transforming heroes...\nbut would it not be less enjoyable if you watched them with me?"
+  },
+  "207": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Not at all. Let's watch together.:option53;Then I guess I won't watch it either.:option54"
+  },
+  "208": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A-Are you sure? In that case,\nI shall accompany you...!"
+  },
+  "209": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "One's first encounter is always determined by fate,\nno matter what it may be... If it's something you like,\nI should be able to enjoy it as well. Fufu..."
+  },
+  "210": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Y-You need not suppress your desires!\nI would rather accompany you than have you go alone..."
+  },
+  "211": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "However, there is a chance that the story ends up to be\ntoo difficult for me to resonate with... So if that happens...\nit would be nice if you could, ah... teach me more afterwards..."
+  },
+  "212": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Whoa! Hollyooze has so many tokusatsu heroes too nowadays.\nI only know that one movie from a looong time ago...\nWhat was it called... Robocup?"
+  },
+  "213": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "It looks like somethin' you'd like, since it's so action-packed.\nI do like watchin' a spectacle on the silver screen too."
+  },
+  "214": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And honestly, when it comes to movies, sometimes it's enough\nif they just go at it and show off some flashy action the whole time,\nand nothin' else matters much. I reckon that applies to this one too?"
+  },
+  "215": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "That's totally fine!:option55;It's actually a real tearjerker.:option56"
+  },
+  "216": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Right? As long as they're dukin' it out on the big screen, I'm satisfied."
+  },
+  "217": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And it'd be even better if ya get scared\nso I get to see your reactions! C'mon, let's go!"
+  },
+  "218": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ooh, so they're like that nowadays? Sounds great!\nIt must be pretty emotional if it made ya cry. I'm excited!"
+  },
+  "219": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "C'mon, let's go in already! I can't wait to see ya\nwith your eyes all red and puffy after the show...\nOh, I have a hanky with me, so if you gotta cry, let it all out!"
+  },
+  "220": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ough, that was amazing... I teared up from just\nthe hot-blooded action and sheer amount of cool...\nThat's never happened to me before..."
+  },
+  "221": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "When the Captain kept fighting even though he was the only one left,\nand then his friends got back on their feet to help him... that was so cool!"
+  },
+  "222": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "If everyone at Fuwa Fuwa were the Potluck-Vengers,\nI think you would be Cast Iron Skillet Man, Manager!"
+  },
+  "223": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I don't know if I'm cool enough...:option57;I don't know if I'm enough of a womanizer...:option58"
+  },
+  "224": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes you are! You can be a little mysterious since you're so quiet,\nbut you're a hero who always pushes us forward!"
+  },
+  "225": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You could probably shoot lasers from your hands\nwhen it really comes down to it, too!"
+  },
+  "226": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh? Is Cast Iron Skillet Man a womanizer?!\nN-Nooo! Th-That's not what I meant...!"
+  },
+  "227": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, but what if everyone at Fuwa Fuwa fell in love with you...\nWait, what am I saying? That's not what I...!"
+  },
+  "228": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wow! I didn't really get all of it, but it was really cool!\nThey kept using all those technical words I don't know, but still!"
+  },
+  "229": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Cast Iron Skillet Man and Scorpiender and all those other guys\nwith superpowers were great and all, but y'know that one\nnormal guy who did his best with a bow and arrows? He was so cool!"
+  },
+  "230": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "This goes for the games I play too, but I like when characters are,\nlike, super reliable and support the whole team from the sidelines...\nYeah, I kinda look up to that kinda character!"
+  },
+  "231": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You're a reliable supporter too, Miyu.:option59;I'm the supporting character, you're the main character!:option60"
+  },
+  "232": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, really? Do you really think so? Ehe, that actually makes me so happy!\nIt's just really cool when characters are really good at one thing\nlike that guy with the bow and arrow, y'know?"
+  },
+  "233": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I want you and the others to be able to count on me\nwhenever you need... so I'll try to do even better!"
+  },
+  "234": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wh—huh?! I-I'm nothing like that! Okay, I kinda get the idea\nthat you're the normal guy with the bow and arrows..."
+  },
+  "235": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But when you think about it, Fuwa Fuwa wouldn't do as well\nif even just one of us were missing, so... I guess everyone is\na main character, just as important as Cast Iron Skillet Man!"
+  },
+  "236": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "*sigh*... An ensemble of saviors facing their mighty fate of certain doom...\nI think I understand why mortals are so invested in their story..."
+  },
+  "237": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And among them was the lone Borscht Witch...\nGrieving the loss of her younger brother, she threw herself into the fray,\ncarrying her painful past on her shoulders... What a beautiful character...!"
+  },
+  "238": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I'm glad you found a character you like.:option61;She reminded me of you.:option62"
+  },
+  "239": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Yes... This was an encounter made possible by the guidance of fate...\nThis newfound joy is thanks to this interaction with your interests..."
+  },
+  "240": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Um, I... I would really like it if, uh, from now on...\nI could experience even more stories with you..."
+  },
+  "241": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Hweh?! Th-That's...! Although Borscht IS a wielder of\nimmense power just like I am, our fates differ greatly...!"
+  },
+  "242": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But, and only because I am interested in gaining knowledge in\nwhat lies unknown to fate herself... C-Could you tell me...\nwhat exactly about her reminded you of me...? In detail, please...?"
+  },
+  "243": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ough... That was so... Wh-When Borscht's li'l bro\nsacrificed himself to save the kids and his friends...\nAnyone could tell that Borscht was devastated..."
+  },
+  "244": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But... *sniff* But still... she's so strong. Even through the pain,\nshe fought the best she could until the very end... But even then...\nher brother never came back... Arghhh, it hurts so good..."
+  },
+  "245": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Wh-What would ya have done, Manager?\nIf ya ever found yourself in a situation where you'd die\nif you saved someone, but you have to save them...?"
+  },
+  "246": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I would save them without a second thought.:option63;If it would save you, I wouldn't mind dying.:option64"
+  },
+  "247": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I see... you're so cool...\nBut yeah, I can see ya doin' that."
+  },
+  "248": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "After all, ya agreed to be the new manager for a cafe when\nit was hangin' on by a thread! You're a Hollyooze-level softie!\nYa better rely on us too so ya don't die from overwork though, got it?"
+  },
+  "249": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Hweh?! Wh-Why did ya turn it into savin' ME?!\nThat's not what I asked! I meant like someone\nyou just met on the street, like in the movie...!"
+  },
+  "250": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "B-But, uh... thanks... I'm happy to hear that...\nI-I'm happy, but... ya should take care of yourself too...\nOr you'd make a lot of people sad..."
+  },
+  "251": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's finally time... for \"Wall Purger's Winter.\""
+  },
+  "252": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I was fortunate—or unfortunate—enough to watch the third episode\non live TV when it first aired, and that death really shook me to—\nAaah! Wait, I shouldn't spoil you like that! I'm sorry!"
+  },
+  "253": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Well then, Manager... are you ready to make a contract\nwith me and become a Magical Cannon Girl?"
+  },
+  "254": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Of course I am.:option65;I just don't get it.:option66"
+  },
+  "255": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Great! No matter what shocking or horrifying things happen...\nplease stick with me until the very end, Manager!"
+  },
+  "256": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Miracles and cannons do exist! Let's go!"
+  },
+  "257": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Which means you've already signed\nthe contract with Tobey... I should've known!"
+  },
+  "258": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm not alone anymore... Let's go!"
+  },
+  "259": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh hey, it's Meguca. I didn't know it was already in theaters!"
+  },
+  "260": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Shiro gushed to me about it in the locker room the other day.\nShe said something about... who was it? Honohono?\nAnd how incredible of a character she is."
+  },
+  "261": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's got a similar vibe to Magic Angel, and Shiro seems\nto like it a lot, so I've been a little curious. Let's watch it!"
+  },
+  "262": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "M-Magical Cannon Girls...! Th-This must be a story\nI was destined to encounter... I can see it written in the cards!"
+  },
+  "263": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Magic beyond human understanding, sinful fusions of machinery...\nTo think they achieve such terrifying power by giving up their mortal soul...!"
+  },
+  "264": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The Apostle of White spoke so passionately about it the other day\nwhen we were in the locker room... It would be enjoyable\nto talk to her about this Meguca movie, wouldn't it..."
+  },
+  "265": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...W-Well then, let us proceed, my familiar!\nI know that this story will intertwine with my destiny\nand shall call forth a greater power of reason!"
+  },
+  "266": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Magical Cannon Girls... Ya really are an otaku through 'n' through.\nYa like this kinda anime where all of 'em are cute girls?"
+  },
+  "267": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, I don't mind, of course. Don't be shy, we can watch together.\nAnd I don't think this one is exactly sexy or anythin', right?"
+  },
+  "268": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "It's not!:option67;It might be!:option68"
+  },
+  "269": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ya don't gotta deny it that strongly, I understand!\nBoys love this kinda stuff. C'mon, let's go in!"
+  },
+  "270": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Huh? They all look so cute and innocent,\nbut ya think there might be sexy stuff in there? Ohhh..."
+  },
+  "271": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Well, that's fine with me. If it does turn out to be cheeky,\nI'd get the chance to tease ya about it after the movie! Let's go in!"
+  },
+  "272": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Augh... Honohono... Honohono is just so good I can't help but stan...\nMy heart hurts just thinking about her... The story was even\nmore devastating on the big screen compared to the TV..."
+  },
+  "273": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But it's such a cruel fate... In order to grant the wish of someone\ndear to them, the girls have to turn into mechanical\nMagical Cannon Girls and fight until their very last moments..."
+  },
+  "274": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, if one day Tobey asked me to become a Magical Cannon Girl\nand I started considering it to grant a wish... What would you do?"
+  },
+  "275": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "If it's an important wish, I won't stop you.:option69;I'll grant that wish for you instead.:option70"
+  },
+  "276": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "O-Oh, oh no, um...\nIt would be something important, yes, but..."
+  },
+  "277": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "If I'm not careful, I might end up becoming a Magical Cannon Girl\nwith a frivolous wish like, \"I wish for a limited edition box set!\"\nor something... Ahaha..."
+  },
+  "278": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-I'm so sorry, Manager. If you catch me about\nto make a wish and sign the contract with Tobey,\nmake sure to stop me... please."
+  },
+  "279": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hwehhh?! Th-That's the same... That's the same as how\nHonohono wanted to protect Madomi... Wh-Which means..."
+  },
+  "280": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "N-No, Manager, that sounds too much like a... a...\nm-m-m-marriage proposal!\nYou can't just say that! You just can't!"
+  },
+  "281": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oooh, that was, like, really gripping!\nThe time travel stuff was kinda complicated,\nso I didn't really get all of it, though."
+  },
+  "282": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "When An-chan rushed in to stop the berserk Sayako-chan...\nIt made me wanna cry so bad. I get why Shiro's so into it now... Oh!"
+  },
+  "283": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We should do a Meguca cosplay group with the Fuwa Fuwa team!\nLet's do some kinda collab cafe themed thing! And of course, you'd be...?"
+  },
+  "284": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Make a contract with me and become a Magical Cannon Girl!:option71;Don't tell any of our classmates!:option72"
+  },
+  "285": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ahahaha! Yep, that's it, that's totally it!\nI knew you'd get it!"
+  },
+  "286": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We probably wouldn't be able to actually cosplay the characters,\nwhat with copyright and whatnot, but we could try to, like,\nrecreate the vibe. I think it'd be a lot of fun!"
+  },
+  "287": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huhhhh?! You're gonna cosplay Madomi?!\nAhaha! Wait, maybe you'd look pretty good, though? Ahahaha!"
+  },
+  "288": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, but maybe a certain demographic would be super excited about it.\nLet's think about it with the rest of the team someday!"
+  },
+  "289": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "*sigh*... What a terrifying tale...\nSo it is true that great power requires great sacrifice..."
+  },
+  "290": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But the Magical Cannon Girls forming strong bonds\nand fighting against their fate... It was such a beautiful sight,\nit resonated deeply with my soul."
+  },
+  "291": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Familiar... Do you think I would, um...\nI would be able to make friends\nconnected by fate like the girls in the story...?"
+  },
+  "292": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You have everyone at Fuwa Fuwa.:option73;You have me.:option74"
+  },
+  "293": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Th-That's right! The Apostle of White and Chef Rouge de Magie...\nThey are my companions in fate!"
+  },
+  "294": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...I would love... to become Fuwa Fuwa Magical Cannon Girls with them..."
+  },
+  "295": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Huh?! No, y-you are my familiar, not my friend,\nand the man of my destin—wait, that's not what I meant...!"
+  },
+  "296": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "What I'm trying to say is, you are the Tobey to my Magical Cannon Girl!\nWhich means, you and I accompany each other in the cycle of fate!\nY-You're not just a friend...!"
+  },
+  "297": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Wow... That wasn't even the tiniest bit sexy...\nbut it was such an amazing movie...!"
+  },
+  "298": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I liked how when they had their wishes granted and turned into\nMagical Cannon Girls, each of them resembled a different weapon.\nI go crazy for those kinds of details."
+  },
+  "299": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "What kinda weapon do ya think you'd look like\nif ya were a Magical Cannon Girl? Disregard the girl part!"
+  },
+  "300": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "A Gatling gun that shoots infinite spare change:option75;A flamethrower than can cook anything, anywhere:option76"
+  },
+  "301": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Wow, okay, that's real practical of ya.\nOh, but that mean you'd be perfect for\ngivin' offerings at our shrine! That sounds great!"
+  },
+  "302": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And Fuwa Fuwa would have a bottomless budget!\nHey, maybe ya should go look for Tobey and get him\nto make ya a Magical Cannon Girl, and quick! Ahaha!"
+  },
+  "303": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Hmm, ain't that the sorta weapon that looks useful,\nbut has a surprisingly limited range of uses?\nYa can't even cook much with just fire and nothin' else!"
+  },
+  "304": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "In that case, I could join ya and turn into a Magical Cannon Girl\nwho can create all sorts of cookin' utensils...\nBut hey, we still wouldn't have food! This is hard... hehe."
+  },
+  "305": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh... So it's finally time to watch this movie...\nDo you have a handkerchief ready, Manager?"
+  },
+  "306": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "To tell the truth... I've actually been avoiding this series\non purpose, because, um... I could tell that it would\ndo everything it could to make me cry..."
+  },
+  "307": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "So, I... I might actually end up bawling my eyes out...\nA-Are you really okay with that...?"
+  },
+  "308": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I brought a towel, so it'll be fine.:option77;I picked this shirt for you to cry on, so don't worry.:option78"
+  },
+  "309": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Y-You did? You're so well-prepared, Manager!"
+  },
+  "310": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Th-Then I might just borrow it if things get hairy...\nOh, but if you're going to cry too, you should use it first!"
+  },
+  "311": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hwaaah?! Wh-What are you saying, Manager?!\nI-I wouldn't cling onto you and cry into your shirt...!"
+  },
+  "312": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh but, um, the tears might get on you anyways...\nI-I'll try my best not to cry TOO hard...!"
+  },
+  "313": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh... M-Manager, are we watching this?\nOhhh boy..."
+  },
+  "314": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "A-Actually, I've read the original light novel,\nand I cried so much when I read it alone in my room."
+  },
+  "315": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "S-So, um... If that gets paired with such pretty animations,\nmusic, voice acting, and stuff, I'd be done for...\nA-Are you sure you wanna see me being that cringe?"
+  },
+  "316": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I wouldn't mind at all, don't worry.:option79;If anything, I'm worried you'd find me cringe.:option80"
+  },
+  "317": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "R-Really? Are you really sure?\nI'm positive I'm gonna straight up bawl, though."
+  },
+  "318": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Okay... In that case, I'm gonna cry so hard, all my makeup melts off my face.\nJust get me a towel and a drink after the show, Manager!"
+  },
+  "319": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, do you cry easily too, Manager!\nGreat, then I won't have to worry!"
+  },
+  "320": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Do you need a hankie? I have two!\nLet's really open those floodgates!\nIt's, like, a detox for your tear ducts!"
+  },
+  "321": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-Is this a movie someone as, ah...\ninexperienced as I can watch?"
+  },
+  "322": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-It says \"I love you\" here, so it must be, um,\na romantic story of the love between two mortals...\nI-I've never really watched this sort of thing before..."
+  },
+  "323": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It feels a little, um, embarrassing...\nE-Especially since... I'm with you... right now..."
+  },
+  "324": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Maybe you'll become more mature after watching this.:option81;It's actually a little embarrassing for me too...:option82"
+  },
+  "325": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-I see... Very well, then. The fact that you and I\nare here on this day might also be the will of fate."
+  },
+  "326": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The Great Favna lives and dies by her pact, so I have never had the use\nfor such frivolous things as love... b-but we shall see. Let us proceed!"
+  },
+  "327": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-Is that so. If even my more experienced familiar thinks so...\nthen I suppose the hesitation I feel is not misdirected."
+  },
+  "328": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "However... If I miss this chance, then I may\nforever lose the ability to truly convey my love...\nV-Very well, then. Let us proceed!"
+  },
+  "329": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, M-Manager... Um...\nThis is embarrassin' to say, but..."
+  },
+  "330": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I actually... really wanted to watch this...\nWould ya mind... watchin' it with me...?"
+  },
+  "331": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I-I mean! I know this kinda sweet sappy love story\nwith obvious heartstring-tuggin' moments doesn't\nsuit me... but it's also... kinda embarrassin' to watch alone..."
+  },
+  "332": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Of course, let's watch it together.:option83;So you won't be embarrassed if I watch it with you?:option84"
+  },
+  "333": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Th-Thanks! Phew, I was about to give up\non watchin' this in theaters... Thank goodness."
+  },
+  "334": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I-I'm not the kinda person ya should be watchin' this\nkinda movie with, I don't think... B-But I'm glad...\nAnyway, let's go in!"
+  },
+  "335": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...!! A-Actually, now that I think about it...\nThis is THE kinda movie ya watch on dates, ain't it..."
+  },
+  "336": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "B-But if it's you, then... it's okay. Let's go.\nC-C'mon now... take me in there with ya already..."
+  },
+  "337": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ough... *sniff*... hic... Eugh...\nThat was... so good... so... gooood..."
+  },
+  "338": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "S-Sorry... I-I'm crying so hard... ough...\nthat I c-can't... speak properly... hgh..."
+  },
+  "339": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Let's sit down here until you calm down.:option85;Let's go find a place to sit down until you calm down.:option86"
+  },
+  "340": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hic... Y-Yes... Violetta-chan... and th-the colonel...\nOugh, I'm so happy for them...!"
+  },
+  "341": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um, could you... *sniff* Could you be with me...\nuntil I c-calm down... augh... uuuu..."
+  },
+  "342": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "N-Nooo! ...I-I can't show *sniff* I can't show\nmy face when I look like... like this... Eugh..."
+  },
+  "343": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-I'm... sorry... C-Could... could you w-wait for...\n*sigh*... Ohh I'm s-so happy for them.. hgh..."
+  },
+  "344": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hooh... I cried so much... sooo much...\nVioletta-chan... you did your best..."
+  },
+  "345": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's been a while since I read the original...\nbut even back then, it... It's really hard\nto put into words, but, like..."
+  },
+  "346": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Manager... What is love, anyway...?"
+  },
+  "347": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I don't know yet, either.:option87;I think we'll find out someday, you and me.:option88"
+  },
+  "348": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...I see, so you don't know either...\nHehe, wow, we're matchies..."
+  },
+  "349": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "This is hard to put into words too, but...\nIt just feels like it's definitely... there, y'know...?\nDon't you feel it? Hehe..."
+  },
+  "350": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huh, wha... Hey, stoppp!\nDon't say it like that, that sounds so wrong!"
+  },
+  "351": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But, ehehe... Maybe you're right. I hope we'll\nbe able to find the right words for it someday."
+  },
+  "352": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...*sniff*... hic... T-To be reunited... with your destined other...\nthe one... you share your soul with... *sniff*..."
+  },
+  "353": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-I think... hic... I think I understand.\nWhen I imagine... you suddenly... disappearing..."
+  },
+  "354": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Y-You're very mature, familiar... so, um...\nDo you know... what l-love is...?"
+  },
+  "355": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I think I do, somewhat.:option89;No, not at all.:option90"
+  },
+  "356": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Really...? W-Well, I expect no less from my familiar.\nPerhaps that wisdom and compassion...\nhave guided my path as well."
+  },
+  "357": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Even I feel like I've had it engraved into my very body,\nthrough the vessel of the girl named Violetta.\nWhat... is \"I love you\"?"
+  },
+  "358": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Is that so... Fufu, it appears not even my familiar\nknows everything there is to know."
+  },
+  "359": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But I would like if... we could learn together, little by little."
+  },
+  "360": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Phew... that was so good, I'm soooooooooo glad\nI got to see it on the silver screen... Thanks, Manager..."
+  },
+  "361": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "B-But, um... What do ya think, Manager...?"
+  },
+  "362": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I bet you'd prefer to watch it with someone like, I dunno... a pure,\ninnocent girl like Shiro... or at least someone who's actually cute...?"
+  },
+  "363": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I'm glad I got to watch it with you, Honoka.:option91;Sorry, I cried through the whole thing, so...:option92"
+  },
+  "364": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Hwah... M-Manager! You're more of a playboy than I thought!\nStop it, that's embarrassin'..."
+  },
+  "365": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "B-But... I'm also happy that I got to watch it with you... Really."
+  },
+  "366": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Fufu, that's true. Whenever I snuck a peek at ya,\nyour eyes were all puffy and red."
+  },
+  "367": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And now we match. I'm really glad you brought me here today. Thanks a lot!"
+  },
+  "368": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This is the series!\n...I ask of you. Are you Fuwa Fuwa's master?"
+  },
+  "369": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The legendary series that spoke directly to the edgy teen in my heart,\nnow fully animated with the newest most impressive technology...\nWhat a wonderful time we live in!"
+  },
+  "370": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager... no, Master! Let's go.\nWe'll be the ones who win the Holy Key!"
+  },
+  "371": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ooh, it's another Wait/Stay movie!\nI didn't know this one was already in theaters!"
+  },
+  "372": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Heheh. I'm what you might call a gamer girl, so I\nknow a thing or two about this series compared to\nother anime, especially since I'm familiar with the original game."
+  },
+  "373": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Are we watching this, Manager? Are you sure~?\nAren't you afraid of getting too into it, downloading\nthe mobile game and then ruining your life with the gacha~?"
+  },
+  "374": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "If it's good enough, I might...!:option93;I've actually already spent a lot...:option94"
+  },
+  "375": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeah! Yeah, you get it! When the game's just that good,\nand when you get attached to the characters, you just\ncan't help but pour your money into it!"
+  },
+  "376": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "And if this is, like, the ORIGINAL of the game with\nso many whales, then it must be really, REALLY good...\nOkay, Manager! It's time to see what the fuss is all about!"
+  },
+  "377": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oof, I see... I get it, though.\nI don't wanna think about how much I've spent\non Magic Angel—Wait, no, that's not right!"
+  },
+  "378": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's only natural to spend money on the fun times you spend with a game!\nAll right then, let's enjoy this movie to get your money's worth!"
+  },
+  "379": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Wow... a battle between mages who form pacts with knights of eld...\nI feel the call of fate, stronger than ever before...!"
+  },
+  "380": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "They use Key Skills to make the knights do their bidding,\nand participate in a harrowing war in order to grant their wishes..."
+  },
+  "381": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Does this not sound like a story created just for you and me...?!"
+  },
+  "382": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I knew you'd like it, Favna.:option95;My soul cried out to me that I should watch it...:option96"
+  },
+  "383": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Yes! My soul resonates with this movie, and it tells me\nthat this story is unavoidable on my destined path."
+  },
+  "384": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Come! Let us witness what incredible battles will unfold... together!"
+  },
+  "385": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Yes, you have listened to the call of your soul well.\nI expected nothing less from my loyal familiar!"
+  },
+  "386": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Come! Let us witness what incredible battles will unfold... together!"
+  },
+  "387": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ooh, this one! I've always been sooo curious about this series.\nIt's about summonin' legendary heroes and historical figures\nand makin' them fight in your name or somethin', right?"
+  },
+  "388": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "That's as if a priest or a shrine maiden teamed up\nwith their guardian kami to fight? I mean, disregardin'\nwhether that would be blasphemous or not."
+  },
+  "389": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "If this kinda stuff is popular, do ya think visitin' shrines\nand makin' offerings would become a trend?\nA battle to the death between shrine maiden and kami tag-teams!"
+  },
+  "390": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "We should turn that into a manga right now!:option97;But if they lose, they and their shrine disappear...:option98"
+  },
+  "391": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Great idea! Though Daddy would prolly yell at me...\nI could make it hard to tell that it's based on our shrine, though!"
+  },
+  "392": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Then let's go watch this movie as a learning opportunity!\nKeep your eyes peeled, Manager!"
+  },
+  "393": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Now that's terrifyin'... But that extra thrill and serious threat\ncould make it even more interestin' too..."
+  },
+  "394": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Then let's go watch this movie as a learning opportunity!\nKeep your eyes peeled, Manager!"
+  },
+  "395": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "That was so sad... *sniff* I'm inconsolable...\nThe way Master and Server-chan found love in each other\nduring the war, but had to part ways and could never meet again..."
+  },
+  "396": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Master... um, I mean Manager... What would you do?\nIf you'd won the war, and got the cursed Holy Key..."
+  },
+  "397": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Would you grant your wish, even if it would make someone unhappy?\nOr would you destroy the Key, so that no one would be unhappy?"
+  },
+  "398": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I would probably grant my own wish.:option99;I would probably destroy the Key.:option100"
+  },
+  "399": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I see... N-No, it's fine! As someone in charge of a cafe,\nit might actually be better that you can be cold when you need to."
+  },
+  "400": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A knight is one who bears wounds... One who avoids battle\nbecause they're afraid of getting hurt would be an affront to their Master!"
+  },
+  "401": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Right? Even if I get my wish, if it means sacrificing someone...\nI probably wouldn't be very happy about it!"
+  },
+  "402": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I knew you were a true Master, Manager.\nTo Fuwa Fuwa, you're our ally of justice!"
+  },
+  "403": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "*sniff*... That was crazy... They fought so hard until the very end,\nbut Server-chan had to leave forever... How could they do that to her...?!"
+  },
+  "404": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "So that's what the story's about... And there's a bunch more, right?\nI get why people keep pulling in the gacha now...!"
+  },
+  "405": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That's it, I'm gonna play the game!\nI'm gonna pull Server-chan no matter what!"
+  },
+  "406": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I get how you feel, but calm down!:option101;Whoever pulls her first wins!:option102"
+  },
+  "407": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huh?! Oh, right. I'll slow down for a sec.\nInhale... Exhale..."
+  },
+  "408": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Phew, I was almost about to spend my monthly Magic Angel budget on it...\nThanks for holding me back, I dunno what I'd have done without you..."
+  },
+  "409": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huhhh?! W-Wait, hold it right there!\nThis isn't supposed to be a race, right?!"
+  },
+  "410": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Why don't we go play \"Magic Angel\" instead? Please?\nIt'll make you cry even harder than Wait/Stay, okay?"
+  },
+  "411": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Ough... *sniff*... What a cruel... yet noble fate of separation...\nThe ultimate bond, beyond their pacts and love for each other...!"
+  },
+  "412": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Yes... Even though the two were connected by fate...\nand especially if the follower has an untainted, kind spirit..."
+  },
+  "413": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Say... If the time were to come...\nWill you... l-leave me forever...?"
+  },
+  "414": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "No one knows where fate will lead us.:option103;I will never leave you again.:option104"
+  },
+  "415": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...*sniff*... You're right... I'm sorry,\nmy soul was, ah, slightly awestricken..."
+  },
+  "416": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And yet... what a beautiful tale...\nThey were master and familiar, and yet,\num... they were... very nice..."
+  },
+  "417": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...*sniff*...R-Really...?\nYou really won't leave me...?"
+  },
+  "418": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Ehehe... Then swear that you will devote your life\nto the Great Favna in order to fulfill your destiny!\nI am your Master!"
+  },
+  "419": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ough... I can't... I... Could it be that I'm actually\na huge slacker as a shrine maiden...?"
+  },
+  "420": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Server-chan knew that they were goin' to be separated forever,\nbut she still fought so hard... What have I ever done for my kami...?"
+  },
+  "421": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "We don't get many offerings either... I should work hard\nlike ya did to rebuild Fuwa Fuwa's business..."
+  },
+  "422": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You're doing great as a shrine maiden.:option105;If anything, you should get the kami to do more for you.:option106"
+  },
+  "423": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Are ya sure...? I mean, I'm doin' everythin' I can...\nMhm. If that's what ya really think, then maybe\nI should put a li'l more faith in myself."
+  },
+  "424": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "That's true. We still need Fuwa Fuwa's customers\nto recognize Ishida Shrine first, and I'll try to come up\nwith somethin' for the shrine maiden action manga! Thanks!"
+  },
+  "425": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Huhhh?! Then you mean I should do the opposite?\nAsk the kami to give us more blessings and get us\nmore visitors? Now that's what I call blasphemous!"
+  },
+  "426": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Besides, I've already received plenty of blessings\nfrom our kami! Otherwise, I wouldn't be here\nwith you on a d—I mean, nothin'! I said nothin'!"
+  },
+  "427": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "M-Manager? Are we r-really watching this...?"
+  },
+  "428": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I, um... I-I would really l-l-love to w-watch with you,\nbut, uh... I-I'm not, I'm not really experienced in...\nth-this kind of thing, so, I don't, um..."
+  },
+  "429": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...I think I'll... make a, um, tactical retreat,\nas they say... If you'll excuse me... Ack!"
+  },
+  "430": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You don't have to watch this if you don't want to.:option107;I'm too scared to watch it alone, though...:option108"
+  },
+  "431": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-I'm so sorry... I just... I really can't handle this kind of thing...\nI m-might not be able to sleep at night afterwards..."
+  },
+  "432": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ahhh wait no! What if something happens to you\nwhile you were watching alone? I would regret it so much...\nI'll watch it! I'll put my life at stake to watch it with you!"
+  },
+  "433": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh... N-Noooo... Uuu..."
+  },
+  "434": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "O-Okay, fine... I'll go with you...\nP-Please don't get mad at me even if I scream, okay...?"
+  },
+  "435": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Whoa there, isn't this the movie with the super creepy\nTV commercial? How well do you take this kinda stuff, Manager?"
+  },
+  "436": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "To be honest, I'm actually super bad with horror...\nI'm alone at home most nights, so whenever I remember something creepy,\nI get so scared that I can't even take a bath in peace."
+  },
+  "437": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I-I'll watch with you if you really insist...\nBut could I pass this one up...?"
+  },
+  "438": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I won't make you watch it if you don't want to...:option109;I-It might not be scary if we watch it together...:option110"
+  },
+  "439": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Aaaargh! Scratch that, I'm watching it too!\nIt'd probably be even scarier if you left me\nalone here after all that!"
+  },
+  "440": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But, uhhh... I might, like, scream and cry\nand stuff, so... Sorry in advance...?"
+  },
+  "441": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Uhhh... A-Are you sure that's a thing?\nWait, huh. Does that mean you're scared too? Then..."
+  },
+  "442": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Then if something scary happens, I'll just look at you\nand watch your scared reaction instead... Okay then, let's do this..."
+  },
+  "443": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Th-This is... a story of pure evil hatred,\none that has strayed from the cycle of rebirth..."
+  },
+  "444": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Resentment of such weight... I-It might be dangerous\nto even approach it, as it could defile a human soul\nif you get too close..."
+  },
+  "445": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But... a-are we really watching this...?"
+  },
+  "446": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I'll see what it's about by myself.:option111;If you go with me, we could protect each other's souls.:option112"
+  },
+  "447": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Nay, I-I cannot l-let you go i-in there alone!"
+  },
+  "448": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-It's not that I'm scared of being left alone or anything...\nUm... right! I'm the only one who can protect your soul\nfrom foul spirits, so... let's... let's go... uuuu..."
+  },
+  "449": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "R-Really...? Y-Yes, right.\nIf this is your choice, then it must\nbe my fate to witness it as well..."
+  },
+  "450": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "H-However... If I really cannot endure it until the end...\nW-Would you mind if I... stopped watching?"
+  },
+  "451": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, I saw the creepy commercial for this on TV.\nHuh, we're gonna watch this? Will ya be okay?"
+  },
+  "452": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "As for me, I'm totally fine as long as I know from the start\nthat it's all just a story. It's kinda like a roller coaster ride."
+  },
+  "453": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And as ya already know... We've already seen somethin'\nlike that before... So ghosts and curses and the like\naren't all that scary anymore."
+  },
+  "454": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "If ya ask me, I'm more excited for the entertainin'\nreactions you're bound to show me! Ehehe~ C'mon, let's go!"
+  },
+  "455": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hgh... *hic*... I-It's over... Ahhh...\nThe lights here are so warm..."
+  },
+  "456": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm sorry... I think I m-made a lot of weird noises...\nD-Did you get scared, Manager...?"
+  },
+  "457": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I was startled when you grabbed my arm.:option113;I was so scared, I think I passed out halfway...:option114"
+  },
+  "458": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-It's just, I think it's unfair that it snuck in and looked at us\nfrom INSIDE the covers, where it should be completely safe!"
+  },
+  "459": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hooooh... I don't think I'll get better at this no matter\nhow many horror movies I watch... Peace is always\nthe better option, both in real life and in movies..."
+  },
+  "460": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "What?! A-Are you okay? Did you have a heart attack?!\nAre you going to die from shock?!"
+  },
+  "461": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager... you don't have to scare yourself on purpose like that...\nWe should watch something more peaceful next time. Okay? Please?"
+  },
+  "462": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ohhhhhhh my god that was sooo scaryyy!\nWho said it'd be less scary if we watched it together? Ough..."
+  },
+  "463": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I cried so much my makeup is a mess... This is horrible...\nI'll never forgive youuu... Augh..."
+  },
+  "464": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I'll treat you to any food you want, so please forgive me!:option115;I'll buy you anything you want, so please forgive me!:option116"
+  },
+  "465": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "*sniff*... Really...? Okay...\nAnything I want, you say... Well then..."
+  },
+  "466": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I wanna go to Mugen Malatang! And you have to eat the spiciest options!\nAnd then I'm getting a parfait! And another ice cream! And then we'll\ngo for dinner and you'll have to be there until I'm totally satisfied! Got it?!"
+  },
+  "467": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ough... There's not much I wanna buy, though...\nOh, then how's this?"
+  },
+  "468": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We're going to the arcade, and you're gonna grind Magic Angel with me\nuntil you're the same rank as me! All right then, let's buy some drinks\nfrom Famistop and start the mission!"
+  },
+  "469": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Uu... hic... Th-This is... simply... outrageous... *sniff*..."
+  },
+  "470": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "One malice calling another... a never-ending spiral of despair...\nWhy... how... That's... Uuu..."
+  },
+  "471": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Th-That was so scary, I might... I might not\nbe able to sleep tonight... You bully...\nNow what am I supposed to do...?!"
+  },
+  "472": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Let's replace the bad memories with fun ones.:option117;Let's replace the bad memories with tasty ones.:option118"
+  },
+  "473": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-In that case... Take me to the treasure trove of rare and ancient\nelectronic games spoken of in legends... Super Potato!"
+  },
+  "474": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "We shall play retro games to our heart's content...\nand protect our slumber with memories of entertainment.\nLet us depart at once!"
+  },
+  "475": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-In that case... Make me an offering of\na Stack of Dark Meat and Fantasy... in other words,\nthe offering that your people call a \"hamburger\"!"
+  },
+  "476": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I shall eat the biggest one they have and satiate my soul\nbefore I fall into slumber. Of course, I will also have\nBlades of Scorching Terra Seeds and Blackened Babbling Bubbles!"
+  },
+  "477": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...Y'know, I already knew this, but...\nthe scariest thing out there is actually human insanity..."
+  },
+  "478": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I mean, if I got accused of cheatin' and got kicked outta my own house,\nmakin' me miss my own kid's birthday party... I'd turn into a ghost\nand haunt 'em too... Wait, that's not very shrine maiden-like of me."
+  },
+  "479": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "How about you, Manager? If ya suddenly died now,\ndo ya have any regrets that would make ya come back as a ghost?"
+  },
+  "480": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I might haunt Fuwa Fuwa and be unable to leave...:option119;I might haunt and possess you...:option120"
+  },
+  "481": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "\"I can see the young ghost of a cafe manager in his prime...\"\nThat's not a maid cafe, that's a supernatural cafe!\nTerrifyin' concept to base a cafe on, in my opinion!"
+  },
+  "482": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But that just means we've gotta live life to the fullest\nso we don't have any regrets and end up like that...\nWait, why am I gettin' all philosophical? Hehe."
+  },
+  "483": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Excuse me?! Could ya at least have the tact\nto NOT spy on the private life of a poor young girl like me~?!"
+  },
+  "484": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, but maybe I wouldn't mind that much if it were you...\nI'd introduce you to Daddy and tell him you're harmless\nso that he doesn't exorcise ya. That'll keep ya safe. Hehe."
+  },
+  "485": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Do you want to watch \"Is the Order a Little Sister? The Movie\" too, Manager?!"
+  },
+  "486": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's among the top 5 must-watch movies for anyone who likes little sisters!\nI can't believe I have the chance to watch it on the big screen again...!"
+  },
+  "487": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Let's watch it! Right now! Let's recharge with the holy power of imoutos!"
+  },
+  "488": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ohhhh... Sooo cute... Little sisters are sooo cute...\nEspecially Kirina-chan, with how she can't express herself well\naround her brother... This much cuteness should be illegal..!"
+  },
+  "489": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Tsundere... Truly the most blessed trope among tropes..."
+  },
+  "490": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Coco-chan is really cute too... She's sooo so nice,\nand she won't leave her brother's side when he's sad...\nShe's such an angel...!"
+  },
+  "491": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Sigh... If only I could be surrounded by cute imoutos like that...\nEhehehe... Whoops, I can't start drooling here!"
+  },
+  "492": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager... Why can't I have a little sister...\nI think the gods should give every single person a little sister. It's only fair..."
+  },
+  "493": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ah... I hope our new maid... will be as cute as a little sister... Hehehe..."
+  },
+  "494": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Is the Order... A Little Sister...? I bet Shiro loves this."
+  },
+  "495": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I don't have a little sister, but I do think it'd be nice if I could\nhave a cute little sister who shares my interests, just like Shiro."
+  },
+  "496": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Manager, do you have... wait, huh?! We're watching this one?!"
+  },
+  "497": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I see... So you're another victim of the concept of little sisters...\nAll right then, let's check it out!"
+  },
+  "498": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Sigh... I underestimated the movie...\nI never thought it'd make me want a little sister..."
+  },
+  "499": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Both Kirina and Coco-chan were such nice girls...\nThey cared for each other too, just like real sisters."
+  },
+  "500": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey, hey, if you had to choose between me and Shiro,\nwho would you want to be your little sister?"
+  },
+  "501": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "At a glance, Shiro probably feels more like a classic \"little sister\" kinda girl,\nbut ultimately I'm the one who'd be more like a spoiled little sister,\nsince Shiro would probably take care of you really well!"
+  },
+  "502": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Who would you like more as a little sister?\nShiro? Or maybe me~?"
+  },
+  "503": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "An order for a little sister... Could this be...\nA story about summoning one's kin with black magic?"
+  },
+  "504": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Huh? We're watching this?\nWell, I don't particularly mind..."
+  },
+  "505": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But do you... want a little sister, familiar?\nYou do...? Then I should watch this to learn more..."
+  },
+  "506": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "J-Just to be clear, it's not that I want to become your little sister!\nIt's just my duty as your master and goddess to grant your wishes!"
+  },
+  "507": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...I've changed my mind. Familiar.\nFrom today onwards, you shall be my little sister."
+  },
+  "508": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I will listen to all your troubles as your older sister."
+  },
+  "509": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I will grant your every wish and support you whatever you do.\nTell me your most selfish wish... no, act as spoiled as you'd like."
+  },
+  "510": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But you're... not cute enough for me to\ntruly see you as a little sister... Sigh..."
+  },
+  "511": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Then perhaps the Apostle of White... I shall tell her that\nit is her fate to become the great Favna's little sister\nfrom tomorrow... Yes, I should try that..."
+  },
+  "512": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Is the Order a Li'l Sister? In my experience,\nit's more like \"what's the li'l sister's orders this time?\""
+  },
+  "513": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "If I so much as take 'em out on a shoppin' trip,\nit's a neverendin' barrage of \"I wanna try that!\" and \"Can we buy this?\"\nReal-life li'l sisters are a real handful, I'm tellin' ya..."
+  },
+  "514": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, but maybe I only feel that way 'cause I'm an older sister.\nMaybe an older brother would be happy to spoil his li'l sisters."
+  },
+  "515": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Let's check it out then. I hope ya get to see\nthe ideal cute li'l sister you're lookin' for!"
+  },
+  "516": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "*sniff*... I'm sorry, I just...\nI got more invested than I thought I would..."
+  },
+  "517": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I thought of how my sisters will prolly leave home when they grow up...\nAnd that made me start to feel so lonely..."
+  },
+  "518": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Sigh... They ain't gonna annoy me with love when they're all grown up.\nIf they suddenly start pretendin' not to know me, I might just cry..."
+  },
+  "519": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "When ya think about it, slightly spoiled li'l sisters are pretty cute...\nI bet ya think the same way about your four li'l sisters!"
+  },
+  "520": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Let's buy somethin' sweet on the way back\nfor the three li'l sisters waitin' for us! Pleeease, onii-chan?"
+  },
+  "521": {
+    "Personagem": "Mio",
+    "PT": "",
+    "EN": "You want to know what campaigns we have going on?"
+  },
+  "522": {
+    "Personagem": "Mio",
+    "PT": "",
+    "EN": "For every five times you visit,\nyou get a discount for your sixth visit."
+  },
+  "523": {
+    "Personagem": "Mio",
+    "PT": "",
+    "EN": "But this only applies to people with an online membership,\nso please check the official website for more details."
+  },
+  "524": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(Free trial tickets or an online membership discount...\nNeither of these are something we can do right away.)"
+  },
+  "525": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(I should talk to the others about this tomorrow.)"
+  },
+  "526": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Hehe, here we are. The dimly lit rooms\nand the nice smell of popcorn... I'm gettin' excited!"
+  },
+  "527": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I can watch pretty much anythin', really,\nso I'll leave the choice up to ya.\nI can't wait to see what movie ya pick!"
+  },
+  "528": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We did it, Manager! The movie theater\nis going to join the stamp rally too!"
+  },
+  "529": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It might have been difficult to convince a big theater chain...\nThis generosity is something you can really get from local businesses!"
+  },
+  "530": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Since we're already here, why don't we watch a movie?\""
+  },
+  "531": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh, can we?! But yes, you're right,\nwe do still have the time...!"
+  },
+  "532": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Then, I'll let you choose the movie, Manager.\nI can't wait to see what we're going to watch!"
+  },
+  "533": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey, Manager~! They said okay!\nThanks for remembering the theater!"
+  },
+  "534": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I don't think any of the others are back yet,\nso why don't we watch something before we go?\nYou can pick whatever movie you want!"
+  },
+  "535": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Sorry I took a while. They said okay.\""
+  },
+  "536": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I knew you could do it, my familiar. Excellent job!"
+  },
+  "537": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But, hmm... Isn't it a bit early for us to return to the Elysium?"
+  },
+  "538": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Since we're already here, why don't we watch a movie?\""
+  },
+  "539": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Wait, can we? Yay!\n...I mean, ahem!"
+  },
+  "540": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "W-Well, I suppose we have nothing better to do.\nLet us enjoy this brief moment of respite before\nwe return to the Elysium."
+  },
+  "541": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Manager, they said okay.\nWhew, I'm glad we came!"
+  },
+  "542": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, by the way, since I doubt any of the others\nare back yet... do ya wanna watch a movie?"
+  },
+  "543": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I had loads of fun watchin' with ya last week,\nso I'll leave it to ya. Pick somethin' good!"
+  }
+}

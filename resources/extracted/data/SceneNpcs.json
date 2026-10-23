@@ -1,0 +1,167 @@
+{
+  "1": {
+    "Id": 1,
+    "RoleId": 2023,
+    "CharacterKey": "2023_Js"
+  },
+  "2": {
+    "Id": 2,
+    "RoleId": 2024,
+    "CharacterKey": "2024_OldJKMan"
+  },
+  "3": {
+    "Id": 3,
+    "RoleId": 2025,
+    "CharacterKey": "2025_Curly"
+  },
+  "4": {
+    "Id": 4,
+    "RoleId": 2027,
+    "CharacterKey": "2027_FashionableMan"
+  },
+  "5": {
+    "Id": 5,
+    "RoleId": 2028,
+    "CharacterKey": "2028_Kazuhiko"
+  },
+  "6": {
+    "Id": 6,
+    "RoleId": 2029,
+    "CharacterKey": "2029_Misako"
+  },
+  "7": {
+    "Id": 7,
+    "RoleId": 2030,
+    "CharacterKey": "2030_Eriko"
+  },
+  "8": {
+    "Id": 8,
+    "RoleId": 2031,
+    "CharacterKey": "2031_Yoshida"
+  },
+  "9": {
+    "Id": 9,
+    "RoleId": 2032,
+    "CharacterKey": "2032_Otaku1"
+  },
+  "10": {
+    "Id": 10,
+    "RoleId": 2033,
+    "CharacterKey": "2033_Otaku2"
+  },
+  "11": {
+    "Id": 11,
+    "RoleId": 2034,
+    "CharacterKey": "2034_Otaku3"
+  },
+  "12": {
+    "Id": 12,
+    "RoleId": 2035,
+    "CharacterKey": "2035_Aunt1"
+  },
+  "13": {
+    "Id": 13,
+    "RoleId": 2036,
+    "CharacterKey": "2036_Aunt2"
+  },
+  "14": {
+    "Id": 14,
+    "RoleId": 2037,
+    "CharacterKey": "2037_Aunt3"
+  },
+  "15": {
+    "Id": 15,
+    "RoleId": 2038,
+    "CharacterKey": "2038_Aunt4"
+  },
+  "16": {
+    "Id": 16,
+    "RoleId": 2039,
+    "CharacterKey": "2039_Man1"
+  },
+  "17": {
+    "Id": 17,
+    "RoleId": 2040,
+    "CharacterKey": "2040_Woman1"
+  },
+  "18": {
+    "Id": 18,
+    "RoleId": 2041,
+    "CharacterKey": "2041_Collar1"
+  },
+  "19": {
+    "Id": 19,
+    "RoleId": 2042,
+    "CharacterKey": "2042_Collar2"
+  },
+  "20": {
+    "Id": 20,
+    "RoleId": 2043,
+    "CharacterKey": "2043_Collar3"
+  },
+  "21": {
+    "Id": 21,
+    "RoleId": 2044,
+    "CharacterKey": "2044_Collar4"
+  },
+  "22": {
+    "Id": 22,
+    "RoleId": 2045,
+    "CharacterKey": "2045_Ol1"
+  },
+  "23": {
+    "Id": 23,
+    "RoleId": 2046,
+    "CharacterKey": "2046_Ol2"
+  },
+  "24": {
+    "Id": 24,
+    "RoleId": 2047,
+    "CharacterKey": "2047_Ol3"
+  },
+  "25": {
+    "Id": 25,
+    "RoleId": 2048,
+    "CharacterKey": "2048_Ol4"
+  },
+  "26": {
+    "Id": 26,
+    "RoleId": 2049,
+    "CharacterKey": "2049_Chinpira1"
+  },
+  "27": {
+    "Id": 27,
+    "RoleId": 2050,
+    "CharacterKey": "2050_Chinpira2"
+  },
+  "28": {
+    "Id": 28,
+    "RoleId": 2051,
+    "CharacterKey": "2051_Chinpira3"
+  },
+  "29": {
+    "Id": 29,
+    "RoleId": 2052,
+    "CharacterKey": "2052_Chinpira4"
+  },
+  "30": {
+    "Id": 30,
+    "RoleId": 2053,
+    "CharacterKey": "2053_Jk1"
+  },
+  "31": {
+    "Id": 31,
+    "RoleId": 2054,
+    "CharacterKey": "2054_Jk2"
+  },
+  "32": {
+    "Id": 32,
+    "RoleId": 2055,
+    "CharacterKey": "2055_Dk1"
+  },
+  "33": {
+    "Id": 33,
+    "RoleId": 2056,
+    "CharacterKey": "2056_Dk2"
+  }
+}

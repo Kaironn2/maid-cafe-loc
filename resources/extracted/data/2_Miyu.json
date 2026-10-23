@@ -1,0 +1,583 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "2_Miyu_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "2_Miyu_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "2_Miyu_Basic_OpenTheUmbrella",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "10_13"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "2_Miyu_Basic_IdleWithUmbrella",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "14_17"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "2_Miyu_Basic_WalkWithUmbrella",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "18_23"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "2_Miyu_Basic_BackSitIdle",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "24_27"
+  },
+  "7": {
+    "Id": 7,
+    "Name": "2_Miyu_Basic_SideSitIdle",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "28_31"
+  },
+  "8": {
+    "Id": 8,
+    "Name": "2_Miyu_Basic_SideSitEat",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "32_39"
+  },
+  "9": {
+    "Id": 9,
+    "Name": "2_Miyu_Basic_SideSitDrink",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "40_47"
+  },
+  "10": {
+    "Id": 10,
+    "Name": "2_Miyu_Basic_SideSitOrder",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "48_51"
+  },
+  "11": {
+    "Id": 11,
+    "Name": "2_Miyu_Basic_WalkWithOrder",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "52_57"
+  },
+  "12": {
+    "Id": 12,
+    "Name": "2_Miyu_Basic_Welcome",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "58_65"
+  },
+  "13": {
+    "Id": 13,
+    "Name": "2_Miyu_Basic_Order",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "66_69"
+  },
+  "14": {
+    "Id": 14,
+    "Name": "2_Miyu_Basic_Clean1",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "70_73"
+  },
+  "15": {
+    "Id": 15,
+    "Name": "2_Miyu_Basic_Clean2",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "74_77"
+  },
+  "16": {
+    "Id": 16,
+    "Name": "2_Miyu_Basic_Cook1",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "78_81"
+  },
+  "17": {
+    "Id": 17,
+    "Name": "2_Miyu_Basic_Moemoekyun",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "82_107"
+  },
+  "18": {
+    "Id": 18,
+    "Name": "2_Miyu_Basic_Photograph",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "108_119"
+  },
+  "19": {
+    "Id": 19,
+    "Name": "2_Miyu_Basic_FrontSitIdle",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "120_120"
+  },
+  "20": {
+    "Id": 20,
+    "Name": "2_Miyu_Basic_BackStandIdle",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "121_121"
+  },
+  "21": {
+    "Id": 21,
+    "Name": "2_Miyu_Basic_Interaction",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "121_122"
+  },
+  "22": {
+    "Id": 22,
+    "Name": "2_Miyu_Basic_Seesaw",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "123_134"
+  },
+  "23": {
+    "Id": 23,
+    "Name": "2_Miyu_Basic_Swing",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "135_155"
+  },
+  "24": {
+    "Id": 24,
+    "Name": "2_Miyu_Basic_RidingIdle",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "156_156"
+  },
+  "25": {
+    "Id": 25,
+    "Name": "2_Miyu_Basic_Riding",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "156_163"
+  },
+  "26": {
+    "Id": 26,
+    "Name": "2_Miyu_Basic_FrontSitScaring",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "164_193"
+  },
+  "27": {
+    "Id": 27,
+    "Name": "2_Miyu_Basic_FrontSitFascinated",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "194_196"
+  },
+  "28": {
+    "Id": 28,
+    "Name": "2_Miyu_Basic_FrontSitSmile",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "197_198"
+  },
+  "29": {
+    "Id": 29,
+    "Name": "2_Miyu_Basic_FrontSitCry",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "199_202"
+  },
+  "30": {
+    "Id": 30,
+    "Name": "2_Miyu_Basic_Sing1",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "203_212"
+  },
+  "31": {
+    "Id": 31,
+    "Name": "2_Miyu_Basic_Sing2",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "213_222"
+  },
+  "32": {
+    "Id": 32,
+    "Name": "2_Miyu_Basic_Dance1",
+    "Type": "Basic",
+    "Atlas": "2_Miyu_Basic",
+    "Frame": "223_233"
+  },
+  "33": {
+    "Id": 33,
+    "Name": "2_Miyu_Suit1_Idle",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "0_3"
+  },
+  "34": {
+    "Id": 34,
+    "Name": "2_Miyu_Suit1_Walk",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "4_9"
+  },
+  "35": {
+    "Id": 35,
+    "Name": "2_Miyu_Suit1_OpenTheUmbrella",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "10_13"
+  },
+  "36": {
+    "Id": 36,
+    "Name": "2_Miyu_Suit1_IdleWithUmbrella",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "14_17"
+  },
+  "37": {
+    "Id": 37,
+    "Name": "2_Miyu_Suit1_WalkWithUmbrella",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "18_23"
+  },
+  "38": {
+    "Id": 38,
+    "Name": "2_Miyu_Suit1_BackSitIdle",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "24_27"
+  },
+  "39": {
+    "Id": 39,
+    "Name": "2_Miyu_Suit1_SideSitIdle",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "28_31"
+  },
+  "40": {
+    "Id": 40,
+    "Name": "2_Miyu_Suit1_SideSitEat",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "32_39"
+  },
+  "41": {
+    "Id": 41,
+    "Name": "2_Miyu_Suit1_SideSitDrink",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "40_47"
+  },
+  "42": {
+    "Id": 42,
+    "Name": "2_Miyu_Suit1_SideSitOrder",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "48_51"
+  },
+  "43": {
+    "Id": 43,
+    "Name": "2_Miyu_Suit1_Photograph",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "52_63"
+  },
+  "44": {
+    "Id": 44,
+    "Name": "2_Miyu_Suit1_FrontSitIdle",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "64_64"
+  },
+  "45": {
+    "Id": 45,
+    "Name": "2_Miyu_Suit1_BackStandIdle",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "65_65"
+  },
+  "46": {
+    "Id": 46,
+    "Name": "2_Miyu_Suit1_Interaction",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "65_66"
+  },
+  "47": {
+    "Id": 47,
+    "Name": "2_Miyu_Suit1_Seesaw",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "67_78"
+  },
+  "48": {
+    "Id": 48,
+    "Name": "2_Miyu_Suit1_Swing",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "79_99"
+  },
+  "49": {
+    "Id": 49,
+    "Name": "2_Miyu_Suit1_RidingIdle",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "100_100"
+  },
+  "50": {
+    "Id": 50,
+    "Name": "2_Miyu_Suit1_Riding",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "100_107"
+  },
+  "51": {
+    "Id": 51,
+    "Name": "2_Miyu_Suit1_FrontSitScaring",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "108_137"
+  },
+  "52": {
+    "Id": 52,
+    "Name": "2_Miyu_Suit1_FrontSitFascinated",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "138_140"
+  },
+  "53": {
+    "Id": 53,
+    "Name": "2_Miyu_Suit1_FrontSitSmile",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "141_142"
+  },
+  "54": {
+    "Id": 54,
+    "Name": "2_Miyu_Suit1_FrontSitCry",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "143_146"
+  },
+  "55": {
+    "Id": 55,
+    "Name": "2_Miyu_Suit1_Sing1",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "147_156"
+  },
+  "56": {
+    "Id": 56,
+    "Name": "2_Miyu_Suit1_Sing2",
+    "Type": "Suit1",
+    "Atlas": "2_Miyu_Suit1",
+    "Frame": "157_166"
+  },
+  "57": {
+    "Id": 57,
+    "Name": "2_Miyu_Maid1_Idle",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "0_3"
+  },
+  "58": {
+    "Id": 58,
+    "Name": "2_Miyu_Maid1_Walk",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "4_9"
+  },
+  "59": {
+    "Id": 59,
+    "Name": "2_Miyu_Maid1_SideSitIdle",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "10_13"
+  },
+  "60": {
+    "Id": 60,
+    "Name": "2_Miyu_Maid1_SideSitEat",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "14_21"
+  },
+  "61": {
+    "Id": 61,
+    "Name": "2_Miyu_Maid1_SideSitDrink",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "22_29"
+  },
+  "62": {
+    "Id": 62,
+    "Name": "2_Miyu_Maid1_SideSitOrder",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "30_33"
+  },
+  "63": {
+    "Id": 63,
+    "Name": "2_Miyu_Maid1_WalkWithOrder",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "34_39"
+  },
+  "64": {
+    "Id": 64,
+    "Name": "2_Miyu_Maid1_Welcome",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "40_47"
+  },
+  "65": {
+    "Id": 65,
+    "Name": "2_Miyu_Maid1_Order",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "48_51"
+  },
+  "66": {
+    "Id": 66,
+    "Name": "2_Miyu_Maid1_Clean1",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "52_55"
+  },
+  "67": {
+    "Id": 67,
+    "Name": "2_Miyu_Maid1_Clean2",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "56_59"
+  },
+  "68": {
+    "Id": 68,
+    "Name": "2_Miyu_Maid1_Cook1",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "60_63"
+  },
+  "69": {
+    "Id": 69,
+    "Name": "2_Miyu_Maid1_Moemoekyun",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "64_89"
+  },
+  "70": {
+    "Id": 70,
+    "Name": "2_Miyu_Maid1_BackStandIdle",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "90_90"
+  },
+  "71": {
+    "Id": 71,
+    "Name": "2_Miyu_Maid1_Interaction",
+    "Type": "Maid1",
+    "Atlas": "2_Miyu_Maid1",
+    "Frame": "90_91"
+  },
+  "72": {
+    "Id": 72,
+    "Name": "2_Miyu_Yukata_Idle",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "0_3"
+  },
+  "73": {
+    "Id": 73,
+    "Name": "2_Miyu_Yukata_Walk",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "4_9"
+  },
+  "74": {
+    "Id": 74,
+    "Name": "2_Miyu_Yukata_BackSitIdle",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "10_13"
+  },
+  "75": {
+    "Id": 75,
+    "Name": "2_Miyu_Yukata_SideSitIdle",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "14_17"
+  },
+  "76": {
+    "Id": 76,
+    "Name": "2_Miyu_Yukata_SideSitEat",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "18_25"
+  },
+  "77": {
+    "Id": 77,
+    "Name": "2_Miyu_Yukata_SideSitDrink",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "26_33"
+  },
+  "78": {
+    "Id": 78,
+    "Name": "2_Miyu_Yukata_SideSitOrder",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "34_37"
+  },
+  "79": {
+    "Id": 79,
+    "Name": "2_Miyu_Yukata_Photograph",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "38_49"
+  },
+  "80": {
+    "Id": 80,
+    "Name": "2_Miyu_Yukata_FrontSitIdle",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "50_50"
+  },
+  "81": {
+    "Id": 81,
+    "Name": "2_Miyu_Yukata_BackStandIdle",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "51_51"
+  },
+  "82": {
+    "Id": 82,
+    "Name": "2_Miyu_Yukata_Interaction",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "51_52"
+  },
+  "83": {
+    "Id": 83,
+    "Name": "2_Miyu_Yukata_Dance1",
+    "Type": "Yukata",
+    "Atlas": "2_Miyu_Yukata",
+    "Frame": "53_63"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "ChatNum": 1,
+    "Character": "xiaobai1",
+    "StoryText": "等、等一下，你这是要去哪里啊！？店长先生你个色狼～！",
+    "JP": "ちょ、ちょっと、どこ行くんですか！？店長さんのエッチ～！",
+    "EN": "W-Wait, where are you going?! G-Get your mind out of the gutter~!",
+    "TC": "等、等一下，你這是要去哪裡啊！？店長先生你個色狼～！",
+    "Type": 0,
+    "Part": "part1",
+    "Portrait": "Amazed",
+    "Option": "",
+    "LikeDegree": "",
+    "AudioName": "6_surugaya_part1_0_xiaobai"
+  },
+  "2": {
+    "ChatNum": 2,
+    "Character": "xinyou",
+    "StoryText": "讨厌啦，店长你个色狼！明明我还跟着呢，别去看那种啊！",
+    "JP": "やだ、店長さんのスケベ！あたしがいるのに、そんなの見ないでよ！",
+    "EN": "Ack, you perv! I'm right here, don't go looking at... that!",
+    "TC": "討厭啦，店長你個色狼！明明我還跟著呢，別去看那種啊！",
+    "Type": 0,
+    "Part": "part2",
+    "Portrait": "Angry",
+    "Option": "",
+    "LikeDegree": "",
+    "AudioName": "6_surugaya_part1_1_xinyou"
+  },
+  "3": {
+    "ChatNum": 3,
+    "Character": "fafuna",
+    "StoryText": "在、在少女面前居然……不纯洁，你应该感到羞耻！",
+    "JP": "お、乙女の前でそのような……不純よ、恥を知りなさい！",
+    "EN": "R-Right in front of a maiden...\nHow indecent! You should be ashamed of yourself!",
+    "TC": "在、在少女面前居然……不純潔，你應該感到羞恥！",
+    "Type": 0,
+    "Part": "part3",
+    "Portrait": "Angry",
+    "Option": "",
+    "LikeDegree": "",
+    "AudioName": "6_surugaya_part1_2_fafuna"
+  },
+  "4": {
+    "ChatNum": 4,
+    "Character": "suinaixiang2",
+    "StoryText": "店长哥？在咱面前居然做出那么荒谬的举动……你做好心理准备了吧？",
+    "JP": "店長は～ん？ウチの前でそない不埒な真似するなんて……覚悟できてるん？",
+    "EN": "Manager~? How could ya do somethin' so naughty right in front of me?\nI hope you're ready to face the consequences, hm...?",
+    "TC": "店長哥？在咱面前居然做出那麼荒謬的舉動……你做好心理準備了吧？",
+    "Type": 0,
+    "Part": "part4",
+    "Portrait": "Angry",
+    "Option": "",
+    "LikeDegree": "",
+    "AudioName": "6_surugaya_part1_3_suinaixiang"
+  }
+}

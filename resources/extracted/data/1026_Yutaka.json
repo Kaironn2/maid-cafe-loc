@@ -1,0 +1,23 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1026_Yutaka_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1026_Yutaka_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1026_Yutaka_Basic_Leisure1",
+    "Type": "Basic",
+    "Atlas": "1026_Yutaka_Basic",
+    "Frame": "4_11"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1026_Yutaka_Basic_Leisure2",
+    "Type": "Basic",
+    "Atlas": "1026_Yutaka_Basic",
+    "Frame": "12_15"
+  }
+}

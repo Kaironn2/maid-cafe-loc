@@ -1,0 +1,3217 @@
+{
+  "0": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Osaka Castle~!\nLooks like the festival's off to a good start!"
+  },
+  "1": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I heard that people from Electric Street have set up stalls at the festival!"
+  },
+  "2": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Let us commence our pilgrimage.\nWe must collect the remnants of summer..."
+  },
+  "3": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "When it comes to summer festivals,\nyou can't go without goldfish scooping! ♪"
+  },
+  "4": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Ah! It swam away..."
+  },
+  "5": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This is harder than I thought.\nMy scooper broke too..."
+  },
+  "6": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Answer to my call,\nO Golden Beasts of the Pond...!"
+  },
+  "7": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wow, Favnyan, you're doing great! You're getting so many fish...!"
+  },
+  "8": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "After the game, Favna split the large number of goldfish she caught\nand gave them out to everyone else equally..."
+  },
+  "9": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "These are my brethren who have received a share of my mana.\nTake good care of them."
+  },
+  "10": {
+    "Personagem": "Yousuke",
+    "PT": "",
+    "EN": "Heya! Would you like some ice cre—I mean, shaved ice?"
+  },
+  "11": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Shiro, ya picked the plain syrup? You've got refined tastes, huh!"
+  },
+  "12": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ehehe, really? I've always liked this flavor the most."
+  },
+  "13": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Honoka-chan, did you get strawberry?\nWe're matchies!"
+  },
+  "14": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I have always been faithful to the Blue Hawaiian flavor.\nBut it seems like the syrup nowadays doesn't turn your tongue blue."
+  },
+  "15": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, you're right!\nHey, let's see if anyone's tongues have changed color! ♪"
+  },
+  "16": {
+    "Personagem": "Yousuke",
+    "PT": "",
+    "EN": "Here you go, Manager. A Blue Hawaiian!"
+  },
+  "17": {
+    "Personagem": "Yousuke",
+    "PT": "",
+    "EN": "Here you go, Manager. Matcha! It's surprisingly popular, y'know?"
+  },
+  "18": {
+    "Personagem": "Takumi",
+    "PT": "",
+    "EN": "...Oh, hi. Would you like cotton candy?"
+  },
+  "19": {
+    "Personagem": "Takumi",
+    "PT": "",
+    "EN": "...Oh, hi. Thanks to your help, I can make colored cotton candy now."
+  },
+  "20": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Wow, this cotton candy's so colorful!\nI didn't know they came in so many colors these days!"
+  },
+  "21": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Wah...! Mine has cat ears...?!?"
+  },
+  "22": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Kondou-san's son doesn't look very sociable,\nbut he seems to be enjoying himself.)"
+  },
+  "23": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "They're all soooo cute~♪\nHey, let's take a pic together!"
+  },
+  "24": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Good idea! Come here, Manager, get closer!"
+  },
+  "25": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Memi-chan! The takoyaki stand looks really busy!"
+  },
+  "26": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Affirmative! I'm REALLY busy, but it's fun!\nYou should try some takoyaki too!"
+  },
+  "27": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You watch as she turns the takoyaki with skillful hands.\nAnd so with sauce, toasted seaweed, and bonito flakes, it's ready to serve!"
+  },
+  "28": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The Kansai-style sauce made with fish broth and soy sauce\nsmells really good. It's making you hungry...!"
+  },
+  "29": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hrmf, mmf...! Memi-chan, your takoyaki is always the best!"
+  },
+  "30": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Cheese mentaiko flavor? I could get into this.\nDo ya wanna try one, Manager?"
+  },
+  "31": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Mine's green onion and mayonnaise!\nHere, try this too, Manager... say aaaah! ♪"
+  },
+  "32": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Simple is best! My familiar, you must try my takoyaki as well!"
+  },
+  "33": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "H-Hey, that's no fair...\nPlease try my extra soft takoyaki too~!"
+  },
+  "34": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "What a magnificent yagura!\nDid they truly build this festival tower from scratch...?!"
+  },
+  "35": {
+    "Personagem": "Shougo",
+    "PT": "",
+    "EN": "Hahaha, looks like my hard work paid off! Have fun!"
+  },
+  "36": {
+    "Personagem": "Shougo",
+    "PT": "",
+    "EN": "It all went smoothly thanks to your advice! Have fun!"
+  },
+  "37": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yes! A hit!\n...Wait, huh? It was totally gonna fall~!"
+  },
+  "38": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "I heard you're supposed to aim higher up.\nLook, like Shiro's doin'..."
+  },
+  "39": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...There!"
+  },
+  "40": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Another hit! You're really good, Shiro!\""
+  },
+  "41": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You haven't missed a single shot!\nOne can tell you're experienced by your stance alone...!"
+  },
+  "42": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm not good at most things, but I'm pretty good at shooting galleries.\nMaybe because I learned from manga and anime...?"
+  },
+  "43": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "There's different stalls from yesterday.\nLet's go take a look!"
+  },
+  "44": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "There's so many masks of anime characters!"
+  },
+  "45": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "When I was a little girl, I always got so excited\nwhenever I passed a mask stall."
+  },
+  "46": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Oh! There's Denmon masks too!"
+  },
+  "47": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ahem! Here, take one of these rare masks...\nHehe, just kidding."
+  },
+  "48": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Have you played Denmon before, Manager?\nDo you remember which one you chose first?"
+  },
+  "49": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yo-yo fishing is an important part of any summer festival!"
+  },
+  "50": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I remember playing with a water balloon yo-yo the whole time\nI was at summer festivals as a little girl."
+  },
+  "51": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And I'd see other kids with different colored balloons\nand get jealous when I saw one I liked... Ehehe."
+  },
+  "52": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "What color should I get this year? It's so hard to choose!"
+  },
+  "53": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This tempting smell... It must be yakisoba!"
+  },
+  "54": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We HAVE to eat yakisoba! It's a festival, after all!"
+  },
+  "55": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh no, but there's so much more I want to eat!\nI can't get full on just yakisoba...!"
+  },
+  "56": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"We should share the food, then.\nLet's eat together.\""
+  },
+  "57": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You're right!\n...Two pairs of chopsticks, please!"
+  },
+  "58": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You shared the yakisoba with Shiro..."
+  },
+  "59": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Welcome back! I've been waiting for you, Shiro."
+  },
+  "60": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "W-Wowww! A maid stand at a festival...\nI've never seen anything like it!"
+  },
+  "61": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "We're giving out coupons as a special bonus too,\nso remember to stop by Miracle Maid Cafe."
+  },
+  "62": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "You're one of our biggest regulars,\nso we're all looking forward to you coming again!"
+  },
+  "63": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Eep! I can't believe my oshi remembers me that well...\nThis is embarrassing...!"
+  },
+  "64": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "But thank you so very much,\nI'll oshi every Miracle Maid forever!"
+  },
+  "65": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Here, we have a little bonus.\nIt's Mari's profile card."
+  },
+  "66": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Th-This is a must-have for Miracle stans...!\nI HAVE to complete the whole set!"
+  },
+  "67": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager! For now,\nlet's share three chocolate bananas!"
+  },
+  "68": {
+    "Personagem": "Midori",
+    "PT": "",
+    "EN": "Oh, hello there~ Thank you for coming!\nWhy don't you try a candied apple?"
+  },
+  "69": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A florist selling candied apples... what a lovely combination!\nEven the stand looks prettier...!"
+  },
+  "70": {
+    "Personagem": "Midori",
+    "PT": "",
+    "EN": "My, I'd say the same to you, Shiro-san.\nA lovely lady in a yukata, holding a candied apple...\nWhat a beautiful combination~"
+  },
+  "71": {
+    "Personagem": "Midori",
+    "PT": "",
+    "EN": "My, I'd say the same to you, Shiro-san.\nA lovely, dark-haired lady holding a candied apple...\nWhat a beautiful combination~"
+  },
+  "72": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "N-Noooo, you're too kind...\nIt's a little embarrassing, even...!"
+  },
+  "73": {
+    "Personagem": "Midori",
+    "PT": "",
+    "EN": "Ehehe, but everyone agrees~\n...Right, Mr. Manager?"
+  },
+  "74": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That was fun. Where should we go next?\""
+  },
+  "75": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The chairman of the Shopping Association also\nsets up a stall every year. Why don't we go say hello?"
+  },
+  "76": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I heard they're doing an ice cream stall this year!"
+  },
+  "77": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Oh, Fuwa Fuwa! Thank you for coming."
+  },
+  "78": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Mr. Chairman. Glad to see you.\""
+  },
+  "79": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The chairman greets you personally with a warm smile...\nbut the stall itself is miserably quiet."
+  },
+  "80": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "It's just... the Miracle Maid Cafe stall next door. They're too popular.\nThat in itself is a wonderful thing, of course..."
+  },
+  "81": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Aww. You're working so hard too, though..."
+  },
+  "82": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, let's help him out!"
+  },
+  "83": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is there anything we can help you with?\""
+  },
+  "84": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Well, I'm thinking of doing something new using our ice cream..."
+  },
+  "85": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ice cream, and our Manager...\nOh, that's it! Coffee!"
+  },
+  "86": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's right. We could use vanilla ice cream and coffee...\nto make affogato!\""
+  },
+  "87": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Good idea! It's more geared towards adults,\nso it'll be different enough from the chocolate bananas next door."
+  },
+  "88": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes! Then let's..."
+  },
+  "89": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Wait, how will we make the espresso?!"
+  },
+  "90": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'll have to go get the machine from Fuwa Fuwa,\nbut taking the train would take way too long...\""
+  },
+  "91": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "In that case, I'll lend you a mini truck!"
+  },
+  "92": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'll go! Leave it to me!"
+  },
+  "93": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you. I'll call over the other girls too!\""
+  },
+  "94": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "All of the members of Fuwa Fuwa gathered\nat the stall and got ready to help the ice cream stall!"
+  },
+  "95": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "There's different stalls from yesterday~!\nC'mon, let's go check them all out!"
+  },
+  "96": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oooh, a mask stall! There's so many characters!\nIt's kinda exciting just walking past and looking at them all~"
+  },
+  "97": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Wait, no way! Is that Magic Angel?!"
+  },
+  "98": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Whoa, this Mariette mask is super high-quality!\nYou don't see this in kids' merch much! Whoa...!"
+  },
+  "99": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I kinda want one... Hrmm...\nBut I'm too old to be wearing masks like this..."
+  },
+  "100": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Don't worry about it.:option1;It might be a little cringe...:option2"
+  },
+  "101": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeah, you're right! Besides, they might not be around next year!\nThanks, I'll get one!"
+  },
+  "102": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hmm, yeah. I'll leave more for the little kids."
+  },
+  "103": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ooh, they even have \"Is the Order a Little Sister?\"\nThey've got a really impressive lineup~!"
+  },
+  "104": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Want me to buy you one?\n...Ahaha, c'mon, there's no need to be shy~!"
+  },
+  "105": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Let's do yo-yo fishing!\nExcuse me, we'd like to play~!"
+  },
+  "106": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...When there's so many water balloon yo-yos all in one place,\nthey look kinda edible, even tasty, don't they?"
+  },
+  "107": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "They look like a bunch of giant candies to me!"
+  },
+  "108": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's interesting. It'd be a really colorful plate of candies.\""
+  },
+  "109": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Maybe I could use that idea for a new dish!\nI'm getting even more pumped up! ♪"
+  },
+  "110": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here, I got us yakisoba.\""
+  },
+  "111": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thankies~! Let's eat it before it gets cold!"
+  },
+  "112": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yakisoba can be made at home pretty easily,\nbut for some reason, it just tastes soooo much better\nwhen you eat it at a food stall instead, doesn't it?"
+  },
+  "113": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "They look for volunteers for the stalls every year,\nso maybe I should give it a shot next year."
+  },
+  "114": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Good idea. I'd love to get the chance\nto eat something you cook at a food stall.\""
+  },
+  "115": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oooh, look look look!\nSuzuka-san and the other Miracle maids have a stall too!"
+  },
+  "116": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Welcome back, Fuwa Fuwa manager! Miyu-chan!"
+  },
+  "117": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Maids at a food stall? That's soooo cute~♪\nAnd you guys really stand out from the crowd!"
+  },
+  "118": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Thank you. But that also means we have to be\neven more attentive than usual."
+  },
+  "119": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Even at the festival, you guys are total role model maids!\nI get why Shiro looks up to you so much!"
+  },
+  "120": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "These candied apples are so sparkly and pretty~!"
+  },
+  "121": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"They look tasty. Let's eat together.\""
+  },
+  "122": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oooh, wait, I'll pick one out for you!"
+  },
+  "123": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Did you know? The ones with more bubbles on the surface\nare apparently fresher and more delicious than the others!"
+  },
+  "124": {
+    "Personagem": "Midori",
+    "PT": "",
+    "EN": "My! Kuwamura-san from the grocer's said the same thing.\nYou're so smart, Miyu-chan~"
+  },
+  "125": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ehehe... Actually, I just looked it up yesterday before coming."
+  },
+  "126": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Cause I was so excited to come here, I couldn't fall asleep!"
+  },
+  "127": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Really?! I hope you're having fun, then...\""
+  },
+  "128": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh c'mon, do I even have to say it out loud?\nOf course! I'm having the time of my life!"
+  },
+  "129": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That was fun. Where should we go next?\""
+  },
+  "130": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Actually, I kinda wanna eat something cold to cleanse my palate."
+  },
+  "131": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I think I saw an ice cream stall earlier!\nShould we go check it out?"
+  },
+  "132": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Oh, Fuwa Fuwa! Thank you for coming."
+  },
+  "133": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Mr. Chairman. Glad to see you.\""
+  },
+  "134": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The chairman greets you personally with a warm smile...\nbut the stall itself is miserably quiet."
+  },
+  "135": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "It's just... the Miracle Maid Cafe stall next door. They're too popular.\nThat in itself is a wonderful thing, of course..."
+  },
+  "136": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But your ice cream looks so good!\nIf only people would just eat both."
+  },
+  "137": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We can't just leave them like this, let's help out!"
+  },
+  "138": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is there anything we can help you with?\""
+  },
+  "139": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Well, I'm thinking of doing something new using our ice cream..."
+  },
+  "140": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Something new that uses ice cream...\nOh, Manager! You could make coffee!"
+  },
+  "141": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's right. We could use vanilla ice cream and coffee...\nto make affogato!\""
+  },
+  "142": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Good idea! It's more geared towards adults,\nso it'll be different enough from the chocolate bananas next door."
+  },
+  "143": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "All right! Okay, let's make the..."
+  },
+  "144": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Uhh, we'd need an espresso machine for the coffee part, wouldn't we..."
+  },
+  "145": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'll have to go get the machine from Fuwa Fuwa,\nbut taking the train would take way too long...\""
+  },
+  "146": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "In that case, I'll lend you a mini truck!"
+  },
+  "147": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Then leave the espresso machine to me! I'll be right back!"
+  },
+  "148": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you. I'll call over the other girls too!\""
+  },
+  "149": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "All of the members of Fuwa Fuwa gathered\nat the stall and got ready to help the ice cream stall!"
+  },
+  "150": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It seems the Late Summer Banquet has changed overnight.\nWe cannot miss any of the new festivities."
+  },
+  "151": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Favna, Mr. Familiar!\nCome take a look at our masks!"
+  },
+  "152": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "What an impressive selection of masks.\nI would expect no less from the Alice of the Kingdom of Roses."
+  },
+  "153": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You even have Keeby's Fantasy Land.\nAnd even the final boss from Milky Way Prayer!"
+  },
+  "154": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(It has such an intimidating design...\nWouldn't kids cry at the sight of it?)"
+  },
+  "155": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Well, since we're here, why don't we buy a mask or two?\""
+  },
+  "156": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Then how's this one?\nNyago from Keeby's Fantasy Land 3!"
+  },
+  "157": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Oh! So you remember my companion\nwho never left my side back then!"
+  },
+  "158": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(A cat-like character...\nLooks like Favna's always liked cats.)"
+  },
+  "159": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It's a yo-yo fishing stand. Colorful water balloon yo-yos\nbob about in a large container filled with water."
+  },
+  "160": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...It's beautiful, isn't it?\nIt's like a miniature galaxy."
+  },
+  "161": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Let us acquire a yo-yo.\nNow, I shall grasp the light of the stars in my very hands!"
+  },
+  "162": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Um, uhh...?\nThis isn't how it should go..."
+  },
+  "163": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Did you fail again? That's surprising.\nYou were so good at goldfish scooping.\""
+  },
+  "164": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "U-Unlike the Golden Beasts of the Pond,\nthey are... not very talkative..."
+  },
+  "165": {
+    "Personagem": "Megumi",
+    "PT": "",
+    "EN": "Thank you for playing so many times!\nAs a special treat, you can pick whichever you want."
+  },
+  "166": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You have my thanks. Such generosity is also\nsomething you only see at the Late Summer Banquet."
+  },
+  "167": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Favna chooses a metallic-colored yo-yo.\nThe sophisticated color suits her well."
+  },
+  "168": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Favna chooses a yo-yo with a skeleton pattern.\nThanks to Favna's own aesthetic, it looks somewhat magical."
+  },
+  "169": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Favna chooses a yo-yo shaped like a cat's face.\n...So she's surprisingly into cute things like that."
+  },
+  "170": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "*Sniff sniff*... This aroma..."
+  },
+  "171": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yakisoba! I'm getting a little hungry, too. Should we get some?\""
+  },
+  "172": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Thank you. You can tell it's made by a restaurant that\nspecializes in the eight Chinese cuisines. Very authentic."
+  },
+  "173": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And with the fervent atmosphere of the Late Summer Banquet\nand the magic of the food stall combined...\nWhat a devilishly delicious offering this is!"
+  },
+  "174": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That is... Ah, the Miracle-Making Servants.\nI'm surprised they're engaging in the Late Summer Banquet as well."
+  },
+  "175": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Welcome back, Master, my lady!"
+  },
+  "176": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "To be welcomed by maidens cloaked in the robes of the underworld...\nThis stall in particular feels like a completely different world!"
+  },
+  "177": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Favna-chan, thanks for being friends with Shiro.\nCome on, try a chocolate banana!"
+  },
+  "178": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Then I will accept your invitation.\nI desire a \"Mint Chocolate Banana.\""
+  },
+  "179": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Look at this clear, deep crimson color...\nIt looks just like a gemstone."
+  },
+  "180": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "As the Slayer of the False God, I make sure \nto partake of Fruit of Knowledge every year."
+  },
+  "181": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Candied apples are both pretty and delicious.\nHere, I'll buy you one.\""
+  },
+  "182": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Ohh. A forbidden fruit, granted to me by my familiar...\nWhat taboo shall it taste like?"
+  },
+  "183": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That was fun. Where should we go next?\""
+  },
+  "184": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I have heard that the chief god of the Heavenly Convention\nhas also manifested in the Banquet. Let us meet with him."
+  },
+  "185": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "They allegedly sell a certain food...\nthat not even the princes of fairy tales can procure."
+  },
+  "186": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Oh, Fuwa Fuwa! Thank you for coming."
+  },
+  "187": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Mr. Chairman. Glad to see you.\""
+  },
+  "188": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The chairman greets you personally with a warm smile...\nbut the stall itself is miserably quiet."
+  },
+  "189": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "It's just... the Miracle Maid Cafe stall next door. They're too popular.\nThat in itself is a wonderful thing, of course..."
+  },
+  "190": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That is saddening, but even so,\nwe must not blame it on fate."
+  },
+  "191": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Do you not think this is where we unleash our powers, my familiar?"
+  },
+  "192": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is there anything we can help you with?\""
+  },
+  "193": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Well, I'm thinking of doing something new using our ice cream..."
+  },
+  "194": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I know, familiar! We could serve the Sweet White Evening Dessert\nwith your Holy Grail... and the Pitch Black Spring of the Abyss!"
+  },
+  "195": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's right. We could use vanilla ice cream and coffee...\nto make affogato!\""
+  },
+  "196": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Good idea! It's more geared towards adults,\nso it'll be different enough from the chocolate bananas next door."
+  },
+  "197": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Yes, a wonderful plan... except..."
+  },
+  "198": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "We would need to summon a certain magic item\nin order to produce the Pitch Black Spring of the Abyss..."
+  },
+  "199": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'll have to go get the machine from Fuwa Fuwa,\nbut taking the train would take way too long...\""
+  },
+  "200": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "In that case, I'll lend you a mini truck!"
+  },
+  "201": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Then I shall conduct this task of utmost importance.\nI shall follow your mana back to you very soon."
+  },
+  "202": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you. I'll call over the other girls too!\""
+  },
+  "203": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "All of the members of Fuwa Fuwa gathered\nat the stall and got ready to help the ice cream stall!"
+  },
+  "204": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "There's different stalls from yesterday.\nLet's go see what they are!"
+  },
+  "205": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "There's so many different types of masks this year.\nNanoka and Nonoka are gonna be so stoked."
+  },
+  "206": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "I'm too old to be buyin' masks like these, though..."
+  },
+  "207": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I knew you would say that, so I've prepared these!"
+  },
+  "208": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Rin shows you a fox mask that looks like it came out of a video game.\nIt's made of plastic, but has a very cool and intricate design."
+  },
+  "209": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Wow, this looks like somethin' you'd wear for cosplay!\nI like it, so I'll take one!"
+  },
+  "210": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Thank you very much~!"
+  },
+  "211": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "...What do ya think, Manager? A shrine maiden\nin a fox mask must be irresistible to an otaku, hmm?"
+  },
+  "212": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You're too embarrassed to say it to her face,\nbut you think she looks very mysterious and alluring in the fox mask."
+  },
+  "213": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Hello, Shimoe-san.\nSo you're doin' yo-yo fishin' this year?"
+  },
+  "214": {
+    "Personagem": "Megumi",
+    "PT": "",
+    "EN": "Sure am. You should give it a shot, Honoka-chan!"
+  },
+  "215": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Nanoka and Nonoka beg me to get 'em one every year...\nCan I go for a practice round?"
+  },
+  "216": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"All right then, let's see who can fish the most yo-yos!\""
+  },
+  "217": {
+    "Personagem": "Megumi",
+    "PT": "",
+    "EN": "Mr. Manager here fished two yo-yos,\nand Honoka-chan got three. You win, Honoka-chan!"
+  },
+  "218": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Woo!"
+  },
+  "219": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Guess you have more skill and experience as an older sister.\nAnd now you're fully prepared for the next time you come with your sisters.\""
+  },
+  "220": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Ya can't leave a summer festival without eatin' some yakisoba first!"
+  },
+  "221": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The yakisoba looks very professional,\nmaybe because it's made by a chef of a Chinese restaurant."
+  },
+  "222": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Oooh! There's so much pork belly in here...\nThis is a real steal for this much meat!"
+  },
+  "223": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Mmm, salt-fried yakisoba with plenty of seafood!\nWhat a refreshin' combination~"
+  },
+  "224": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You enjoy the piping hot yakisoba\nas you listen to Honoka's food review..."
+  },
+  "225": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Huh? Maid dresses at a festival stall...?!"
+  },
+  "226": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Welcome back! Hehe, we're on the road today, so to speak."
+  },
+  "227": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "We're thinking of getting festival-goers\nto know more about Miracle Maid Cafe too!"
+  },
+  "228": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "I see, I see... A smart business move. I could learn from that."
+  },
+  "229": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "And that means I need to see what your chocolate bananas taste like!\nOne chocolate banana, please!"
+  },
+  "230": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Can't have a festival without candied apples!"
+  },
+  "231": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "...Come to think of it, there's so many things you gotta have at festivals!\nHow are we supposed to get them all~? Hehe."
+  },
+  "232": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"But we have to eat candied apples, it's a festival.\nExcuse me, two candied apples, please.\""
+  },
+  "233": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Thanks.\n...Ah, aren't they gorgeous?"
+  },
+  "234": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hehe. Yeah... they are.\""
+  },
+  "235": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(What do apples mean in flower language again...?\nI remember it was... \"temptation\"...)"
+  },
+  "236": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(What do apples mean in flower language again...?)"
+  },
+  "237": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "...Hm? Somethin' the matter?"
+  },
+  "238": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"No, it's nothing...\""
+  },
+  "239": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Seeing Honoka in the yukata\nsuddenly reminded me of that...)"
+  },
+  "240": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Seeing Honoka eating the candied apple\nsuddenly reminded me of that...)"
+  },
+  "241": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That was fun. Where should we go next?\""
+  },
+  "242": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Oh, right, we still haven't gone to the stall\nrun by the chairman of the Shoppin' Association."
+  },
+  "243": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "I heard he'll be mannin' an ice cream stand this year.\nLet's go get some ice cream!"
+  },
+  "244": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Oh, Fuwa Fuwa! Thank you for coming."
+  },
+  "245": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Mr. Chairman. Glad to see you.\""
+  },
+  "246": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The chairman greets you personally with a warm smile...\nbut the stall itself is miserably quiet."
+  },
+  "247": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "It's just... the Miracle Maid Cafe stall next door. They're too popular.\nThat in itself is a wonderful thing, of course..."
+  },
+  "248": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "You're gonna lose big money at this rate!\nBut you're the whole reason why the festival's goin' so well..."
+  },
+  "249": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Manager! We should step in and help out!"
+  },
+  "250": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is there anything we can help you with?\""
+  },
+  "251": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Well, I'm thinking of doing something new using our ice cream..."
+  },
+  "252": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "If you're gonna make somethin' with ice cream...\nOh, I know! We could use coffee!"
+  },
+  "253": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's right. We could use vanilla ice cream and coffee...\nto make affogato!\""
+  },
+  "254": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Good idea! It's more geared towards adults,\nso it'll be different enough from the chocolate bananas next door."
+  },
+  "255": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "All right then, time to brew some..."
+  },
+  "256": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "...Wait, gosh darn it! We don't have an espresso machine!"
+  },
+  "257": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'll have to go get the machine from Fuwa Fuwa,\nbut taking the train would take way too long...\""
+  },
+  "258": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "In that case, I'll lend you a mini truck!"
+  },
+  "259": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Leave that to me!\nI'll be back in a jiffy!"
+  },
+  "260": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you. I'll call over the other girls too!\""
+  },
+  "261": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "All of the members of Fuwa Fuwa gathered\nat the stall and got ready to help the ice cream stall!"
+  },
+  "262": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "A crowd starts to form around the stall,\nperhaps led here by the smell of freshly brewed coffee."
+  },
+  "263": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...Oh, is that the manager of Fuwa Fuwa?"
+  },
+  "264": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "He's gotten so many customers to visit already! Impressive!"
+  },
+  "265": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Keep it up, Manager!\nLet's keep making more and more affogatos!"
+  },
+  "266": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The affogato stall is a great success!\nYou spend a very busy but rewarding evening at the stall..."
+  },
+  "267": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Thank you very much!"
+  },
+  "268": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Not only did we not lose money, we earned a good bit!\nI'll invest today's earnings into next year's festival."
+  },
+  "269": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Good thing both the chairman and the customers liked it!"
+  },
+  "270": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "But I never thought we'd still be workin'\nall the way here at the summer festival.\n...It was fun, though!"
+  },
+  "271": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I trusted that you would extend a hand of salvation, my familiar."
+  },
+  "272": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I think this will become a great memory to keep.\nThank you so much, Manager!"
+  },
+  "273": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "A crowd starts to form around the stall,\nperhaps led here by the smell of freshly brewed coffee."
+  },
+  "274": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...Oh, is that the manager of Fuwa Fuwa?"
+  },
+  "275": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "He's gotten so many customers to visit already! Impressive!"
+  },
+  "276": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That's the spirit~! I'll help too, so let's keep those affogato's coming!"
+  },
+  "277": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The affogato stall is a great success!\nYou spend a very busy but rewarding evening at the stall..."
+  },
+  "278": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Thank you very much!"
+  },
+  "279": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Not only did we not lose money, we earned a good bit!\nI'll invest today's earnings into next year's festival."
+  },
+  "280": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm so glad we could help the chairman...\nAnd it's all thanks to you, Manager!"
+  },
+  "281": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "But I never thought we'd still be workin'\nall the way here at the summer festival.\n...It was fun, though!"
+  },
+  "282": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I trusted that you would extend a hand of salvation, my familiar."
+  },
+  "283": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I panicked there for a bit, but this will be a great story to tell!\nThanks a lot, Manager!"
+  },
+  "284": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "A crowd starts to form around the stall,\nperhaps led here by the smell of freshly brewed coffee."
+  },
+  "285": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...Oh, is that the manager of Fuwa Fuwa?"
+  },
+  "286": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "He's gotten so many customers to visit already! Impressive!"
+  },
+  "287": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It is time to unleash my magic as well.\nEvery single surface-dweller shall be charmed under my spell!"
+  },
+  "288": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The affogato stall is a great success!\nYou spend a very busy but rewarding evening at the stall..."
+  },
+  "289": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Thank you very much!"
+  },
+  "290": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Not only did we not lose money, we earned a good bit!\nI'll invest today's earnings into next year's festival."
+  },
+  "291": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm so glad we could help the chairman...\nAnd it's all thanks to you, Manager!"
+  },
+  "292": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "But I never thought we'd still be workin'\nall the way here at the summer festival.\n...It was fun, though!"
+  },
+  "293": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Aw, I wish I could've tried some of that affogato too~!"
+  },
+  "294": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A journey of salvation... This, too, is our duty.\nYou did a fine job, my familiar."
+  },
+  "295": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "A crowd starts to form around the stall,\nperhaps led here by the smell of freshly brewed coffee."
+  },
+  "296": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...Oh, is that the manager of Fuwa Fuwa?"
+  },
+  "297": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "He's gotten so many customers to visit already! Impressive!"
+  },
+  "298": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Now's our chance! Keep those affogatos comin',\nwe're gonna sell 'em 'til we're rollin' in cash~!"
+  },
+  "299": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The affogato stall is a great success!\nYou spend a very busy but rewarding evening at the stall..."
+  },
+  "300": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Thank you very much!"
+  },
+  "301": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Not only did we not lose money, we earned a good bit!\nI'll invest today's earnings into next year's festival."
+  },
+  "302": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm so glad we could help the chairman...\nAnd it's all thanks to you, Manager!"
+  },
+  "303": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "To think we would engage in combat for the Banquet...\nBut this, too, is fate."
+  },
+  "304": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Aw, I wish I could've tried some of that affogato too~!"
+  },
+  "305": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "We managed to make big bucks at the festival too!\nI knew we were the best business partners ever!\nThanks a bunch, Manager!"
+  },
+  "306": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You hear loud, festive music ringing nearby..."
+  },
+  "307": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Look, Manager! The mikoshi is here!"
+  },
+  "308": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Our shrine prepared this big guy.\nCould ya join in and carry it, Manager?"
+  },
+  "309": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I believe having someone who contributed so much to the Banquet\ncarry the mikoshi will bring good fortune to all involved."
+  },
+  "310": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "All of the girls look at you expectantly.\nLooks like you have no choice!"
+  },
+  "311": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You can do it, Manager~!"
+  },
+  "312": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "Wasshoi! Wasshoi!"
+  },
+  "313": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Use your whole body, Manager!"
+  },
+  "314": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "Heave ho!"
+  },
+  "315": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Woohooooo! Looking good~! ☆"
+  },
+  "316": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "Soiya! Soiya!"
+  },
+  "317": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I shall send you my mana as well, my familiar...!"
+  },
+  "318": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "Hooooooo!"
+  },
+  "319": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You're almost there! Keep it up!"
+  },
+  "320": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "Waaaaasshoi!!"
+  },
+  "321": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The summer festival reaches its peak,\nand everyone parties hard after the mikoshi parade."
+  },
+  "322": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "As you're enjoying the feeling of helping someone out\nand the fatigue that comes with it, the day slowly draws to an end..."
+  },
+  "323": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The new stands made the summer festival all the more livelier than before."
+  },
+  "324": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(It's a little sad that this will all end tonight...)"
+  },
+  "325": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Oh? Manager...?"
+  },
+  "326": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "What a coincidence.\nBut I'm happy that we could meet again today."
+  },
+  "327": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Me too.\""
+  },
+  "328": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um... If you don't mind, do you want to visit the stalls together?"
+  },
+  "329": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Gladly! Let's go!\""
+  },
+  "330": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "...Oh, hey! It's the Manager!"
+  },
+  "331": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I knew you'd be here. I mean, it's just a coincidence,\nobviously, but still! I'm happy I found you!"
+  },
+  "332": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yeah, me too.\""
+  },
+  "333": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey hey, let's go eat all the good food together again!"
+  },
+  "334": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Gladly! Let's go!\""
+  },
+  "335": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "...I knew you would come."
+  },
+  "336": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "We are destined to meet here once more...\nI saw this future coming a mile away."
+  },
+  "337": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh, wow. What a happy coincidence!\""
+  },
+  "338": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Summer is nearing its end...\nLet us embark on our final excursion, my familiar."
+  },
+  "339": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Gladly! Let's go!\""
+  },
+  "340": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Wait, is that... Hey, Manager!"
+  },
+  "341": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "I came alone too today.\nI didn't think I'd run into ya!"
+  },
+  "342": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Me neither. What a happy coincidence!\""
+  },
+  "343": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Well, since we're here,\nwanna check out the stalls together?"
+  },
+  "344": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Gladly! Let's go!\""
+  },
+  "345": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I've been wanting to try Ichijou-san's frankfurters!"
+  },
+  "346": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You surprisingly don't really get the chance\nto eat frankfurters on normal days, huh.\""
+  },
+  "347": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's one of those special treats you can only get at festivals!"
+  },
+  "348": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Every bite is so juicy...\nSausages straight from the butcher's are really on a different level!"
+  },
+  "349": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Shiro-oneechan! You can have this corn!"
+  },
+  "350": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wow, thank you! Are you helping out today, Nana-chan?"
+  },
+  "351": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Yeah. Dad's so busy that he can barely go potty."
+  },
+  "352": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Here, Manager, this is yours. I'm curious to try\nthe barbeque sauce too, so could you let me have a bite?"
+  },
+  "353": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Here, Manager, this is yours. Shichimi mayonnaise!\nI'll let you have a bite of my soy sauce flavored one too!"
+  },
+  "354": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This sweet smell... Baby castella!"
+  },
+  "355": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "Welcome. These are fresh out of the oven!"
+  },
+  "356": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You quickly pop one into your mouth.\nIt's so soft and moist that you can't hold in your smile!"
+  },
+  "357": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I want one too, Manager!"
+  },
+  "358": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Give it to her by hand:option3;Feed her:option4"
+  },
+  "359": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you! Wah, hot hot hot...\nIt really is fresh from the oven~!"
+  },
+  "360": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Mmph?!"
+  },
+  "361": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, Manager...\nIt's really delicious, though!"
+  },
+  "362": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It's a grilled squid stand.\nThe roasted soy sauce smells very tempting."
+  },
+  "363": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ough... It's impossible NOT to get some to eat!"
+  },
+  "364": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "Hey there, guys and gals!\nGet your fill of grilled squid here!"
+  },
+  "365": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Does the place smell so good because\nshe's been swinging that squid around all day...?)"
+  },
+  "366": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You don't even have to ask!\nWe'll have two grilled squid, please!"
+  },
+  "367": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ichijou-san! I've been looking forward to your frankfurter stand!"
+  },
+  "368": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Ooh, thank you!\nI'll grill up the biggest of the bunch for you!"
+  },
+  "369": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You take a bite out of the piping hot frankfurter.\nYou steal a glance at Miyu to see that she's already finished hers."
+  },
+  "370": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hoo, that was soooo good!\nI could eat these forever!"
+  },
+  "371": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I knew you'd say that.\nHere's an extra something on the house!"
+  },
+  "372": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "A corndog~! Ehehe, I get to eat so much today! I'm so happy~♪"
+  },
+  "373": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You have cheese-filled sausages too?!\nEhehe, I get to eat so much today! I'm so happy~♪"
+  },
+  "374": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You can't have a summer without eating corn!"
+  },
+  "375": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It smells sooo good! You just can't beat butter and soy sauce~"
+  },
+  "376": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miyu goes to town on the corn cob.\nJust from her looks, one wouldn't expect her to\neat so heartily, but it brings a smile to your face."
+  },
+  "377": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "The corn is just sweet enough! It's so tasty~!"
+  },
+  "378": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I think I wanna use corn in a Fuwa Fuwa dish now.\nI'll come up with something cool!"
+  },
+  "379": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I've been craving something sweet!\nBaby castella, pleeease~!"
+  },
+  "380": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hrmph, mmm...!"
+  },
+  "381": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Oh, it's all gone.\nIt was so tasty that I ran out right away~!"
+  },
+  "382": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Whenever you eat something, it always looks so tasty.\""
+  },
+  "383": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(But she's so thin... where does all the food even go...?)"
+  },
+  "384": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey... were you thinking \"you'll gain wait\" or something~?"
+  },
+  "385": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "No!:option5;You'd be cute even if you did.:option6"
+  },
+  "386": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"No, the opposite, actually.\nI was thinking how slim you are despite how much you eat.\""
+  },
+  "387": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "R-Really? That's kinda embarrassing to hear outta nowhere."
+  },
+  "388": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I mean, what's the problem with that?\nYou'd be cute even if you did gain weight, Miyu.\""
+  },
+  "389": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wha... I-I didn't see that coming!"
+  },
+  "390": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But for some reason... that makes me really happy to hear."
+  },
+  "391": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I finally got some grilled squid~!\nThis type of grilled squid is really good too! ♪"
+  },
+  "392": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Type...?\""
+  },
+  "393": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Come to think of it, grilled squid is called ikayaki,\nbut it's completely different from takoyaki, huh.\""
+  },
+  "394": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeah, but in Osaka, there's a type of grilled squid that uses flour!"
+  },
+  "395": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "The squid and an egg is added to a crepe-like batter and fried that way."
+  },
+  "396": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Ooh, that sounds really good too!\""
+  },
+  "397": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's an Osaka specialty!\nI'll take you to a place that serves great grilled squid next time!"
+  },
+  "398": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "There are even more food stalls today,\nand you can't help but look at every one of them."
+  },
+  "399": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "......"
+  },
+  "400": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hm? What was that sound...?\""
+  },
+  "401": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-It was a tremor from the depths of the earth...\nThe master of the underworld desires the flesh of monsters!"
+  },
+  "402": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Which is to say...\nmy dear master wants to eat a frankfurter.\""
+  },
+  "403": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "N-Noooo nonono! I'm the Queen of the Kingdom of Darkness...!"
+  },
+  "404": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yeah? Then I'll ask them to add plenty of mustard.\""
+  },
+  "405": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Argh! If you keep this up, I'll exile you straight to hell...!!"
+  },
+  "406": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Maize of chained gold...\nA fitting offering for the Queen of the Kingdom of Darkness."
+  },
+  "407": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh, good. I want one too, so let's get two.\""
+  },
+  "408": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is it good, Favna?\""
+  },
+  "409": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "*Nods quickly*"
+  },
+  "410": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Favna quietly nibbles on the corn cob with her dainty mouth."
+  },
+  "411": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...What?"
+  },
+  "412": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Nothing... Hehe.\""
+  },
+  "413": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You watch as Favna goes at the corn cob like a little squirrel\nand savor both the cute sight and your own corn cob."
+  },
+  "414": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh hey, baby castella. Do you want some?\""
+  },
+  "415": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "To think you could intuit my desires. Not bad."
+  },
+  "416": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I was thinking I wanted something sweet.\nI would like to taste the sweet healing nectar of light."
+  },
+  "417": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I was thinking I wanted something sweet.\nI would like to taste the bewitching sweetness of darkness."
+  },
+  "418": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "Thanks. By the way, you two have a cat, right?"
+  },
+  "419": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "This is actually a special gift for kids, but..."
+  },
+  "420": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Meep?! This is...!"
+  },
+  "421": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You receive baby castella in the shape of cat faces.\nThey seem to have been made with a special mold."
+  },
+  "422": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Simply adorable...\nI almost cannot bear to consume them!"
+  },
+  "423": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "O Kraken scorched by the flames of hell,\nI shall devour you from head to tentacle!"
+  },
+  "424": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here, a freshly-grilled kraken.\nMake sure to chew it thoroughly.\""
+  },
+  "425": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "R-Right..."
+  },
+  "426": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Since when have you become so skilled\nat speaking in my divine tongue...?"
+  },
+  "427": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hahaha. I've just gotten better as your familiar.\""
+  },
+  "428": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "If ya want a frankfurter, ya gotta get it from Ichijou-san!"
+  },
+  "429": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Ahh, the best kinda sausage is the kind with a crispy snap to it!"
+  },
+  "430": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait, but this one is softer.\nDo you sell skinless sausages too?\""
+  },
+  "431": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Yeah, skinless sausages are easier for kids to eat."
+  },
+  "432": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Ohhh, that's true...!"
+  },
+  "433": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "That's so thoughtful and professional of ya.\nI've got lots to learn!"
+  },
+  "434": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Mmm~ They're veggies, but they're so sweet!\nI wasn't expecting that!"
+  },
+  "435": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Kumura-san's got a real good eye for delicious veggies!"
+  },
+  "436": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "I've been thinkin' of askin' folks from the Association\nto take me to a market auction so I can learn a thing or two."
+  },
+  "437": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "After all, I wanna get delicious, fresh ingredients at bargain prices!"
+  },
+  "438": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You're so diligent. I'll have to catch up too!\""
+  },
+  "439": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I bought some baby castella. Let's eat them before they get cold.\""
+  },
+  "440": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Thanks!"
+  },
+  "441": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "They sell suzu castella at convenience stores too,\nbut food stall ones just taste more special~"
+  },
+  "442": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I remember hearing that baby castella\nand suzu castella are different things.\""
+  },
+  "443": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Is that so? They look and taste pretty similar,\nso that's surprisin'... I like both of 'em, though!"
+  },
+  "444": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Tanaka-san! How's business doin'?"
+  },
+  "445": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "It's booming~ But I think I won't be able to stomach\nany fried squid tentacles for a long while."
+  },
+  "446": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "Oh right, Honoka-oneechan! Thank you for buying\nthe leftover squid tentacles! That really helped us out~"
+  },
+  "447": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Here, sorry for the wait! Two grilled squids!"
+  },
+  "448": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You bring the piping hot grilled squid to your mouth.\nThe sweet and salty sauce and chewy texture of the squid\nmight be a little addictive...!"
+  },
+  "449": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "It's a real simple dish, but that's what highlights\nhow fresh the ingredients are. Thank ya kindly!"
+  },
+  "450": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You visit and eat at the food stalls until you're stuffed..."
+  },
+  "451": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You hear the vibrant sound of taiko drums.\nPeople have gathered around, guided by the festive music."
+  },
+  "452": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "My body is almost going to move to the music on its own!\nCome on, let's dance together!"
+  },
+  "453": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "The Bon dance is about to start!\nC'mon Manager, you have to join in too!"
+  },
+  "454": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The dance in memory of our ancestors is about to begin.\nSimply watching is not as enjoyable... Let us go as well."
+  },
+  "455": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "The dance might look silly, but watchin' it is just as silly!\nIt's not every day ya get to do a Bon dance, so let's have fun!"
+  },
+  "456": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "...And so, summer on Electric Street draws to an end."
+  },
+  "457": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "This summer was like the large puffy clouds you see in the summer sky—\nfluffy, dreamlike, and just a little bit chaotic with a chance of rain."
+  },
+  "458": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The time you spent here with the girls\nhave become precious, irreplaceable memories."
+  },
+  "459": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "And then..."
+  },
+  "460": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Even after the stalls have been cleared, colorful fireworks continue\nto bloom in the night sky, as if to protest the festival coming to an end."
+  },
+  "461": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager?"
+  },
+  "462": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Shiro! I thought you'd gone home.\""
+  },
+  "463": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I just... don't want to leave yet."
+  },
+  "464": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I see. I'll walk you back, then.\nIt's pitch dark all around, so don't leave my side.\""
+  },
+  "465": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Okay."
+  },
+  "466": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Are you still going to work at Fuwa Fuwa, Shiro?\""
+  },
+  "467": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes, of course!"
+  },
+  "468": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you. I'll be counting on you.\""
+  },
+  "469": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...But..."
+  },
+  "470": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Once I graduate from school...\nI'll have to think about my career, or further studies,\nwhether I want to or not."
+  },
+  "471": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I... What should I do...?"
+  },
+  "472": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Shiro...\""
+  },
+  "473": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Once you become an adult, you don't wear sailor uniforms anymore,\nand when you grow older, it only becomes harder to wear cosplay..."
+  },
+  "474": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Do you think maid uniforms are also something you grow out of...?"
+  },
+  "475": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "No.:option7;Who decided that?:option8"
+  },
+  "476": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...No.\""
+  },
+  "477": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Maids are a noble occupation too.\nIn the Middle Ages, there were many older, veteran maids, weren't there?\""
+  },
+  "478": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"As long as you have the heart to serve...\nAnyone can be a maid, for however long they want.\""
+  },
+  "479": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Who decided that? There's no rule that you have\nto only wear normal clothes once you're an adult.\""
+  },
+  "480": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"There are plenty of people who work hard\nto wear cool cosplays even when they've grown older.\""
+  },
+  "481": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"No matter how old you are, you can wear whatever you want.\nYou can be who you really want to be.\""
+  },
+  "482": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager...!"
+  },
+  "483": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I... I... Even when I grow older...\nEven when I become a granny...!"
+  },
+  "484": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I want to be a maid... forever!"
+  },
+  "485": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "So... Could you be my \"master\" forever too, {0}-san?"
+  },
+  "486": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Of course, my lady.:option9"
+  },
+  "487": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you..."
+  },
+  "488": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...I love you, Master."
+  },
+  "489": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Even after the stalls have been cleared, colorful fireworks continue\nto bloom in the night sky, as if to protest the festival coming to an end."
+  },
+  "490": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh! I've been looking for you, Manager~!"
+  },
+  "491": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Miyu! I thought you'd gone home.\""
+  },
+  "492": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I chatted with everyone while I helped clean up,\nand before I knew it, it was so late!"
+  },
+  "493": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'll walk you home. It's dark, so watch your step.\""
+  },
+  "494": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Oh, wait."
+  },
+  "495": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Can I... hold your hand...?"
+  },
+  "496": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Sure.:option10;Okay, okay.:option12"
+  },
+  "497": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Ehehe."
+  },
+  "498": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Aw, don't be shy."
+  },
+  "499": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's a little embarrassing to say this to your face...\nBut thanks a lot, Manager."
+  },
+  "500": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I mean, I've said \"thanks\" a whole bunch of times before, I know..."
+  },
+  "501": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But ever since I came to Fuwa Fuwa, I made so many precious friends.\nI made so many people smile, and I could smile naturally too."
+  },
+  "502": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Fuwa Fuwa is a really special place to me."
+  },
+  "503": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Me too.:option12"
+  },
+  "504": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thanks.\n...Oops, I said it again."
+  },
+  "505": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "But... But, y'know..."
+  },
+  "506": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I think... I don't want you to be just my friend."
+  },
+  "507": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I like you, Manager.\nSo please... go out with me!"
+  },
+  "508": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "I like you too, Miyu.:option14"
+  },
+  "509": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "......!"
+  },
+  "510": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...O-Ohhhh. Really!"
+  },
+  "511": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...We... both like each other...!"
+  },
+  "512": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miyu turns and smiles, her face lit up by the fireworks in the sky.\nWith happy tears still falling from the corners of her eyes,\nshe takes a springy step forward..."
+  },
+  "513": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I'll only say this once, okay?\n...I love you, {0}-san!"
+  },
+  "514": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Even after the stalls have been cleared, colorful fireworks continue\nto bloom in the night sky, as if to protest the festival coming to an end."
+  },
+  "515": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Mmn... Honk shoo... Be consumed by the darkness..."
+  },
+  "516": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Haha, looks like my master is sleepy.\nShe must be very tired.)"
+  },
+  "517": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Thank you for your guidance to this day, my Queen.\""
+  },
+  "518": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "......"
+  },
+  "519": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...That's not... what I want to hear..."
+  },
+  "520": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Y-You're awake...?!\""
+  },
+  "521": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Tell me your answer from back then."
+  },
+  "522": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I want to hear your true feelings.\nWith genuine, unembellished words..."
+  },
+  "523": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...And I want you to listen to my true feelings as well..."
+  },
+  "524": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Of course. I'm listening.:option15"
+  },
+  "525": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I may be the Guardian of All Dreams,\nbut my power is not everlasting..."
+  },
+  "526": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "After all... simply looking into your eyes like this\nmakes me unable to utter a single incantation..."
+  },
+  "527": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I think, when I'm with you, I... um... I lose my... no, ignore that.\nI-I can't maintain my stern image as the Queen of the Kingdom of Darkness."
+  },
+  "528": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Even so... If one day, I awaken from my dream..."
+  },
+  "529": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Will you...continue to watch over me? And only me?"
+  },
+  "530": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Of course. After all...\""
+  },
+  "531": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "I like you, Favna.:option16"
+  },
+  "532": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "......"
+  },
+  "533": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Argh! Like I was just saying, that look in your eyes makes my heart flutter!"
+  },
+  "534": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But... don't stop. I won't keep running away anymore, either..."
+  },
+  "535": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...\"{0}-san.\" Say it again. That you like me."
+  },
+  "536": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I like you a lot, too..."
+  },
+  "537": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Even after the stalls have been cleared, colorful fireworks continue\nto bloom in the night sky, as if to protest the festival coming to an end."
+  },
+  "538": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "You're still here, Manager?"
+  },
+  "539": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yeah. You're done cleaning up, I assume? Good job.\""
+  },
+  "540": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "...Were ya waitin' for me?"
+  },
+  "541": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "I told my family that I wanted to walk around for a bit more,\nso they've already headed home."
+  },
+  "542": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "But to tell the truth...\nI wanted to be with ya at the end of the festival."
+  },
+  "543": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "...Hey, Manager? What are ya plannin' to do after this?"
+  },
+  "544": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'll keep managing the cafe, of course.\nThis job suits me surprisingly well.\""
+  },
+  "545": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "That's good to hear. But that's not what I meant..."
+  },
+  "546": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You mean even further in the future?\nI'm not planning on quitting Fuwa Fuwa, in any case.\""
+  },
+  "547": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Yeah? I guess I should've expected that answer..."
+  },
+  "548": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"What about you, Honoka? Is there something you want to do?\""
+  },
+  "549": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Oh, plenty! As the heir to the shrine and a maid of Fuwa Fuwa,\nthere's no way I'll get off this ship when it's ridin' on the wave of good business!"
+  },
+  "550": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "And so, um... There's a temptin' offer I'd like to make ya."
+  },
+  "551": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Would ya wanna try bein' the cafe manager...\nas well as the husband of a shrine owner?"
+  },
+  "552": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Huh?!:option16;Gladly!:option17"
+  },
+  "553": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Hehehe...! Aww, Manager, you're makin' such a cute face!"
+  },
+  "554": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "...Phew~! All that laughin' warmed me right up again.\nNow don't ya get it wrong, it's not 'cause my heart's racin' or anythin'!"
+  },
+  "555": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Th-That was fast! Ya could've at least shown a li'l surprise...!"
+  },
+  "556": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Ah, why am I the one panickin' now?!\nMy heart is positively racin'!"
+  },
+  "557": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "There's no rush. Take your time to think about your answer."
+  },
+  "558": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "After all, the fact that I love ya isn't gonna change... {0}-han."
+  },
+  "559": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Even after the stalls have been cleared, colorful fireworks continue\nto bloom in the night sky, as if to protest the festival coming to an end."
+  },
+  "560": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I almost don't want to leave, but it's getting late, so I should...)"
+  },
+  "561": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager?"
+  },
+  "562": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Shiro! I thought you'd gone home.\""
+  },
+  "563": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I helped out with the cleaning and ended up staying late."
+  },
+  "564": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I see, that must have been tiring. I'll walk you home.\""
+  },
+  "565": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you. I'm so glad you're here, Manager..."
+  },
+  "566": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey~! Manager~!"
+  },
+  "567": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "C'mon, you could've sent me a text to tell me if you were still here~"
+  },
+  "568": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Manager, I'm here to pick ya up... Wait, why's everyone else here too?!"
+  },
+  "569": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Miyu! And Honoka too...!\""
+  },
+  "570": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Don't tell me you've forgotten about me already."
+  },
+  "571": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wah! You too, Favna? Since when were you...?!\""
+  },
+  "572": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "For a while by now.\nI've been waiting for you to sense my presence, you know..."
+  },
+  "573": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Whoops, sorry...\""
+  },
+  "574": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Since we're all here, let's watch the fireworks together.\""
+  },
+  "575": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, huge agree~!"
+  },
+  "576": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Come over here, Manager!"
+  },
+  "577": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Behold. The most spectacular flowers\nare about to bloom in the pitch-black sky."
+  },
+  "578": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Um, guys? It's a little hard to see the fireworks when you're all so close...\""
+  },
+  "579": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Please let me, just this once!\nB-Because, I really, really really reeeeally like you, {0}!"
+  },
+  "580": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Oho, look at ya, bein' surrounded by cute girls like this~\n...Well, even so, I still love ya, {0} ♪"
+  },
+  "581": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Grrr... Don't forget our pact.\n{0} are the one fated to be bound to me by love!"
+  },
+  "582": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You'd better take responsibility and accept aaaall of our love, {0}♡"
+  },
+  "583": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, let's take a photo too! With the fireworks... say cheese!"
+  },
+  "584": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, you're here too! Can I tag along?"
+  },
+  "585": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Shiro-oneechan! You can have this corn!"
+  },
+  "586": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wow, thank you! Are you helping out today, Nana-chan?"
+  },
+  "587": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Yeah. Dad's so busy that he can barely go to the loo."
+  },
+  "588": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Here, Manager, this is yours. I'm curious to try\nthe barbeque sauce too, so could you let me have a bite?"
+  },
+  "589": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Here, Manager, this is yours. Shichimi mayonnaise!\nI'll let you have a bite of my soy sauce flavored one too!"
+  },
+  "590": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh hey, Manager! Let's check out all the food stalls together again! ☆"
+  },
+  "591": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ichijou-san! I've been looking forward to your frankfurter stand!"
+  },
+  "592": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "Ooh, thank you!\nI'll grill up the biggest of the bunch for you!"
+  },
+  "593": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You take a bite out of the piping hot frankfurter.\nYou steal a glance at Miyu to see that she's already finished hers."
+  },
+  "594": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hoo, that was soooo good!\nI could eat these forever!"
+  },
+  "595": {
+    "Personagem": "Yuusuke",
+    "PT": "",
+    "EN": "I knew you'd say that.\nHere's an extra something on the house!"
+  },
+  "596": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "A corndog~! Ehehe, I get to eat so much today! I'm so happy~♪"
+  },
+  "597": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You have cheese-filled sausages too?!\nEhehe, I get to eat so much today! I'm so happy~♪"
+  },
+  "598": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Looks like we were fated to meet tonight as well."
+  },
+  "599": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh hey, baby castella. Do you want some?\""
+  },
+  "600": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "To think you could intuit my desires. Not bad."
+  },
+  "601": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I was thinking I wanted something sweet.\nI would like to taste the sweet healing nectar of light."
+  },
+  "602": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I was thinking I wanted something sweet.\nI would like to taste the bewitching sweetness of darkness."
+  },
+  "603": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "Thanks. By the way, you two have a cat, right?"
+  },
+  "604": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "This is actually a special gift for kids, but..."
+  },
+  "605": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Meep?! This is...!"
+  },
+  "606": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You receive baby castella in the shape of cat faces.\nThey seem to have been made with a special mold."
+  },
+  "607": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Simply adorable...\nI almost cannot bear to consume them!"
+  },
+  "608": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Oh, Manager! Mind if I tag along?"
+  },
+  "609": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Tanaka-san! How's business doin'?"
+  },
+  "610": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "It's booming~ But I think I won't be able to stomach\nany fried squid tentacles for a long while."
+  },
+  "611": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "Oh right, Honoka-oneechan! Thank you for buying\nthe leftover squid tentacles! That really helped us out~"
+  },
+  "612": {
+    "Personagem": "Ichiryu",
+    "PT": "",
+    "EN": "Here, made you wait! Two grilled squids!"
+  },
+  "613": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You bring the piping hot grilled squid to your mouth.\nThe sweet and salty sauce and chewy texture of the squid\nmight be a little addictive...!"
+  },
+  "614": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "It's a real simple dish, but that's what highlights\nhow fresh the ingredients are. Thank ya kindly!"
+  },
+  "615": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Make affogato with the food stall's ice cream and Fuwa Fuwa's coffee!"
+  },
+  "616": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This looks pretty tasty...\nBut it's nothing you'd serve at an ice cream stand."
+  },
+  "617": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Ah, thank you. I'm a little tired, so I'll drink this myself."
+  },
+  "618": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It's done! A Fuwa Fuwa affogato, special festival edition!"
+  },
+  "619": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Please give it a try, Mr. Chairman!"
+  },
+  "620": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Ohh...! What a lovely harmony of sweetness and bitterness.\nIt tastes even richer than just the ice cream itself!"
+  },
+  "621": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Oh, look! Customers are gathering around the stall!"
+  },
+  "622": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Make affogato with the food stall's ice cream and Fuwa Fuwa's coffee!"
+  },
+  "623": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wow, this looks really good!\n...Wait, where'd the ice cream go?!"
+  },
+  "624": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Ah, thank you. I'm a little tired, so I'll drink this myself."
+  },
+  "625": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It's done! A Fuwa Fuwa affogato, special festival edition!"
+  },
+  "626": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "That looks great! Here, Mr. Chairman, take a sip!"
+  },
+  "627": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Ohh...! What a lovely harmony of sweetness and bitterness.\nIt tastes even richer than just the ice cream itself!"
+  },
+  "628": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hey, look! There's customers coming over already!"
+  },
+  "629": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Make affogato with the food stall's ice cream and Fuwa Fuwa's coffee!"
+  },
+  "630": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "My familiar... you must use the Sweet White Evening Dessert\nas a catalyst for the recipe to have any effect..."
+  },
+  "631": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Ah, thank you. I'm a little tired, so I'll drink this myself."
+  },
+  "632": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It's done! A Fuwa Fuwa affogato, special festival edition!"
+  },
+  "633": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Good job. Now, chief god of the Heavenly Convention,\ntaste the fruit of his efforts."
+  },
+  "634": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Ohh...! What a lovely harmony of sweetness and bitterness.\nIt tastes even richer than just the ice cream itself!"
+  },
+  "635": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Reload your ammo, familiar. Surface dwellers are approaching!"
+  },
+  "636": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Make affogato with the food stall's ice cream and Fuwa Fuwa's coffee!"
+  },
+  "637": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "This smells very nice, but...\nWhy don't ya make somethin' more in tune with the ice cream stand?"
+  },
+  "638": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Ah, thank you. I'm a little tired, so I'll drink this myself."
+  },
+  "639": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It's done! A Fuwa Fuwa affogato, special festival edition!"
+  },
+  "640": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "I knew ya could do it, Manager!\nHere you go, Mr. Chairman. Do give it a try!"
+  },
+  "641": {
+    "Personagem": "Chairman Noyama",
+    "PT": "",
+    "EN": "Ohh...! What a lovely harmony of sweetness and bitterness.\nIt tastes even richer than just the ice cream itself!"
+  },
+  "642": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Oh! Customers already...! This affogato sure is powerful!"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "1": {
+    "Id": 1,
+    "CharacterID": 18,
+    "CharacterKey": "1009_Syogo",
+    "LoadPath": "1009_Syogo/1009_Syogo"
+  },
+  "2": {
+    "Id": 2,
+    "CharacterID": 20,
+    "CharacterKey": "1011_Manabu",
+    "LoadPath": "1011_Manabu/1011_Manabu"
+  },
+  "3": {
+    "Id": 3,
+    "CharacterID": 21,
+    "CharacterKey": "1012_Toshio",
+    "LoadPath": "1012_Toshio/1012_Toshio"
+  },
+  "4": {
+    "Id": 4,
+    "CharacterID": 22,
+    "CharacterKey": "1013_Takeshi",
+    "LoadPath": "1013_Takeshi/1013_Takeshi"
+  },
+  "5": {
+    "Id": 5,
+    "CharacterID": 2023,
+    "CharacterKey": "2023_Js",
+    "LoadPath": "2023_Js/2023_Js"
+  },
+  "6": {
+    "Id": 6,
+    "CharacterID": 2024,
+    "CharacterKey": "2024_OldJKMan",
+    "LoadPath": "2024_OldJKMan/2024_OldJKMan"
+  },
+  "7": {
+    "Id": 7,
+    "CharacterID": 2025,
+    "CharacterKey": "2025_Curly",
+    "LoadPath": "2025_Curly/2025_Curly"
+  },
+  "8": {
+    "Id": 8,
+    "CharacterID": 2027,
+    "CharacterKey": "2027_FashionableMan",
+    "LoadPath": "2027_FashionableMan/2027_FashionableMan"
+  },
+  "9": {
+    "Id": 9,
+    "CharacterID": 2028,
+    "CharacterKey": "2028_Kazuhiko",
+    "LoadPath": "2028_Kazuhiko/2028_Kazuhiko"
+  },
+  "10": {
+    "Id": 10,
+    "CharacterID": 2029,
+    "CharacterKey": "2029_Misako",
+    "LoadPath": "2029_Misako/2029_Misako"
+  },
+  "11": {
+    "Id": 11,
+    "CharacterID": 2030,
+    "CharacterKey": "2030_Eriko",
+    "LoadPath": "2030_Eriko/2030_Eriko"
+  },
+  "12": {
+    "Id": 12,
+    "CharacterID": 2031,
+    "CharacterKey": "2031_Yoshida",
+    "LoadPath": "2031_Yoshida/2031_Yoshida"
+  },
+  "13": {
+    "Id": 13,
+    "CharacterID": 2032,
+    "CharacterKey": "2032_Otaku1",
+    "LoadPath": "2032_Otaku1/2032_Otaku1"
+  },
+  "14": {
+    "Id": 14,
+    "CharacterID": 2033,
+    "CharacterKey": "2033_Otaku2",
+    "LoadPath": "2033_Otaku2/2033_Otaku2"
+  },
+  "15": {
+    "Id": 15,
+    "CharacterID": 2034,
+    "CharacterKey": "2034_Otaku3",
+    "LoadPath": "2034_Otaku3/2034_Otaku3"
+  },
+  "16": {
+    "Id": 16,
+    "CharacterID": 2035,
+    "CharacterKey": "2035_Aunt1",
+    "LoadPath": "2035_Aunt1/2035_Aunt1"
+  },
+  "17": {
+    "Id": 17,
+    "CharacterID": 2036,
+    "CharacterKey": "2036_Aunt2",
+    "LoadPath": "2036_Aunt2/2036_Aunt2"
+  },
+  "18": {
+    "Id": 18,
+    "CharacterID": 2037,
+    "CharacterKey": "2037_Aunt3",
+    "LoadPath": "2037_Aunt3/2037_Aunt3"
+  },
+  "19": {
+    "Id": 19,
+    "CharacterID": 2038,
+    "CharacterKey": "2038_Aunt4",
+    "LoadPath": "2038_Aunt4/2038_Aunt4"
+  },
+  "20": {
+    "Id": 20,
+    "CharacterID": 2039,
+    "CharacterKey": "2039_Man1",
+    "LoadPath": "2039_Man1/2039_Man1"
+  },
+  "21": {
+    "Id": 21,
+    "CharacterID": 2040,
+    "CharacterKey": "2040_Woman1",
+    "LoadPath": "2040_Woman1/2040_Woman1"
+  },
+  "22": {
+    "Id": 22,
+    "CharacterID": 2041,
+    "CharacterKey": "2041_Collar1",
+    "LoadPath": "2041_Collar1/2041_Collar1"
+  },
+  "23": {
+    "Id": 23,
+    "CharacterID": 2042,
+    "CharacterKey": "2042_Collar2",
+    "LoadPath": "2042_Collar2/2042_Collar2"
+  },
+  "24": {
+    "Id": 24,
+    "CharacterID": 2043,
+    "CharacterKey": "2043_Collar3",
+    "LoadPath": "2043_Collar3/2043_Collar3"
+  },
+  "25": {
+    "Id": 25,
+    "CharacterID": 2044,
+    "CharacterKey": "2044_Collar4",
+    "LoadPath": "2044_Collar4/2044_Collar4"
+  },
+  "26": {
+    "Id": 26,
+    "CharacterID": 2045,
+    "CharacterKey": "2045_Ol1",
+    "LoadPath": "2045_Ol1/2045_Ol1"
+  },
+  "27": {
+    "Id": 27,
+    "CharacterID": 2046,
+    "CharacterKey": "2046_Ol2",
+    "LoadPath": "2046_Ol2/2046_Ol2"
+  },
+  "28": {
+    "Id": 28,
+    "CharacterID": 2047,
+    "CharacterKey": "2047_Ol3",
+    "LoadPath": "2047_Ol3/2047_Ol3"
+  },
+  "29": {
+    "Id": 29,
+    "CharacterID": 2048,
+    "CharacterKey": "2048_Ol4",
+    "LoadPath": "2048_Ol4/2048_Ol4"
+  },
+  "30": {
+    "Id": 30,
+    "CharacterID": 2049,
+    "CharacterKey": "2049_Chinpira1",
+    "LoadPath": "2049_Chinpira1/2049_Chinpira1"
+  },
+  "31": {
+    "Id": 31,
+    "CharacterID": 2050,
+    "CharacterKey": "2050_Chinpira2",
+    "LoadPath": "2050_Chinpira2/2050_Chinpira2"
+  },
+  "32": {
+    "Id": 32,
+    "CharacterID": 2051,
+    "CharacterKey": "2051_Chinpira3",
+    "LoadPath": "2051_Chinpira3/2051_Chinpira3"
+  },
+  "33": {
+    "Id": 33,
+    "CharacterID": 2052,
+    "CharacterKey": "2052_Chinpira4",
+    "LoadPath": "2052_Chinpira4/2052_Chinpira4"
+  },
+  "34": {
+    "Id": 34,
+    "CharacterID": 2053,
+    "CharacterKey": "2053_Jk1",
+    "LoadPath": "2053_Jk1/2053_Jk1"
+  },
+  "35": {
+    "Id": 35,
+    "CharacterID": 2054,
+    "CharacterKey": "2054_Jk2",
+    "LoadPath": "2054_Jk2/2054_Jk2"
+  },
+  "36": {
+    "Id": 36,
+    "CharacterID": 2055,
+    "CharacterKey": "2055_Dk1",
+    "LoadPath": "2055_Dk1/2055_Dk1"
+  },
+  "37": {
+    "Id": 37,
+    "CharacterID": 2056,
+    "CharacterKey": "2056_Dk2",
+    "LoadPath": "2056_Dk2/2056_Dk2"
+  },
+  "38": {
+    "Id": 38,
+    "CharacterID": 3001,
+    "CharacterKey": "3001_Chun",
+    "LoadPath": "3001_Chun/3001_Chun"
+  },
+  "39": {
+    "Id": 39,
+    "CharacterID": 3002,
+    "CharacterKey": "3002_De",
+    "LoadPath": "3002_De/3002_De"
+  },
+  "40": {
+    "Id": 40,
+    "CharacterID": 3003,
+    "CharacterKey": "3003_Wu",
+    "LoadPath": "3003_Wu/3003_Wu"
+  },
+  "41": {
+    "Id": 41,
+    "CharacterID": 3004,
+    "CharacterKey": "3004_Lu",
+    "LoadPath": "3004_Lu/3004_Lu"
+  },
+  "42": {
+    "Id": 42,
+    "CharacterID": 3005,
+    "CharacterKey": "3005_Ba",
+    "LoadPath": "3005_Ba/3005_Ba"
+  },
+  "43": {
+    "Id": 43,
+    "CharacterID": 3006,
+    "CharacterKey": "3006_Azami",
+    "LoadPath": "3006_Azami/3006_Azami"
+  },
+  "44": {
+    "Id": 44,
+    "CharacterID": 3007,
+    "CharacterKey": "3007_Jasmin",
+    "LoadPath": "3007_Jasmin/3007_Jasmin"
+  },
+  "45": {
+    "Id": 45,
+    "CharacterID": 3008,
+    "CharacterKey": "3008_Aimu",
+    "LoadPath": "3008_Aimu/3008_Aimu"
+  },
+  "46": {
+    "Id": 46,
+    "CharacterID": 3009,
+    "CharacterKey": "3009_Romeko",
+    "LoadPath": "3009_Romeko/3009_Romeko"
+  }
+}

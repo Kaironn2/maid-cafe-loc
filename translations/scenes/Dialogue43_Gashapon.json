@@ -1,0 +1,142 @@
+{
+  "1": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ooh, you're so lucky, Manager! Let me try!"
+  },
+  "2": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "*Click* *clatter*... *clank!*"
+  },
+  "3": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh! I got the same one as you, Manager! What a coincidence!"
+  },
+  "4": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ooh, I got [{0}]! Do you want to trade?"
+  },
+  "5": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Trade:option1;Don't trade:option2"
+  },
+  "6": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Okay. So you like that character, Manager?"
+  },
+  "7": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I wanted this one! Thank you very much!"
+  },
+  "8": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wow, that's so cute! Lemme try too!"
+  },
+  "9": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "*Click* *clatter*... *clank!*"
+  },
+  "10": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I got the same one you did! Ehehe, now we match! ♪"
+  },
+  "11": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Aaah! I got [{0}]! Hey Manager, wanna trade?"
+  },
+  "12": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Trade:option1;Don't trade:option2"
+  },
+  "13": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, you like yours that much? Then I'll keep this!"
+  },
+  "14": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thank youuu! I'll put this in my room!"
+  },
+  "15": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Ah, to turn the wheels of fate... and the Noble Phantasm of Clear Orbs.\nVery well, I shall carve my own fate as well!"
+  },
+  "16": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "*Click* *clatter*... *clank!*"
+  },
+  "17": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Oh, this is the same one you have...\nWhat a twist of fate."
+  },
+  "18": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I see... This is [{0}]. What do you say?\nI can trade my Noble Phantasm for yours."
+  },
+  "19": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Trade:option1;Don't trade:option2"
+  },
+  "20": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "This, too, is fate. Take good care of it."
+  },
+  "21": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "By exchanging Noble Phantasms, we also exchange mana.\nOur relationship as master and familiar has strengthened!"
+  },
+  "22": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Capsule toys! Great way to test your luck, ain't it? I'll give it a go too!"
+  },
+  "23": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "*Click* *clatter*... *clank!*"
+  },
+  "24": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Let's see... Oh, what a coincidence!\nIt's the same one as the one ya got!"
+  },
+  "25": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Looks like this is [{0}]...\nI kinda like the one ya got more, though.\nCould we trade?"
+  },
+  "26": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Trade:option1;Don't trade:option2"
+  },
+  "27": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, that's fine. The more I look at it, the cuter it gets!"
+  },
+  "28": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Thanks! I'll take good care of it~!"
+  }
+}

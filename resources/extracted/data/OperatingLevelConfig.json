@@ -1,0 +1,72 @@
+{
+  "1": {
+    "Id": 1,
+    "LevelNameKey": "Level1NameKey",
+    "OperatingLevelExp": 0,
+    "OperatingSkillMaxPower": 100,
+    "UseOperatingMoney": 0
+  },
+  "2": {
+    "Id": 2,
+    "LevelNameKey": "Level2NameKey",
+    "OperatingLevelExp": 60,
+    "OperatingSkillMaxPower": 95,
+    "UseOperatingMoney": 30000
+  },
+  "3": {
+    "Id": 3,
+    "LevelNameKey": "Level3NameKey",
+    "OperatingLevelExp": 140,
+    "OperatingSkillMaxPower": 90,
+    "UseOperatingMoney": 50000
+  },
+  "4": {
+    "Id": 4,
+    "LevelNameKey": "Level4NameKey",
+    "OperatingLevelExp": 240,
+    "OperatingSkillMaxPower": 85,
+    "UseOperatingMoney": 70000
+  },
+  "5": {
+    "Id": 5,
+    "LevelNameKey": "Level5NameKey",
+    "OperatingLevelExp": 360,
+    "OperatingSkillMaxPower": 80,
+    "UseOperatingMoney": 110000
+  },
+  "6": {
+    "Id": 6,
+    "LevelNameKey": "Level6NameKey",
+    "OperatingLevelExp": 500,
+    "OperatingSkillMaxPower": 75,
+    "UseOperatingMoney": 150000
+  },
+  "7": {
+    "Id": 7,
+    "LevelNameKey": "Level7NameKey",
+    "OperatingLevelExp": 700,
+    "OperatingSkillMaxPower": 70,
+    "UseOperatingMoney": 200000
+  },
+  "8": {
+    "Id": 8,
+    "LevelNameKey": "Level8NameKey",
+    "OperatingLevelExp": 1000,
+    "OperatingSkillMaxPower": 65,
+    "UseOperatingMoney": 250000
+  },
+  "9": {
+    "Id": 9,
+    "LevelNameKey": "Level9NameKey",
+    "OperatingLevelExp": 1400,
+    "OperatingSkillMaxPower": 60,
+    "UseOperatingMoney": 350000
+  },
+  "10": {
+    "Id": 10,
+    "LevelNameKey": "Level10NameKey",
+    "OperatingLevelExp": 2000,
+    "OperatingSkillMaxPower": 55,
+    "UseOperatingMoney": 500000
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "0": {
+    "Id": 0,
+    "SkillNameKey": "SkillNameKey1",
+    "SkillData": "0",
+    "SkillTime": 30.0
+  },
+  "1": {
+    "Id": 1,
+    "SkillNameKey": "SkillNameKey2",
+    "SkillData": "1",
+    "SkillTime": 30.0
+  },
+  "2": {
+    "Id": 2,
+    "SkillNameKey": "SkillNameKey3",
+    "SkillData": "2",
+    "SkillTime": 30.0
+  },
+  "3": {
+    "Id": 3,
+    "SkillNameKey": "SkillNameKey4",
+    "SkillData": "3",
+    "SkillTime": 30.0
+  },
+  "4": {
+    "Id": 4,
+    "SkillNameKey": "SkillNameKey5",
+    "SkillData": "4",
+    "SkillTime": 30.0
+  }
+}

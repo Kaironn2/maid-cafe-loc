@@ -1,0 +1,842 @@
+{
+  "1": {
+    "Id": 1,
+    "Group": 1,
+    "Title": "ItemName_89",
+    "Text": "Book_1",
+    "Image": ""
+  },
+  "2": {
+    "Id": 2,
+    "Group": 2,
+    "Title": "ItemName_90",
+    "Text": "Book_2",
+    "Image": ""
+  },
+  "3": {
+    "Id": 3,
+    "Group": 3,
+    "Title": "ItemName_91",
+    "Text": "Book_3",
+    "Image": ""
+  },
+  "4": {
+    "Id": 4,
+    "Group": 4,
+    "Title": "ItemName_92",
+    "Text": "Book_4",
+    "Image": ""
+  },
+  "5": {
+    "Id": 5,
+    "Group": 5,
+    "Title": "ItemName_93",
+    "Text": "Book_5",
+    "Image": ""
+  },
+  "6": {
+    "Id": 6,
+    "Group": 6,
+    "Title": "ItemName_94",
+    "Text": "Book_6",
+    "Image": ""
+  },
+  "7": {
+    "Id": 7,
+    "Group": 7,
+    "Title": "ItemName_82",
+    "Text": "Book_7",
+    "Image": ""
+  },
+  "8": {
+    "Id": 8,
+    "Group": 8,
+    "Title": "ItemName_83",
+    "Text": "Book_8",
+    "Image": ""
+  },
+  "9": {
+    "Id": 9,
+    "Group": 9,
+    "Title": "ItemName_84",
+    "Text": "Book_9",
+    "Image": ""
+  },
+  "10": {
+    "Id": 10,
+    "Group": 10,
+    "Title": "ItemName_85",
+    "Text": "Book_10",
+    "Image": ""
+  },
+  "11": {
+    "Id": 11,
+    "Group": 11,
+    "Title": "ItemName_86",
+    "Text": "Book_11",
+    "Image": ""
+  },
+  "12": {
+    "Id": 12,
+    "Group": 12,
+    "Title": "ItemName_87",
+    "Text": "Book_12",
+    "Image": ""
+  },
+  "13": {
+    "Id": 13,
+    "Group": 13,
+    "Title": "ItemName_88",
+    "Text": "Book_13",
+    "Image": ""
+  },
+  "14": {
+    "Id": 14,
+    "Group": 14,
+    "Title": "ItemName_105",
+    "Text": "Book_14",
+    "Image": ""
+  },
+  "15": {
+    "Id": 15,
+    "Group": 15,
+    "Title": "ItemName_106",
+    "Text": "Book_15",
+    "Image": ""
+  },
+  "16": {
+    "Id": 16,
+    "Group": 16,
+    "Title": "ItemName_107",
+    "Text": "Book_16",
+    "Image": ""
+  },
+  "17": {
+    "Id": 17,
+    "Group": 17,
+    "Title": "ItemName_272",
+    "Text": "Book_17",
+    "Image": ""
+  },
+  "18": {
+    "Id": 18,
+    "Group": 18,
+    "Title": "ItemName_81",
+    "Text": "Book_18",
+    "Image": ""
+  },
+  "19": {
+    "Id": 19,
+    "Group": 19,
+    "Title": "ItemName_356",
+    "Text": "Book_19",
+    "Image": ""
+  },
+  "20": {
+    "Id": 20,
+    "Group": 1,
+    "Title": "ItemName_89",
+    "Text": "Book_1_2",
+    "Image": ""
+  },
+  "22": {
+    "Id": 22,
+    "Group": 3,
+    "Title": "ItemName_91",
+    "Text": "Book_3_2",
+    "Image": ""
+  },
+  "23": {
+    "Id": 23,
+    "Group": 4,
+    "Title": "ItemName_92",
+    "Text": "Book_4_2",
+    "Image": ""
+  },
+  "25": {
+    "Id": 25,
+    "Group": 6,
+    "Title": "ItemName_94",
+    "Text": "Book_6_2",
+    "Image": ""
+  },
+  "26": {
+    "Id": 26,
+    "Group": 18,
+    "Title": "ItemName_81",
+    "Text": "Book_18_2",
+    "Image": ""
+  },
+  "27": {
+    "Id": 27,
+    "Group": 18,
+    "Title": "ItemName_81",
+    "Text": "Book_18_3",
+    "Image": ""
+  },
+  "28": {
+    "Id": 28,
+    "Group": 20,
+    "Title": "ItemName_366",
+    "Text": "Book_20",
+    "Image": ""
+  },
+  "29": {
+    "Id": 29,
+    "Group": 21,
+    "Title": "ItemName_320",
+    "Text": "Book_21",
+    "Image": ""
+  },
+  "30": {
+    "Id": 30,
+    "Group": 22,
+    "Title": "ItemName_321",
+    "Text": "Book_22",
+    "Image": ""
+  },
+  "31": {
+    "Id": 31,
+    "Group": 23,
+    "Title": "ItemName_322",
+    "Text": "Book_23",
+    "Image": ""
+  },
+  "32": {
+    "Id": 32,
+    "Group": 24,
+    "Title": "ItemName_323",
+    "Text": "Book_24",
+    "Image": ""
+  },
+  "33": {
+    "Id": 33,
+    "Group": 25,
+    "Title": "ItemName_324",
+    "Text": "Book_25",
+    "Image": ""
+  },
+  "34": {
+    "Id": 34,
+    "Group": 26,
+    "Title": "ItemName_325",
+    "Text": "Book_26",
+    "Image": ""
+  },
+  "35": {
+    "Id": 35,
+    "Group": 27,
+    "Title": "ItemName_326",
+    "Text": "Book_27",
+    "Image": ""
+  },
+  "36": {
+    "Id": 36,
+    "Group": 28,
+    "Title": "ItemName_327",
+    "Text": "Book_28",
+    "Image": ""
+  },
+  "37": {
+    "Id": 37,
+    "Group": 29,
+    "Title": "ItemName_328",
+    "Text": "Book_29",
+    "Image": ""
+  },
+  "38": {
+    "Id": 38,
+    "Group": 30,
+    "Title": "ItemName_329",
+    "Text": "Book_30",
+    "Image": ""
+  },
+  "39": {
+    "Id": 39,
+    "Group": 31,
+    "Title": "ItemName_330",
+    "Text": "Book_31",
+    "Image": ""
+  },
+  "40": {
+    "Id": 40,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_001_cover"
+  },
+  "41": {
+    "Id": 41,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0101"
+  },
+  "42": {
+    "Id": 42,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0102"
+  },
+  "43": {
+    "Id": 43,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0103"
+  },
+  "44": {
+    "Id": 44,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0104"
+  },
+  "45": {
+    "Id": 45,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0105"
+  },
+  "46": {
+    "Id": 46,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0106"
+  },
+  "47": {
+    "Id": 47,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0107"
+  },
+  "48": {
+    "Id": 48,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0108"
+  },
+  "49": {
+    "Id": 49,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0109"
+  },
+  "50": {
+    "Id": 50,
+    "Group": 32,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0110"
+  },
+  "51": {
+    "Id": 51,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_002_cover"
+  },
+  "52": {
+    "Id": 52,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0201"
+  },
+  "53": {
+    "Id": 53,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0202"
+  },
+  "54": {
+    "Id": 54,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0203"
+  },
+  "55": {
+    "Id": 55,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0204"
+  },
+  "56": {
+    "Id": 56,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0205"
+  },
+  "57": {
+    "Id": 57,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0206"
+  },
+  "58": {
+    "Id": 58,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0207"
+  },
+  "59": {
+    "Id": 59,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0208"
+  },
+  "60": {
+    "Id": 60,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0209"
+  },
+  "61": {
+    "Id": 61,
+    "Group": 33,
+    "Title": "",
+    "Text": "",
+    "Image": "jgm_d_0210"
+  },
+  "1001": {
+    "Id": 1001,
+    "Group": 1001,
+    "Title": "",
+    "Text": "CharacterIntoduce_xiaobai",
+    "Image": ""
+  },
+  "1002": {
+    "Id": 1002,
+    "Group": 1002,
+    "Title": "",
+    "Text": "CharacterIntoduce_xinyou",
+    "Image": ""
+  },
+  "1003": {
+    "Id": 1003,
+    "Group": 1003,
+    "Title": "",
+    "Text": "CharacterIntoduce_fafuna",
+    "Image": ""
+  },
+  "1004": {
+    "Id": 1004,
+    "Group": 1004,
+    "Title": "",
+    "Text": "CharacterIntoduce_honoka",
+    "Image": ""
+  },
+  "1005": {
+    "Id": 1005,
+    "Group": 1005,
+    "Title": "",
+    "Text": "CharacterIntoduce_anna",
+    "Image": ""
+  },
+  "1006": {
+    "Id": 1006,
+    "Group": 1006,
+    "Title": "",
+    "Text": "CharacterIntoduce_meixiao",
+    "Image": ""
+  },
+  "1007": {
+    "Id": 1007,
+    "Group": 1007,
+    "Title": "",
+    "Text": "CharacterIntoduce_rin",
+    "Image": ""
+  },
+  "1008": {
+    "Id": 1008,
+    "Group": 1008,
+    "Title": "",
+    "Text": "CharacterIntoduce_doragon",
+    "Image": ""
+  },
+  "1009": {
+    "Id": 1009,
+    "Group": 1009,
+    "Title": "",
+    "Text": "CharacterIntoduce_blackcat",
+    "Image": ""
+  },
+  "1010": {
+    "Id": 1010,
+    "Group": 1010,
+    "Title": "",
+    "Text": "CharacterIntoduce_shiori",
+    "Image": ""
+  },
+  "1011": {
+    "Id": 1011,
+    "Group": 1011,
+    "Title": "",
+    "Text": "CharacterIntoduce_mari",
+    "Image": ""
+  },
+  "1012": {
+    "Id": 1012,
+    "Group": 1012,
+    "Title": "",
+    "Text": "CharacterIntoduce_suzuka",
+    "Image": ""
+  },
+  "1013": {
+    "Id": 1013,
+    "Group": 1013,
+    "Title": "",
+    "Text": "CharacterIntoduce_haru",
+    "Image": ""
+  },
+  "1014": {
+    "Id": 1014,
+    "Group": 1014,
+    "Title": "",
+    "Text": "CharacterIntoduce_mio",
+    "Image": ""
+  },
+  "1015": {
+    "Id": 1015,
+    "Group": 1015,
+    "Title": "",
+    "Text": "CharacterIntoduce_masafuli",
+    "Image": ""
+  },
+  "1016": {
+    "Id": 1016,
+    "Group": 1016,
+    "Title": "",
+    "Text": "CharacterIntoduce_yuka",
+    "Image": ""
+  },
+  "1017": {
+    "Id": 1017,
+    "Group": 1017,
+    "Title": "",
+    "Text": "CharacterIntoduce_narumi",
+    "Image": ""
+  },
+  "1018": {
+    "Id": 1018,
+    "Group": 1018,
+    "Title": "",
+    "Text": "CharacterIntoduce_syogo",
+    "Image": ""
+  },
+  "1019": {
+    "Id": 1019,
+    "Group": 1019,
+    "Title": "",
+    "Text": "CharacterIntoduce_natsumi",
+    "Image": ""
+  },
+  "1020": {
+    "Id": 1020,
+    "Group": 1020,
+    "Title": "",
+    "Text": "CharacterIntoduce_manabu",
+    "Image": ""
+  },
+  "1021": {
+    "Id": 1021,
+    "Group": 1021,
+    "Title": "",
+    "Text": "CharacterIntoduce_blackcat",
+    "Image": ""
+  },
+  "1022": {
+    "Id": 1022,
+    "Group": 1022,
+    "Title": "",
+    "Text": "CharacterIntoduce_takeshi",
+    "Image": ""
+  },
+  "1023": {
+    "Id": 1023,
+    "Group": 1023,
+    "Title": "",
+    "Text": "CharacterIntoduce_sakura",
+    "Image": ""
+  },
+  "1024": {
+    "Id": 1024,
+    "Group": 1024,
+    "Title": "",
+    "Text": "CharacterIntoduce_kana",
+    "Image": ""
+  },
+  "1025": {
+    "Id": 1025,
+    "Group": 1025,
+    "Title": "",
+    "Text": "CharacterIntoduce_kenji",
+    "Image": ""
+  },
+  "1026": {
+    "Id": 1026,
+    "Group": 1026,
+    "Title": "",
+    "Text": "CharacterIntoduce_sinobu",
+    "Image": ""
+  },
+  "1027": {
+    "Id": 1027,
+    "Group": 1027,
+    "Title": "",
+    "Text": "CharacterIntoduce_nobuyuki",
+    "Image": ""
+  },
+  "1028": {
+    "Id": 1028,
+    "Group": 1028,
+    "Title": "",
+    "Text": "CharacterIntoduce_ichiryu",
+    "Image": ""
+  },
+  "1029": {
+    "Id": 1029,
+    "Group": 1029,
+    "Title": "",
+    "Text": "CharacterIntoduce_kaoru",
+    "Image": ""
+  },
+  "1030": {
+    "Id": 1030,
+    "Group": 1030,
+    "Title": "",
+    "Text": "CharacterIntoduce_haruka",
+    "Image": ""
+  },
+  "1031": {
+    "Id": 1031,
+    "Group": 1031,
+    "Title": "",
+    "Text": "CharacterIntoduce_shioriko",
+    "Image": ""
+  },
+  "1032": {
+    "Id": 1032,
+    "Group": 1032,
+    "Title": "",
+    "Text": "CharacterIntoduce_daigo",
+    "Image": ""
+  },
+  "1033": {
+    "Id": 1033,
+    "Group": 1033,
+    "Title": "",
+    "Text": "CharacterIntoduce_toshiko",
+    "Image": ""
+  },
+  "1034": {
+    "Id": 1034,
+    "Group": 1034,
+    "Title": "",
+    "Text": "CharacterIntoduce_futaba",
+    "Image": ""
+  },
+  "1035": {
+    "Id": 1035,
+    "Group": 1035,
+    "Title": "",
+    "Text": "CharacterIntoduce_yutaka",
+    "Image": ""
+  },
+  "1036": {
+    "Id": 1036,
+    "Group": 1036,
+    "Title": "",
+    "Text": "CharacterIntoduce_romin",
+    "Image": ""
+  },
+  "1037": {
+    "Id": 1037,
+    "Group": 1037,
+    "Title": "",
+    "Text": "CharacterIntoduce_mi",
+    "Image": ""
+  },
+  "1038": {
+    "Id": 1038,
+    "Group": 1038,
+    "Title": "",
+    "Text": "CharacterIntoduce_jiro",
+    "Image": ""
+  },
+  "1039": {
+    "Id": 1039,
+    "Group": 1039,
+    "Title": "",
+    "Text": "CharacterIntoduce_toshiko",
+    "Image": ""
+  },
+  "1040": {
+    "Id": 1040,
+    "Group": 1040,
+    "Title": "",
+    "Text": "CharacterIntoduce_yashuhiko",
+    "Image": ""
+  },
+  "1041": {
+    "Id": 1041,
+    "Group": 1041,
+    "Title": "",
+    "Text": "CharacterIntoduce_yuusuke",
+    "Image": ""
+  },
+  "1042": {
+    "Id": 1042,
+    "Group": 1042,
+    "Title": "",
+    "Text": "CharacterIntoduce_akiho",
+    "Image": ""
+  },
+  "1043": {
+    "Id": 1043,
+    "Group": 1043,
+    "Title": "",
+    "Text": "CharacterIntoduce_tsuki",
+    "Image": ""
+  },
+  "1044": {
+    "Id": 1044,
+    "Group": 1044,
+    "Title": "",
+    "Text": "CharacterIntoduce_yui",
+    "Image": ""
+  },
+  "1045": {
+    "Id": 1045,
+    "Group": 1045,
+    "Title": "",
+    "Text": "CharacterIntoduce_daichi",
+    "Image": ""
+  },
+  "1046": {
+    "Id": 1046,
+    "Group": 1046,
+    "Title": "",
+    "Text": "CharacterIntoduce_kuro",
+    "Image": ""
+  },
+  "1047": {
+    "Id": 1047,
+    "Group": 1047,
+    "Title": "",
+    "Text": "CharacterIntoduce_bunta",
+    "Image": ""
+  },
+  "1048": {
+    "Id": 1048,
+    "Group": 1048,
+    "Title": "",
+    "Text": "CharacterIntoduce_takumi",
+    "Image": ""
+  },
+  "1049": {
+    "Id": 1049,
+    "Group": 1049,
+    "Title": "",
+    "Text": "CharacterIntoduce_megumi",
+    "Image": ""
+  },
+  "1050": {
+    "Id": 1050,
+    "Group": 1050,
+    "Title": "",
+    "Text": "CharacterIntoduce_murasaki",
+    "Image": ""
+  },
+  "1051": {
+    "Id": 1051,
+    "Group": 1051,
+    "Title": "",
+    "Text": "CharacterIntoduce_wako",
+    "Image": ""
+  },
+  "1052": {
+    "Id": 1052,
+    "Group": 1052,
+    "Title": "",
+    "Text": "CharacterIntoduce_asuna",
+    "Image": ""
+  },
+  "1053": {
+    "Id": 1053,
+    "Group": 1053,
+    "Title": "",
+    "Text": "CharacterIntoduce_kazuto",
+    "Image": ""
+  },
+  "1054": {
+    "Id": 1054,
+    "Group": 1054,
+    "Title": "",
+    "Text": "CharacterIntoduce_nagi",
+    "Image": ""
+  },
+  "1055": {
+    "Id": 1055,
+    "Group": 1055,
+    "Title": "",
+    "Text": "CharacterIntoduce_an",
+    "Image": ""
+  },
+  "1056": {
+    "Id": 1056,
+    "Group": 1056,
+    "Title": "",
+    "Text": "CharacterIntoduce_yuusaku",
+    "Image": ""
+  },
+  "1057": {
+    "Id": 1057,
+    "Group": 1057,
+    "Title": "",
+    "Text": "CharacterIntoduce_hiroryu",
+    "Image": ""
+  },
+  "1058": {
+    "Id": 1058,
+    "Group": 1058,
+    "Title": "",
+    "Text": "CharacterIntoduce_ayame",
+    "Image": ""
+  },
+  "1059": {
+    "Id": 1059,
+    "Group": 1059,
+    "Title": "",
+    "Text": "CharacterIntoduce_nanaka",
+    "Image": ""
+  },
+  "1060": {
+    "Id": 1060,
+    "Group": 1060,
+    "Title": "",
+    "Text": "CharacterIntoduce_nonoka",
+    "Image": ""
+  },
+  "1061": {
+    "Id": 1061,
+    "Group": 1061,
+    "Title": "",
+    "Text": "CharacterIntoduce_memi",
+    "Image": ""
+  }
+}

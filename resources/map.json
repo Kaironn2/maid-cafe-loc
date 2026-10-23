@@ -1,0 +1,1801 @@
+[
+  {
+    "asset": "031104_FemaleB",
+    "category": "data",
+    "keys": 1
+  },
+  {
+    "asset": "031104_FemaleC",
+    "category": "data",
+    "keys": 1
+  },
+  {
+    "asset": "031104_FemaleD",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "031104_FemaleE",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "031104_Kid",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "031104_Male01",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "031104_Male02",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "031104_MaleA",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "031104_MaleB",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "031104_Mother",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "0_MainActor",
+    "category": "data",
+    "keys": 73
+  },
+  {
+    "asset": "1001_Shiori",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "1002_Mari",
+    "category": "data",
+    "keys": 9
+  },
+  {
+    "asset": "1003_Suzuka",
+    "category": "data",
+    "keys": 6
+  },
+  {
+    "asset": "1008_Narumi",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1009_Syogo",
+    "category": "data",
+    "keys": 6
+  },
+  {
+    "asset": "1011_Manabu",
+    "category": "data",
+    "keys": 6
+  },
+  {
+    "asset": "1012_Toshio",
+    "category": "data",
+    "keys": 6
+  },
+  {
+    "asset": "1013_Takeshi",
+    "category": "data",
+    "keys": 6
+  },
+  {
+    "asset": "1014_Sakura",
+    "category": "data",
+    "keys": 4
+  },
+  {
+    "asset": "1015_Kana",
+    "category": "data",
+    "keys": 6
+  },
+  {
+    "asset": "1017_Sinobu",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "1018_Nobuyuki",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1019_Ichiryu",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1020_Kaoru",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1021_Haruka",
+    "category": "data",
+    "keys": 6
+  },
+  {
+    "asset": "1022_Shioriko",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1023_Daigo",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1024_Toshiko",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1025_Futaba",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1026_Yutaka",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1027_Romin",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1028_Mi",
+    "category": "data",
+    "keys": 6
+  },
+  {
+    "asset": "1029_Jiro",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1030_Tokuko",
+    "category": "data",
+    "keys": 4
+  },
+  {
+    "asset": "1031_Yashuhiko",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1032_Yuusuke",
+    "category": "data",
+    "keys": 4
+  },
+  {
+    "asset": "1033_Akiho",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1034_Tsuki",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1035_Yui",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1036_Daichi",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1037_Kuro",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1038_Bunta",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1039_Takumi",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1040_Megumi",
+    "category": "data",
+    "keys": 4
+  },
+  {
+    "asset": "1041_Murasaki",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1042_Chiharu",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1043_Asuna",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1044_Kazuto",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1045_Nagi",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1046_An",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1047_Yuusaku",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1049_Ayame",
+    "category": "data",
+    "keys": 4
+  },
+  {
+    "asset": "1050_Nanaka",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1051_Nonoka",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1052_Memi",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "1053_Zaemon",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1054_Genjiro",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1055_Yousuke",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1056_Yuki",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1057_Linglong",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "1058_Izumi",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1059_Midori",
+    "category": "data",
+    "keys": 4
+  },
+  {
+    "asset": "1062_Noyama",
+    "category": "data",
+    "keys": 3
+  },
+  {
+    "asset": "1063_Kazuma",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1064_Shizuo",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1066_Lynn",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1067_Mayuri",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1068_Kitamura",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1069_Rico",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1070_Yanagihara",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "1_Siro",
+    "category": "data",
+    "keys": 90
+  },
+  {
+    "asset": "2023_Js",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2024_OldJKMan",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2025_Curly",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2027_FashionableMan",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2028_Kazuhiko",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2029_Misako",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2030_Eriko",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2031_Yoshida",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2032_Otaku1",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2033_Otaku2",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2034_Otaku3",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2035_Aunt1",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2036_Aunt2",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2037_Aunt3",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2038_Aunt4",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2039_Man1",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2040_Woman1",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2041_Collar1",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2042_Collar2",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2043_Collar3",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2044_Collar4",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2045_Ol1",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2046_Ol2",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2047_Ol3",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2048_Ol4",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2049_Chinpira1",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2050_Chinpira2",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2051_Chinpira3",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2052_Chinpira4",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2053_Jk1",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2054_Jk2",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2055_Dk1",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2056_Dk2",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "2057_Exit8OfficeMan1",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "2058_Exit8OfficeMan2",
+    "category": "data",
+    "keys": 2
+  },
+  {
+    "asset": "2_Miyu",
+    "category": "data",
+    "keys": 83
+  },
+  {
+    "asset": "3001_Chu",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3001_Chun",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3002_De",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3003_Wu",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3004_Lu",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3005_Ba",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3006_Azami",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3007_Jasmin",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3008_Aimu",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3009_Romeko",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "3_Favna",
+    "category": "data",
+    "keys": 85
+  },
+  {
+    "asset": "4_Honoka",
+    "category": "data",
+    "keys": 88
+  },
+  {
+    "asset": "5_Anna",
+    "category": "data",
+    "keys": 24
+  },
+  {
+    "asset": "6_Misaki",
+    "category": "data",
+    "keys": 24
+  },
+  {
+    "asset": "7_Rin",
+    "category": "data",
+    "keys": 24
+  },
+  {
+    "asset": "9_BlackCat",
+    "category": "data",
+    "keys": 12
+  },
+  {
+    "asset": "AllCharacter",
+    "category": "data",
+    "keys": 132
+  },
+  {
+    "asset": "AllScene",
+    "category": "data",
+    "keys": 54
+  },
+  {
+    "asset": "CardPackConfig",
+    "category": "data",
+    "keys": 50
+  },
+  {
+    "asset": "CoffeeMakeStep",
+    "category": "data",
+    "keys": 31
+  },
+  {
+    "asset": "CoffeeMenu",
+    "category": "data",
+    "keys": 19
+  },
+  {
+    "asset": "CoffeeUnLockMenu",
+    "category": "data",
+    "keys": 10
+  },
+  {
+    "asset": "CustomerComing",
+    "category": "data",
+    "keys": 24
+  },
+  {
+    "asset": "DailyRain",
+    "category": "data",
+    "keys": 1
+  },
+  {
+    "asset": "DevelopmentReport",
+    "category": "data",
+    "format": "rows",
+    "field": "EnText",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 362,
+    "translatable": 239,
+    "en_chars": 2929,
+    "translation_file": "extras/DevelopmentReport.json"
+  },
+  {
+    "asset": "Ensyutsu",
+    "category": "data",
+    "keys": 585
+  },
+  {
+    "asset": "EventList",
+    "category": "data",
+    "keys": 4
+  },
+  {
+    "asset": "GameCG",
+    "category": "data",
+    "format": "rows",
+    "field": "EnName",
+    "languages": [
+      "cn",
+      "jp",
+      "en"
+    ],
+    "keys": 124,
+    "translatable": 91,
+    "en_chars": 2114,
+    "translation_file": "extras/GameCG.json"
+  },
+  {
+    "asset": "GameConfigData",
+    "category": "data",
+    "keys": 31
+  },
+  {
+    "asset": "Gashapon",
+    "category": "data",
+    "keys": 40
+  },
+  {
+    "asset": "InterActionDialogue",
+    "category": "data",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 12,
+    "translatable": 12,
+    "en_chars": 663,
+    "translation_file": "extras/InterActionDialogue.json"
+  },
+  {
+    "asset": "Item",
+    "category": "data",
+    "keys": 404
+  },
+  {
+    "asset": "LineMessage",
+    "category": "data",
+    "keys": 1
+  },
+  {
+    "asset": "Maid",
+    "category": "data",
+    "keys": 9
+  },
+  {
+    "asset": "MainCharacter",
+    "category": "data",
+    "keys": 4
+  },
+  {
+    "asset": "OperatingCustomer",
+    "category": "data",
+    "keys": 46
+  },
+  {
+    "asset": "OperatingDish",
+    "category": "data",
+    "keys": 15
+  },
+  {
+    "asset": "OperatingLevelConfig",
+    "category": "data",
+    "keys": 10
+  },
+  {
+    "asset": "OperatingMission",
+    "category": "data",
+    "keys": 7
+  },
+  {
+    "asset": "OperatingSkill",
+    "category": "data",
+    "keys": 5
+  },
+  {
+    "asset": "OptionNpcDiaKeys",
+    "category": "data",
+    "keys": 415
+  },
+  {
+    "asset": "PhoneChatEvent",
+    "category": "data",
+    "keys": 41
+  },
+  {
+    "asset": "PhoneChatMessage",
+    "category": "data",
+    "keys": 90
+  },
+  {
+    "asset": "QuestionData",
+    "category": "data",
+    "keys": 83
+  },
+  {
+    "asset": "RamdomNpc",
+    "category": "data",
+    "keys": 131
+  },
+  {
+    "asset": "RamdomNpcDiaText",
+    "category": "data",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 250,
+    "translatable": 250,
+    "en_chars": 21391,
+    "translation_file": "extras/RamdomNpcDiaText.json"
+  },
+  {
+    "asset": "SceneNpcs",
+    "category": "data",
+    "keys": 33
+  },
+  {
+    "asset": "SecondConfirm",
+    "category": "data",
+    "keys": 16
+  },
+  {
+    "asset": "UFOCatcher",
+    "category": "data",
+    "keys": 1
+  },
+  {
+    "asset": "UITextDetial",
+    "category": "data",
+    "keys": 120
+  },
+  {
+    "asset": "charactername_cn",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en"
+    ],
+    "keys": 31
+  },
+  {
+    "asset": "charactername_en",
+    "category": "languages",
+    "format": "dict",
+    "languages": [
+      "cn",
+      "jp",
+      "en"
+    ],
+    "keys": 31,
+    "translatable": 28,
+    "en_chars": 173,
+    "translation_file": "texts/charactername_en.json"
+  },
+  {
+    "asset": "charactername_jp",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en"
+    ],
+    "keys": 31
+  },
+  {
+    "asset": "dialogue_cn",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 973
+  },
+  {
+    "asset": "dialogue_en",
+    "category": "languages",
+    "format": "dict",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 973,
+    "translatable": 973,
+    "en_chars": 65171,
+    "translation_file": "texts/dialogue_en.json"
+  },
+  {
+    "asset": "dialogue_jp",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 973
+  },
+  {
+    "asset": "dialogue_tc",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 973
+  },
+  {
+    "asset": "textdata_cn",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 1220
+  },
+  {
+    "asset": "textdata_en",
+    "category": "languages",
+    "format": "dict",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 1220,
+    "translatable": 1131,
+    "en_chars": 55432,
+    "translation_file": "texts/textdata_en.json"
+  },
+  {
+    "asset": "textdata_jp",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 1220
+  },
+  {
+    "asset": "textdata_tc",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 1220
+  },
+  {
+    "asset": "ui_cn",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 860
+  },
+  {
+    "asset": "ui_en",
+    "category": "languages",
+    "format": "dict",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 860,
+    "translatable": 860,
+    "en_chars": 29587,
+    "translation_file": "texts/ui_en.json"
+  },
+  {
+    "asset": "ui_jp",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 860
+  },
+  {
+    "asset": "ui_tc",
+    "category": "languages",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 860
+  },
+  {
+    "asset": "Dialogue00_ConvenienceStore",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 30,
+    "translatable": 30,
+    "en_chars": 1906,
+    "translation_file": "scenes/Dialogue00_ConvenienceStore.json"
+  },
+  {
+    "asset": "Dialogue01_MyRoom",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 333,
+    "translatable": 333,
+    "en_chars": 18871,
+    "translation_file": "scenes/Dialogue01_MyRoom.json"
+  },
+  {
+    "asset": "Dialogue02_Operat_Lobby",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 1360,
+    "translatable": 1360,
+    "en_chars": 84467,
+    "translation_file": "scenes/Dialogue02_Operat_Lobby.json"
+  },
+  {
+    "asset": "Dialogue03_Operat_RestRoom",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 725,
+    "translatable": 725,
+    "en_chars": 52222,
+    "translation_file": "scenes/Dialogue03_Operat_RestRoom.json"
+  },
+  {
+    "asset": "Dialogue04_Park",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 90,
+    "translatable": 90,
+    "en_chars": 6036,
+    "translation_file": "scenes/Dialogue04_Park.json"
+  },
+  {
+    "asset": "Dialogue05_Shrine",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 575,
+    "translatable": 575,
+    "en_chars": 34997,
+    "translation_file": "scenes/Dialogue05_Shrine.json"
+  },
+  {
+    "asset": "Dialogue06_StreetFull",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 460,
+    "translatable": 460,
+    "en_chars": 30742,
+    "translation_file": "scenes/Dialogue06_StreetFull.json"
+  },
+  {
+    "asset": "Dialogue07_1_Karaoke_Room",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 49,
+    "translatable": 49,
+    "en_chars": 2743,
+    "translation_file": "scenes/Dialogue07_1_Karaoke_Room.json"
+  },
+  {
+    "asset": "Dialogue07_Karaoke_Lobby",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 10,
+    "translatable": 10,
+    "en_chars": 589,
+    "translation_file": "scenes/Dialogue07_Karaoke_Lobby.json"
+  },
+  {
+    "asset": "Dialogue08_PawnShop",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 73,
+    "translatable": 73,
+    "en_chars": 4658,
+    "translation_file": "scenes/Dialogue08_PawnShop.json"
+  },
+  {
+    "asset": "Dialogue09_SpicyHotShop",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 34,
+    "translatable": 34,
+    "en_chars": 2159,
+    "translation_file": "scenes/Dialogue09_SpicyHotShop.json"
+  },
+  {
+    "asset": "Dialogue10_StreetFull2",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 419,
+    "translatable": 419,
+    "en_chars": 24714,
+    "translation_file": "scenes/Dialogue10_StreetFull2.json"
+  },
+  {
+    "asset": "Dialogue11_Togetsuya",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 158,
+    "translatable": 158,
+    "en_chars": 10162,
+    "translation_file": "scenes/Dialogue11_Togetsuya.json"
+  },
+  {
+    "asset": "Dialogue12_Animate",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 84,
+    "translatable": 84,
+    "en_chars": 6180,
+    "translation_file": "scenes/Dialogue12_Animate.json"
+  },
+  {
+    "asset": "Dialogue13_GameCenter_SecondFloor",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 32,
+    "translatable": 32,
+    "en_chars": 2069,
+    "translation_file": "scenes/Dialogue13_GameCenter_SecondFloor.json"
+  },
+  {
+    "asset": "Dialogue14_Laundromat",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 12,
+    "translatable": 12,
+    "en_chars": 615,
+    "translation_file": "scenes/Dialogue14_Laundromat.json"
+  },
+  {
+    "asset": "Dialogue15_GameDetective",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 37,
+    "translatable": 37,
+    "en_chars": 3213,
+    "translation_file": "scenes/Dialogue15_GameDetective.json"
+  },
+  {
+    "asset": "Dialogue16_Youfukuya",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 210,
+    "translatable": 210,
+    "en_chars": 13520,
+    "translation_file": "scenes/Dialogue16_Youfukuya.json"
+  },
+  {
+    "asset": "Dialogue17_ShinyaShokudo",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 40,
+    "translatable": 40,
+    "en_chars": 2883,
+    "translation_file": "scenes/Dialogue17_ShinyaShokudo.json"
+  },
+  {
+    "asset": "Dialogue18_Florist",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 24,
+    "translatable": 24,
+    "en_chars": 1631,
+    "translation_file": "scenes/Dialogue18_Florist.json"
+  },
+  {
+    "asset": "Dialogue19_Grocery",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 35,
+    "translatable": 35,
+    "en_chars": 2213,
+    "translation_file": "scenes/Dialogue19_Grocery.json"
+  },
+  {
+    "asset": "Dialogue20_Chinesefood",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 56,
+    "translatable": 56,
+    "en_chars": 3490,
+    "translation_file": "scenes/Dialogue20_Chinesefood.json"
+  },
+  {
+    "asset": "Dialogue21_Cinema_Indoor",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 544,
+    "translatable": 544,
+    "en_chars": 58714,
+    "translation_file": "scenes/Dialogue21_Cinema_Indoor.json"
+  },
+  {
+    "asset": "Dialogue22_Cinema_ProjectionHall",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 32,
+    "translatable": 32,
+    "en_chars": 3223,
+    "translation_file": "scenes/Dialogue22_Cinema_ProjectionHall.json"
+  },
+  {
+    "asset": "Dialogue23_Milakuru",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 44,
+    "translatable": 44,
+    "en_chars": 2358,
+    "translation_file": "scenes/Dialogue23_Milakuru.json"
+  },
+  {
+    "asset": "Dialogue24_UnderGround",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 100,
+    "translatable": 100,
+    "en_chars": 6057,
+    "translation_file": "scenes/Dialogue24_UnderGround.json"
+  },
+  {
+    "asset": "Dialogue25_DragonStar",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 22,
+    "translatable": 22,
+    "en_chars": 1111,
+    "translation_file": "scenes/Dialogue25_DragonStar.json"
+  },
+  {
+    "asset": "Dialogue26_KoKo",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 10,
+    "translatable": 10,
+    "en_chars": 717,
+    "translation_file": "scenes/Dialogue26_KoKo.json"
+  },
+  {
+    "asset": "Dialogue27_Tokoya",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 6,
+    "translatable": 6,
+    "en_chars": 409,
+    "translation_file": "scenes/Dialogue27_Tokoya.json"
+  },
+  {
+    "asset": "Dialogue28_McDonalds",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 17,
+    "translatable": 17,
+    "en_chars": 956,
+    "translation_file": "scenes/Dialogue28_McDonalds.json"
+  },
+  {
+    "asset": "Dialogue29_SuperPotato",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 31,
+    "translatable": 31,
+    "en_chars": 2300,
+    "translation_file": "scenes/Dialogue29_SuperPotato.json"
+  },
+  {
+    "asset": "Dialogue30_FurnitureStore",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 15,
+    "translatable": 15,
+    "en_chars": 1254,
+    "translation_file": "scenes/Dialogue30_FurnitureStore.json"
+  },
+  {
+    "asset": "Dialogue31_GameCenter_FirstFloor",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 26,
+    "translatable": 26,
+    "en_chars": 1610,
+    "translation_file": "scenes/Dialogue31_GameCenter_FirstFloor.json"
+  },
+  {
+    "asset": "Dialogue32_RamenShop",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 17,
+    "translatable": 17,
+    "en_chars": 1448,
+    "translation_file": "scenes/Dialogue32_RamenShop.json"
+  },
+  {
+    "asset": "Dialogue33_SoftMap",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 17,
+    "translatable": 17,
+    "en_chars": 1322,
+    "translation_file": "scenes/Dialogue33_SoftMap.json"
+  },
+  {
+    "asset": "Dialogue34_Kimonoya",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 55,
+    "translatable": 55,
+    "en_chars": 3179,
+    "translation_file": "scenes/Dialogue34_Kimonoya.json"
+  },
+  {
+    "asset": "Dialogue35_Restaurant",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 14,
+    "translatable": 14,
+    "en_chars": 770,
+    "translation_file": "scenes/Dialogue35_Restaurant.json"
+  },
+  {
+    "asset": "Dialogue36_Bathhouse_Lobby",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 31,
+    "translatable": 31,
+    "en_chars": 1846,
+    "translation_file": "scenes/Dialogue36_Bathhouse_Lobby.json"
+  },
+  {
+    "asset": "Dialogue37_Bathhouse_Yudono",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 24,
+    "translatable": 24,
+    "en_chars": 1331,
+    "translation_file": "scenes/Dialogue37_Bathhouse_Yudono.json"
+  },
+  {
+    "asset": "Dialogue38_Yakiniku",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 21,
+    "translatable": 21,
+    "en_chars": 1294,
+    "translation_file": "scenes/Dialogue38_Yakiniku.json"
+  },
+  {
+    "asset": "Dialogue39_BookStore",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 16,
+    "translatable": 16,
+    "en_chars": 922,
+    "translation_file": "scenes/Dialogue39_BookStore.json"
+  },
+  {
+    "asset": "Dialogue40_UndergroundCars",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 5,
+    "translatable": 5,
+    "en_chars": 274,
+    "translation_file": "scenes/Dialogue40_UndergroundCars.json"
+  },
+  {
+    "asset": "Dialogue41_OsakaCastlePark",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 643,
+    "translatable": 643,
+    "en_chars": 42106,
+    "translation_file": "scenes/Dialogue41_OsakaCastlePark.json"
+  },
+  {
+    "asset": "Dialogue42_SoftMapR18",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 4,
+    "translatable": 4,
+    "en_chars": 325,
+    "translation_file": "scenes/Dialogue42_SoftMapR18.json"
+  },
+  {
+    "asset": "Dialogue43_Gashapon",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 28,
+    "translatable": 28,
+    "en_chars": 1420,
+    "translation_file": "scenes/Dialogue43_Gashapon.json"
+  },
+  {
+    "asset": "Dialogue88_AdventurersTavern_Inside",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 9,
+    "translatable": 9,
+    "en_chars": 657,
+    "translation_file": "scenes/Dialogue88_AdventurersTavern_Inside.json"
+  },
+  {
+    "asset": "Dialogue98_SpecialCustomer",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 480,
+    "translatable": 480,
+    "en_chars": 31607,
+    "translation_file": "scenes/Dialogue98_SpecialCustomer.json"
+  },
+  {
+    "asset": "Dialogue99_FCGame",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en"
+    ],
+    "keys": 1,
+    "translatable": 1,
+    "en_chars": 123,
+    "translation_file": "scenes/Dialogue99_FCGame.json"
+  },
+  {
+    "asset": "MaidTeamDia",
+    "category": "scenes",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 336,
+    "translatable": 336,
+    "en_chars": 28518,
+    "translation_file": "scenes/MaidTeamDia.json"
+  },
+  {
+    "asset": "SceneNpcsDialogue",
+    "category": "scenes",
+    "keys": 929
+  }
+]

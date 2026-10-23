@@ -1,0 +1,51 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1001_Shiori_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1001_Shiori_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1001_Shiori_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1001_Shiori_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1001_Shiori_Basic_WalkWithOrder",
+    "Type": "Basic",
+    "Atlas": "1001_Shiori_Basic",
+    "Frame": "10_15"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "1001_Shiori_Basic_Welcome",
+    "Type": "Basic",
+    "Atlas": "1001_Shiori_Basic",
+    "Frame": "16_25"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "1001_Shiori_Basic_Order",
+    "Type": "Basic",
+    "Atlas": "1001_Shiori_Basic",
+    "Frame": "26_29"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "1001_Shiori_Basic_PutOrderDown",
+    "Type": "Basic",
+    "Atlas": "1001_Shiori_Basic",
+    "Frame": "30_39"
+  },
+  "7": {
+    "Id": 7,
+    "Name": "1001_Shiori_Basic_Moemoekyun",
+    "Type": "Basic",
+    "Atlas": "1001_Shiori_Basic",
+    "Frame": "40_65"
+  }
+}

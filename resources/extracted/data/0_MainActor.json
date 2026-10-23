@@ -1,0 +1,586 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "0_MainActor_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "0_3",
+    "IsLoop": ""
+  },
+  "2": {
+    "Id": 2,
+    "Name": "0_MainActor_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "4_9",
+    "IsLoop": ""
+  },
+  "3": {
+    "Id": 3,
+    "Name": "0_MainActor_Basic_IdleWithUmbrella",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "10_13",
+    "IsLoop": ""
+  },
+  "4": {
+    "Id": 4,
+    "Name": "0_MainActor_Basic_WalkWithUmbrella",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "14_19",
+    "IsLoop": ""
+  },
+  "5": {
+    "Id": 5,
+    "Name": "0_MainActor_Basic_BackSitIdle",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "20_27",
+    "IsLoop": ""
+  },
+  "6": {
+    "Id": 6,
+    "Name": "0_MainActor_Basic_SideSitIdle",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "28_28",
+    "IsLoop": ""
+  },
+  "7": {
+    "Id": 7,
+    "Name": "0_MainActor_Basic_SideSitEat",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "30_39",
+    "IsLoop": ""
+  },
+  "8": {
+    "Id": 8,
+    "Name": "0_MainActor_Basic_SideSitDrink",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "40_48",
+    "IsLoop": ""
+  },
+  "9": {
+    "Id": 9,
+    "Name": "0_MainActor_Basic_SideSitOrder",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "49_59",
+    "IsLoop": ""
+  },
+  "10": {
+    "Id": 10,
+    "Name": "0_MainActor_Basic_WalkWithOrder",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "51_56",
+    "IsLoop": ""
+  },
+  "11": {
+    "Id": 11,
+    "Name": "0_MainActor_Basic_Welcome",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "57_65",
+    "IsLoop": ""
+  },
+  "12": {
+    "Id": 12,
+    "Name": "0_MainActor_Basic_Order",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "66_69",
+    "IsLoop": ""
+  },
+  "13": {
+    "Id": 13,
+    "Name": "0_MainActor_Basic_Clean1",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "70_73",
+    "IsLoop": ""
+  },
+  "14": {
+    "Id": 14,
+    "Name": "0_MainActor_Basic_Clean2",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "74_77",
+    "IsLoop": ""
+  },
+  "15": {
+    "Id": 15,
+    "Name": "0_MainActor_Basic_Cook1",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "78_81",
+    "IsLoop": ""
+  },
+  "16": {
+    "Id": 16,
+    "Name": "0_MainActor_Basic_Photograph",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "82_91",
+    "IsLoop": ""
+  },
+  "17": {
+    "Id": 17,
+    "Name": "0_MainActor_Basic_FrontSitIdle",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "92_92",
+    "IsLoop": ""
+  },
+  "18": {
+    "Id": 18,
+    "Name": "0_MainActor_Basic_BackStandIdle",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "93_93",
+    "IsLoop": ""
+  },
+  "19": {
+    "Id": 19,
+    "Name": "0_MainActor_Basic_Interaction",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "93_94",
+    "IsLoop": ""
+  },
+  "20": {
+    "Id": 20,
+    "Name": "0_MainActor_Basic_Seesaw",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "95_106",
+    "IsLoop": ""
+  },
+  "21": {
+    "Id": 21,
+    "Name": "0_MainActor_Basic_Sleep",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "107_107",
+    "IsLoop": ""
+  },
+  "22": {
+    "Id": 22,
+    "Name": "0_MainActor_Basic_RidingIdle",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "108_108",
+    "IsLoop": ""
+  },
+  "23": {
+    "Id": 23,
+    "Name": "0_MainActor_Basic_Riding",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "108_115",
+    "IsLoop": ""
+  },
+  "24": {
+    "Id": 24,
+    "Name": "0_MainActor_Basic_PhoneCall",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "116_119",
+    "IsLoop": ""
+  },
+  "25": {
+    "Id": 25,
+    "Name": "0_MainActor_Basic_FallDown",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "120_127",
+    "IsLoop": "false"
+  },
+  "26": {
+    "Id": 26,
+    "Name": "0_MainActor_Basic_Hold1",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "128_131",
+    "IsLoop": ""
+  },
+  "27": {
+    "Id": 27,
+    "Name": "0_MainActor_Basic_Hold2",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "132_135",
+    "IsLoop": ""
+  },
+  "28": {
+    "Id": 28,
+    "Name": "0_MainActor_Basic_Dance1",
+    "Type": "Basic",
+    "Atlas": "0_MainActor_Basic",
+    "Frame": "136_145",
+    "IsLoop": "false"
+  },
+  "29": {
+    "Id": 29,
+    "Name": "0_MainActor_Suit1_Idle",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "0_3",
+    "IsLoop": ""
+  },
+  "30": {
+    "Id": 30,
+    "Name": "0_MainActor_Suit1_Walk",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "4_9",
+    "IsLoop": ""
+  },
+  "31": {
+    "Id": 31,
+    "Name": "0_MainActor_Suit1_IdleWithUmbrella",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "10_13",
+    "IsLoop": ""
+  },
+  "32": {
+    "Id": 32,
+    "Name": "0_MainActor_Suit1_WalkWithUmbrella",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "14_19",
+    "IsLoop": ""
+  },
+  "33": {
+    "Id": 33,
+    "Name": "0_MainActor_Suit1_BackSitIdle",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "20_27",
+    "IsLoop": ""
+  },
+  "34": {
+    "Id": 34,
+    "Name": "0_MainActor_Suit1_SideSitIdle",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "28_28",
+    "IsLoop": ""
+  },
+  "35": {
+    "Id": 35,
+    "Name": "0_MainActor_Suit1_SideSitEat",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "30_39",
+    "IsLoop": ""
+  },
+  "36": {
+    "Id": 36,
+    "Name": "0_MainActor_Suit1_SideSitDrink",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "40_48",
+    "IsLoop": ""
+  },
+  "37": {
+    "Id": 37,
+    "Name": "0_MainActor_Suit1_SideSitOrder",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "49_49",
+    "IsLoop": ""
+  },
+  "38": {
+    "Id": 38,
+    "Name": "0_MainActor_Suit1_WalkWithOrder",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "51_56",
+    "IsLoop": ""
+  },
+  "39": {
+    "Id": 39,
+    "Name": "0_MainActor_Suit1_Welcome",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "57_65",
+    "IsLoop": ""
+  },
+  "40": {
+    "Id": 40,
+    "Name": "0_MainActor_Suit1_Order",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "66_69",
+    "IsLoop": ""
+  },
+  "41": {
+    "Id": 41,
+    "Name": "0_MainActor_Suit1_Clean1",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "70_73",
+    "IsLoop": ""
+  },
+  "42": {
+    "Id": 42,
+    "Name": "0_MainActor_Suit1_Clean2",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "74_77",
+    "IsLoop": ""
+  },
+  "43": {
+    "Id": 43,
+    "Name": "0_MainActor_Suit1_Cook1",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "78_81",
+    "IsLoop": ""
+  },
+  "44": {
+    "Id": 44,
+    "Name": "0_MainActor_Suit1_Photograph",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "82_91",
+    "IsLoop": ""
+  },
+  "45": {
+    "Id": 45,
+    "Name": "0_MainActor_Suit1_FrontSitIdle",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "92_92",
+    "IsLoop": ""
+  },
+  "46": {
+    "Id": 46,
+    "Name": "0_MainActor_Suit1_BackStandIdle",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "93_93",
+    "IsLoop": ""
+  },
+  "47": {
+    "Id": 47,
+    "Name": "0_MainActor_Suit1_Interaction",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "93_94",
+    "IsLoop": ""
+  },
+  "48": {
+    "Id": 48,
+    "Name": "0_MainActor_Suit1_Seesaw",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "95_106",
+    "IsLoop": ""
+  },
+  "49": {
+    "Id": 49,
+    "Name": "0_MainActor_Suit1_Sleep",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "107_107",
+    "IsLoop": ""
+  },
+  "50": {
+    "Id": 50,
+    "Name": "0_MainActor_Suit1_RidingIdle",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "108_108",
+    "IsLoop": ""
+  },
+  "51": {
+    "Id": 51,
+    "Name": "0_MainActor_Suit1_Riding",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "108_115",
+    "IsLoop": ""
+  },
+  "52": {
+    "Id": 52,
+    "Name": "0_MainActor_Suit1_PhoneCall",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "116_119",
+    "IsLoop": ""
+  },
+  "53": {
+    "Id": 53,
+    "Name": "0_MainActor_Suit1_FallDown",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "120_127",
+    "IsLoop": "false"
+  },
+  "54": {
+    "Id": 54,
+    "Name": "0_MainActor_Suit1_Hold1",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "128_131",
+    "IsLoop": ""
+  },
+  "55": {
+    "Id": 55,
+    "Name": "0_MainActor_Suit1_Hold2",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "132_135",
+    "IsLoop": ""
+  },
+  "56": {
+    "Id": 56,
+    "Name": "0_MainActor_Suit1_Dance1",
+    "Type": "Suit1",
+    "Atlas": "0_MainActor_Suit1",
+    "Frame": "136_145",
+    "IsLoop": "false"
+  },
+  "57": {
+    "Id": 57,
+    "Name": "0_MainActor_Waiter1_Idle",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "0_3",
+    "IsLoop": ""
+  },
+  "58": {
+    "Id": 58,
+    "Name": "0_MainActor_Waiter1_Walk",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "4_9",
+    "IsLoop": ""
+  },
+  "59": {
+    "Id": 59,
+    "Name": "0_MainActor_Waiter1_SideSitIdle",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "10_10",
+    "IsLoop": ""
+  },
+  "60": {
+    "Id": 60,
+    "Name": "0_MainActor_Waiter1_SideSitEat",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "12_21",
+    "IsLoop": ""
+  },
+  "61": {
+    "Id": 61,
+    "Name": "0_MainActor_Waiter1_SideSitDrink",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "22_30",
+    "IsLoop": ""
+  },
+  "62": {
+    "Id": 62,
+    "Name": "0_MainActor_Waiter1_SideSitOrder",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "31_31",
+    "IsLoop": ""
+  },
+  "63": {
+    "Id": 63,
+    "Name": "0_MainActor_Waiter1_WalkWithOrder",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "33_38",
+    "IsLoop": ""
+  },
+  "64": {
+    "Id": 64,
+    "Name": "0_MainActor_Waiter1_Welcome",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "39_47",
+    "IsLoop": ""
+  },
+  "65": {
+    "Id": 65,
+    "Name": "0_MainActor_Waiter1_Order",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "48_51",
+    "IsLoop": ""
+  },
+  "66": {
+    "Id": 66,
+    "Name": "0_MainActor_Waiter1_Clean1",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "52_55",
+    "IsLoop": ""
+  },
+  "67": {
+    "Id": 67,
+    "Name": "0_MainActor_Waiter1_Clean2",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "56_59",
+    "IsLoop": ""
+  },
+  "68": {
+    "Id": 68,
+    "Name": "0_MainActor_Waiter1_Cook1",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "60_63",
+    "IsLoop": ""
+  },
+  "69": {
+    "Id": 69,
+    "Name": "0_MainActor_Waiter1_BackStandIdle",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "64_64",
+    "IsLoop": ""
+  },
+  "70": {
+    "Id": 70,
+    "Name": "0_MainActor_Waiter1_Interaction",
+    "Type": "Waiter1",
+    "Atlas": "0_MainActor_Waiter1",
+    "Frame": "64_65",
+    "IsLoop": ""
+  },
+  "71": {
+    "Id": 71,
+    "Name": "0_MainActor_Bathing_Idle",
+    "Type": "Bathing",
+    "Atlas": "0_MainActor_Bathing",
+    "Frame": "0_3",
+    "IsLoop": ""
+  },
+  "72": {
+    "Id": 72,
+    "Name": "0_MainActor_Bathing_Walk",
+    "Type": "Bathing",
+    "Atlas": "0_MainActor_Bathing",
+    "Frame": "4_9",
+    "IsLoop": ""
+  },
+  "73": {
+    "Id": 73,
+    "Name": "0_MainActor_Bathing_FrontSitIdle",
+    "Type": "Bathing",
+    "Atlas": "0_MainActor_Bathing",
+    "Frame": "10_10",
+    "IsLoop": ""
+  }
+}

@@ -1,0 +1,2402 @@
+{
+  "0": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Ooooh...\nYeah, it's pretty nice."
+  },
+  "1": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "It's like, retro-ish? Really cute~!"
+  },
+  "2": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You recognize the two girls.\nThey were with Miyu when you first met her."
+  },
+  "3": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Welcome.\""
+  },
+  "4": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Are you Miyu-san's friends?\""
+  },
+  "5": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Aha! Did you just call her \"Miyu-san\"?"
+  },
+  "6": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Should I call her over?\nI could let her take a break if you want to talk.\""
+  },
+  "7": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Noooo no no, it's fine.\nWe don't wanna bother her on her shift or anything."
+  },
+  "8": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Yeah! And we're here for something else today!"
+  },
+  "9": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Miyu's at this job aaaaall the time! She doesn't hang out\nwith us anymore! It's so boring without her!"
+  },
+  "10": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "I mean, she can do whatever she wants,\nit's not like we, like, mind."
+  },
+  "11": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "But as her friends, we've GOTTA make sure\nthe place she's working at is legit."
+  },
+  "12": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "So we're here to rate your cafe!\nA coffee, please~!"
+  },
+  "13": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I see... I have to leave a good impression.)"
+  },
+  "14": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "I wanna drink something trendy and cute and super sweet~!"
+  },
+  "15": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Me too! Make sure it looks good in photos too though, 'kay?\nI'm gonna upload it to Densta! ♪"
+  },
+  "16": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Sweet and trendy, and good for photos...\nI can sort of imagine what they want.)"
+  },
+  "17": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(But this is a retro cafe, not the trendy type they're imagining...\nA cute, sweet, retro coffee... What can I make with the ingredients we have?)"
+  },
+  "18": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Wow, that's so cute! It looks like a Luckybucks latte!"
+  },
+  "19": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"This drink might actually be its predecessor.\nIt's Einspänner coffee, invented in the 17th century.\""
+  },
+  "20": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Ein...spanner? You didn't put a wrench in it or anything, did you?"
+  },
+  "21": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Haha, no, it's Einspänner.\""
+  },
+  "22": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It's an Austrian style of coffee, more specifically Viennese;\nblack, with a lot of whipped cream and sugar.\""
+  },
+  "23": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Oooh, you sure know your stuff."
+  },
+  "24": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "All right, I got the photo. Time to see how it tastes..."
+  },
+  "25": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "...Mmm~! It's so sweet~!"
+  },
+  "26": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "It has that coffee bitterness too. I'm not that great with coffee,\nbut it added a lot! I think I like coffee more now!"
+  },
+  "27": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'm glad to hear it.\""
+  },
+  "28": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Looks like this place isn't that bad.\nMiyu'll be fine."
+  },
+  "29": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "And remember to give Miyu tons of money to make up for\nhow we have to go out without her now!"
+  },
+  "30": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Booo! This isn't what I wanted!!"
+  },
+  "31": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Wow, this sucks majorly. Sheeeesh.\nYou couldn't even figure out what we wanted?"
+  },
+  "32": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "If the same thing happens next time,\nwe're getting Miyu outta here!"
+  },
+  "33": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The door opens quietly. The time has come."
+  },
+  "34": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Welcome home, Suzuka-san!"
+  },
+  "35": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Hi! Wow, it looks exactly the same as\nwhen I worked here. It really takes me back."
+  },
+  "36": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "The counters are spotless too! Must be Shiro's hard work."
+  },
+  "37": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"She worked really hard to impress you.\""
+  },
+  "38": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "How nice. So Fuwa Fuwa's sense of hospitality hasn't\nchanged one bit, either. Shiro did a really great job!"
+  },
+  "39": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "It's making me excited for my drink!\nDon't you agree, Mister New Manager?"
+  },
+  "40": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Haha, the pressure is on.)"
+  },
+  "41": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Then, what would you like to order?\""
+  },
+  "42": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Hmm... Take a guess."
+  },
+  "43": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh?\""
+  },
+  "44": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Regular coffee is nice and all, but I want to try something a little different.\nI don't mind if it's hot or cold or even alcoholic. I'll leave it up to you."
+  },
+  "45": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Surprise me, won't you?"
+  },
+  "46": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Something different... Maybe I should add a special ingredient?)"
+  },
+  "47": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager! Please make a cup of coffee\nthat's as mature as Suzuka-san!"
+  },
+  "48": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Something smells good..."
+  },
+  "49": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It may look like a normal cup of coffee, but there's\nsomething special about it. Please try it.\""
+  },
+  "50": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...Don't mind if I do."
+  },
+  "51": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...! I feel warm all over... Oh, I know!\nThis is Haitian coffee with rum, isn't it?"
+  },
+  "52": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's right. I hope you like it...\""
+  },
+  "53": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...When I used to work at Fuwa Fuwa, the previous\nmanager used to make coffee just like this too."
+  },
+  "54": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "I was still underage, so I could only watch...\nbut now I know how it tastes."
+  },
+  "55": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I didn't know that. It was just a coincidence...\""
+  },
+  "56": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "It's wonderful. It fits the retro mood of this cafe so much...\nand I think it might even reflect your kind and warm personality."
+  },
+  "57": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hehe, we did it, Manager!"
+  },
+  "58": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "I think maid cafes can still evolve and become even better.\nThat includes Fuwa Fuwa and Miracle Maid Cafe, of course."
+  },
+  "59": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Let's both do our best to make as many customers happy as possible!"
+  },
+  "60": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "......"
+  },
+  "61": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Do you... not like it?\""
+  },
+  "62": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Um... I don't hate it, but I don't know if this is much of a surprise..."
+  },
+  "63": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I can tell she isn't satisfied... I should make her a new drink.)"
+  },
+  "64": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "This presence is...!"
+  },
+  "65": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You follow Favna's gaze to the cafe door, which opens slowly."
+  },
+  "66": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "......"
+  },
+  "67": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Welcome, Alice of the Kingdom of Roses."
+  },
+  "68": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Greetings, Your Dark Majesty..."
+  },
+  "69": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "...Hiii! I came to visit! ♪"
+  },
+  "70": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"We met... at the boutique, right?\""
+  },
+  "71": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Yep. I'm Rin Arisugawa! I go to the same school as Favna."
+  },
+  "72": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I've always wanted to know what kind of place Favna works at.\nAre you the familiar she's told me about?"
+  },
+  "73": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I... am, yeah. Hahaha.\""
+  },
+  "74": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Familiar, I command thee... Demonstrate your power!"
+  },
+  "75": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh? I-I can make coffee, I guess...\""
+  },
+  "76": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Heheh... I go cafe hopping with Favna sometimes,\nso I can be pretty particular about coffee!"
+  },
+  "77": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Well then, I challenge you, Mr. Familiar!\nShow me a rare drink I've never seen before!"
+  },
+  "78": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(A rare drink... I probably shouldn't make\nanything that can be found in Japan...)"
+  },
+  "79": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...An oracle, if you will listen."
+  },
+  "80": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Yin and yang may seem incompatible,\nbut what happens when you mix the two...?\nThis demon fusion will certainly yield interesting results."
+  },
+  "81": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Mm, this is..."
+  },
+  "82": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "It's so warm and comforting...!\nI know why Favna approves of you!"
+  },
+  "83": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...So, what's so rare about this coffee?"
+  },
+  "84": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"......You noticed.\""
+  },
+  "85": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Well, it tastes good anyway, so it's fine!"
+  },
+  "86": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You still have much to learn, familiar."
+  },
+  "87": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "(Rin-san was pretty happy, but Favna looks a little displeased...)"
+  },
+  "88": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "What did you add in this?!"
+  },
+  "89": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hm...? I added in some black tea. What's the problem?\""
+  },
+  "90": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Black tea? Into the coffee...? A fusion accident! Sound the alarms!"
+  },
+  "91": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Calm down. This is a drink called yuenyeung."
+  },
+  "92": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It's a common drink in cafes in Hong Kong.\nThere's nothing to be scared of, try it.\""
+  },
+  "93": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I-If you say so..."
+  },
+  "94": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Mmm......mmm!"
+  },
+  "95": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I can taste the bitterness and richness of both\nthe coffee and tea... What a lovely, robust flavor~!"
+  },
+  "96": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Yuenyeung means \"mandarin duck\" in Cantonese,\nand mandarin ducks are used to represent loving couples.\nA befitting name for a coffee that blends yin with yang."
+  },
+  "97": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Yin and yang... Hehe, that sounds kind of like me."
+  },
+  "98": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Did you know mandarin ducks mate for life? How romantic!\nWait, don't tell me... Mr Familiar, are you and Favna...?"
+  },
+  "99": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Hwa...?! O-Our pact is a much more virtuous one\nthat has nothing to do with such earthly affairs...!"
+  },
+  "100": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Huhhhh~? I haven't even said anything yet~♪"
+  },
+  "101": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I've never seen Favna make a face like that before...\nThey must be really close friends.)"
+  },
+  "102": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Favna kind of sticks out at school too...\nbut she's actually really nice."
+  },
+  "103": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I'm relieved to see that she's having fun here!"
+  },
+  "104": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Mr. Familiar, I've seen you at the boutique with other girls,\nbut don't forget to give Favna the attention she deserves, okay? ♪"
+  },
+  "105": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Take care of her, okay? If you ever break her pact,\nI'll come in and personally punish you for it! ♪"
+  },
+  "106": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The innocent yet devilish girl (?) whispers\na threat in your ear before leaving the cafe."
+  },
+  "107": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "An unexpected customer visits the empty cafe."
+  },
+  "108": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "......"
+  },
+  "109": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Why are you here...?\""
+  },
+  "110": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "I'm so tired... and then I smelled coffee...\nAnd before I realized it, I was already here..."
+  },
+  "111": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(She must have fought the supernatural occurrences\nby herself even after we came back from the shrine.)"
+  },
+  "112": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"How should I put this... you've been working very hard, haven't you?\""
+  },
+  "113": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "......"
+  },
+  "114": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Gh, did I say something weird...?)"
+  },
+  "115": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "......Why are ya bein' so kind?\nI shooed y'all out of the shrine so rudely yesterday..."
+  },
+  "116": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Maybe I see a bit of us in you.\nFuwa Fuwa was on its last legs just a while ago.\""
+  },
+  "117": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "Manager..."
+  },
+  "118": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I can cheer you up with a cup of coffee.\nWhat would you like to order?\""
+  },
+  "119": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "...You decide for me. Oh, but...\nI want somethin' sweet, I think."
+  },
+  "120": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(When you're tired, sugar always hits the spot.\nCaffeine can relax the nerves, too.)"
+  },
+  "121": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Let me try to make something revitalizing. Something with a bit more caffeine\nto ease her fatigue, but sweet enough to almost be a dessert.)"
+  },
+  "122": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "Anythin' warm hits hard right now..."
+  },
+  "123": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "That wasn't exactly what you envisioned, but she seems to like it."
+  },
+  "124": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "Wow, what a cutie."
+  },
+  "125": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "I love sweets, but I'm too shy to eat 'em by myself..."
+  },
+  "126": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "I'll gladly drink this, but... could ya stop starin' at me?"
+  },
+  "127": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "Wow! That's a strange cup of coffee!"
+  },
+  "128": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It's Vietnamese coffee. You should stir it well first before drinking.\""
+  },
+  "129": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "...Hoo, it really hits you with that sweetness!"
+  },
+  "130": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Vietnamese coffee beans are known for their strong bitter taste,\nso the people there customarily drink their coffee with sweetened condensed milk.\""
+  },
+  "131": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "So you made somethin' that's heavy\nin both caffeine and sugar, just for me..."
+  },
+  "132": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Could you tell me your worries?\""
+  },
+  "133": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "To tell the truth... our shrine's been haunted by an evil spirit."
+  },
+  "134": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "\"D-Do you mean like a ghost?!\""
+  },
+  "135": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "I've seen the ghost myself... makin' mischief in the night!"
+  },
+  "136": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(So it was the ghost who paralyzed me back then...)"
+  },
+  "137": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "And it's because of the ghost that no one's comin' to the shrine!"
+  },
+  "138": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "So I'm tryin' to drive 'em out. I'm exorcisin' the place three times a day,\nand throwin' so much salt it's gotten everywhere..."
+  },
+  "139": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She's trying very hard, but...\nShe's probably just annoying the ghost more than anything...)"
+  },
+  "140": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "But ever since, there's been supernatural stuff happenin'\nat the shrine, as if the ghost is tryin' to fight back..."
+  },
+  "141": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "And now everyone's avoiding coming near the shrine...\nWhich means fewer customers coming here to Fuwa Fuwa..."
+  },
+  "142": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "I've caused y'all so much trouble...\nI don't even know how to make up for it..."
+  },
+  "143": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You didn't do anything wrong, Honoka-chan!"
+  },
+  "144": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "If Fuwa Fuwa ever got haunted by an evil spirit,\nI would've done the same thing! ...Even if it is a bit scary!"
+  },
+  "145": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You can still carve out our path of fate. Am I wrong?"
+  },
+  "146": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"They're right. It's still too early to give up!\""
+  },
+  "147": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "...Thank y'all kindly. You're right, I'll have to ask y'all\nfor a favor, no matter how embarrassin' it might be!"
+  },
+  "148": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "Please lend me a hand...!"
+  },
+  "149": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "She grips your hand from behind the counter.\nYou feel her hands tremble ever so slightly."
+  },
+  "150": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Of course I will! I still haven't repaid you\nfor when you helped me find the pendant.\""
+  },
+  "151": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "Fufu... That favor came back to me tenfold... Now that's what I call a steal."
+  },
+  "152": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Honoka's troubled face finally melts into a relieved smile.\nYou'll have to do something about this incident if you want\nto keep seeing her lovely smile after this."
+  },
+  "153": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Could you tell me your worries?\""
+  },
+  "154": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "To tell the truth... our shrine's been haunted by an evil spirit."
+  },
+  "155": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "\"D-Do you mean like a ghost?!\""
+  },
+  "156": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "I've seen the ghost myself... makin' mischief in the night!"
+  },
+  "157": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(So it was the ghost who paralyzed me back then...)"
+  },
+  "158": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "And it's because of the ghost that no one's comin' to the shrine!"
+  },
+  "159": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "So I'm tryin' to drive 'em out. I'm exorcisin' the place three times a day,\nand throwin' so much salt it's gotten everywhere..."
+  },
+  "160": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She's trying very hard, but to the ghost...\nthat must have been very annoying...)"
+  },
+  "161": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "But ever since, there's been supernatural stuff happenin'\nat the shrine, as if the ghost is tryin' to fight back..."
+  },
+  "162": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "And now everyone avoids comin' near the shrine...\nWhich means fewer folks comin' here to Fuwa Fuwa..."
+  },
+  "163": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "I've caused all y'all so much trouble...\nI don't even know how to make up for it..."
+  },
+  "164": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "You didn't do anything wrong, Honoka-chan!"
+  },
+  "165": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "If Fuwa Fuwa were to be haunted by an evil spirit,\nI would've done the same! ...Even though it's a bit scary!"
+  },
+  "166": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You can still carve out our path of fate. Am I wrong?"
+  },
+  "167": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"They're right. It's still too early to give up!\""
+  },
+  "168": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "...Thank y'all kindly. You're right, I'll have to ask y'all\nfor a favor, no matter how embarrassin' it might be!"
+  },
+  "169": {
+    "Personagem": "suinaixiang_sp",
+    "PT": "",
+    "EN": "Please lend me a hand...!"
+  },
+  "170": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Honoka chokes out her request,\nand everyone nods determinedly at her."
+  },
+  "171": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Excuuuse meeee!!"
+  },
+  "172": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Memi-chan! You're here...!"
+  },
+  "173": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "It's pretty nice here... like that delinquent anime! The manga had a cafe!\nI should've brought my delinquent jacket."
+  },
+  "174": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(This is a maid cafe, though...)"
+  },
+  "175": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Hmm... What should I order? I don't know much about coffee."
+  },
+  "176": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "I don't like sweet food, and I'm not a fan of the flashy\nkinda food people only order to take pics with, either."
+  },
+  "177": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "I think taste is the most important, even for collab cafes!\nYou can't skimp on the food just because I'm here for\nthe random coasters that come with my drink!"
+  },
+  "178": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, I agree!"
+  },
+  "179": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'm pretty confident I can make you something good.\nAre you fine with anything that isn't sweet?\""
+  },
+  "180": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Oh, wait, one more thing! I'm on a diet...!"
+  },
+  "181": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "So something simple, not sweet,\nand low on calories! Please and thank you!!"
+  },
+  "182": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Thanks for the coffee! Down the hatch!!"
+  },
+  "183": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "*glug glug*......Bleh, too sweet!"
+  },
+  "184": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Whoops, sorry! I forgot you didn't like sweet food!\""
+  },
+  "185": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "D-Don't sweat it... I'll finish it... thank you..."
+  },
+  "186": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Thanks for the coffee! Down the hatch!!"
+  },
+  "187": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "*glug glug*...... *gulp*..."
+  },
+  "188": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "How is it? Is it good?"
+  },
+  "189": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Yes ma'am! It's kind of bland, ma'am!"
+  },
+  "190": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She's awfully direct all of a sudden...)"
+  },
+  "191": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Thanks for the coffee! Down the hatch!!"
+  },
+  "192": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "*glug glug glug*...!"
+  },
+  "193": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Whoa. That's the first time I've seen someone\ndown an entire cup of coffee in one go...\""
+  },
+  "194": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Phew, that was delicious! The flavor wasn't too strong,\nso I just chugged it right down with no trouble, sir!"
+  },
+  "195": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The soy milk adds a mild flavor, balancing the bitter notes.\nIt's also low on calories and sugar.\""
+  },
+  "196": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "For real?! That means I can have seconds! Yessir!"
+  },
+  "197": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hahaha. I'm flattered, but it's still coffee,\nso just watch out for the caffeine.\""
+  },
+  "198": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "The Fuwa Fuwa reconnaissance was a great success!\nPlease take my token of gratitude!"
+  },
+  "199": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You reluctantly accept the \"Delinquent Manga Series (Full Set).\""
+  },
+  "200": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...Where had she been keeping this the whole time?)"
+  },
+  "201": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "As expected of a true otaku!\nManager, don't forget to tell her your thoughts after reading!"
+  },
+  "202": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Well then, Miyako-san, may I take your order?\""
+  },
+  "203": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Hmm, well... When I was alive,\nI couldn't eat any of the things I liked."
+  },
+  "204": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "So I want to go aaall out and have something real fancy!\nHow about... something so sweet that it'll challenge my taste buds!"
+  },
+  "205": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "(H-Hey, I'm the one who'll be puttin' on those extra pounds, y'know...)"
+  },
+  "206": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "How about a drink that combines the richness of coffee\nwith the sweetness of caramel pudding? Could you make that?"
+  },
+  "207": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(A drink combining coffee and pudding... It sounds a little weird,\nbut maybe that could work surprisingly well.)"
+  },
+  "208": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here you go. I tried my best... but how does it taste?\""
+  },
+  "209": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Thank you! Don't mind if I do."
+  },
+  "210": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...It's delicious! So this is how coffee made in a cafe tastes like!"
+  },
+  "211": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I wouldn't really call this fancy..."
+  },
+  "212": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "But that's just life, isn't it? You can't have everything you want."
+  },
+  "213": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "And if I can't fill my stomach with just coffee...\nI can just go all out ordering food as well!!"
+  },
+  "214": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Excuse me, miss waitress~! I would like some sugary sweet pudding\nand a parfait, please! And while I'm here, I also want a sandwich,\nomurice, spaghetti Napolitan, and hamburger steak~!!"
+  },
+  "215": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "(Eeeek! I don't wanna think about gettin' on the scales tomorrowww!)"
+  },
+  "216": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here you go. Egg coffee.\""
+  },
+  "217": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Wait, really? You really made what I asked for?"
+  },
+  "218": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I've never seen coffee look so... yellow before..."
+  },
+  "219": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Don't be shy, take a sip.\nYou can only take risks while you're alive, after all.\""
+  },
+  "220": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Y-You're right! Thank you, I'll try it."
+  },
+  "221": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......Mmmmmmmm~!"
+  },
+  "222": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "What IS this? It's so sweet and creamy...!\nIt really tastes like if you turned caramel pudding into a drink!"
+  },
+  "223": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "And the bitterness of coffee is mixed in so well, too...\nThis is wonderful! I didn't know something like this existed!"
+  },
+  "224": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Egg coffee is a traditional Vietnamese drink.\nI believe it was already around when you were still alive.\""
+  },
+  "225": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Is that so..."
+  },
+  "226": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...The world is so big, and there's so much I've never seen.\nI'm glad I could realize that in my final moments."
+  },
+  "227": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Hello~! Are you still open?"
+  },
+  "228": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh, Suzuka-san! What's the matter?"
+  },
+  "229": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "I heard you were doing something fun.\nA stamp rally around Electric Street, was it?"
+  },
+  "230": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes! We want to tell as many people as possible\nabout the newly reopened Fuwa Fuwa!"
+  },
+  "231": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You can decide after we've confirmed the campaign can happen,\nbut we would love if Miracle Maid Cafe could participate too!"
+  },
+  "232": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Sure thing! Miracle Maid Cafe and Fuwa Fuwa\nare gonna serve the masters of Electric Street real good!"
+  },
+  "233": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Y-Yes! Thank you so much!"
+  },
+  "234": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "So how are the preparations going?"
+  },
+  "235": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um, there's, uh, just one problem...\nor should I call it... a trial we have to pass..."
+  },
+  "236": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "I see... So you have to prove that you're a functioning cafe\nthat actually makes money before you can even stand at the starting line."
+  },
+  "237": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Y-Yes. We have to work extra hard...!"
+  },
+  "238": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oooh hey, Suzuka-san! Do you have any, like,\nultimate maid service super moves?"
+  },
+  "239": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "That's right. A killer line that'll convince more folks to stop by,\nor get more customers to order an extra drink or two, or somethin' like that!"
+  },
+  "240": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "U-Ultimate super moves?! Killer line? Ummmm..."
+  },
+  "241": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Whoops, my bad! I'm Miyu. I play video games with Shiro a lot,\nand I'm usually in the kitchen here."
+  },
+  "242": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "I'm Honoka. Right now, I'm in charge of the place's budget."
+  },
+  "243": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Suzuka-han, we heard from Shiro that you're the most popular maid\nin Miracle Maid Cafe, and that you're a senpai she respects a whole lot."
+  },
+  "244": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Yeah! So... some golden advice for us super newbie maids, pleeease!"
+  },
+  "245": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "I-I dunno about most popular..."
+  },
+  "246": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "But there's a classic line we say at Miracle Maid Cafe\nthat encourages customers to order another drink..."
+  },
+  "247": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Really?! That really exists?"
+  },
+  "248": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I wanna hear it! Please tell us, Suzuka-sama! O Holy Saint Suzuka!"
+  },
+  "249": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "I-I'm no saint, but... Oh!\nOkay, I'll tell you, but before that..."
+  },
+  "250": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Could you make me a cup of coffee for holy women?"
+  },
+  "251": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "F-For holy women?!\nD-Do ya know anythin' about that, Favnyan?"
+  },
+  "252": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Unfortunately, I don't recall any descriptions\nof that in any of the scriptures I've read..."
+  },
+  "253": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Holy women... saints... Who could that be? Mother Teresa?"
+  },
+  "254": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Here, have a hint. She's a fighting saint who often\nappears in anime and video games. Who is she?"
+  },
+  "255": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Is the name related to a place in France?\""
+  },
+  "256": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Ooh, you're a sharp one, manager. Exactly.\nI bet you already know the answer, then."
+  },
+  "257": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you for waiting.\""
+  },
+  "258": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Oh, thank you. Hmm... Sorry, but that's not what I meant."
+  },
+  "259": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Shiro, do you know the Maid of Orléans...?"
+  },
+  "260": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ohhhh! Jeanne d'Arc! You were talking about\nthe Maid of Orléans, Jeanne d'Arc!"
+  },
+  "261": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "That's right. Orléans coffee is an iced coffee cocktail\nwith rum and orange juice. A little too niche, maybe?"
+  },
+  "262": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I see. That sounds like something that would be a great hit\namong people visiting Electric Street... I'll make a mental note of it.\""
+  },
+  "263": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Also, if you spot any masters who seem to be having trouble\ndeciding what drink to order, you go up to them and say this..."
+  },
+  "264": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you for waiting.\nHere is your Orléans coffee.\""
+  },
+  "265": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Ding ding ding~! That's correct!"
+  },
+  "266": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ohhhh! Jeanne d'Arc! You were talking about\nthe Maid of Orléans, Jeanne d'Arc!"
+  },
+  "267": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, that's right! She's THE holy woman you see\nin anime and games. Why didn't I think of that?!"
+  },
+  "268": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Fufu. It's so hard to find places that serve it, too.\nThank you, I'll enjoy it."
+  },
+  "269": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Oh, but before that, I should fulfill my part of the promise.\nAt Miracle, when we spot any masters who have almost\nfinished their drink, we go up to them and say this..."
+  },
+  "270": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Mhm, mhm..."
+  },
+  "271": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Oooh, I see...!"
+  },
+  "272": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Thanks for the drink. Sorry for visiting so late, Shiro."
+  },
+  "273": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Oh no, it's okay! I found myself reminiscing about all the times\nyou taught me how to be a maid. It really brought me back."
+  },
+  "274": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Me too. I'm looking forward to your campaign!"
+  },
+  "275": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you! Please come again!"
+  },
+  "276": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "She really is akin to a goddess... She must be the general leading\nthe warriors of the maiden underworld—Brynhild the Valkyrie..."
+  },
+  "277": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "She's so cool... I can't help but wanna be more like her..."
+  },
+  "278": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "We should try to use the killer line she taught us.\nIf every customer orders one more drink, we'll earn WAY more!"
+  },
+  "279": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes! Let's try it starting tomorrow!\nWe don't want to disappoint Suzuka-san, after all!"
+  },
+  "280": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Anna! Misaki! You came to visit again!"
+  },
+  "281": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Ehehe, you bet!"
+  },
+  "282": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "We wanted to talk to the manager more, too.\nThanks for hanging at the arcade the other day."
+  },
+  "283": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You're welcome. What would you like to drink today?\""
+  },
+  "284": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Heh heh heh... We're, like, totally coffee gurus\nnow that we've done our homework on Densta!"
+  },
+  "285": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "We saw this super cute drink!\nI don't remember what it was called, though..."
+  },
+  "286": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "It's got, like, whipped cream with crushed candy on top!"
+  },
+  "287": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Probably not Einspänner coffee this time.\nCan you make that, Manager?"
+  },
+  "288": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yeah. But I remember that drink having alcohol in it...\nCould I turn it into a non-alcoholic drink instead?\""
+  },
+  "289": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Yeah, totally! Wow, that sounded sooo professional!"
+  },
+  "290": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I'll get the candy ready while you brew the coffee, then!"
+  },
+  "291": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Mmm~ it's so sweet and delicious~! I'm satisfied~♪"
+  },
+  "292": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "W-Wait a sec, Anna! This is Einspänner coffee!"
+  },
+  "293": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "...Wait, you're right. Silly manager! Silly me~!"
+  },
+  "294": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Geez... Get a grip, Mr. Manager!"
+  },
+  "295": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "You're the only one we can trust Miyu with, y'know!"
+  },
+  "296": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Right. I do want to become as good of a manager as she deserves.\""
+  },
+  "297": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "H-Hey guys, cut it out. This is getting embarrassing..."
+  },
+  "298": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Yum~! This is some really good coffee!"
+  },
+  "299": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Yeah, it tastes perfect! It's just not what we saw on Densta..."
+  },
+  "300": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Too bad! Keep up the good work!"
+  },
+  "301": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "You're the only one we can trust Miyu with, y'know!"
+  },
+  "302": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Right. I do want to become as good of a manager as she deserves.\""
+  },
+  "303": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "H-Hey guys, cut it out. This is getting embarrassing..."
+  },
+  "304": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you for waiting. Here is a non-alcoholic\nversion of a Cafe Maria Theresia.\""
+  },
+  "305": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Yesss, this is it! This is the drink we saw on Densta!"
+  },
+  "306": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "It's even cuter than in the photos~!\nI almost can't bear to drink it~♪"
+  },
+  "307": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "It looks a lot like Einspänner coffee. Does it taste the same too?"
+  },
+  "308": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Not at all. Try it.\""
+  },
+  "309": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "O-Okaaay... Don't mind if I do!"
+  },
+  "310": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "*gulp*..."
+  },
+  "311": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "It has such a nice orangey smell... It's really good!"
+  },
+  "312": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "The coffee still tastes pretty strong, so it, like, balances out\nthe sweetness so it's not too much! I could drink so much of this!"
+  },
+  "313": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I'm so glad you like it! I knew you could do it, Manager! ☆"
+  },
+  "314": {
+    "Personagem": "anna&misaki",
+    "PT": "",
+    "EN": "......"
+  },
+  "315": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "...Yeah, you look like you're having fun, Miyu."
+  },
+  "316": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "We actually came because we felt like you were enjoying yourself here.\nWe wanted to know more about, like... this place you feel so comfy in."
+  },
+  "317": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Anna... Misaki..."
+  },
+  "318": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...I'm sorry for always being at work, even today...\nYou two must've missed me."
+  },
+  "319": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "It's okay. We want you to be happy too!"
+  },
+  "320": {
+    "Personagem": "anna&misaki",
+    "PT": "",
+    "EN": "Besides..."
+  },
+  "321": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "If this is where you're the most comfy,\nthen all we gotta do is come here too!"
+  },
+  "322": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Are you still hiring? You are, right?\nLet us in! We wanna be maids too!"
+  },
+  "323": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "That way, the three of us can be together all day, every day!"
+  },
+  "324": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Really...?! Thank you so much!!"
+  },
+  "325": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Of course, we'd be glad to have you on the team.\nThen we'll be counting on you, Anna. Misaki.\""
+  },
+  "326": {
+    "Personagem": "anna&misaki",
+    "PT": "",
+    "EN": "Okie dokie!"
+  },
+  "327": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Anna and Misaki will now work for you!"
+  },
+  "328": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Suzuka-san! Welcome home!"
+  },
+  "329": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Thank you. I brought the girls from Miracle Maid Cafe today."
+  },
+  "330": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "Hiiii~! Mari-chan's here~♪"
+  },
+  "331": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Huh? Wasn't there someone else?\""
+  },
+  "332": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "Oh dearie me! Shiori~? Come over here~!"
+  },
+  "333": {
+    "Personagem": "Shiori",
+    "PT": "",
+    "EN": "......"
+  },
+  "334": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She feels very different from when we first met...)"
+  },
+  "335": {
+    "Personagem": "Shiori",
+    "PT": "",
+    "EN": "I-I'm s-s-sorry... I actually, um, get really nervous around men..."
+  },
+  "336": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "But she's a-okay if she's wearing a maid dress~!"
+  },
+  "337": {
+    "Personagem": "Shiori",
+    "PT": "",
+    "EN": "B-But I... I wanted to try Fuwa Fuwa's coffee."
+  },
+  "338": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "Mhmmm. She was really curious to know how it tastes!"
+  },
+  "339": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "Just because Suzuka-sama approves of you guys\ndoesn't mean you can win against Miracle Maid Cafe!"
+  },
+  "340": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "I challenge you to a coffee duel!\nMake me my signature drink!"
+  },
+  "341": {
+    "Personagem": "Shiori",
+    "PT": "",
+    "EN": "You mean... the Bittersweet Heartbreak Valentine?"
+  },
+  "342": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "Mhm. And if you can make it better than I can,\nthen I'll give Fuwa Fuwa my seal of approval too!"
+  },
+  "343": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...Sorry, Mr. Manager. Mari-chan really puts in her all as a maid..."
+  },
+  "344": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Don't apologize. I think it's a great opportunity to test my skills.\""
+  },
+  "345": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Familiar, it is time to demonstrate your growth. Conjure the image of\nthe Bittersweet Heartbreak Valentine in your mind and make it reality!"
+  },
+  "346": {
+    "Personagem": "Shiori",
+    "PT": "",
+    "EN": "Th-Thank you... This is... really good..."
+  },
+  "347": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "Hrmm... Y-You're pretty good..."
+  },
+  "348": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "B-But! This isn't my signature drink, so it doesn't count!\nYou don't have my approval yet!"
+  },
+  "349": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Looks like a draw to me, but hey!\nLet's all be friends and work hard together!"
+  },
+  "350": {
+    "Personagem": "Shiori",
+    "PT": "",
+    "EN": "Th-Thank you... You got it... It's a chocolate soy latte..."
+  },
+  "351": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I knew it! Bittersweet, Valentine... it had to be chocolate!"
+  },
+  "352": {
+    "Personagem": "Shiori",
+    "PT": "",
+    "EN": "And it... tastes really good... It's so sweet and gentle..."
+  },
+  "353": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "Hrmmm... Grrrrrrrr..."
+  },
+  "354": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "I like your coffee too, Mari-chan...\nbut I'll give my vote to Mr. Manager here."
+  },
+  "355": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "No waaay... I was so proud of it..."
+  },
+  "356": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's okay! It's not about who wins or loses!"
+  },
+  "357": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"A simple cup of coffee can show the personality\nof whoever made it, and cafes are the same.\""
+  },
+  "358": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Miracle Maid Cafe is much fancier and offers elaborate\nperformances to customers, which is something Fuwa Fuwa lacks.\""
+  },
+  "359": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"We're both maid cafes on Electric Street, so I want to\ncompete with you healthily while preserving our personalities.\""
+  },
+  "360": {
+    "Personagem": "Mari",
+    "PT": "",
+    "EN": "...Aww, now you've said something cool..."
+  },
+  "361": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...You took the words right out of my mouth."
+  },
+  "362": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Mari-san, Shiori-san, Suzuka-san.\nLet's all work hard together from now on!"
+  },
+  "363": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Yeah! Let's liven up the summer festival together!"
+  },
+  "364": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "Speaking of the festival, have you decided who to go with yet, Mr. Manager?"
+  },
+  "365": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "......!!"
+  },
+  "366": {
+    "Personagem": "Suzuka",
+    "PT": "",
+    "EN": "...Fufu. Give it some thought before the day of."
+  },
+  "367": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Hello, Mr. Familiar! Thank you for the other day!"
+  },
+  "368": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Alice of the Kingdom of Roses.\nTo think you would knock on the doors of the Elysium."
+  },
+  "369": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "No place around here makes coffee as good as Fuwa Fuwa!"
+  },
+  "370": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"R-Really? I'm flattered...\""
+  },
+  "371": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "...Oh? So you're not going to deny it?\nThen I'll be expecting the best of the best!"
+  },
+  "372": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Oh no, I got sweet-talked! The pressure is on...!)"
+  },
+  "373": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Speak whatever you desire. Nothing can stump my dear disciple!"
+  },
+  "374": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Oh no, not Favna too!)"
+  },
+  "375": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Well then..."
+  },
+  "376": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "When it comes to coffee,\nI think aroma is the most important."
+  },
+  "377": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I want coffee that smells amazing, and sweet too to boot!"
+  },
+  "378": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(So I'm limited to aromatic ingredients.\nThat sounds a little tricky.)"
+  },
+  "379": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'll try using ingredients that both smell nice and taste sweet!)"
+  },
+  "380": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "...Mmmm! Any coffee you make is just so delicious!"
+  },
+  "381": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Yet the thirst deep in your soul does not seem to have been quenched."
+  },
+  "382": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I thought I'd give you a special present\nif you could get my request right..."
+  },
+  "383": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "But that'll have to wait another day!\nThanks for the coffee, Mr. Familiar!"
+  },
+  "384": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "What a wonderful smell...!\nI'm almost full just from taking a whiff of the cup!"
+  },
+  "385": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Coffee, chocolate, and cinnamon...\nThey're all very aromatic ingredients.\""
+  },
+  "386": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "You're right! And it's so nice and sweet,\nall the fatigue from my part-time job is melting away...!"
+  },
+  "387": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The classics are ultimately the most powerful of them all.\nAn impressive display of returning to your roots, my familiar."
+  },
+  "388": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "That's true. The cinammon doesn't clump up or anything,\nso it goes down so easily too. I can feel your attention to detail."
+  },
+  "389": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Impressive, Mr. Familiar! You've gotten even better since last time!"
+  },
+  "390": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I'll have to give you something special as thanks..."
+  },
+  "391": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Something special...?\""
+  },
+  "392": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Heh heh heh... Don't you want to see me in a cute little maid dress?"
+  },
+  "393": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "...I'm joking. I just want to try working here with you and Favna!"
+  },
+  "394": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "An alliance between the Wandering Elysium\nof the Underworld and the Kingdom of Roses...!\nOnce this alliance is formed, no one shall stand in our way!"
+  },
+  "395": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you, Rin-san. Welcome to Fuwa Fuwa!\""
+  },
+  "396": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Thank you, thank you! I'll do my best!"
+  },
+  "397": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Rin will now work for you!"
+  },
+  "398": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I know it's a bit late, but there's something I want to give you.\""
+  },
+  "399": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh? What is...?"
+  },
+  "400": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I ordered a special custom-made apron for you.\nI hope you can keep being a maid with a smile on your face.\""
+  },
+  "401": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wow...! It's so cute, and with the frilly lace decorations too!"
+  },
+  "402": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It looks a little like the apron that maid wore back then..."
+  },
+  "403": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Back then...?\""
+  },
+  "404": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Actually..."
+  },
+  "405": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "When I was little, my oshi died."
+  },
+  "406": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...What?\""
+  },
+  "407": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-I'm sorry. But this has to do with maids, I promise."
+  },
+  "408": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I was in such shock at the death of my favorite character,\nI couldn't even leave the bed for days..."
+  },
+  "409": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "My parents were worried about me at first, but when they found out\nI'd been secretly watching late-night anime, they got mad at me."
+  },
+  "410": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "They said, \"What's the point in getting worked up over something that's not real?\"\n...That was the first time I ever had a huge fight with my parents,\nand then in a fit of anger, I ran out of the house."
+  },
+  "411": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Shiro's usually so friendly and polite... She must have felt really betrayed\nwhen her feelings were completely shut down by her parents.)"
+  },
+  "412": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Eventually it started to get dark, and I got hungry,\nbut going home would be too awkward..."
+  },
+  "413": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And then, a maid came up to talk to me."
+  },
+  "414": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "She didn't say anything more and brought me to her maid cafe,\nand even served me a nice, warm drink."
+  },
+  "415": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The tears just started flowing... and before I knew it,\nI'd told her everything that had happened."
+  },
+  "416": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "About how my favorite character died, how I fought with my parents,\nhow I actually wanted to make up with them..."
+  },
+  "417": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I was just a little kid rambling about myself,\nbut she listened patiently without shutting me down."
+  },
+  "418": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "She didn't treat me like a little kid either, and called me \"my lady\"...\nShe even treated me to slightly firm custard pudding."
+  },
+  "419": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I couldn't help but ask her why she was\ndoing so much for me, and she said..."
+  },
+  "420": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"We want our lady to smile too.\""
+  },
+  "421": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"Just like how your favorite characters cheer you up,\nwe're happy thanks to our masters and ladies.\""
+  },
+  "422": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"So that's why you like maids so much.\""
+  },
+  "423": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes! I want to make our customers smile,\njust like how that maid cheered me up!"
+  },
+  "424": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "After all that, I was able to make up with my parents...\nAnd even my oshi, who I thought had died, actually ended up being alive in the end!"
+  },
+  "425": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "So even if things get tough, I think I can overcome anything\nas long as I can support someone else."
+  },
+  "426": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "What a heartfelt gift... With this apron,\nI think I can overcome any problems I face with a smile!"
+  },
+  "427": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's the spirit.\""
+  },
+  "428": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much."
+  },
+  "429": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, there's... one more thing I want. Is that okay?"
+  },
+  "430": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Sure. Just say the word.\""
+  },
+  "431": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I want to drink your coffee again, Manager.\nThe coffee you made when we first met... the coffee of my memories."
+  },
+  "432": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It was a pretty long time ago, so maybe you've forgotten?"
+  },
+  "433": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Try to remember... the first time we met."
+  },
+  "434": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "That's right, the Fuwa Fuwa Special!\nIt's such a familiar flavor, but that's why it calms me down."
+  },
+  "435": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And I think it's even tastier than the first time you made this for me."
+  },
+  "436": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "{0}-san, your coffee is the warmest coffee in the world!"
+  },
+  "437": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I know it's a bit late, but I have a present for you, Miyu.\""
+  },
+  "438": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It's a bread maker. I hope you can use it to make brand new dishes.\""
+  },
+  "439": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Wait, for real?! I've wanted this for ages!\nAre you a mind reader, Manager?!"
+  },
+  "440": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Wait, maybe you are. We're dating, after all! ♪"
+  },
+  "441": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hey, don't tease me like that.\""
+  },
+  "442": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Sorry, sorry. I'll make you tasty freshly baked bread every morning to make up for it!"
+  },
+  "443": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That would be great, but you really don't have to.\""
+  },
+  "444": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "C'mon, we're dating! This much is nothing, really!\nBesides, you make really good coffee for me too!"
+  },
+  "445": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's fair then! All right, I'll make some coffee right away.\""
+  },
+  "446": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oh, then I wanna try the first thing you ever made when you came here.\nThat coffee that represents Fuwa Fuwa itself!"
+  },
+  "447": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Hmm, this is good too, but like... I think I'm in the mood for something else."
+  },
+  "448": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I heard all about the first time you made coffee from Shiro.\nC'mon, try to remember what you made!"
+  },
+  "449": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "This is it! The Fuwa Fuwa Special! I'm a huge fan too! ♪"
+  },
+  "450": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I feel like you've gotten a lot better at making coffee, too!\nIt's so delicious, and... so warm."
+  },
+  "451": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...It's like I can feel your love, {0}-san."
+  },
+  "452": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh right, I almost forgot. I want you to have this.\""
+  },
+  "453": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Are these earrings? They're so beautiful...!"
+  },
+  "454": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Really? I'm sorry I couldn't buy anything but the cheapest ones in the store...\""
+  },
+  "455": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "What are you saying? These magic stones have been infused with your mana and love.\nThey are more beautiful than any other precious stone."
+  },
+  "456": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thanks. If you're happy, I'm happy too.\""
+  },
+  "457": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Let us perform another ritual.\nUse your Holy Grail to fill the magic stones with warmth."
+  },
+  "458": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Please, Manager. Make me the coffee that represents the\nWandering Elysium of the Underworld—Fuwa Fuwa!"
+  },
+  "459": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Oh, this isn't what I meant.\nHave you forgotten the first drink you made?"
+  },
+  "460": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You once made a coffee named after Fuwa Fuwa itself, have you not?\nThink back on that memory and recall it."
+  },
+  "461": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Yes, the Fuwa Fuwa Special... No other drink,\nno matter how extravagant, can compare to your heartfelt effort."
+  },
+  "462": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It tastes even better than before, and warmer as well...\nThere is nothing more you can learn from me."
+  },
+  "463": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Even from now on, you are the only one I put my utmost trust in, {0}-san."
+  },
+  "464": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I know it's a bit late, but I have a present for you, Honoka.\""
+  },
+  "465": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Aw, it's a glass pen! It's so lovely, I can't help but stare at it~"
+  },
+  "466": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You're always so hard at work both in the office\nand on your drawing board. I hope this pen will help you relax once in a while.\""
+  },
+  "467": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Thanks! I'll try drawin' with this for my next con."
+  },
+  "468": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "...Oh, right! You'll be the first to get a brand new hand-drawn illustration from me! ♪"
+  },
+  "469": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Really? Then sign it too! I'll put it up in the cafe.\""
+  },
+  "470": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Huhhh?! That's a li'l TOO embarrassin'..."
+  },
+  "471": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Don't say that. I want to be become your very first fan, for real this time.\""
+  },
+  "472": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "If ya say so... Then sure, but only if ya treat me to a cup of coffee."
+  },
+  "473": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Gimme Fuwa Fuwa's signature drink, please!"
+  },
+  "474": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "I'll gladly take this too, but... This ain't the signature drink at all, is it?"
+  },
+  "475": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Try to remember the very first drink ya made here in Fuwa Fuwa."
+  },
+  "476": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "I've been waitin' for this! The Fuwa Fuwa Special!"
+  },
+  "477": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "...Whew. Drinkin' your coffee really calms me down."
+  },
+  "478": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "And you're gettin' better and better at makin' it.\nIt's almost too good to serve to customers~"
+  },
+  "479": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "I hope you'll make me coffee every mornin' someday, {0}."
+  }
+}

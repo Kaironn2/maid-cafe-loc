@@ -1,0 +1,98 @@
+{
+  "1": {
+    "Id": 1,
+    "MainTextKey": "SecondConfirm_ShoppingAccout",
+    "ConfirmTextKey": "SecondConfirm_ShoppingAccout_Confirm",
+    "CancelTextKey": "SecondConfirm_ShoppingAccout_Cancel"
+  },
+  "2": {
+    "Id": 2,
+    "MainTextKey": "SecondConfirm_OverwriteSaveData",
+    "ConfirmTextKey": "SecondConfirm_OverwriteSave_Confirm",
+    "CancelTextKey": "SecondConfirm_OverwriteSave_Cancel"
+  },
+  "3": {
+    "Id": 3,
+    "MainTextKey": "SecondConfirm_DeleteSaveData",
+    "ConfirmTextKey": "SecondConfirm_DeleteSaveData_Confirm",
+    "CancelTextKey": "SecondConfirm_DeleteSaveData_Cancel"
+  },
+  "4": {
+    "Id": 4,
+    "MainTextKey": "SecondConfirm_ExitGameSaveWarning",
+    "ConfirmTextKey": "SecondConfirm_ExitGameSaveWarning_Confirm",
+    "CancelTextKey": "SecondConfirm_ExitGameSaveWarning_Cancel"
+  },
+  "5": {
+    "Id": 5,
+    "MainTextKey": "SecondConfirm_StartOperating",
+    "ConfirmTextKey": "SecondConfirm_StartOperating_Confirm",
+    "CancelTextKey": "SecondConfirm_StartOperating_Cancel"
+  },
+  "6": {
+    "Id": 6,
+    "MainTextKey": "SecondConfirm_Sleep",
+    "ConfirmTextKey": "SecondConfirm_Sleep_Confirm",
+    "CancelTextKey": "SecondConfirm_Sleep_Cancel"
+  },
+  "7": {
+    "Id": 7,
+    "MainTextKey": "SecondConfirm_Karaoke",
+    "ConfirmTextKey": "SecondConfirm_Karaoke_Confirm",
+    "CancelTextKey": "SecondConfirm_Karaoke_Cancel"
+  },
+  "8": {
+    "Id": 8,
+    "MainTextKey": "SecondConfirm_Tokoya",
+    "ConfirmTextKey": "SecondConfirm_Tokoya_Confirm",
+    "CancelTextKey": "SecondConfirm_Tokoya_Cancel"
+  },
+  "9": {
+    "Id": 9,
+    "MainTextKey": "SecondConfirm_Bathhouse",
+    "ConfirmTextKey": "SecondConfirm_Bathhouse_Confirm",
+    "CancelTextKey": "SecondConfirm_Bathhouse_Cancel"
+  },
+  "10": {
+    "Id": 10,
+    "MainTextKey": "SecondConfirm_Work",
+    "ConfirmTextKey": "SecondConfirm_Work_Confirm",
+    "CancelTextKey": "SecondConfirm_Work_Cancel"
+  },
+  "11": {
+    "Id": 11,
+    "MainTextKey": "SecondConfirm_SoldAccout",
+    "ConfirmTextKey": "SecondConfirm_SoldAccout_Confirm",
+    "CancelTextKey": "SecondConfirm_SoldAccout_Cancel"
+  },
+  "12": {
+    "Id": 12,
+    "MainTextKey": "SecondConfirm_OperatingLevelUp",
+    "ConfirmTextKey": "SecondConfirm_OperatingLevelUp_Confirm",
+    "CancelTextKey": "SecondConfirm_OperatingLevelUp_Cancel"
+  },
+  "13": {
+    "Id": 13,
+    "MainTextKey": "SecondConfirm_EndToSave",
+    "ConfirmTextKey": "SecondConfirm_EndToSave_Confirm",
+    "CancelTextKey": "SecondConfirm_EndToSave_Cancel"
+  },
+  "14": {
+    "Id": 14,
+    "MainTextKey": "SecondConfirm_GameEndToSave",
+    "ConfirmTextKey": "SecondConfirm_GameEndToSave_Confirm",
+    "CancelTextKey": "SecondConfirm_GameEndToSave_Cancel"
+  },
+  "15": {
+    "Id": 15,
+    "MainTextKey": "SecondConfirm_Rest",
+    "ConfirmTextKey": "SecondConfirm_Rest_Confirm",
+    "CancelTextKey": "SecondConfirm_Rest_Cancel"
+  },
+  "16": {
+    "Id": 16,
+    "MainTextKey": "SecondConfirm_MenuResearch",
+    "ConfirmTextKey": "SecondConfirm_MenuResearch_Confirm",
+    "CancelTextKey": "SecondConfirm_MenuResearch_Cancel"
+  }
+}

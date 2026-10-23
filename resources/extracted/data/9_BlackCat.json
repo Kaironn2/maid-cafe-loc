@@ -1,0 +1,86 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "9_BlackCat_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "9_BlackCat_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "9_BlackCat_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "9_BlackCat_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "9_BlackCat_Basic_WalkWithOrder",
+    "Type": "Basic",
+    "Atlas": "9_BlackCat_Basic",
+    "Frame": "10_13"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "9_BlackCat_Basic_Moemoekyun",
+    "Type": "Basic",
+    "Atlas": "9_BlackCat_Basic",
+    "Frame": "14_22"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "9_BlackCat_Basic_FeedCat",
+    "Type": "Basic",
+    "Atlas": "9_BlackCat_Basic",
+    "Frame": "23_38"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "9_BlackCat_Basic_Leisure",
+    "Type": "Basic",
+    "Atlas": "9_BlackCat_Basic",
+    "Frame": "39_58"
+  },
+  "7": {
+    "Id": 7,
+    "Name": "9_BlackCat_Basic_Sleep",
+    "Type": "Basic",
+    "Atlas": "9_BlackCat_Basic",
+    "Frame": "59_68"
+  },
+  "8": {
+    "Id": 8,
+    "Name": "9_BlackCat_Maid1_Idle",
+    "Type": "Maid1",
+    "Atlas": "9_BlackCat_Maid1",
+    "Frame": "0_3"
+  },
+  "9": {
+    "Id": 9,
+    "Name": "9_BlackCat_Maid1_Walk",
+    "Type": "Maid1",
+    "Atlas": "9_BlackCat_Maid1",
+    "Frame": "4_9"
+  },
+  "10": {
+    "Id": 10,
+    "Name": "9_BlackCat_Maid1_WalkWithOrder",
+    "Type": "Maid1",
+    "Atlas": "9_BlackCat_Maid1",
+    "Frame": "10_13"
+  },
+  "11": {
+    "Id": 11,
+    "Name": "9_BlackCat_Maid1_Moemoekyun",
+    "Type": "Maid1",
+    "Atlas": "9_BlackCat_Maid1",
+    "Frame": "14_22"
+  },
+  "12": {
+    "Id": 12,
+    "Name": "9_BlackCat_Maid1_Leisure",
+    "Type": "Maid1",
+    "Atlas": "9_BlackCat_Maid1",
+    "Frame": "23_42"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "0": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "Thank you for waiting. Here is your order."
+  },
+  "1": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The pastry chef pulls your order out of the box slightly\nso you can take a better look at it."
+  },
+  "2": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Whoa...!\""
+  },
+  "3": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You can't help but exclaim in awe. It's amazing...\nThe girls will definitely love it!"
+  },
+  "4": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Having heard rumors that this restaurant does reservation-only\ncustom cake orders, you had secretly ordered a cake yesterday."
+  },
+  "5": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "Here is the bill, sir."
+  },
+  "6": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"O-Ohhh...!\""
+  },
+  "7": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(A-A small price to pay in exchange for everyone's happiness!)"
+  },
+  "8": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "Thanks."
+  },
+  "9": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "Are you two going to the summer festival too?\nI'll be manning a baby castella stall there."
+  },
+  "10": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "Could you tell me what flavor you like more?\nJust for reference."
+  },
+  "11": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Honey:option1;Chocolate:option2"
+  },
+  "12": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "Ah, a more subtle, gentle kind of flavor.\nI'll go with that again this year!"
+  },
+  "13": {
+    "Personagem": "Kazuma",
+    "PT": "",
+    "EN": "I see, that would make us stand out a bit more too!"
+  }
+}

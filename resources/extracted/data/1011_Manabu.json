@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1011_Manabu_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1011_Manabu_Basic",
+    "Frame": "0_2"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1011_Manabu_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1011_Manabu_Basic",
+    "Frame": "3_8"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1011_Manabu_Basic_SideSitIdle",
+    "Type": "Basic",
+    "Atlas": "1011_Manabu_Basic",
+    "Frame": "9_10_"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "1011_Manabu_Basic_SideSitOrder",
+    "Type": "Basic",
+    "Atlas": "1011_Manabu_Basic",
+    "Frame": "11_14"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "1011_Manabu_Basic_SideSitEat",
+    "Type": "Basic",
+    "Atlas": "1011_Manabu_Basic",
+    "Frame": "15_25"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "1011_Manabu_Basic_Interaction",
+    "Type": "Basic",
+    "Atlas": "1011_Manabu_Basic",
+    "Frame": "26_27"
+  }
+}

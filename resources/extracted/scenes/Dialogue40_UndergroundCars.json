@@ -1,0 +1,72 @@
+{
+  "0": {
+    "ChatNum": 0,
+    "Character": "system",
+    "StoryText": "大家边聊天边逛小摊，其乐融融……",
+    "JP": "みんなでワイワイおしゃべりしながら、屋台巡りを楽しんだ……。",
+    "EN": "You hung out and chatted with the others\nas you walked around to see all the stalls...",
+    "TC": "大家邊聊天邊逛小攤，其樂融融……",
+    "Type": 0,
+    "Part": "part1",
+    "Portrait": "",
+    "Option": "",
+    "LikeDegree": "",
+    "AudioName": ""
+  },
+  "1": {
+    "ChatNum": 1,
+    "Character": "3_Favna_Suit1",
+    "StoryText": "呼……呼……",
+    "JP": "すぅ……すぅ……。",
+    "EN": "Snzz... snzz...",
+    "TC": "呼……呼……",
+    "Type": 0,
+    "Part": "part1",
+    "Portrait": "Tired",
+    "Option": "",
+    "LikeDegree": "",
+    "AudioName": "6_Day12_part5_1_fafuna"
+  },
+  "2": {
+    "ChatNum": 2,
+    "Character": "2_Miyu_Suit1",
+    "StoryText": "真好玩啊！ 就是总觉得一眨眼就结束了。",
+    "JP": "あー、楽しかった！あっという間に終わっちゃったね。",
+    "EN": "Woo, that was fun! It all went by so quickly.",
+    "TC": "真好玩啊！ 就是總覺得一眨眼就結束了。",
+    "Type": 0,
+    "Part": "part1",
+    "Portrait": "Smile",
+    "Option": "",
+    "LikeDegree": "",
+    "AudioName": "6_Day12_part5_2_xinyou"
+  },
+  "3": {
+    "ChatNum": 3,
+    "Character": "4_Honoka_Suit1",
+    "StoryText": "夏日祭不是还有两天嘛，这才刚刚开始呢！",
+    "JP": "夏祭りはあと2日あるさかい、まだまだこれからや！",
+    "EN": "There's still two more days of the festival, so the fun's only just beginning!",
+    "TC": "夏日祭不是還有兩天嘛，這才剛剛開始呢！",
+    "Type": 0,
+    "Part": "part1",
+    "Portrait": "Laugh",
+    "Option": "",
+    "LikeDegree": "",
+    "AudioName": "6_Day12_part5_3_suinaixiang"
+  },
+  "4": {
+    "ChatNum": 4,
+    "Character": "1_Siro_Suit1",
+    "StoryText": "真期待盂兰盆舞和烟花大会！",
+    "JP": "盆踊りに花火大会、楽しみですね！",
+    "EN": "I can't wait for the Bon dance and fireworks show!",
+    "TC": "真期待盂蘭盆舞和煙火大會！",
+    "Type": 0,
+    "Part": "part1",
+    "Portrait": "Laugh",
+    "Option": "",
+    "LikeDegree": "",
+    "AudioName": "6_Day12_part5_4_xiaobai"
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "0": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meow~"
+  },
+  "1": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Hello, my dear servant."
+  },
+  "2": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Do you know where the pendant is?\nCould you help me find it?"
+  },
+  "3": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "She's talking to a black cat in a very serious tone."
+  },
+  "4": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Without that pendant, I can't forge a pact to make that person my familiar."
+  },
+  "5": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You must know who I'm talking about, don't you?\nThe second I laid my eyes on him, the wheels of fate started turning."
+  },
+  "6": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "So, please."
+  },
+  "7": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meow."
+  },
+  "8": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The black cat purrs as if in reply,\nand walks off with its tail lifted high."
+  },
+  "9": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Hehe... That's right... Fate herself will surely guide Favna..."
+  },
+  "10": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Fafna follows the cat and leaves."
+  },
+  "11": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Oh...)"
+  },
+  "12": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(I was going to talk to her, but I missed my chance.)"
+  },
+  "13": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(A pendant... Does she mean...)"
+  },
+  "14": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...Either way, I should head back for today.)"
+  },
+  "15": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I thought I'd be able to find her here...)"
+  },
+  "16": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(But now that I actually want to talk to her,\nshe's nowhere to be seen. What an elusive girl.)"
+  },
+  "17": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Guess I'll just have to wait for the day I'll run into her again...)"
+  },
+  "18": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Mrooow..."
+  },
+  "19": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I thought we were meeting at the park... It's not like Shiro to be late.)"
+  },
+  "20": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Well, nothing to do but wait.)"
+  },
+  "21": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "10 minutes later..."
+  },
+  "22": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Manager~!"
+  },
+  "23": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ohhh, I'm so sorry! I got nervous last night and couldn't sleep for some reason..."
+  },
+  "24": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Don't worry, I just got here too.\""
+  },
+  "25": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I hope I haven't forgotten anything...\nOh! Um, I hope my hair doesn't look weird!"
+  },
+  "26": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It looks fine:option1;It looks cute:option2"
+  },
+  "27": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ohh, thank goodness!\nThat's one less thing to worry about."
+  },
+  "28": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wh... H-Heyyy, don't tease me like that!"
+  },
+  "29": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Anyway, where should we go?\nLast time I went with Miyu, we went to the Shopping Association, so...\""
+  },
+  "30": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Um, could we go to the Shopping Association again?\nOnly if you don't mind, of course!"
+  },
+  "31": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "There's a lot of great shops we haven't been to yet,\nso I wanted to show you around!"
+  },
+  "32": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That sounds like a good idea.\nI've been itching to learn more about this city.\""
+  },
+  "33": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm glad to hear that! Then let's go!"
+  },
+  "34": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...There you are."
+  },
+  "35": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'm so sorry! I hope you didn't miss me too much...\""
+  },
+  "36": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A-Absolutely not! I have always been a solitary existence.\nSuch trivial matters are hardly enough to aggravate me!"
+  },
+  "37": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I see... But still, let me make it up to you.\nI'll go wherever you want today.\""
+  },
+  "38": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A charitable offer. I was planning on inviting you\nto the Lustrous Mansion of Glamourous Garments."
+  },
+  "39": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Garments...? Oh, do you mean like a boutique?\nSure, we can stop by later.\""
+  },
+  "40": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I hope Favna enjoys herself today.)"
+  },
+  "41": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Then let us depart, my familiar. Come!"
+  },
+  "42": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ooh, a magic circle!\nJust like the ones in Magic Angel!"
+  },
+  "43": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "You had us grab some chicken, tomato juice, and red food coloring...\nI reckoned you were gonna cook us somethin'."
+  },
+  "44": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Drawing a magic circle with materials that are in line\nwith the caster's attributes enhances its effects, you see."
+  },
+  "45": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "In my case, I cannot use real blood...\nSo I will use red ingredients to imitate its appearance."
+  },
+  "46": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The circle is complete.\n...Stand there, my familiar."
+  },
+  "47": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Heed my words."
+  },
+  "48": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "My will creates your body, and your grail creates my destiny.\nIf you heed the Holy Key and obey my will and reason, then answer me!"
+  },
+  "49": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I have summoned the power of heroic spirits of yore to unlock your true potential.\nUndoubtedly, you have become even more formidable!"
+  },
+  "50": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Favna worked really hard on this, so I'll just play along.)"
+  },
+  "51": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Great work, everyone. Let's all get some rest for now\nand go meet the ghost tomorrow!"
+  },
+  "52": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It might be because of the ritual Favna performed on you,\nbut you slept very soundly that night."
+  },
+  "53": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Hoo, that was fun! Now that I think about it,\nI ended up draggin' ya all over the place. Was that okay with ya?"
+  },
+  "54": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It was a lot of fun!\""
+  },
+  "55": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ehehe... I'm happy ya came along too. Thanks!"
+  },
+  "56": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...No, but really. I got a lot to thank ya for, Manager."
+  },
+  "57": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"What do you mean?\""
+  },
+  "58": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Oh, y'know, at home I'm always the big sister, so...\nI always end up bein' the one draggin' everyone else along."
+  },
+  "59": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And Daddy ain't the most meticulous man, even though he's a priest,\nso I'm the main person in charge of the family's finances."
+  },
+  "60": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "So the ladies in the neighborhood always say stuff like,\n\"You're so mature, Honoka-chan!\""
+  },
+  "61": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "When Nanoka and Nonoka were born I was happy to hear\nthat I'd just become an older sister."
+  },
+  "62": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...But one time, when I heard someone call me mature again..."
+  },
+  "63": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I started to think, what if they're actually\nsayin' I'm stingy, or unladylike... or somethin'."
+  },
+  "64": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "After that, I stopped likin' when people called me mature."
+  },
+  "65": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And I never really liked the part of me\nthat always frets over the tiniest details..."
+  },
+  "66": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But y'know how Shiro complimented me\nwhen we were brainstormin' for the stamp rally?"
+  },
+  "67": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "She showered me with compliments so sincerely,\nit didn't feel bad at all."
+  },
+  "68": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "So did Miyu and Favnyan... and ya did too.\nAnd y'all stuck with me even when I started takin' the lead for no reason."
+  },
+  "69": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "So I was... happy. I didn't expect anyone\nto think I was all reliable and... worth somethin'."
+  },
+  "70": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "So I, um... I'm real grateful that ya introduced me to Fuwa Fuwa,\nso that I could meet y'all and have ya in my life. That's all."
+  },
+  "71": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I think you're a remarkable person, Honoka.\""
+  },
+  "72": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Remarkable? Me? Why?"
+  },
+  "73": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You take care of your family\nand support everyone in Fuwa Fuwa at the same time.\""
+  },
+  "74": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I mean, sure, at least for the family part...\nbut you're the one who supports us, not the other way round."
+  },
+  "75": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I just got a li'l yappy this time 'cause I'm kinda good with money, that's all."
+  },
+  "76": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "You're the one supportin' the maids of Fuwa Fuwa... includin' me.\nWe're all countin' on ya, y'know?"
+  },
+  "77": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But for real, Manager... Ya must've been a real\nimpressive guy before you came to Fuwa Fuwa."
+  },
+  "78": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I...\""
+  },
+  "79": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "...Oh, would ya look at the time. I should go home\nand make dinner. If I don't go soon, the li'l ones—\nand the big ones too—are gonna starve to death."
+  },
+  "80": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Time sure flies when you're havin' fun.\nHow was your day, Manager?"
+  },
+  "81": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "I had a lot of fun!:option3;The day's not over yet...:option4"
+  },
+  "82": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Really? Good! I'm sorry for draggin' ya along,\nbut I was really happy to have ya with me!"
+  },
+  "83": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ahaha! Right, right! But we've been walkin' so much my legs\nfeel like jelly, so we should be good and go home for the day."
+  },
+  "84": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Besides, ya gotta get prepared for the talk\nwith the chairman tomorrow, right?"
+  },
+  "85": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Don't stay up too late and make sure to get enough rest, okay?"
+  },
+  "86": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Okay, I'll do as you say.\""
+  },
+  "87": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Well then, thanks for hangin' out with me today.\nLet's go watch another movie together someday!\nSee ya tomorrow!"
+  },
+  "88": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Hm? There's something buried in the sand..."
+  },
+  "89": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Whoa! You found a Silver Sound Card!"
+  }
+}

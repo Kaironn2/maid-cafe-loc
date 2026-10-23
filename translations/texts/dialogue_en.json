@@ -1,0 +1,3894 @@
+{
+  "NoDia": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1004_Haru_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome! May I take your order?"
+  },
+  "1004_Haru_DailyDia1": {
+    "PT": "",
+    "EN": "You can get a great deal if you get a sandwich, side dish, and drink as a set!"
+  },
+  "1004_Haru_DailyDia2": {
+    "PT": "",
+    "EN": "The kids' set has always been really popular!\nBut we don't allow reselling of the toys that come with it, okay?"
+  },
+  "1004_Haru_DailyDia3": {
+    "PT": "",
+    "EN": "I saw a girl with blue hair talk to a black cat on the street yesterday...\nOr did I imagine that...?"
+  },
+  "1004_Haru_DailyDia4": {
+    "PT": "",
+    "EN": "Our takeout menu is also very popular! Everything is freshly cooked in-house."
+  },
+  "1005_Mio_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome! We're showing \"Is the Order a Little Sister?\" right now."
+  },
+  "1005_Mio_DailyDia1": {
+    "PT": "",
+    "EN": "Hey there! Here's the list of movies we're showing today."
+  },
+  "1005_Mio_DailyDia2": {
+    "PT": "",
+    "EN": "Anime movies are always the most popular ones around here.\nWhy not give 'em a try while we still have seats?"
+  },
+  "1005_Mio_DailyDia3": {
+    "PT": "",
+    "EN": "Sigh... I wish I had someone to talk about movies with...\nMaybe I should go drinking with Yuasa-kun again..."
+  },
+  "1005_Mio_DailyDia4": {
+    "PT": "",
+    "EN": "Did you know? There's a late-night diner on Electric Street.\nThe owner's kind of scary-looking,\nbut the kushiage is incredible and goes great with drinks!"
+  },
+  "1006_Masafumi_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome! We're showing \"Is the Order a Little Sister?\" right now."
+  },
+  "1006_Masafumi_DailyDia1": {
+    "PT": "",
+    "EN": "I love movies so much that I knew I had to work here!"
+  },
+  "1006_Masafumi_DailyDia2": {
+    "PT": "",
+    "EN": "They air movies on TV eventually if you wait long enough,\nbut more people should give the full theater experience a try."
+  },
+  "1006_Masafumi_DailyDia3": {
+    "PT": "",
+    "EN": "I'll be learning how to make movies in college soon!\nBut it's kinda sad that I'll have to quit this job to do that."
+  },
+  "1066_Lynn_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome! Are you a gamer of culture too?"
+  },
+  "1066_Lynn_DailyDia1": {
+    "PT": "",
+    "EN": "Did you know that the popular \"Wait\" series actually\nhas its roots in games for cultured gentlemen as well?"
+  },
+  "1066_Lynn_DailyDia2": {
+    "PT": "",
+    "EN": "If you want a game that makes you cry,\nyou can't go wrong with \"KUKI.\""
+  },
+  "1066_Lynn_DailyDia3": {
+    "PT": "",
+    "EN": "If you're buying a cultured game, you should get the physical version!\nTrying to figure out where to put the box is part of the experience."
+  },
+  "1067_Mayuri_DailyDia1": {
+    "PT": "",
+    "EN": "Are you looking for a laptop computer?\nDon't forget: 4 GB storage is a violation of human rights."
+  },
+  "1067_Mayuri_DailyDia2": {
+    "PT": "",
+    "EN": "Okabe-kun likes \"cultured games\" too much and just won't\nshut up about them, but he's got really good sales performance..."
+  },
+  "1067_Mayuri_DailyDia3": {
+    "PT": "",
+    "EN": "Thinking of getting a new refrigerator?\nIf you live alone, I would recommend getting one with a larger freezer."
+  },
+  "1001_Shiori_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome back, Master. We've been waiting for you."
+  },
+  "1001_Shiori_DailyDia1": {
+    "PT": "",
+    "EN": "I'm grateful for the miracle that has brought us together..."
+  },
+  "1001_Shiori_DailyDia2": {
+    "PT": "",
+    "EN": "If you ever see anyone that looks like me outside the cafe,\nplease leave her alone. I-It's really embarrassing..."
+  },
+  "1001_Shiori_DailyDia3": {
+    "PT": "",
+    "EN": "Mari-chan gets bored really easily and changes oshis all the time,\nbut I think Suzuka-san is her one and only forever oshi."
+  },
+  "1002_Mari_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome home, Master~! Aw, you're late today! ☆"
+  },
+  "1002_Mari_DailyDia1": {
+    "PT": "",
+    "EN": "I'll whip up a miracle with my best dishes! ☆"
+  },
+  "1002_Mari_DailyDia2": {
+    "PT": "",
+    "EN": "Shiori's usually really shy, but she really gets into the mood\nwhen she's on her shift~ look at her go!"
+  },
+  "1002_Mari_DailyDia3": {
+    "PT": "",
+    "EN": "Did you know~? Suzuka-sama actually likes drinking.\nShe always gets drinks at the late-night diner when she's off work."
+  },
+  "1003_Suzuka_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome home, Master!\nI hope you have a miraculous time."
+  },
+  "1003_Suzuka_DailyDia1": {
+    "PT": "",
+    "EN": "Come on, Master, do it with me!\nMoe moe~☆ Miracle!"
+  },
+  "1003_Suzuka_DailyDia2": {
+    "PT": "",
+    "EN": "Take good care of Fuwa Fuwa and Shiro for me, okay?"
+  },
+  "1003_Suzuka_DailyDia3": {
+    "PT": "",
+    "EN": "Why not take a photo before you go?\nI want a little something that records your growth."
+  },
+  "1038_Bunta_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. Would you like some tofu?"
+  },
+  "1038_Bunta_DailyDia1": {
+    "PT": "",
+    "EN": "Anyone who says that tofu tastes like nothing\nshould get their tastebuds checked, I swear!"
+  },
+  "1038_Bunta_DailyDia2": {
+    "PT": "",
+    "EN": "We're very particular about the textures of\nboth our firm tofu and silken tofu."
+  },
+  "1038_Bunta_DailyDia3": {
+    "PT": "",
+    "EN": "You wouldn't serve miso soup at a cafe...\nOh, but maybe you could use our soy milk?"
+  },
+  "1039_Takumi_DailyDia1": {
+    "PT": "",
+    "EN": "We do deliveries too.\n...If nothing else, we're faster than anyone else."
+  },
+  "1039_Takumi_DailyDia2": {
+    "PT": "",
+    "EN": "...Please try out our soy milk."
+  },
+  "1039_Takumi_DailyDia3": {
+    "PT": "",
+    "EN": "Dishes made with soy milk?\nMaybe you should look for a recipe book at the bookstore."
+  },
+  "1014_Sakura_DailyWelcome": {
+    "PT": "",
+    "EN": "Hi, Onii-chan, welcome! Do you want some fresh veggies?"
+  },
+  "1014_Sakura_DailyDia1": {
+    "PT": "",
+    "EN": "Granny makes the best pickled veggies in the world!\nI should share some with Shiro-oneechan too."
+  },
+  "1014_Sakura_DailyDia2": {
+    "PT": "",
+    "EN": "Onii-chan, are you eating veggies every day?"
+  },
+  "1014_Sakura_DailyDia3": {
+    "PT": "",
+    "EN": "Dad's really shy, so he never comes out to the front."
+  },
+  "1030_Tokuko_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. Would you like some fresh veggies?"
+  },
+  "1030_Tokuko_DailyDia1": {
+    "PT": "",
+    "EN": "My son asked me to tell you to make good use of our veggies.\n...If only he'd share that with you directly."
+  },
+  "1030_Tokuko_DailyDia2": {
+    "PT": "",
+    "EN": "We stock up on fresh veggies every single day.\nEven though I'm getting old, I always walk to the markets myself."
+  },
+  "1030_Tokuko_DailyDia3": {
+    "PT": "",
+    "EN": "I don't know anything about this \"oshi\" business...\nBut I'm glad that Kamigishi-san is friendly with my granddaughter."
+  },
+  "1052_Memi_DailyDia1": {
+    "PT": "",
+    "EN": "Aye aye! Hot rackin' this takoyaki just for you, sir!"
+  },
+  "1052_Memi_DailyDia2": {
+    "PT": "",
+    "EN": "The most important thing in a business isn't makin' money!\nIt's to never lose to yourself!"
+  },
+  "1052_Memi_DailyDia3": {
+    "PT": "",
+    "EN": "Welcome! I'll be the one to protect Rumi!"
+  },
+  "1027_Romin_DailyWelcome": {
+    "PT": "",
+    "EN": "Thanks for stoppin' by. Oh, uh... would ya like some takoyaki?"
+  },
+  "1027_Romin_DailyDia1": {
+    "PT": "",
+    "EN": "Our fluffy, melt-in-your-mouth takoyaki are our pride and joy."
+  },
+  "1027_Romin_DailyDia2": {
+    "PT": "",
+    "EN": "I'm teachin' Memi how to make takoyaki.\nShe's really got a knack for it."
+  },
+  "1027_Romin_DailyDia3": {
+    "PT": "",
+    "EN": "I'm no good at servin' customers...\nso Memi's a real lifesaver."
+  },
+  "1019_Ichiryu_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome, welcome! We've got the freshest fish in town!"
+  },
+  "1019_Ichiryu_DailyDia1": {
+    "PT": "",
+    "EN": "My last job? Well, uh... I was on my way to become\nthe best hired muscle in town, but I'm retired now."
+  },
+  "1019_Ichiryu_DailyDia2": {
+    "PT": "",
+    "EN": "Our little Haruka is the prettiest girl in the world\nwith a ten billion-dollar smile!"
+  },
+  "1019_Ichiryu_DailyDia3": {
+    "PT": "",
+    "EN": "I'm good friends with the owner of the late-night diner.\nHe knows how to use our fish to make great dishes!"
+  },
+  "1020_Kaoru_DailyDia1": {
+    "PT": "",
+    "EN": "I'm rather weak and often fall sick,\nso I'm glad that Haruka is growing up healthily."
+  },
+  "1020_Kaoru_DailyDia2": {
+    "PT": "",
+    "EN": "My husband is very engrossed in catching rare fish.\nIt's much more preferable to swimming with them."
+  },
+  "1020_Kaoru_DailyDia3": {
+    "PT": "",
+    "EN": "We cut ties with our hometown before coming here.\nI hope you will find a place to call home too."
+  },
+  "1021_Haruka_DailyDia1": {
+    "PT": "",
+    "EN": "My hair's soft like Mom's,\nbut my muscles are strong like Dad's!"
+  },
+  "1021_Haruka_DailyDia2": {
+    "PT": "",
+    "EN": "Huge catch today! Take a look!\nWe've got an enormous tuna for sale!"
+  },
+  "1021_Haruka_DailyDia3": {
+    "PT": "",
+    "EN": "Y'know, Dad has a huge fish on his back too!\nIt's supposed to be a secret though, so don't tell anyone!"
+  },
+  "1032_Yuusuke_DailyWelcome": {
+    "PT": "",
+    "EN": "Hey there! Welcome to the Pura Pura Butcher's!"
+  },
+  "1032_Yuusuke_DailyDia1": {
+    "PT": "",
+    "EN": "Fresh meat and piping hot croquettes!\nYour mouth watering yet, or nah?"
+  },
+  "1032_Yuusuke_DailyDia2": {
+    "PT": "",
+    "EN": "Why not treat yourself to a nice steak once in a while?"
+  },
+  "1032_Yuusuke_DailyDia3": {
+    "PT": "",
+    "EN": "I hope Fuwa Fuwa uses our meat well!"
+  },
+  "1041_Murasaki_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome! Come take a look at our shiny new bikes!"
+  },
+  "1041_Murasaki_DailyDia1": {
+    "PT": "",
+    "EN": "Nothing beats a nice bike ride early in the morning!"
+  },
+  "1041_Murasaki_DailyDia2": {
+    "PT": "",
+    "EN": "Remember to get enough exercise!"
+  },
+  "1041_Murasaki_DailyDia3": {
+    "PT": "",
+    "EN": "If anyone manages to be faster than me,\nI'd be willing to marry 'em!"
+  },
+  "1042_Chiharu_DailyDia1": {
+    "PT": "",
+    "EN": "I'll follow you to the ends of the earth, Tsukushi-neesan!\n...Though I always get left in the dust when we bike!"
+  },
+  "1042_Chiharu_DailyDia2": {
+    "PT": "",
+    "EN": "Business is going really well thanks to Murasaki-neesan.\nThis place has been passed down for generations... \nI'm so glad I can leave this in her reliable hands!"
+  },
+  "1042_Chiharu_DailyDia3": {
+    "PT": "",
+    "EN": "To tell the truth, I'm always looking forward\nto get to patch up Murasaki-neesan's mountain bike."
+  },
+  "1036_Daichi_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to Game Tanteidan!\nLook around and have fun!"
+  },
+  "1036_Daichi_DailyDia1": {
+    "PT": "",
+    "EN": "You've gotta stop by Game Tanteidan\nat least once. If you don't, no one will!"
+  },
+  "1036_Daichi_DailyDia2": {
+    "PT": "",
+    "EN": "Today is someone's birthday,\nand also some game's anniversary!"
+  },
+  "1036_Daichi_DailyDia3": {
+    "PT": "",
+    "EN": "Have you seen our arcade machine collection?\nIt's our pride and joy. You can still play them!"
+  },
+  "1037_Kuro_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to Game Tanteidan!\nLook around and have fun!"
+  },
+  "1037_Kuro_DailyDia1": {
+    "PT": "",
+    "EN": "We also sell soundtracks on the first floor."
+  },
+  "1037_Kuro_DailyDia2": {
+    "PT": "",
+    "EN": "Hey... Do you like games?"
+  },
+  "1037_Kuro_DailyDia3": {
+    "PT": "",
+    "EN": "If you like speedrunning... I won't lose to you."
+  },
+  "1037_Kuro_DailyDia4": {
+    "PT": "",
+    "EN": "Hey... What console totally made your childhood?"
+  },
+  "1043_Asuna_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to Super Potato, your one-stop shop for retro games!"
+  },
+  "1043_Asuna_DailyDia1": {
+    "PT": "",
+    "EN": "Welcome to the land of retro games, Super Potato."
+  },
+  "1043_Asuna_DailyDia2": {
+    "PT": "",
+    "EN": "Not only does the owner have an impressive game collection,\nhe's also really good at video games!"
+  },
+  "1043_Asuna_DailyDia3": {
+    "PT": "",
+    "EN": "Summer is the perfect season for horror games.\nWe're buying them at a higher price right now!"
+  },
+  "1044_Kazuto_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to Super Potato, your one-stop shop for retro games!"
+  },
+  "1044_Kazuto_DailyDia1": {
+    "PT": "",
+    "EN": "Whether you're looking for software or hardware, we're here to help!"
+  },
+  "1044_Kazuto_DailyDia2": {
+    "PT": "",
+    "EN": "We're famous overseas, too!\nAfter all, we've got rare retro games from all over the world!"
+  },
+  "1044_Kazuto_DailyDia3": {
+    "PT": "",
+    "EN": "If there's dust in your cartridges, do NOT blow on them!\nUse a cotton swab to wipe the connectors with absolute alcohol!"
+  },
+  "1026_Yutaka_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. I'll make anything I can."
+  },
+  "1026_Yutaka_DailyDia1": {
+    "PT": "",
+    "EN": "When the day ends and most other people start\nrushing to get back home, that's when my day finally starts."
+  },
+  "1026_Yutaka_DailyDia2": {
+    "PT": "",
+    "EN": "That's the whole menu."
+  },
+  "1026_Yutaka_DailyDia3": {
+    "PT": "",
+    "EN": "If you want anything else, just tell me and I'll see what\nI can whip up for you. That's how we do things 'round here."
+  },
+  "1026_Yutaka_DailyDia4": {
+    "PT": "",
+    "EN": "How much business do I even get, you ask?\nPlenty, actually."
+  },
+  "1033_Akiho_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. Feel free to look around."
+  },
+  "1033_Akiho_DailyDia1": {
+    "PT": "",
+    "EN": "I also teach a flower arrangement class.\nThere's a lot of depth to it."
+  },
+  "1033_Akiho_DailyDia2": {
+    "PT": "",
+    "EN": "Summer is the season for yukata.\nIt's the perfect time to show my skills!"
+  },
+  "1033_Akiho_DailyDia3": {
+    "PT": "",
+    "EN": "You should work diligently to improve yourself\nin order to become a good man fit for a lovely lady."
+  },
+  "1034_Tsuki_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to the kimono store."
+  },
+  "1034_Tsuki_DailyDia1": {
+    "PT": "",
+    "EN": "I want to express the fusion of traditional and modern culture,\nand so I'm working here to learn more!"
+  },
+  "1034_Tsuki_DailyDia2": {
+    "PT": "",
+    "EN": "From kimono fitting to flower arrangement,\nthere's so many things I want to learn from Akiho-sensei!"
+  },
+  "1034_Tsuki_DailyDia3": {
+    "PT": "",
+    "EN": "Maid cafes are a symbol of otaku culture.\nI think there's things I can learn from you, too."
+  },
+  "1059_Midori_DailyWelcome": {
+    "PT": "",
+    "EN": "Feel free to relax and smell the flowers."
+  },
+  "1059_Midori_DailyDia1": {
+    "PT": "",
+    "EN": "The manager says... \"Are you here to relax too?\""
+  },
+  "1059_Midori_DailyDia2": {
+    "PT": "",
+    "EN": "I'm glad I can help add a little bit of color to your life~"
+  },
+  "1059_Midori_DailyDia3": {
+    "PT": "",
+    "EN": "My cute flowers all smell so nice today...♪"
+  },
+  "1049_Ayame_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. You can find brand stuff here for much cheaper."
+  },
+  "1049_Ayame_DailyDia1": {
+    "PT": "",
+    "EN": "We're always buying jewels and brand products at high prices."
+  },
+  "1049_Ayame_DailyDia2": {
+    "PT": "",
+    "EN": "Once you've sold us something, we promise to take good care of it.\nEverything here was a part of someone's life, after all."
+  },
+  "1049_Ayame_DailyDia3": {
+    "PT": "",
+    "EN": "I've been waiting for you. Hehe.\nI can just tell you'll bring us good business..."
+  },
+  "1022_Shioriko_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome... Here at Togetsuya, you can\nfind books you won't see anywhere else."
+  },
+  "1022_Shioriko_DailyDia1": {
+    "PT": "",
+    "EN": "We specialize in secondhand books that cover subcultural topics.\nThere's sure to be something that tickles your fancy..."
+  },
+  "1022_Shioriko_DailyDia2": {
+    "PT": "",
+    "EN": "We have a focus on books that have gone out of print,\nand we also have secondhand books and collectors' items..."
+  },
+  "1022_Shioriko_DailyDia3": {
+    "PT": "",
+    "EN": "I'm happy as long as I'm surrounded by books.\nWhat's wrong with that? I don't need anything else..."
+  },
+  "1023_Daigo_DailyDia1": {
+    "PT": "",
+    "EN": "Other than books, we also sell model kits and stuff."
+  },
+  "1023_Daigo_DailyDia2": {
+    "PT": "",
+    "EN": "The owner doesn't care about anything except subculture stuff.\nHonestly, it's kind of a problem."
+  },
+  "1023_Daigo_DailyDia3": {
+    "PT": "",
+    "EN": "The owner's found another interesting out-of-print book...\nbut we'll need to organize what we already have first."
+  },
+  "1017_Sinobu_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to Mugen Malatang! Our spices are almost addictive!"
+  },
+  "1017_Sinobu_DailyDia1": {
+    "PT": "",
+    "EN": "I want to spread the good word about malatang\nto as many people as possible!"
+  },
+  "1017_Sinobu_DailyDia2": {
+    "PT": "",
+    "EN": "If it's your first visit, I recommend the 1.5 spiciness level!"
+  },
+  "1017_Sinobu_DailyDia3": {
+    "PT": "",
+    "EN": "I fell in love with malatang when I visited China,\nand that's how this restaurant came to be!"
+  },
+  "1018_Nobuyuki_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to Mugen Malatang! Our malatang is the real deal!"
+  },
+  "1018_Nobuyuki_DailyDia1": {
+    "PT": "",
+    "EN": "I've been making Chinese cuisine for years,\nand now I'm tackling the brand new challenge of malatang!"
+  },
+  "1018_Nobuyuki_DailyDia2": {
+    "PT": "",
+    "EN": "Shinobu-san's passion really spoke to me,\nand it's what made me decide to work here."
+  },
+  "1018_Nobuyuki_DailyDia3": {
+    "PT": "",
+    "EN": "Have you decided on an order?\nYou can choose the spice level and whatever toppings you want!"
+  },
+  "7_Rin_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to the boutique!\nPretty clothes are waiting for you around every corner!"
+  },
+  "7_Rin_DailyDia1": {
+    "PT": "",
+    "EN": "No matter what gender or how old you are,\nthis is a paradise for all fashion-lovers!"
+  },
+  "7_Rin_DailyDia2": {
+    "PT": "",
+    "EN": "All of our items are original designs made by the owner!"
+  },
+  "7_Rin_DailyDia3": {
+    "PT": "",
+    "EN": "Look at this dress!\nDon't you think Favna would look really good in it?"
+  },
+  "1035_Yui_DailyDia1": {
+    "PT": "",
+    "EN": "I hope my fashion brand will resonate with you as well..."
+  },
+  "1035_Yui_DailyDia2": {
+    "PT": "",
+    "EN": "If you yearn for change... these garments will grant you that wish."
+  },
+  "1035_Yui_DailyDia3": {
+    "PT": "",
+    "EN": "The Queen of the Kingdom of Darkness—that is to say, Favna-san—\nis good friends with Arisugawa-san. They both love this boutique very much."
+  },
+  "1007_Yuka_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to Surugaya, where you'll find anything you want!"
+  },
+  "1007_Yuka_DailyDia1": {
+    "PT": "",
+    "EN": "We sell a wide range of items,\nincluding anime and hobby-related merch!"
+  },
+  "1007_Yuka_DailyDia2": {
+    "PT": "",
+    "EN": "We'll have a super rare piece of Little Sister merch for sale soon!"
+  },
+  "1007_Yuka_DailyDia3": {
+    "PT": "",
+    "EN": "We're doing our best to make Surugaya\nthe otaku heaven anyone would dream of!"
+  },
+  "1007_Yuka_DailyDia4": {
+    "PT": "",
+    "EN": "We also have some second-hand items for sale.\nWhy don't you see if you can find any hidden gems?"
+  },
+  "NpcDia1": {
+    "PT": "",
+    "EN": "I can't spend too much on oshi merch,\nor I'll be broke again..."
+  },
+  "NpcDia2": {
+    "PT": "",
+    "EN": "The fried food and coke combo never misses."
+  },
+  "NpcDia3": {
+    "PT": "",
+    "EN": "There's still an hour before the movie starts.\nShould we wait here or go somewhere else?"
+  },
+  "NpcDia4": {
+    "PT": "",
+    "EN": "What should I get?"
+  },
+  "NpcDia5": {
+    "PT": "",
+    "EN": "I should've gotten a monthly pass."
+  },
+  "NpcDia6": {
+    "PT": "",
+    "EN": "A wise man once said...\n\"Crane game machines are like piggy banks.\""
+  },
+  "NpcDia7": {
+    "PT": "",
+    "EN": "...... (Loud gaming noises)"
+  },
+  "NpcDia8": {
+    "PT": "",
+    "EN": "(This man seems to be looking somewhere far away.)"
+  },
+  "NpcDia9": {
+    "PT": "",
+    "EN": "I told you the fortune teller here was really good."
+  },
+  "NpcDia10": {
+    "PT": "",
+    "EN": "They have a really good selection of books here."
+  },
+  "NpcDia11": {
+    "PT": "",
+    "EN": "The maids here have really great service."
+  },
+  "NpcDia12": {
+    "PT": "",
+    "EN": "I love the classical music they play here."
+  },
+  "NpcDia13": {
+    "PT": "",
+    "EN": "The spices here are a bit too much for me."
+  },
+  "NpcDia14": {
+    "PT": "",
+    "EN": "Watch out! This aroma is positively dangerous!"
+  },
+  "NpcDia15": {
+    "PT": "",
+    "EN": "Karaoke is the best pastime ever."
+  },
+  "NpcDia16": {
+    "PT": "",
+    "EN": "I can't seem to pull the card I want."
+  },
+  "NpcDia17": {
+    "PT": "",
+    "EN": "This is Adventurer's Tavern."
+  },
+  "NpcDia18": {
+    "PT": "",
+    "EN": "Thanks to the owner's old book collection,\nI found the book I've always wanted!"
+  },
+  "NpcDia19": {
+    "PT": "",
+    "EN": "I love the food here, but the opening hours are, well..."
+  },
+  "NpcDia20": {
+    "PT": "",
+    "EN": "I can't miss my weekly public bath visit!"
+  },
+  "NpcDia21": {
+    "PT": "",
+    "EN": "No chocolate milk?!\nWhat's wrong with chocolate milk?"
+  },
+  "NpcDia22": {
+    "PT": "",
+    "EN": "Mmm, delicious."
+  },
+  "NpcDia23": {
+    "PT": "",
+    "EN": "Nope, not here either. Guess I'll go look in Super Potato."
+  },
+  "NpcDia24": {
+    "PT": "",
+    "EN": "Spin... spin..."
+  },
+  "NpcDia25": {
+    "PT": "",
+    "EN": "Gotta eat as much meat as I can now that I'm here!"
+  },
+  "NpcDia26": {
+    "PT": "",
+    "EN": "I love kimono."
+  },
+  "NpcDia27": {
+    "PT": "",
+    "EN": "I love modern clothing."
+  },
+  "NpcDia28": {
+    "PT": "",
+    "EN": "The curry here is pretty good."
+  },
+  "NpcDia29": {
+    "PT": "",
+    "EN": "It's so hard to find a bike that's just right."
+  },
+  "NpcDia30": {
+    "PT": "",
+    "EN": "The staff is kinda scary..."
+  },
+  "NpcDia31": {
+    "PT": "",
+    "EN": "This is a great store and all,\nbut I can't afford any new furniture right now."
+  },
+  "NpcDia32": {
+    "PT": "",
+    "EN": "The ramen here is amazing!"
+  },
+  "NpcDia33": {
+    "PT": "",
+    "EN": "Is 38 her real age, or just a part of the character?"
+  },
+  "NpcDia34": {
+    "PT": "",
+    "EN": "There's so many books here."
+  },
+  "NpcDia35": {
+    "PT": "",
+    "EN": "Not here, either? Maybe I should go to Game Tanteidan."
+  },
+  "NpcDia36": {
+    "PT": "",
+    "EN": "Osaka Castle is so beautiful."
+  },
+  "NpcDia37": {
+    "PT": "",
+    "EN": "The Chinese food here is so good.\nI heard that the owner trained in China."
+  },
+  "NpcDia38": {
+    "PT": "",
+    "EN": "I crave snacks every once in a while."
+  },
+  "NpcDia39": {
+    "PT": "",
+    "EN": "Do hard drives become heavier if you put more data in them?"
+  },
+  "4_1_xinyouwait": {
+    "PT": "",
+    "EN": "Don't keep Miyu waiting!"
+  },
+  "1062_Saji_Day46_1": {
+    "PT": "",
+    "EN": "We're looking for volunteers to help out\nat the stalls at the summer festival."
+  },
+  "1062_Saji_Day46_2": {
+    "PT": "",
+    "EN": "And we want to give the volunteers some sweets as thanks.\nWhich do you think would be a better option?"
+  },
+  "1062_Saji_Day46_3": {
+    "PT": "",
+    "EN": "Daifuku:option1;Cake:option2"
+  },
+  "1062_Saji_Day46_4": {
+    "PT": "",
+    "EN": "And it'd bring good luck too! Thanks for the great idea."
+  },
+  "1062_Saji_Day46_5": {
+    "PT": "",
+    "EN": "Something Western for a change! Thanks for the great idea."
+  },
+  "1055_Yousuke_Day46_1": {
+    "PT": "",
+    "EN": "I'll give it my all during the festival.\nLeave getting the stall to me~"
+  },
+  "1055_Yousuke_Day46_2": {
+    "PT": "",
+    "EN": "By the way, which do you like more?\nBlue Hawaii, or matcha?"
+  },
+  "1055_Yousuke_Day46_3": {
+    "PT": "",
+    "EN": "Blue Hawaii:option3;Matcha:option4"
+  },
+  "1055_Yousuke_Day46_4": {
+    "PT": "",
+    "EN": "Hahaha, I'm talking 'bout shaved ice.\nBlue Hawaii's a real staple, huh?"
+  },
+  "1055_Yousuke_Day46_5": {
+    "PT": "",
+    "EN": "Hahaha, I'm talking 'bout shaved ice.\nTraditional flavors are pretty popular now, huh?"
+  },
+  "1009_Syogo_Day46_1": {
+    "PT": "",
+    "EN": "We'll be running a shooting gallery for the summer festival."
+  },
+  "1009_Syogo_Day46_2": {
+    "PT": "",
+    "EN": "By the way, how far away should the targets be?"
+  },
+  "1009_Syogo_Day46_3": {
+    "PT": "",
+    "EN": "About 3 feet?:option5;About 10 feet?:option6;About 16 feet?:option7"
+  },
+  "1009_Syogo_Day46_4": {
+    "PT": "",
+    "EN": "Guess that'd be easy enough for little kids!"
+  },
+  "1009_Syogo_Day46_5": {
+    "PT": "",
+    "EN": "That's probably it! Thanks!"
+  },
+  "1009_Syogo_Day46_6": {
+    "PT": "",
+    "EN": "Are you sure? I'll go ask the general store owner later!"
+  },
+  "1059_Midori_Day46_1": {
+    "PT": "",
+    "EN": "I'm going to help out at the candied apple stall."
+  },
+  "1059_Midori_Day46_2": {
+    "PT": "",
+    "EN": "Do you know the flower language of apple blossoms, by the way?"
+  },
+  "1059_Midori_Day46_3": {
+    "PT": "",
+    "EN": "Love:option8;Freedom:option8;Temptation:option9"
+  },
+  "1059_Midori_Day46_4": {
+    "PT": "",
+    "EN": "That's right. And sparkling candied applies\nhave a mysterious charm to them too, don't you think?"
+  },
+  "1059_Midori_Day46_5": {
+    "PT": "",
+    "EN": "Nope, too bad. They have a surprisingly romantic meaning!"
+  },
+  "1039_Takumi_Day46_1": {
+    "PT": "",
+    "EN": "A cotton candy stand? I wonder if I can do that..."
+  },
+  "1039_Takumi_Day46_2": {
+    "PT": "",
+    "EN": "Colorful cotton candy's pretty popular in the city.\nI wonder how they make it look like that...?"
+  },
+  "1039_Takumi_Day46_3": {
+    "PT": "",
+    "EN": "By dyeing white cotton candy.:option10;By using colored sugar.:option11"
+  },
+  "1039_Takumi_Day46_4": {
+    "PT": "",
+    "EN": "Really...? Guess I'll look it up later..."
+  },
+  "1039_Takumi_Day46_5": {
+    "PT": "",
+    "EN": "Oh, that exists? Maybe I should try that."
+  },
+  "1052_Memi_Day46_1": {
+    "PT": "",
+    "EN": "Woooo! We're gonna make big bucks at the summer festival!\nI'm so pumped!"
+  },
+  "1052_Memi_Day46_2": {
+    "PT": "",
+    "EN": "I'm not sure what sauce I should use, though.\nWhich do you like more, sir?!"
+  },
+  "1052_Memi_Day46_3": {
+    "PT": "",
+    "EN": "Classic sauce!:option12;Fishy soy sauce!:option13"
+  },
+  "1052_Memi_Day46_4": {
+    "PT": "",
+    "EN": "Yep, can't go wrong with the classic sauce!\nI'm going all in with it!"
+  },
+  "1052_Memi_Day46_5": {
+    "PT": "",
+    "EN": "That's what a true Kansai person would say!\nI'll head right in with that!"
+  },
+  "7_Rin_Day46_1": {
+    "PT": "",
+    "EN": "I'll be working at the mask stall too!"
+  },
+  "7_Rin_Day46_2": {
+    "PT": "",
+    "EN": "What kind of anime character mask would you want more?"
+  },
+  "7_Rin_Day46_3": {
+    "PT": "",
+    "EN": "Magic Angel:option14;Is the Order a Little Sister?:option15"
+  },
+  "7_Rin_Day46_4": {
+    "PT": "",
+    "EN": "Mhm, mhm! That would catch the hearts of all the little girls in town!"
+  },
+  "7_Rin_Day46_5": {
+    "PT": "",
+    "EN": "Mhm, mhm! We should attract some older customers too!"
+  },
+  "1026_Yutaka_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Thanks for using the coupon! I'll tell you when the food's done,\nso go ahead and say hi to everyone else."
+  },
+  "1062_Noyama_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "We meet again. I hope you'll like Electric Street too."
+  },
+  "1006_Masafumi_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Thanks for always stopping by!\nCould you listen to me talk about my favorite movies, please?!"
+  },
+  "1007_Yuka_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Oh, you're the guy from Shiro-san's workplace!\nIt's always so much fun to watch her work for her oshi!"
+  },
+  "1004_Haru_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Welcome... Wait, that's not right.\nStop by for a burger any time!"
+  },
+  "1009_Syogo_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Hey, dude! Tell me if any of your furniture breaks!\nI'll be there in a jiffy!"
+  },
+  "1058_Izumi_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "I'm glad the shrine haunting has been dealt with.\nIt's thanks to you that we still have customers!"
+  },
+  "1059_Midori_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Isn't wisteria beautiful?\n...Oh, it's nothing. It just came to mind when I was looking at you."
+  },
+  "1055_Yousuke_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Do you remember what happened with Miyako-san?\nLet's go visit her grave together one day...\nand offer her some good old ice cream."
+  },
+  "1010_Natsumi_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Oh, I've seen you at the train station a lot.\nThank you for your hard work!"
+  },
+  "1008_Narumi_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "I signed up for the konbini job just because...\nbut I'm glad I got to work there.\nDo you feel the same way with the cafe?"
+  },
+  "1015_Kana_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "As you might guess from my job at the karaoke place,\nI love singing. Maybe I should show off a bit here~!"
+  },
+  "1046_An_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "I heard that you play Magic Angel too!\nCould you tell me what deck you use?"
+  },
+  "1044_Kazuto_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "I've heard about you. You're Favna-sama's familiar, aren't you?\nLooks like you've been blessed and guided by fate herself!"
+  },
+  "1022_Shioriko_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Would you like to take this opportunity to talk about the occult...?\nIt's not scary at all, I promise... Fufufu..."
+  },
+  "1032_Yuusuke_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Man, that okonomiyaki omurice was really good!\nSay thanks to Miyu-chan for me!"
+  },
+  "1049_Ayame_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "I bet the last owner of Fuwa Fuwa collected a bunch of cool stuff.\nIf you find anything good, don't forget to show me!"
+  },
+  "1035_Yui_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "...You look even more dashing than before.\nThe butler uniform I made for you must be pleased as well."
+  },
+  "7_Rin_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Mr. Familiar~! How's your pact with Favna going? Y'know,\nthe summer festival's a great chance to deepen your relationship!"
+  },
+  "1052_Memi_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Yo, Manager! I got my parents to take me here.\nThe food is just incredible!"
+  },
+  "1036_Daichi_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Is Favvy doing okay?\nI wanna watch you two play Berg Climbers again."
+  },
+  "1024_Toshiko_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Our curry is great, but it's nice to eat some milder\nJapanese food for a change. It really hits the spot!"
+  },
+  "1017_Sinobu_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Miyu-chan came to Mugen Malatang again yesterday.\nShe said she wanted to come with you again next time!"
+  },
+  "1014_Sakura_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Nana's here to eat too!\nDad drank too much, so he's in the bathroom~"
+  },
+  "1019_Ichiryu_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "I'll slice you as much sashimi as you need,\nso take good care of that black cat, okay?\nI'll cut some extra fish for you too! Hahaha!"
+  },
+  "1039_Takumi_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "...Oh, hi. Thanks for using our soy milk."
+  },
+  "1033_Akiho_ShinyaShokudo_1": {
+    "PT": "",
+    "EN": "Honoka-chan is such a good girl...\nTake good care of her, all right?"
+  },
+  "1009_Syogo_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome! We've got lots of tasteful furniture!"
+  },
+  "1009_Syogo_DailyDia1": {
+    "PT": "",
+    "EN": "Why not change up the interior of the cafe sometimes?\nWe'd be happy to help you with that!"
+  },
+  "1009_Syogo_DailyDia2": {
+    "PT": "",
+    "EN": "No matter how battered a piece of furniture is,\nI'll fix it up until it's reborn into something brand new!"
+  },
+  "1009_Syogo_DailyDia3": {
+    "PT": "",
+    "EN": "I've only been able to come so far with the support of my wife.\nIt's hard to put it in words, but I'm really thankful."
+  },
+  "1058_Izumi_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome, welcome!\nIf you want to eat authentic Chinese food, this is the place!"
+  },
+  "1058_Izumi_DailyDia1": {
+    "PT": "",
+    "EN": "Pandas are great! When I look like this,\nnot even the little kids are afraid of me! Gahaha!"
+  },
+  "1058_Izumi_DailyDia2": {
+    "PT": "",
+    "EN": "Hey! Don't touch the zipper on my back!"
+  },
+  "1058_Izumi_DailyDia3": {
+    "PT": "",
+    "EN": "I poured my soul into Sichuan cooking in China for many years,\nbut because of that, my wife and daughter are... *sniff*..."
+  },
+  "1057_Linglong_DailyDia1": {
+    "PT": "",
+    "EN": "Is the owner a real panda, you ask?\n...Uh, don't worry about it."
+  },
+  "1057_Linglong_DailyDia2": {
+    "PT": "",
+    "EN": "I came to study abroad in Japan because I love Japanese anime!\nAnd I'm learning by talking just like my favorite anime character!"
+  },
+  "1057_Linglong_DailyDia3": {
+    "PT": "",
+    "EN": "If only the owner would stop sulking and pretending to be a panda\nand just go meet his daughter directly already..."
+  },
+  "1055_Yousuke_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. Want some ice cream?"
+  },
+  "1055_Yousuke_DailyDia1": {
+    "PT": "",
+    "EN": "Why do I sell candy, you ask?\nI guess I've just liked it since I was a kid~"
+  },
+  "1055_Yousuke_DailyDia2": {
+    "PT": "",
+    "EN": "I always hope this place will become a hangout for little kids~"
+  },
+  "1055_Yousuke_DailyDia3": {
+    "PT": "",
+    "EN": "Why don't you revisit your childhood once in a while?\nThere's a park nearby too, y'know?"
+  },
+  "1063_Kazuma_DailyDia1": {
+    "PT": "",
+    "EN": "My personal recommendation is our original bread!\nThough our desserts always end up being more popular..."
+  },
+  "1063_Kazuma_DailyDia2": {
+    "PT": "",
+    "EN": "The more I look at you, the closer I get\nto inspiration for a new kind of bread..."
+  },
+  "1063_Kazuma_DailyDia3": {
+    "PT": "",
+    "EN": "Fuwa Fuwa has great food too.\nI'd love to have a nice chat with the chef someday."
+  },
+  "1064_Shizuo_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. Please enjoy."
+  },
+  "1064_Shizuo_DailyDia1": {
+    "PT": "",
+    "EN": "Our popular desserts pair very well with wine."
+  },
+  "1064_Shizuo_DailyDia2": {
+    "PT": "",
+    "EN": "I'm often told that I look intimidating, but my service is top notch.\n...I've decided to take it as a compliment."
+  },
+  "1064_Shizuo_DailyDia3": {
+    "PT": "",
+    "EN": "I was born with sunglasses on.\nDon't worry, I'm not up to anything..."
+  },
+  "1065_Megumi_DailyDia1": {
+    "PT": "",
+    "EN": "We'll serve you a top-class dinner\naccompanied by a beautiful piano melody."
+  },
+  "1065_Megumi_DailyDia2": {
+    "PT": "",
+    "EN": "Please request a song, sir."
+  },
+  "1065_Megumi_DailyDia3": {
+    "PT": "",
+    "EN": "An anime song?\n...Hehe, of course I know how to play it."
+  },
+  "1068_Kitamura_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome! We hope you'll find a book you like!"
+  },
+  "1068_Kitamura_DailyDia1": {
+    "PT": "",
+    "EN": "We've got the newest volumes of the hottest manga and light novels!"
+  },
+  "1068_Kitamura_DailyDia2": {
+    "PT": "",
+    "EN": "We also have recipe books for sale. Take a look!"
+  },
+  "1068_Kitamura_DailyDia3": {
+    "PT": "",
+    "EN": "E-books are convenient and all, but sometimes I miss the feeling\nof holding a physical, paper book between my fingers."
+  },
+  "1069_Rico_DailyDia1": {
+    "PT": "",
+    "EN": "Would you like to dip your toes in literature?\nIf you want something beginner-friendly,\nI recommend this novel that was adapted into a movie."
+  },
+  "1069_Rico_DailyDia2": {
+    "PT": "",
+    "EN": "We have a lot of reference books too.\nWould you like to look at some recipe books?"
+  },
+  "1069_Rico_DailyDia3": {
+    "PT": "",
+    "EN": "She writes all of our pop signage by hand.\nAren't they cute?"
+  },
+  "1028_Mi_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. Please try our signature meat!"
+  },
+  "1028_Mi_DailyDia1": {
+    "PT": "",
+    "EN": "Why not treat yourself to a luxurious meal of high-grade yakiniku?"
+  },
+  "1028_Mi_DailyDia2": {
+    "PT": "",
+    "EN": "From parties to dates, yakiniku is perfect for every occasion!"
+  },
+  "1028_Mi_DailyDia3": {
+    "PT": "",
+    "EN": "Yakiniku for life! But I've been putting on weight lately..."
+  },
+  "1029_Jiro_DailyDia1": {
+    "PT": "",
+    "EN": "If you treat a girl to some nice meat here,\nyou're bound to make her happy."
+  },
+  "1029_Jiro_DailyDia2": {
+    "PT": "",
+    "EN": "Once I close the restaurant for tonight,\nI think I'm gonna hold a yakiniku party with the girls!"
+  },
+  "1029_Jiro_DailyDia3": {
+    "PT": "",
+    "EN": "The owner's motto is \"survival of the yakiniku: \neat yakiniku, and you won't regret it.\" Who cares about being thin?"
+  },
+  "1008_Narumi_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. What are you looking for?"
+  },
+  "1008_Narumi_DailyDia1": {
+    "PT": "",
+    "EN": "Like every other branch, we're open 24 hours a day,\nso feel free to stop by anytime."
+  },
+  "1008_Narumi_DailyDia2": {
+    "PT": "",
+    "EN": "Famistop♪ Fun for the whole family♪\n...Is how it goes."
+  },
+  "1008_Narumi_DailyDia3": {
+    "PT": "",
+    "EN": "Once I'm done with cashier work, I have to clean,\nthen restock the shelves... I thought working here\nwould be easy, but there's so much work to do..."
+  },
+  "1008_Narumi_DailyDia4": {
+    "PT": "",
+    "EN": "The new members in my club are way too lazy.\nLooks like someone needs to teach them what \"ambition\" is."
+  },
+  "1008_Narumi_DailyDia5": {
+    "PT": "",
+    "EN": "Once summer break started, there's been much fewer club activities.\nI feel like my muscles are about to shrivel up!"
+  },
+  "1008_Narumi_DailyDia6": {
+    "PT": "",
+    "EN": "Do you like yakisoba bread?\nWe've got a lot in stock today, so buy as many as you want!"
+  },
+  "1015_Kana_DailyWelcome": {
+    "PT": "",
+    "EN": "Why not sing a song at Karaoke Rainbow?\nWe have rooms available right now!"
+  },
+  "1015_Kana_DailyDia1": {
+    "PT": "",
+    "EN": "Why not let off some steam with a song or two?"
+  },
+  "1015_Kana_DailyDia2": {
+    "PT": "",
+    "EN": "Why not have a karaoke date on your day off?"
+  },
+  "1015_Kana_DailyDia3": {
+    "PT": "",
+    "EN": "I love singing too. After hours,\nI secretly sing while I clean..."
+  },
+  "1045_Nagi_DailyDia1": {
+    "PT": "",
+    "EN": "Kanade-san is such a cool senpai!\nDo you have someone you look up to too?"
+  },
+  "1045_Nagi_DailyDia2": {
+    "PT": "",
+    "EN": "Kanade-san is so pretty today..."
+  },
+  "1045_Nagi_DailyDia3": {
+    "PT": "",
+    "EN": "Sometimes, I hear Kanade-san singing after working hours.\nShe has such a beautiful voice..."
+  },
+  "1046_An_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to Dragon Star, the shining star of card game shops!"
+  },
+  "1046_An_DailyDia1": {
+    "PT": "",
+    "EN": "New players are always welcome!\nCome on, it's your turn to play!"
+  },
+  "1046_An_DailyDia2": {
+    "PT": "",
+    "EN": "Mutou-kun hasn't lost a single duel before.\nYou should be fully prepared if you want to play against him!"
+  },
+  "1046_An_DailyDia3": {
+    "PT": "",
+    "EN": "Shadow duels? Sorry, but we don't have anything like that."
+  },
+  "1047_Yuusaku_DailyDia1": {
+    "PT": "",
+    "EN": "I'm just helping out here, nothing more...\nAnd I'm just a casual fan of card games."
+  },
+  "1047_Yuusaku_DailyDia2": {
+    "PT": "",
+    "EN": "I heard that Manager An has a complete collection\nfor a bunch of different card games."
+  },
+  "1047_Yuusaku_DailyDia3": {
+    "PT": "",
+    "EN": "I only really feel confident when I'm playing.\nIt's like there's an alter ego supporting me from within..."
+  },
+  "1070_Yanagihara_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome! Feast yourself on my ramen and my song!"
+  },
+  "1070_Yanagihara_DailyDia1": {
+    "PT": "",
+    "EN": "I'm in great condition today! This is the last one, though!"
+  },
+  "1070_Yanagihara_DailyDia2": {
+    "PT": "",
+    "EN": "I'm actually mainly a musician.\nWould you like a song to go with your ramen?"
+  },
+  "1070_Yanagihara_DailyDia3": {
+    "PT": "",
+    "EN": "Straining properly is important for good ramen!\nIt looks easy, but it's pretty hard, so this is the last one I'll make!"
+  },
+  "1024_Toshiko_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome. Please choose your food and spice level!"
+  },
+  "1024_Toshiko_DailyDia1": {
+    "PT": "",
+    "EN": "Customizable spice levels and toppings...\nI can really relate to Mugen Malatang."
+  },
+  "1024_Toshiko_DailyDia2": {
+    "PT": "",
+    "EN": "I love watching Miyu-chan eat...\nShe can polish off a large, extra-spicy plate of curry in no time at all!"
+  },
+  "1024_Toshiko_DailyDia3": {
+    "PT": "",
+    "EN": "The lunch served to workers here are my treat.\nI want our part-timer to eat curry every day."
+  },
+  "1025_Futaba_DailyDia1": {
+    "PT": "",
+    "EN": "I love curry soooo much...\nThat's why I came to work here!"
+  },
+  "1025_Futaba_DailyDia2": {
+    "PT": "",
+    "EN": "I get treated to curry every day here!\nIt's like a dream come true!"
+  },
+  "1025_Futaba_DailyDia3": {
+    "PT": "",
+    "EN": "Whenever Miyu-san comes,\nwe talk about curry a lot!"
+  },
+  "1040_Megumi_DailyWelcome": {
+    "PT": "",
+    "EN": "Hey there. Want to take a nice, hot bath?"
+  },
+  "1040_Megumi_DailyDia1": {
+    "PT": "",
+    "EN": "You can do your laundry at the laundromat next door.\nYou could try it out when you're busy."
+  },
+  "1040_Megumi_DailyDia2": {
+    "PT": "",
+    "EN": "I was very particular about how I wanted the bath to look!\nThat's why it's so popular with tourists, too!"
+  },
+  "1040_Megumi_DailyDia3": {
+    "PT": "",
+    "EN": "I don't know when it started,\nbut people have been calling us the \"Electric Street baths\"!"
+  },
+  "1010_Natsumi_DailyDia1": {
+    "PT": "",
+    "EN": "Hello there. Do you have work today, or is it a day off?"
+  },
+  "1010_Natsumi_DailyDia2": {
+    "PT": "",
+    "EN": "I see you walking girls to the station sometimes.\nYou must be very kind."
+  },
+  "1010_Natsumi_DailyDia3": {
+    "PT": "",
+    "EN": "I'd love to ask that policeman out for dinner,\nbut he always looks so busy..."
+  },
+  "1_Siro_Day13_OsakaCastlePark_SiroNotParter": {
+    "PT": "",
+    "EN": "The chocolate bananas are delicious, but the goodies\nyou get for buying one are even better...!\nI have to complete the whole set!"
+  },
+  "2_Miyu_Day13_OsakaCastlePark_MiyuNotPartner": {
+    "PT": "",
+    "EN": "Anna, Misaki, where do you two wanna go next?"
+  },
+  "5_Anna_Day13_OsakaCastlePark_MiyuNotPartner": {
+    "PT": "",
+    "EN": "I wanna get something sweet~\nMaybe a chocolate banana, or cotton candy..."
+  },
+  "6_Misaki_Day13_OsakaCastlePark_MiyuNotPartner": {
+    "PT": "",
+    "EN": "Or a candied apple, they're sooo Densta-worthy~\nLet's go get some later!"
+  },
+  "3_Favna_Day13_OsakaCastlePark_FavnaNotParter": {
+    "PT": "",
+    "EN": "...Purseowner! Now, put on your mask\nto face your adversaries with a new face!"
+  },
+  "4_Honoka_Day13_OsakaCastlePark_HonokaNotParter": {
+    "PT": "",
+    "EN": "Nanoka! Nonoka! Oh, look, you've both got food on your face...\nNow stand still so I can wipe it off for ya."
+  },
+  "1050_Nanaka_Day13_OsakaCastlePark_HonokaNotParter": {
+    "PT": "",
+    "EN": "Nonoka's cotton candy is bigger...\nIt's no faaaair!"
+  },
+  "1051_Nonoka_Day13_OsakaCastlePark_HonokaNotParter": {
+    "PT": "",
+    "EN": "Honoka-oneechan, fish me a yo-yo, pleeease~!"
+  },
+  "1_Siro_Day14_OsakaCastlePark_SiroNotParter": {
+    "PT": "",
+    "EN": "Ummm, what stalls haven't I been to yet...?"
+  },
+  "2_Miyu_Day14_OsakaCastlePark_MiyuNotPartner": {
+    "PT": "",
+    "EN": "I'm gonna eat from every single food stall~!"
+  },
+  "3_Favana_Day14_OsakaCastlePark_FavnaNotParter": {
+    "PT": "",
+    "EN": "The goldfish are dwindling in number.\nI hope you find happiness with your new owners."
+  },
+  "4_Honoka_Day14_OsakaCastlePark_HonokaNotParter": {
+    "PT": "",
+    "EN": "My li'l sisters even asked me to get 'em goldfish...\nBut can they really take care of goldfish?"
+  },
+  "1049_Ayame_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "I like goldfish, because they have \"gold\" in their name...\nHehe, I'm just joking."
+  },
+  "1055_Yousuke_Day12_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1055_Yousuke_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Festivals are the best.\nI hope all the kids who come can leave with smiles on their faces."
+  },
+  "1009_Syogo_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "I designed and built this stall all by myself.\nPretty impressive, don't you think?"
+  },
+  "1059_Midori_Day12_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1059_Midori_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "I tried an apple myself, and it was so fresh and tasty.\nI'm glad I asked Kumura-san from the grocer's for help~"
+  },
+  "1039_Takumi_Day12_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1039_Takumi_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "I can really empty my mind when I'm making cotton candy...\nI almost want to take the cotton candy machine back home with me."
+  },
+  "1038_Bunta_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Delivering stuff in his car, making cotton candy...\nLooks like my son is good at everything BUT tofu..."
+  },
+  "1052_Memi_Day12_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1052_Memi_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Yo!\nCome take a bite of our Bombtastic Takoyaki!"
+  },
+  "1035_Yui_Day13_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1035_Yui_Day13_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Children learn new things at events like this...\nsuch as the fun of transforming into a different version of themselves."
+  },
+  "7_Rin_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "We have a whoooole lot of anime character masks!\nWhat a lineup, right?"
+  },
+  "1040_Megumi_Day13_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "It might be fun to put some of these colorful yo-yos in the bath too."
+  },
+  "1043_Asuna_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Ta-da! We collaborated with Game Tanteidan to set up some arcade machines!"
+  },
+  "1036_Daichi_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Kids love the arcade game Hippo Hippo Panic.\nAnd Super Potato brought us Maestro City, too!"
+  },
+  "1044_Kazuto_Day1314_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "What video game characters who use yo-yos do you know?\nA boy in a red baseball cap? Or maybe a cute girl in a giant handcuff?"
+  },
+  "1037_Kuro_Day1314_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "The skeleton-patterned yo-yos are so cool!\nIf you like old-fashioned gadgets, you'd love these~!"
+  },
+  "1057_Linglong_Day13_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1057_Linglong_Day13_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Hey there, dude! Looks like we've got a couple\nhotter than the pan I'm frying this yakisoba on!"
+  },
+  "1062_Noyama_Day13_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "The stall next door is very popular.\nIn comparison, our stall is... Hahaha..."
+  },
+  "1062_Noyama_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "With the help of Miracle Maid Cafe, we're making affogato again today.\nI won't forget how much you've helped us, Fuwa Fuwa!"
+  },
+  "1003_Suzuka_Day13_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome back, Master!"
+  },
+  "1003_Suzuka_Day13_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Hehe, just because we're at a stall now\ndoesn't mean we don't have to greet our masters!"
+  },
+  "1003_Suzuka_Day14_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome back, Master!"
+  },
+  "1003_Suzuka_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "We're working with the chairman and selling affogato together.\nAnd we're also selling it as a set with our chocolate bananas,\nso it's a win-win situation!"
+  },
+  "1002_Mari_Day13_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Our stall promotion is doing incredibly well!\nI hope Suzuka-sama praises me later~♪"
+  },
+  "1001_Shiori_Day13_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Welcome home! ...Oh, I can talk to men today no problem.\nThe maid uniform gives me the courage..."
+  },
+  "1032_Yuusuke_Day14_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome, welcome!"
+  },
+  "1032_Yuusuke_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Our frankfurters are to die for!"
+  },
+  "1014_Sakura_Day14_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1014_Sakura_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "I'm gonna help out so much today and get so much pocket money,\nand then I'll spend it all when I go out to play~!"
+  },
+  "1063_Kazuma_Day14_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1063_Kazuma_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Interacting with customers at a stall like this\nreally brings me back to my roots as a chef."
+  },
+  "1019_Ichiryu_Day14_OsakaCastlePark_Welcome": {
+    "PT": "",
+    "EN": "Welcome!"
+  },
+  "1019_Ichiryu_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "We've got Kanto style grilled squid!\nSink your teeth right in!"
+  },
+  "1020_Kaoru_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Hehe, I'll leave the festive mood to my husband and daughter.\nI'll make sure we turn a huge profit."
+  },
+  "1021_Haruka_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "It's summer! It's the summer festival!\nStaaaay fresh~!"
+  },
+  "1012_Toshio_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Egad! Is that THE \"Maestro City\" of eld?!\nI had snatched up the mini version, but to think I would see the real thing!"
+  },
+  "1016_Kenji_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Us officers are here to protect the peace,\nso you can relax and have fun."
+  },
+  "5_Anna_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "MIsaki! We're totally gonna eat Miyu's omurice\nfor the autumn stamp rally campaign together, right?"
+  },
+  "6_Misaki_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "I can't believe even the chairman of the Association liked Miyu's cooking!\nThat's, like, incredible!"
+  },
+  "1050_Nanaka_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Mister, are ya Honoka-nee's \"beloved\" like they say~?"
+  },
+  "1051_Nonoka_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Honoka-oneechan keeps talkin' about ya at home."
+  },
+  "9_BlackCat_Day12_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Myamya? Meow!"
+  },
+  "9_BlackCat_Day13_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Meowww~ myameow~!"
+  },
+  "1048_HiroRyu_Day14_OsakaCastlePark_Dia1": {
+    "PT": "",
+    "EN": "Good evening. I'm glad the festival on Electric Street is so lively!\nYou guys have fun until the very end too!"
+  },
+  "AkibaBrothers_DianMei_Dia1": {
+    "PT": "",
+    "EN": "妹とはかくあるべきでござるよ……清楚で、兄思いで、時にツンデレで……最後にはお兄ちゃんが一番で……ご注文はいもうとでござるよ……。"
+  },
+  "AkibaBrothers_DianMei_Dia2": {
+    "PT": "",
+    "EN": "いやお兄ちゃんへのキリナんのツンはちょっと度が過ぎてねｗｗｗココちんが一生懸命お姉ちゃんしてる感じのほうが萌えるはｗｗｗ"
+  },
+  "AkibaBrothers_DianMei_Dia3": {
+    "PT": "",
+    "EN": "しかし、あっきー殿が妹萌えを語るのはめずらしいですな。"
+  },
+  "AkibaBrothers_DianMei_Dia4": {
+    "PT": "",
+    "EN": "ほら、あっきーリアルにキリナって名前の妹がいて、しかも疎遠だっていうからｗｗｗ余計刺さるんだろｗｗ"
+  },
+  "AkibaBrothers_DianMei_Dia5": {
+    "PT": "",
+    "EN": "ああ……ホントはリアル妹とも仲良くしたいんでしょうなあ……。"
+  },
+  "AkibaBrothers_Kamen_Dia1": {
+    "PT": "",
+    "EN": "劇場版「仮面レイターBLANK」復刻上映……お主は見たでござるか？"
+  },
+  "AkibaBrothers_Kamen_Dia2": {
+    "PT": "",
+    "EN": "いや必須科目っしょ！　劇場版でもブレない、あのゴルゴヌのしわざのビミョーに小規模な感じ……。"
+  },
+  "AkibaBrothers_Kamen_Dia3": {
+    "PT": "",
+    "EN": "ネットミームになるのもうなずけるコミカルさはあれど、それを差し引いてもBLANKのかっこよさは何歳になっても刺さりますなあ。"
+  },
+  "AkibaBrothers_Kamen_Dia4": {
+    "PT": "",
+    "EN": "ゆ\"る\"さ\"ぬ\"っ\"！　とあっ！　っつてｗｗｗｗｗ"
+  },
+  "AkibaBrothers_Kamen_Dia5": {
+    "PT": "",
+    "EN": "いずれRSの劇場版も復刻するといいでござるな……オレは何年かすればよみがえるっ！！"
+  },
+  "AkibaBrothers_BFF_Dia1": {
+    "PT": "",
+    "EN": "ふふ……また通しで見てしまいましたよBFF……金曜ローカルムービーでも見たんですけどね。"
+  },
+  "AkibaBrothers_BFF_Dia2": {
+    "PT": "",
+    "EN": "すべての時間移動ものの原典ともいうべきあのプロットの完成度……何周でも見れるでござるよ。"
+  },
+  "AkibaBrothers_BFF_Dia3": {
+    "PT": "",
+    "EN": "あの映画の未来って今より全然前っしょ？　やべぇ時代追いついてなくね？"
+  },
+  "AkibaBrothers_BFF_Dia4": {
+    "PT": "",
+    "EN": "しっかりバックアップを取ることで悲惨な未来を回避する……大事なことは全部ドッグが教えてれました。"
+  },
+  "AkibaBrothers_BFF_Dia5": {
+    "PT": "",
+    "EN": "ハローゥ？　ちゃんとデータ入ってますか？　ハローゥ？"
+  },
+  "AkibaBrothers_Gojita_Dia1": {
+    "PT": "",
+    "EN": "シン・ゴジダはいいぞ……私はこういうのを待ってたんですよ。ガチの国家対怪獣！"
+  },
+  "AkibaBrothers_Gojita_Dia2": {
+    "PT": "",
+    "EN": "やーでもリスク取ろうとしないで定時で帰ろうとする行政の感じ、超リアルで泣いちゃったｗｗｗｗ"
+  },
+  "AkibaBrothers_Gojita_Dia3": {
+    "PT": "",
+    "EN": "さすがアンノウジ監督と言いますか、ああいったフラットに見えてグサッと問いかけてくる作品は今や絶滅危惧種ですからね。"
+  },
+  "AkibaBrothers_Gojita_Dia4": {
+    "PT": "",
+    "EN": "現実問題、怪獣じゃなくてたとえば戦争が我が国を襲った時もああなりかねない危機感を我々はもっとですね……！"
+  },
+  "AkibaBrothers_Gojita_Dia5": {
+    "PT": "",
+    "EN": "わかったからまずはお主が落ち着くでござる！"
+  },
+  "AkibaBrothers_Avengers_Dia1": {
+    "PT": "",
+    "EN": "君はヤミナベンジャーズだ……一度は言われてみたいですなあ……。"
+  },
+  "AkibaBrothers_Avengers_Dia2": {
+    "PT": "",
+    "EN": "どんなに無力でも打ちひしがれても、戦う意志があればヒーローになれるという勇気の名言ですよ。"
+  },
+  "AkibaBrothers_Avengers_Dia3": {
+    "PT": "",
+    "EN": "何を言っておるのだ麻呂殿、我々も日々こうして電気街にアッセンブルしているではないか！"
+  },
+  "AkibaBrothers_Avengers_Dia4": {
+    "PT": "",
+    "EN": "そうそう！　これからも世界とホビーの平和を一緒に守るんでしょ？"
+  },
+  "AkibaBrothers_Avengers_Dia5": {
+    "PT": "",
+    "EN": "おまえら……3万回愛してますぞ……！"
+  },
+  "AkibaBrothers_Mahou_Dia1": {
+    "PT": "",
+    "EN": "『まど☆マキ』あんなん泣くって……何度も時をループしても、まどみが最強の機械の体を選んじゃうって……！"
+  },
+  "AkibaBrothers_Mahou_Dia2": {
+    "PT": "",
+    "EN": "想像を絶する苦労でござろうな……ループものはそこのブレイクスルーが物語の要でござる。"
+  },
+  "AkibaBrothers_Mahou_Dia3": {
+    "PT": "",
+    "EN": "我々の身近なところで置き換えると、たとえば何でしょうなあ……。"
+  },
+  "AkibaBrothers_Mahou_Dia4": {
+    "PT": "",
+    "EN": "ケース単位で買ったＣＤの封入特典で何度申し込みしてもライブのお席が用意されないとか……。"
+  },
+  "AkibaBrothers_Mahou_Dia5": {
+    "PT": "",
+    "EN": "ああっ！　それつれえ……そのループもつれえよ……！"
+  },
+  "AkibaBrothers_Violet_Dia1": {
+    "PT": "",
+    "EN": "アイを知りたい自動演奏人形……一度我が家にも来て弾いてほしいものでござるな。"
+  },
+  "AkibaBrothers_Violet_Dia2": {
+    "PT": "",
+    "EN": "不埒ｗｗｗｗｗ欲望に忠実すぎないｗｗｗｗ"
+  },
+  "AkibaBrothers_Violet_Dia3": {
+    "PT": "",
+    "EN": "そうではなく！「あいしてるって、どんな音ですか？」……どんなにアニメを見てもゲームをクリアしても答えの出ない、究極にして永遠の問いかけではござらんか……！"
+  },
+  "AkibaBrothers_Violet_Dia4": {
+    "PT": "",
+    "EN": "だが、あの映画のヴァイオレッタちゃんに逢えたら……ひょっとしたらわかるかもしれないでござる。愛とは何か……。"
+  },
+  "AkibaBrothers_Violet_Dia5": {
+    "PT": "",
+    "EN": "そうだね……絢波の時も観錫ちんの時も長戸の時も見つからなかった答えが見つかるといいね……。"
+  },
+  "AkibaBrothers_Violet_Dia6": {
+    "PT": "",
+    "EN": "意外とこう…可憐で薄幸い感じのヒロインが刺さるタイプなのな、あっきーは…。"
+  },
+  "AkibaBrothers_Hate_Dia1": {
+    "PT": "",
+    "EN": "伝説や神話の英雄を従えて、最後の一人になるまで戦い抜く……男の子の夢がめいっぱいでござるな！"
+  },
+  "AkibaBrothers_Hate_Dia2": {
+    "PT": "",
+    "EN": "スピンオフめっちゃあるけど、やっぱ王道のメインシナリオっしょ。約束された勝利の鍵ｗｗｗ"
+  },
+  "AkibaBrothers_Hate_Dia3": {
+    "PT": "",
+    "EN": "ただこのシリーズ……どれも戦いの途中で脱落していく人たちの話がしんどくて……。"
+  },
+  "AkibaBrothers_Hate_Dia4": {
+    "PT": "",
+    "EN": "私を支えてくれるかの伝説の騎士王……どうにか召喚できないものでしょうか……あと幼馴染の後輩少女とかも……。"
+  },
+  "AkibaBrothers_Hate_Dia5": {
+    "PT": "",
+    "EN": "それこそ全てが遠き理想郷というやつでござるよ……。"
+  },
+  "AkibaBrothers_Zhuyuan_Dia1": {
+    "PT": "",
+    "EN": "『祝怨』のＣＭやばくねｗ布団の中引きずり込まれるとかｗｗｗあんなとこ伽羅子出たらもうどうしようもないじゃんｗｗｗ"
+  },
+  "AkibaBrothers_Zhuyuan_Dia2": {
+    "PT": "",
+    "EN": "久しぶりに王道な感じのジャパニーズホラーが来て、ネットも騒然ですね。あっきーはもう見たので……？"
+  },
+  "AkibaBrothers_Zhuyuan_Dia3": {
+    "PT": "",
+    "EN": "…　ｶｶ　…ｶｶｶ　ｶ……　ｶｶｶ…"
+  },
+  "AkibaBrothers_Zhuyuan_Dia4": {
+    "PT": "",
+    "EN": "ちょｗｗｗめっちゃ似てて怖いんだけどｗｗｗあっきーｗｗｗ……あ……あっきー？"
+  },
+  "AkibaBrothers_Zhuyuan_Dia5": {
+    "PT": "",
+    "EN": "ｶｶ　ｶｶｶ…　ﾊﾋﾟﾊﾞｰｽﾃﾞｰ…　ｶｶｶｶｶｶ…"
+  },
+  "AkibaBrothers_Zhuyuan_Dia6": {
+    "PT": "",
+    "EN": "似てた？　似てたっしょ？　今の超上手くなかったでござるか？"
+  },
+  "AkibaBrothers_Zhuyuan_Dia7": {
+    "PT": "",
+    "EN": "わ、悪ふざけがすぎますぞ！　一瞬あっきーどのまで祝われたかと……！"
+  },
+  "1057_Linglong_Day19_Dia1": {
+    "PT": "",
+    "EN": "I heard there was some kind of commotion at the shrine.\nAnd in the end, everyone who was there ended up running away..."
+  },
+  "1027_Romin_Day22_Dia1": {
+    "PT": "",
+    "EN": "You must be having a hard time too, but good luck."
+  },
+  "1027_Romin_Day22_Dia2": {
+    "PT": "",
+    "EN": "Please come eat our takoyaki anytime."
+  },
+  "1031_Yashuhiko_DailyDia1": {
+    "PT": "",
+    "EN": "I'm just as committed to beautiful hair as those trendy city folk!"
+  },
+  "1031_Yashuhiko_DailyDia2": {
+    "PT": "",
+    "EN": "Hey buddy, wanna try gettin' a new look at our salon?"
+  },
+  "1031_Yashuhiko_DailyDia3": {
+    "PT": "",
+    "EN": "I'm the master of the Tiger Maw Style! I'll give ya a fresh new cut\nwith my exceptional sword techni—Hey! Where are ya goin'?!"
+  },
+  "9_BlackCat_DailyDia1": {
+    "PT": "",
+    "EN": "Purrrrrrrr..."
+  },
+  "9_BlackCat_DailyDia2": {
+    "PT": "",
+    "EN": "Mrrow~?"
+  },
+  "9_BlackCat_DailyDia3": {
+    "PT": "",
+    "EN": "Myamyamya! Mrow meow mraah!"
+  },
+  "1009_Syogo_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Oh, Honoka-chan. I'll give you a good deal on furniture for Fuwa Fuwa!"
+  },
+  "1009_Syogo_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "My, that's so nice of ya! We'll be comin' here often~!"
+  },
+  "1058_Izumi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "This Peking duck is mind-blowin'! Did ya roast it yourself?"
+  },
+  "1058_Izumi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Wahaha! With these claws, it's like cuttin' through butter—wait, you're talkin' about roastin', not skinnin'!"
+  },
+  "1057_Linglong_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "\"Drunken chicken\"? What a strange name.\nI wonder what it tastes like?"
+  },
+  "1057_Linglong_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "It's a Chinese dish of chicken marinated in Shaoxing wine!\nAnd since it's a cold dish, it's perfect for hot summer days like this!"
+  },
+  "1059_Midori_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Do you have any flowers that would suit Fuwa Fuwa?"
+  },
+  "1059_Midori_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "How about kalanchoe~?\nIn flower language, it means \"many small memories.\""
+  },
+  "9_BlackCat_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Hello, kitty! I'll give you a little treat again today♪"
+  },
+  "9_BlackCat_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "\"You'll fatten it up if you give it too many treats...\""
+  },
+  "9_BlackCat_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "You'll let me hug you? Aww, who's a good kitty~!"
+  },
+  "9_BlackCat_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "(This brat only acts cute around girls...)"
+  },
+  "9_BlackCat_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Ah, my dear kin! Thank you for your hard work\ntraining with my familiar every day."
+  },
+  "9_BlackCat_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Meeeow!"
+  },
+  "9_BlackCat_TeamDiaToFavna3": {
+    "PT": "",
+    "EN": "(But I'm the one who has to look everywhere for food that'll satisfy it...)"
+  },
+  "9_BlackCat_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I bought ya a toy~! Let's play together♪"
+  },
+  "9_BlackCat_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Mroooooow~!"
+  },
+  "1055_Yousuke_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Hello there, Maekawa-san!\nThis place is as peaceful and calming as usual."
+  },
+  "1055_Yousuke_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Thankies a bunchies~\nI think every city should have a nice little place like this."
+  },
+  "1055_Yousuke_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Hey there, Honoka-chan. Want some ice cream?"
+  },
+  "1055_Yousuke_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Thanks! Y'know, the variety of ice creams here is pretty surprisin'...\nThat's Maekawa-san for ya."
+  },
+  "1063_Kazuma_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "All of these desserts look so tasty!\nI'm about to start drooling just looking at the food samples~!"
+  },
+  "1063_Kazuma_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Hehehe. The real deal is even better!"
+  },
+  "1064_Shizuo_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Please enjoy your meal."
+  },
+  "1064_Shizuo_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Oh, that looked so cool and dignified...! I should learn from him!"
+  },
+  "1065_Megumi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "What a beautiful melody! It's as if my very soul is being purified."
+  },
+  "1065_Megumi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Thank you, I'm honored. Would you like to hear another song?"
+  },
+  "1068_Kitamura_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Ooh! One of my favorite artists released an illustration book!"
+  },
+  "1068_Kitamura_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "I knew a seasoned otaku would notice it!\nI'm so glad I managed to grab some stock!"
+  },
+  "1069_Rico_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "A Magic Angel sticker book...\nI can't stop looking at it, but..."
+  },
+  "1069_Rico_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "You don't have to be a kid to buy it! Go ahead!\nI'll wrap it up and hide the cover if you'd like."
+  },
+  "1005_Mio_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Oh, you're here with your boyfriend instead of your family today!"
+  },
+  "1005_Mio_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Hey, quit the teasin'~ Hey, Manager, say somethin'!"
+  },
+  "1006_Masafumi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Shiro-chan, have you watched the Little Sister rerun yet?"
+  },
+  "1006_Masafumi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "I watched it on day one! It was amazing to\nwatch such a classic on the big screen again!"
+  },
+  "1006_Masafumi_TeamDiaToShiro1_6": {
+    "PT": "",
+    "EN": "Miracle Maid Cafe is a great place and all,\nbut Fuwa Fuwa would look even better in a movie!"
+  },
+  "1006_Masafumi_TeamDiaToShiro2_6": {
+    "PT": "",
+    "EN": "Maid Cafe on Electric Street: The Movie...\nAhh, that would be like a dream come true!"
+  },
+  "1004_Haru_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Welcome! One kid's meal, I assume?"
+  },
+  "1004_Haru_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Don't treat me like a child!\n...But yes, that would be my order."
+  },
+  "1066_Lynn_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Hello...?\nWhat?! You found a copy of the 1999 tearjerker classic KANONAD?!\nAnd you found it at the back of your storage room in mint condition?"
+  },
+  "1066_Lynn_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "...! (A physical copy of that absolute classic...? I... I want one...)"
+  },
+  "1067_Mayuri_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "It's not every day that I get to see a young girl like you interested in electric appliances. \nWhat, looking to start a new home or something?"
+  },
+  "1067_Mayuri_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "N-Nooo, absolutely not! At least, not yet...!"
+  },
+  "1010_Natsumi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Thank you for being here every day, Miss!"
+  },
+  "1010_Natsumi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Aw, safe travels, you two!"
+  },
+  "1003_Suzuka_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Suzuka-san, you're always so pretty!\nI feel like you'd look great in cosplay too..."
+  },
+  "1003_Suzuka_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "To be honest, I've always been a little curious...\nDo you want to go to the next Festa with me?"
+  },
+  "1003_Suzuka_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "I'm not that good at cooking,\nso I'm actually secretly a little jealous of you, Miyu."
+  },
+  "1003_Suzuka_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "I-I never thought I'd hear that from you, Suzuka-san!\nI've gotta try even harder to get better!"
+  },
+  "1003_Suzuka_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "A maid who talks like an anime character casting spells...\nI never thought I'd meet such a unique maid."
+  },
+  "1003_Suzuka_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "I am the sole holder of the title of the Guardian of All Things.\nThus, none shall ever reach my level!"
+  },
+  "1003_Suzuka_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "You're so perfect, from how ya stand to how ya speak...\nAnyone could tell you've been brought up well~"
+  },
+  "1003_Suzuka_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Thank you. But I wasn't born to be the Number 1 Maid;\nI could only get here through hard work!"
+  },
+  "1001_Shiori_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I often visit Togetsuya as well, since I enjoy literature..."
+  },
+  "1001_Shiori_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Is that so? Then tell me if you find any tales that speak to you."
+  },
+  "1001_Shiori_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I often see a bookish girl at Togetsuya,\nand she looks awfully like a certain maid I know..."
+  },
+  "1001_Shiori_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I-I'm not trying to hide it or anything, but...\nOh boy, what should I even say...?"
+  },
+  "1001_Shiori_TeamDiaToHonoka3": {
+    "PT": "",
+    "EN": "(It's the same person, but the difference is so drastic.)"
+  },
+  "1002_Mari_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "I'm glad to hear you've finally found a new manager!\nBut we're not about to lose to you, Fuwa Fuwa!"
+  },
+  "1002_Mari_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Of course! I can't wait to see you become even cuter—\nUm, I mean, we're not going to lose to you either!"
+  },
+  "1002_Mari_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "A cute, fashionable gyaru who can cook...?!\nGrrr, I'm not gonna lose to the likes of you~!"
+  },
+  "1002_Mari_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Aw, you think I'm cute...? Hehe, I'm flattered! ☆"
+  },
+  "1002_Mari_TeamDiaToMiyu3": {
+    "PT": "",
+    "EN": "An airhead too?! That's too many cute character traits in one!"
+  },
+  "1026_Yutaka_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "The only thing on the menu is pork miso soup,\nbut somehow, it's the only thing I've never ordered before..."
+  },
+  "1026_Yutaka_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I'll make anything I can. And that includes pork miso soup."
+  },
+  "1007_Yuka_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "You're looking at the doujin an awful lot.\nCould you be... a doujin author?"
+  },
+  "1007_Yuka_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Gwuh?! N-Noooo way, I have noooo idea what you're talkin' about~!"
+  },
+  "1008_Narumi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Welcome, Miyu-san.\nWe just made a fresh batch of hot snacks."
+  },
+  "1008_Narumi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Yaaay~! Just when I'm starting to get hungry, too! ♪"
+  },
+  "1015_Kana_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "We've already added the anime songs of the season!"
+  },
+  "1015_Kana_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "For real?! Let's sing for a bit, Manager!"
+  },
+  "1045_Nagi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Nogizaka-san came the other day.\nShe's insanely good at enka!"
+  },
+  "1045_Nagi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Whoa, that's cool. Maybe we should give it a shot too..."
+  },
+  "1046_An_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Miyu-chan, have you completed the new Magic Angel set yet?"
+  },
+  "1046_An_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "I still haven't found my Mariette yet...\nI'll have to keep up the grind!"
+  },
+  "1047_Yuusaku_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "I heard from Manager An that you're a strong duelist...!"
+  },
+  "1047_Yuusaku_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "You're a duelist too?! Would you like to duel me?"
+  },
+  "1043_Asuna_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Welcome, Favna-sama!"
+  },
+  "1043_Asuna_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Eep?! Why are YOU here...?!"
+  },
+  "1044_Kazuto_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Favna-sama! Aaah, you're as beautiful as ever...!"
+  },
+  "1044_Kazuto_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "The digital games that grow in this vast field\nshare their light with me so I can ignite the flames of my soul."
+  },
+  "1070_Yanagihara_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "I won't copy anyone else! I'll walk down the path I believe in!"
+  },
+  "1070_Yanagihara_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "That's the most important thing for both a ramen shop and a maid cafe!"
+  },
+  "1022_Shioriko_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "What ritual will you do today, little black magician?"
+  },
+  "1022_Shioriko_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Hmm. I think I shall decide after I see what wares you have today."
+  },
+  "1023_Daigo_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "This model kit is really impressive... Who made this?!"
+  },
+  "1023_Daigo_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Thanks a lot. For some reason, I make\nmore models the busier I am at work..."
+  },
+  "1032_Yuusuke_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Croquettes are surprisingly hard to make from scratch, aren't they?"
+  },
+  "1032_Yuusuke_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Yep. And that's why I make them here,\nso that people can eat them whenever they want!"
+  },
+  "1049_Ayame_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "What is this presence?\nI sense faint traces of demonic magic..."
+  },
+  "1049_Ayame_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Yep, money can easily corrupt humans\nand turn them into demons... Just kidding."
+  },
+  "1035_Yui_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Would you be interested in a new dress, Your Majesty?\nWe just procured a batch of very nice fabric."
+  },
+  "1035_Yui_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "How wonderful! I shall purchase one once I get more pocke—\nonce I complete my alchemy ritual."
+  },
+  "7_Rin_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Look, look! I designed a gothic lolita-styled maid dress! ♪"
+  },
+  "7_Rin_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "What an enthralling design...\nWe should show it to the Apostle of White."
+  },
+  "1052_Memi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Memi-chan, here you go! I want to share this doujin with you!"
+  },
+  "1052_Memi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Whoa, isn't this Holy Hanpen-sensei's new book?! Many, MANY thanks!!"
+  },
+  "1027_Romin_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Memi-chan's been getting really into doujins lately.\nHave you heard of an author called Holy Hanpen?"
+  },
+  "1027_Romin_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "...Pfff...what?! N-Nooo, I've never heard of them~! Who could that be~?"
+  },
+  "1028_Mi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Your dad said he was saving up because\nhe wants to take your family to yakiniku again."
+  },
+  "1028_Mi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Oh, Daddy! I'd pitch in a li'l too if he'd just ask!"
+  },
+  "1029_Jiro_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Don't you feel the urge to pop food into your mouth\nwhen you're working in a great place like this...?"
+  },
+  "1029_Jiro_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Hahaha, I prefer eating meat with wine,\nso I gladly pay full price for it all!"
+  },
+  "1041_Murasaki_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Sporty girls are so cool.\nI bet you're pretty popular, Kirishima-san!"
+  },
+  "1041_Murasaki_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Ahaha! Nah, I'm dating the sport of cycling!"
+  },
+  "1042_Chiharu_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "We have different colored mountain bikes for sale.\nA must-buy for couples who bike together!"
+  },
+  "1042_Chiharu_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "They're so sleek and stylish~!\nI've always wanted a mountain bike! ♪"
+  },
+  "1024_Toshiko_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Welcome, Miyu-chan! What spice level are you getting today?"
+  },
+  "1024_Toshiko_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Level 3, as always... wait, that's for malatang!"
+  },
+  "1025_Futaba_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "We serve curry udon too. Want some?"
+  },
+  "1025_Futaba_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "A fusion of the East and the West, beckoning me with its enticing aroma...\nBut just the thought of any splatters staining my dress is just... Ugh!"
+  },
+  "1036_Daichi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "We managed to borrow a machine for Maids 'n Goblins.\nDo you think you can beat it, Fav-chan?"
+  },
+  "1036_Daichi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Don't make me laugh. I've already beaten countless of its ports. \nI have nothing to fear!"
+  },
+  "1037_Kuro_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "...I want to recommend... an indie game..."
+  },
+  "1037_Kuro_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I've always wanted to play this one!\nI'm so glad I got to buy the physical version!"
+  },
+  "1031_Yashuhiko_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Wanna be my haircut model? Don't worry,\nI'll cut your hair normally but with some weird tools I got!"
+  },
+  "1031_Yashuhiko_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Sounds fun! Maybe I will!"
+  },
+  "1017_Sinobu_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Hello, Shinobu-san! The usual, please~!"
+  },
+  "1017_Sinobu_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Thanks! Mutton and quail eggs, extra large!\nThat's the Miyu-chan menu, just for you!"
+  },
+  "1018_Nobuyuki_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "There's so many different kinds of toppings!\nI'm having a hard time deciding what to get...!"
+  },
+  "1018_Nobuyuki_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Why not try the celery dumplings? Highly recommended!"
+  },
+  "1030_Tokuko_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I've much to learn from your wisdom and experience.\nPlease always stay healthy!"
+  },
+  "1030_Tokuko_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Ufufu, I don't know how much I can help,\nbut you can always come to me for advice."
+  },
+  "1014_Sakura_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "When I grow up, I wanna be a maid at Fuwa Fuwa!"
+  },
+  "1014_Sakura_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "What a wonderful goal! I'll be looking forward to it!"
+  },
+  "1019_Ichiryu_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "I'd love to know how you met your wife!"
+  },
+  "1019_Ichiryu_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Weeeell... Hahaha. That's a secret!"
+  },
+  "1020_Kaoru_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "This pipe was left to me by my late parents.\nI can't bear to throw it away..."
+  },
+  "1020_Kaoru_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "She's not just mature and cool,\nbut she seems to have a dramatic backstory too~!"
+  },
+  "1021_Haruka_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Ooh, are you the Fav-chan everyone's talking about?\nI bet you're everyone's fav-orite girl with a name like that!"
+  },
+  "1021_Haruka_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "What the—Wh-Who dares tarnish my holy name...?!\nIt must be the works of that digital warrior!"
+  },
+  "1038_Bunta_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Oh hello, Shiro-chan! And welcome to you too, Mr..."
+  },
+  "1038_Bunta_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "J-Just in case, we're not dating! He's our new manager!"
+  },
+  "1038_Bunta_TeamDiaToShiro3": {
+    "PT": "",
+    "EN": "(He hasn't even said anything yet...)"
+  },
+  "1039_Takumi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I bet kids these days don't give a crap about tofu..."
+  },
+  "1039_Takumi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "That's not true. As long as tradition is carried through the generations,\ntofu is eternal. Tofu is immortal."
+  },
+  "1040_Megumi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "As always, thanks for all the lovely baths, ma'am~"
+  },
+  "1040_Megumi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I'll keep some extra coffee milk chilled just for you.\nAnd you too, Manager!"
+  },
+  "1033_Akiho_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Honoka-chan's shrine maiden uniform\nwas proudly tailored at our store!"
+  },
+  "1033_Akiho_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Yep, and it was a huge help!\nI bet you'd look great in a kimono, Manager!"
+  },
+  "1034_Tsuki_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Oh, Hoshimi-san's little girl. How's your grandpa doing?"
+  },
+  "1034_Tsuki_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "He's doing well. He wants to see some new traditional clothing."
+  },
+  "1007_Yuka_TeamDiaToShiro1_1": {
+    "PT": "",
+    "EN": "Welcome, Shiro-chan! Have you gotten everything you want?"
+  },
+  "1007_Yuka_TeamDiaToShiro2_1": {
+    "PT": "",
+    "EN": "Yes! Thank you so much, as always!"
+  },
+  "1007_Yuka_TeamDiaToShiro1_4": {
+    "PT": "",
+    "EN": "Hey Shiro-chan, wanna go to the next Super Kamen meetup together?"
+  },
+  "1007_Yuka_TeamDiaToShiro2_4": {
+    "PT": "",
+    "EN": "Yes of course! I can't wait!"
+  },
+  "xiaobai_DailyWelcome": {
+    "PT": "",
+    "EN": "Good morning!"
+  },
+  "xiaobai_DailyDia1": {
+    "PT": "",
+    "EN": "Manager, let's do our best today!"
+  },
+  "xinyou_DailyWelcome": {
+    "PT": "",
+    "EN": "Morning~!"
+  },
+  "xinyou_DailyDia1": {
+    "PT": "",
+    "EN": "Alrighty! I'll make tons of food today too~!"
+  },
+  "fafuna_DailyWelcome": {
+    "PT": "",
+    "EN": "Good morning."
+  },
+  "fafuna_DailyDia1": {
+    "PT": "",
+    "EN": "I shall show you the extent of my powers, as usual."
+  },
+  "suinaixiang_DailyWelcome": {
+    "PT": "",
+    "EN": "Good mornin'!"
+  },
+  "suinaixiang_DailyDia1": {
+    "PT": "",
+    "EN": "I'll do my darnedest!"
+  },
+  "9_BlackCat_DailyWelcome": {
+    "PT": "",
+    "EN": "Meooow~"
+  },
+  "9_BlackCat_DailyDia4": {
+    "PT": "",
+    "EN": "Meow."
+  },
+  "9_BlackCat_DailyDia5": {
+    "PT": "",
+    "EN": "Mrooow..."
+  },
+  "9_BlackCat_DailyDia6": {
+    "PT": "",
+    "EN": "Myamyamya?"
+  },
+  "1_Siro_ThanksGift": {
+    "PT": "",
+    "EN": "Thank you, Manager! I'll take good care of it!"
+  },
+  "2_Miyu_ThanksGift": {
+    "PT": "",
+    "EN": "Thankies, Manager!"
+  },
+  "3_Favna_ThanksGift": {
+    "PT": "",
+    "EN": "You have my thanks, familiar."
+  },
+  "4_Honoka_ThanksGift": {
+    "PT": "",
+    "EN": "Thanks, Manager!"
+  },
+  "1027_Romin_DailyDia4": {
+    "PT": "",
+    "EN": "Would you like a drink of intelligence, only for chosen ones?"
+  },
+  "1067_Mayuri_DailyWelcome": {
+    "PT": "",
+    "EN": "Welcome to Sofmap! We've got the newest games, electronics,\nand even gaming PCs! Ask us anything, we've got you covered!"
+  },
+  "1052_Memi_DailyWelcome": {
+    "PT": "",
+    "EN": "Nipponbashi's best takoyaki place, Tokushin! Open for business!"
+  },
+  "xiaobai_DailyWelcome_AtferWork": {
+    "PT": "",
+    "EN": "Good evening, Manager!"
+  },
+  "xiaobai_DailyDia1_AtferWork": {
+    "PT": "",
+    "EN": "Oh no, it's getting late... I should go home."
+  },
+  "xinyou_DailyWelcome_AtferWork": {
+    "PT": "",
+    "EN": "Hey, good evening!"
+  },
+  "xinyou_DailyDia1_AtferWork": {
+    "PT": "",
+    "EN": "Maybe I should make curry tonight?"
+  },
+  "fafuna_DailyWelcome_AtferWork": {
+    "PT": "",
+    "EN": "You've worked hard, my familiar."
+  },
+  "fafuna_DailyDia1_AtferWork": {
+    "PT": "",
+    "EN": "...Then I shall take my leave.\nI must provide my kindred with sweet offerings."
+  },
+  "suinaixiang_DailyWelcome_AtferWork": {
+    "PT": "",
+    "EN": "Good evenin'!"
+  },
+  "suinaixiang_DailyDia1_AtferWork": {
+    "PT": "",
+    "EN": "...Oh, would ya look at the time. I have to go home and make dinner.\nIf I run too late, the li'l ones and the bigger ones are gonna starve."
+  },
+  "xiaobai_DailyWelcome_Level2": {
+    "PT": "",
+    "EN": "Hehe, good morning!"
+  },
+  "xiaobai_DailyDia_Level2": {
+    "PT": "",
+    "EN": "I'll put my whole heart into serving our customers!"
+  },
+  "xiaobai_DailyWelcome_Level3": {
+    "PT": "",
+    "EN": "Good morning, Manager! ♡"
+  },
+  "xiaobai_DailyDia_Level3": {
+    "PT": "",
+    "EN": "I'll pour my heart into work and provide the best service I can!"
+  },
+  "xinyou_DailyWelcome_Level2": {
+    "PT": "",
+    "EN": "Hehe, gooood morning, Manager~!"
+  },
+  "xinyou_DailyDia_Level2": {
+    "PT": "",
+    "EN": "All right! I'll make so much good food today~!"
+  },
+  "xinyou_DailyWelcome_Level3": {
+    "PT": "",
+    "EN": "Gooood morning, Manager~♡"
+  },
+  "xinyou_DailyDia_Level3": {
+    "PT": "",
+    "EN": "I'll put my love into everything I cook today!"
+  },
+  "fafuna_DailyWelcome_Level2": {
+    "PT": "",
+    "EN": "Fufu... Good morning."
+  },
+  "fafuna_DailyDia_Level2": {
+    "PT": "",
+    "EN": "Now, let us escort surface dwellers into the darkness!"
+  },
+  "fafuna_DailyWelcome_Level3": {
+    "PT": "",
+    "EN": "Good morning, my dear familiar. ♡"
+  },
+  "fafuna_DailyDia_Level3": {
+    "PT": "",
+    "EN": "I shall show you the most refined\ndark service the world has ever seen!"
+  },
+  "suinaixiang_DailyWelcome_Level2": {
+    "PT": "",
+    "EN": "Fufu, good mornin'!"
+  },
+  "suinaixiang_DailyDia_Level2": {
+    "PT": "",
+    "EN": "Let's bring a smile to all our masters and ladies!"
+  },
+  "suinaixiang_DailyWelcome_Level3": {
+    "PT": "",
+    "EN": "Good mornin', Manager. ♡"
+  },
+  "suinaixiang_DailyDia_Level3": {
+    "PT": "",
+    "EN": "Let's spread the love to all our masters and ladies!"
+  },
+  "1017_Sinobu_TeamDiaToMiyu1_Day4": {
+    "PT": "",
+    "EN": "That malatang was soooo good!"
+  },
+  "1017_Sinobu_TeamDiaToMiyu2_Day4": {
+    "PT": "",
+    "EN": "Glad you liked it! Come again!"
+  },
+  "1048_HiroRyu_DailyWelcome": {
+    "PT": "",
+    "EN": "Nihao! Welcome to Adventurer's Tavern!"
+  },
+  "1048_HiroRyu_DailyDia1": {
+    "PT": "",
+    "EN": "Thank you for playing Maid Cafe on Electric Street!"
+  },
+  "1048_HiroRyu_DailyDia2": {
+    "PT": "",
+    "EN": "I'd like to make a AAA game someday!"
+  },
+  "1048_HiroRyu_DailyDia3": {
+    "PT": "",
+    "EN": "Well then, I think it's time to start developing Maid Cafe on Electric Street 2..."
+  },
+  "1009_Syogo_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "I tried my hand at remaking this low table.\nWould Fuwa Fuwa be interested in it?"
+  },
+  "1009_Syogo_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Wow, it's so girly and cute...!\nI didn't know you could make such cute decorations, Shougo-san!"
+  },
+  "1009_Syogo_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "If I ever get to buy my own place,\nI want a room that decorated in pastel pink from top to bottom!"
+  },
+  "1009_Syogo_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Hahaha! When that day comes,\nI'll remake aaaall your furniture for you!"
+  },
+  "1009_Syogo_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Are there any furnishings that would be fitting for my dark castle...?"
+  },
+  "1009_Syogo_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "I've got some antique Nordic furniture here too.\nHope something catches your eye!"
+  },
+  "1058_Izumi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "A-A panda...?!\nUm, can I please pet you...?!"
+  },
+  "1058_Izumi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "O-Oh? Well, I suppose there's no harm.\nJust this once, mind!"
+  },
+  "1058_Izumi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Be careful not to get too close to the fire\nand burn your panda fur!"
+  },
+  "1058_Izumi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "No worries! This fursu—ahem, I mean,\nmy fur is perfectly fireproof!"
+  },
+  "1058_Izumi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "A monochrome demonic beast?! How cu—\n...I mean, what are you doing here?"
+  },
+  "1058_Izumi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "When you think of China, you think of pandas!\nThat's the only reason I need!"
+  },
+  "1057_Linglong_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "I can't decide if I want mapo tofu or dandan noodles~!"
+  },
+  "1057_Linglong_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "I knoooow! They both look so good!"
+  },
+  "1057_Linglong_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I am not that fond of the deep green fruit of bitterness...\nbut I could eat pepper steak forever."
+  },
+  "1057_Linglong_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "You mean the bell peppers?\nI get them from the grocer's nearby, so they're extra fresh!"
+  },
+  "1057_Linglong_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Manager, there's lettuce in this fried rice that adds a real nice crunch~!"
+  },
+  "1057_Linglong_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Right? It's one of our specialties!"
+  },
+  "1059_Midori_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Fuwa Fuwa reminds me a lot of kalanchoes...\nbut I think the flower suits Shiro-chan a lot too~"
+  },
+  "1059_Midori_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Really? I'm happy to hear that, for some reason!"
+  },
+  "1059_Midori_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "My familiar. You should make an offering of magic flowers to me sometime."
+  },
+  "1059_Midori_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "My, how lovely~! I'll make sure I have blue roses in stock for the occasion."
+  },
+  "1059_Midori_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Hello~! How's business doin', Owner?"
+  },
+  "1059_Midori_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Meooow!"
+  },
+  "1055_Yousuke_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Karikari-chan, or Watermelon Froot... I can't decide~!"
+  },
+  "1055_Yousuke_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Or maybe I should get... Harkin' Darts?\nWhat do you think, Manager?"
+  },
+  "1055_Yousuke_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Favna-chan, you've grown so much since the last time I saw you~\nBack then, I remember..."
+  },
+  "1055_Yousuke_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Myaaaa~?! B-Be quiet!"
+  },
+  "1063_Kazuma_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Here, have a sample. It's our newest product,\nthe Swirly Sausage Bun."
+  },
+  "1063_Kazuma_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "It looks like a normal danish... Oh!\nThere's a whole spiral-shaped sausage inside!"
+  },
+  "1063_Kazuma_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Wh-Why is this bread as blue as the ocean...?!"
+  },
+  "1063_Kazuma_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "I added butterfly peas to the dough. Doesn't it look nice?"
+  },
+  "1063_Kazuma_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "If only someone would help me taste test\nour newest Picked Daikon Sandwich..."
+  },
+  "1063_Kazuma_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I-I'm curious as to how it tastes...\nBut I'm leavin' the rest up to ya, Manager!"
+  },
+  "1064_Shizuo_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "This is an original bread recipe made by our pastry chef."
+  },
+  "1064_Shizuo_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Maritozzo with daifuki filling?\nThat sounds weird, but also really tasty!"
+  },
+  "1064_Shizuo_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Even familiars need to know basic manners.\nYou have much to learn from him."
+  },
+  "1064_Shizuo_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "You flatter me, Hoshimi-sama."
+  },
+  "1064_Shizuo_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "...? Ishida-sama? Is something the matter?"
+  },
+  "1064_Shizuo_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "N-Nah, it's nothin'! ...I just thought it'd be fun\nto do a crossdressin' butler cafe too."
+  },
+  "1065_Megumi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Oh, um... do you know how to play the song \"To the Narkazand\"?"
+  },
+  "1065_Megumi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Hehe... This song reminds one of your story, does it not?"
+  },
+  "1065_Megumi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "The piano sets the mood so well!\nI feel like a real grownup here~"
+  },
+  "1065_Megumi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "When the time comes, please bring your lover as well."
+  },
+  "1065_Megumi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "～～♪　～～～♪"
+  },
+  "1065_Megumi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "What lovely music!\nHey, should we try puttin' a piano in Fuwa Fuwa too?"
+  },
+  "1068_Kitamura_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "You should read a fashion magazine or two in your spare time, Manager!"
+  },
+  "1068_Kitamura_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "I agree! Hades has said unto me\nthat he wishes you to shine even brighter!"
+  },
+  "1068_Kitamura_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I tried making a handwritten sign using the neighborhood black cat as a motif."
+  },
+  "1068_Kitamura_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "What an adorable drawing. I shall tell her all about it."
+  },
+  "1068_Kitamura_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "They have a wide selection of stationery,\nso I come here all the time~!"
+  },
+  "1068_Kitamura_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Dip pens and screentones are still in center stage here!"
+  },
+  "1069_Rico_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "The Animal Street guidebook? We just restocked that today!"
+  },
+  "1069_Rico_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "I'll buy one for Miyu!\n...Gwuh, it's so thick, and heavy too...!"
+  },
+  "1069_Rico_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "A book on black magic...?\nI don't think we have any, but that's an interesting choice."
+  },
+  "1069_Rico_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Forbidden grimoires do not suit a surface-dweller's business, after all."
+  },
+  "1069_Rico_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "We have some cheap but high-quality crayons in stock now.\nWould you like to take a look at them?"
+  },
+  "1069_Rico_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Oh, I loved these as a kid.\nAnd now I really wanna draw~"
+  },
+  "1005_Mio_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Shiro-san, would you like to go out for tea after work?\nI want to talk about anime movies with you...!"
+  },
+  "1005_Mio_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Of course! Would you like to come too, Manager?"
+  },
+  "1005_Mio_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Oh, you're not with your friends today?"
+  },
+  "1005_Mio_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Yeah! Sometimes I just wanna widen my horizons\nby watching a different genre~"
+  },
+  "1005_Mio_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Would you be interested in today's premiere?\nIt's a very sweet romantic movie."
+  },
+  "1005_Mio_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "A-A story of those who live under the sun...?!\nMy cursed arm would simply explode!"
+  },
+  "1006_Masafumi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Oh, you're the gyaru maid I've been hearing about!\nHmm, I feel like I'm getting an idea for a movie!"
+  },
+  "1006_Masafumi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Oh my gosh, am I gonna debut on the silver screen~?\n...Just kidding!"
+  },
+  "1006_Masafumi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Wow, you're so pretty!\nWould you like to appear in my indie movie?"
+  },
+  "1006_Masafumi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "M-Me...?! ...M-Maybe I'd consider it if my familiar could join me."
+  },
+  "1006_Masafumi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I'd love to film in Ishida Shrine for an indie movie one day..."
+  },
+  "1006_Masafumi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Really? Sounds like a great opportunity to promote our shrine!"
+  },
+  "1004_Haru_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "The burgers are great, of course,\nbut the fries are also really well-salted!"
+  },
+  "1004_Haru_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "We fry the fries in-house,\nso they're always served fresh!"
+  },
+  "1004_Haru_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Maybe one day Magic Angel will get to release toys for the kiddy sets!"
+  },
+  "1004_Haru_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Hehe, if that happens,\nyou'd better come often and complete the set!"
+  },
+  "1004_Haru_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I love Japanese food, of course,\nbut I'm in the mood for some junk food today!"
+  },
+  "1004_Haru_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I understand. Happens to everyone!"
+  },
+  "1066_Lynn_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Futuristic gadgets...?\nCould they make super moe maid robots?!"
+  },
+  "1066_Lynn_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Uhhhh... I'll think about it."
+  },
+  "1066_Lynn_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "There's somethig in the back of the store...\nOoh, what a nice microwave! ♪"
+  },
+  "1066_Lynn_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Wait! That one's still in beta!"
+  },
+  "1066_Lynn_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "You're always on the phone, but who are ya talkin' to...?"
+  },
+  "1066_Lynn_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Heh... If I were you, I wouldn't ask any more questions."
+  },
+  "1067_Mayuri_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "How are the electric appliances in Fuwa Fuwa faring?"
+  },
+  "1067_Mayuri_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "When our cafe starts making even more money,\nI'd love to replace all the old appliances with new ones!"
+  },
+  "1067_Mayuri_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "We accept pre-orders for upcoming games!"
+  },
+  "1067_Mayuri_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "What game should I entertain myself with next...?\nHehe, you won't find the word \"backlog\" in my dictionary."
+  },
+  "1067_Mayuri_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "The washin' machine at home is on its last legs...\nI should start lookin' for a new one."
+  },
+  "1067_Mayuri_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I'd recommend this model for large families.\nIt can hold a lot of laundry and even has a dryer function!"
+  },
+  "1010_Natsumi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Oh, you're here with your manager today, Miyu-chan?"
+  },
+  "1010_Natsumi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Yep! ...Oh, but this isn't a date, okay?!"
+  },
+  "1010_Natsumi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Thank you for always checking the teleportation devices."
+  },
+  "1010_Natsumi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "You're welcome. Ride safely, Favna-chan!"
+  },
+  "1010_Natsumi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Nowadays ya don't buy tickets, but charge a card with money\nand tap that on a machine instead... It's so complicated..."
+  },
+  "1010_Natsumi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "If there's anything you don't understand,\nyou can always talk to us!"
+  },
+  "1001_Shiori_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "I'll cast a spell~! ...Moe Moe☆Miracle!"
+  },
+  "1001_Shiori_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Hwah...! I felt my heart skip a beat!"
+  },
+  "1001_Shiori_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Mari-chan is good at cooking too,\nand she's been wanting to talk to you, Miyu-chan."
+  },
+  "1001_Shiori_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "For real?! I'd love to be friends~♪"
+  },
+  "1002_Mari_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I heard you serve customers with spells and whatnot?"
+  },
+  "1002_Mari_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Sigh... I guess I need a quirkly characteristic too..."
+  },
+  "1002_Mari_TeamDiaToFavna3": {
+    "PT": "",
+    "EN": "That's not true. I'm sure there are surface dwellers\nwho like you for your true personality."
+  },
+  "1002_Mari_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Hrmmm... I already heard that someone good with money joined Fuwa Fuwa,\nbut looks like you're a tough nut to crack, hm?"
+  },
+  "1002_Mari_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Heh heh heh... I ain't gonna lose to no one, not even Miracle!"
+  },
+  "1026_Yutaka_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "When you say you'll make us anything...\nIt makes it even harder for me to decide!"
+  },
+  "1026_Yutaka_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Hahaha, take your time.\nThe night's just begun."
+  },
+  "1026_Yutaka_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "There's nothing on the menu except the pork soup set...?\nThis could be a really smart strategy!"
+  },
+  "1026_Yutaka_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "I actually also have a mega pork soup set, y'know."
+  },
+  "1026_Yutaka_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Are you having a hard time deciding, my familiar?\nWould you like me to consult my cards?"
+  },
+  "1026_Yutaka_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "That's the first time I've seen someone use fortune telling to decide on an order!\nMaybe I should try suggesting that next time."
+  },
+  "1007_Yuka_TeamDiaToShiro1_6": {
+    "PT": "",
+    "EN": "Oh, right. Didn't you buy a huge bag of doujinshi on a rainy day one time?"
+  },
+  "1007_Yuka_TeamDiaToShiro2_6": {
+    "PT": "",
+    "EN": "I remember the books barely fit into the bag...\nDid they survive the trip home?"
+  },
+  "1007_Yuka_TeamDiaToShiro3_6": {
+    "PT": "",
+    "EN": "A-Ahaha... At least something good happened because of it!"
+  },
+  "1007_Yuka_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "This Lilith figure is sooo pretty...!\nI need it so badly I'm saving up for it!"
+  },
+  "1007_Yuka_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Thank you so much.\nI'm sure she's looking forward to going home with you too!"
+  },
+  "1007_Yuka_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I spot a copy of Opoonya in the bargain bin...\nI shall offer yet another game my salvation."
+  },
+  "1007_Yuka_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "It's a great game once you get your hands on it!\nYou should try it too, Mr. Manager!"
+  },
+  "1008_Narumi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "As a limited time campaign,\nwe're giving out anime merch to anyone who buys two or more snacks."
+  },
+  "1008_Narumi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Please take my money!!!"
+  },
+  "1008_Narumi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Have you tried the Neko Samurai lotto?"
+  },
+  "1008_Narumi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "The cards have shown that I will have good luck today...\nThe A Tier prize shall be mine!"
+  },
+  "1008_Narumi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "You get a discount if you buy two of the same drink at once."
+  },
+  "1008_Narumi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Are ya thirsty, Manager? Of course, why did I even ask!\nLet's get the same drink together! ♪"
+  },
+  "1015_Kana_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "You can order all sorts of food and drinks too!"
+  },
+  "1015_Kana_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Let's fill our stomachs and sing to our hearts content!"
+  },
+  "1015_Kana_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Please enjoy the spacious room and relax while you sing!"
+  },
+  "1015_Kana_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "My legs are tired from walking.\nPerhaps I should heal myself with song magic."
+  },
+  "1015_Kana_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Feel free to borrow the maracas and tambourines.\nThey can liven up any song!"
+  },
+  "1015_Kana_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I'm not that good of a singer...\nBut if ya cheer me on, then maybe..."
+  },
+  "1045_Nagi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "You're such good friends with Kanade-san out front!"
+  },
+  "1045_Nagi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "D-Do you think so?!\nIt's kind of embarrassing to hear that outright..."
+  },
+  "1045_Nagi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Fried chicken, French fries, pizza...\nHmm, what else should we order?"
+  },
+  "1045_Nagi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "You'd better put in some songs too before time runs out~!"
+  },
+  "1045_Nagi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "We have plenty of anime songs to choose from.\nSome pretty retro ones too!"
+  },
+  "1045_Nagi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Intriguing. Allow me to see what you have in store!"
+  },
+  "1046_An_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Which Magic Angel card do you like best?"
+  },
+  "1046_An_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "If we disregard gameplay,\nmy favorite card art is of Lilith's R card~!"
+  },
+  "1046_An_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I will never stray from my mono-darkness deck, no matter what!"
+  },
+  "1046_An_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Then you should get this booster pack to strengthen your deck!"
+  },
+  "1046_An_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Here are the rares from the latest Denmon set!"
+  },
+  "1046_An_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "This art is so good! It's like there's a story behind it..."
+  },
+  "1047_Yuusaku_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Battling looks pretty complicated...\nOoh, but this card is so cute! ♪"
+  },
+  "1047_Yuusaku_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Collecting is all part of the fun of a trading card game.\nEveryone has fun in their own way, so don't worry!"
+  },
+  "1047_Yuusaku_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "So you are the strongest duelist on Electric Street.\nHow many shadow duels have you won to this day...?"
+  },
+  "1047_Yuusaku_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "That's a secret... but duels are always fun!"
+  },
+  "1047_Yuusaku_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I heard that you're good at \"duels\"...\nBut do ya know how to play with Denmon cards too?"
+  },
+  "1047_Yuusaku_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Of course! I can teach you how, if you want."
+  },
+  "1043_Asuna_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "I heard that Nana-chan from the grocer's\nis actually really good at Smash Stars!"
+  },
+  "1043_Asuna_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Right? I was thinking of inviting her to our next competition!"
+  },
+  "1043_Asuna_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Older games have such detailed pixel animations too~!"
+  },
+  "1043_Asuna_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Mhm! It shows just how skilled the pixel artists were!"
+  },
+  "1043_Asuna_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Denmon battles have so much depth.\nI kept losin' to my sisters!"
+  },
+  "1043_Asuna_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I'm always impressed by how focused kids can get\nwhen they're really into something!"
+  },
+  "1044_Kazuto_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Oh, you're Favna-sama's friend, right? Nice to see you here!"
+  },
+  "1044_Kazuto_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Sh-Should we call her \"Favna-sama\" too...?!"
+  },
+  "1044_Kazuto_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "What would you do if you were trapped\nin the world of a video game, Miyu-san?"
+  },
+  "1044_Kazuto_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Hmmm... If the manager and my friends were with me,\nI think I'd have fun wherever I am!"
+  },
+  "1044_Kazuto_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "There's this quirky little shooter that features\na shrine maiden as the protagonist, you see..."
+  },
+  "1044_Kazuto_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I've never heard of that retro game!\nNow I really wanna try it out!"
+  },
+  "1070_Yanagihara_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Straining ramen looks easy, but it must be so hard to master!"
+  },
+  "1070_Yanagihara_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Yep! And that's why I put my soul in every swing like it's my last!"
+  },
+  "1070_Yanagihara_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Shijimi clam, asari clam, hamaguri clam……\nWhich follower of the clam monster Shen should I consume...?"
+  },
+  "1070_Yanagihara_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Different clams taste different,\nbut all of them go well with some chewy medium-thick ramen!"
+  },
+  "1070_Yanagihara_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Rare chashu on top of a rice bowl...!\nI'm in awe just lookin' at it~!"
+  },
+  "1070_Yanagihara_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "It's not just for show, either!\nGive it a taste for some clam goodness!"
+  },
+  "1022_Shioriko_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Huh? This book is really thick, but...\nWait, is this a doujinshi?!"
+  },
+  "1022_Shioriko_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Doujinshi so thick you could use it as a murder weapon...\nI love how much freedom doujin artists have to express their love."
+  },
+  "1022_Shioriko_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Hanako-san of the toilet, Kokkuri-san...\nAre they still popular with your generation?"
+  },
+  "1022_Shioriko_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "I think they were pretty popular when I was in primary school~!\nHow about you, Manager?"
+  },
+  "1022_Shioriko_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Whenever I come here, I find myself drawn to the paperback novels..."
+  },
+  "1022_Shioriko_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Maybe you should try reading some classic literature today..."
+  },
+  "1023_Daigo_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "This huge frog is soooo cute!"
+  },
+  "1023_Daigo_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Thanks! I polish it every day."
+  },
+  "1023_Daigo_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "The owner's all fired up, saying something about\nwanting to find new occult stuff for you, Favna-chan."
+  },
+  "1023_Daigo_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "She has my thanks. In anticipation of this event,\nI will have to accumulate more mana!"
+  },
+  "1023_Daigo_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I've always wanted this aritst mannequin!"
+  },
+  "1023_Daigo_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "It's gone out of production, so it's pretty rare.\nIf you want it, you'd want to do so now!"
+  },
+  "1032_Yuusuke_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "The grocer's, the tofu shop...\nIt would be fun to collaborate with other stores on Electric Street!"
+  },
+  "1032_Yuusuke_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Stuffed bell peppers, tofu burgers...\nOoooh, the possibilities are endless!"
+  },
+  "1032_Yuusuke_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "The Pura Pura Butcher's...?\nWhat is the intention behind this spell?"
+  },
+  "1032_Yuusuke_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "It's not that deep, I just want our customers\nto drop by our shop real casually, like \"pura pura~\", y'know?"
+  },
+  "1032_Yuusuke_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Chicken wings are cheap today!\nChock-full of collagen!"
+  },
+  "1032_Yuusuke_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Sweet and spicy fried chicken wings...\nAaaah, my mouth's watering just from the thought!"
+  },
+  "1049_Ayame_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "A phonograph and a double bass...\nDo you like music too?"
+  },
+  "1049_Ayame_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Yes. Should I play you a song next time?"
+  },
+  "1049_Ayame_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "I think this necklace would look great on you, Miss."
+  },
+  "1049_Ayame_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Whoaaa, it's so cute! How much is—\nOh... The price is... not cute..."
+  },
+  "1049_Ayame_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "That paintin' on the wall looks mighty expensive.\nI wonder how much it's worth..."
+  },
+  "1049_Ayame_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Fufu... There are some things you're better off not knowing."
+  },
+  "1035_Yui_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "...Your maid dress must be very happy\nto be worn by such a hardworking girl."
+  },
+  "1035_Yui_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Thank you very much. I'll continue to take good care of it!"
+  },
+  "1035_Yui_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "...Both you and your friend could undergo\na magical transformation if you wore my designs."
+  },
+  "1035_Yui_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "You mean we'd look real posh?\nThat sound so exciting~!"
+  },
+  "1035_Yui_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Do ya know Nogizaka-san from the kimono shop?"
+  },
+  "1035_Yui_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Yes, I do. We recognize the merits of both\ntraditional Japanese clothing and Western clothing."
+  },
+  "7_Rin_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "I know your thing is maid dresses, Shiro-san,\nbut I think you'd look great in Sweet Lolita too~!"
+  },
+  "7_Rin_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Ehehe... Sweet Lolita is very cute,\nbut I'd be kind of embarrassed..."
+  },
+  "7_Rin_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Would you like to try on some dresses?\nI bet a Gothic Lolita gyaru would be super cute!"
+  },
+  "7_Rin_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Oooh, sounds fun!\nI'd have to work on my makeup then! ♪"
+  },
+  "7_Rin_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I'd love to have you as a model for our new Wa Lolita series, Honoka-san!"
+  },
+  "7_Rin_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "A-Are ya sure? The dresses look adorable,\nbut that just makes me all the more nervous..."
+  },
+  "1052_Memi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "They're almost done, so wait juuust a little longer~!"
+  },
+  "1052_Memi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Whoa! You're flipping them over so fast!\nYou're really good at this~!"
+  },
+  "1052_Memi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Impressive skill.\nHow many sea monsters have you slain with those needles...?"
+  },
+  "1052_Memi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Yes ma'am! When it comes to flipping takoyaki,\nI won't lose to anyone, ma'am!"
+  },
+  "1052_Memi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "This year, I'm gonna go meet Holy Hanpen-sensei at an otaku festival!"
+  },
+  "1052_Memi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Eeeek!! Th-That sooo~? Good luuuuck~!"
+  },
+  "1027_Romin_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Do you like our new mentaiko and cheese monjayaki?"
+  },
+  "1027_Romin_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "It sounds really good!\nAnd it's the most fun when you make it with friends!"
+  },
+  "1027_Romin_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Pancakes?! I thought you sold takoyaki!\nNow I'm really curious~!"
+  },
+  "1027_Romin_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "We use the okonomiyaki griddle to make the pancakes,\nso they come out looking beautifully smooth."
+  },
+  "1027_Romin_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "We serve okonomiyaki too."
+  },
+  "1027_Romin_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Dependin' on which style ya serve it in,\nthat could be the start of a war..."
+  },
+  "1028_Mi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Au plaisir de vous revoir !"
+  },
+  "1028_Mi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Wow, we're being sent off in French!\nSo high-class...!"
+  },
+  "1028_Mi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "My hands keep shaking at the thought\nof grilling all this expensive meat myself!"
+  },
+  "1028_Mi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Don't be nervous. Just grill however you want."
+  },
+  "1028_Mi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Your grandfather visited the other day.\nHe said he would love to bring his granddaughter here one day."
+  },
+  "1028_Mi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Oh! That would be wonderful,\nbut one day, I wish to obtain such luxuries with my own coin."
+  },
+  "1029_Jiro_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "The kimchi is so good too!\nIt goes so well with rice, I could eat three bowls of it without realizing!"
+  },
+  "1029_Jiro_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "You've got good taste!\nWe make our kimchi with a super secret recipe!"
+  },
+  "1029_Jiro_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "My recommendation of the day is the teres major steak!\nIt's real tender and flavorful without being too fatty."
+  },
+  "1029_Jiro_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "And it's only a tiny fraction of the whole cow, making it a rarity...\nI'm impressed that you have such a delicacy!"
+  },
+  "1029_Jiro_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Once I can drink, I wanna eat here\nwith a glass of beer in one hand and tongs in the other~"
+  },
+  "1029_Jiro_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Right? The combination of alcohol and meat just can't be beat!"
+  },
+  "1041_Murasaki_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "It'd be so convenient if we could go shopping\nfor the cafe on a bicycle."
+  },
+  "1041_Murasaki_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Yep, and it only gets better the more your upgrade your bike!"
+  },
+  "1041_Murasaki_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "This is THE best city bike for school commutes!\nAnd that's because it's very light!"
+  },
+  "1041_Murasaki_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "And it comes in such cute colors! ♪\nIf I ever need a new bike, I'll get this one!"
+  },
+  "1041_Murasaki_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Your outfit is really cute, but don't forget to wear a helmet when you ride a bike."
+  },
+  "1041_Murasaki_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Very well. As the Queen of the Kingdom of Darkness,\nI must treasure this life."
+  },
+  "1042_Chiharu_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Don't forget to lock your bike when you're away\nin case someone tries to steal it!"
+  },
+  "1042_Chiharu_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Yes, I should be careful.\n...Especially since I might forget my own lock password..."
+  },
+  "1042_Chiharu_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "For shorter girls, I'd recommend a 24-inch bike!"
+  },
+  "1042_Chiharu_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Hm, not a bad idea.\n...If you had dared recommend me training wheels,\nI would have called upon the destruction of the world."
+  },
+  "1042_Chiharu_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "We also have a wide selection of safety goods.\nWould you be interested in bike reflectors, for example?"
+  },
+  "1042_Chiharu_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Whoa, I never knew they made cute designs like this!\nMaybe I should buy a couple for my sisters."
+  },
+  "1024_Toshiko_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Here's a glass of lassi to go with your curry!"
+  },
+  "1024_Toshiko_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "I love lassi! It's so refreshing and flavorful~"
+  },
+  "1024_Toshiko_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Why not sweat out those toxins by eating some piping hot curry?"
+  },
+  "1024_Toshiko_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Consuming the infernal flames of Tianzhu during the scorching season...\nIt takes much determination!"
+  },
+  "1024_Toshiko_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Pipin' hot curry in a cool, air-conditioned restaurant...\nIt's one of my guilty pleasures!"
+  },
+  "1024_Toshiko_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Ahaha! Take your time to cool down while you eat!"
+  },
+  "1025_Futaba_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "We have over 50 toppings to choose from. Take your pick!"
+  },
+  "1025_Futaba_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "My lunch budget for today is 1000 yen...\nI have to get as much as I can within that!"
+  },
+  "1025_Futaba_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Can you guess what our top 3 most popular toppings are?"
+  },
+  "1025_Futaba_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "My personal favorite is the hamburger, buuut...\nHmmm, what could they be~?!"
+  },
+  "1025_Futaba_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I don't usually add toppings 'cause I don't wanna put on weight,\nbut maybe... just once in a while... Maybe..."
+  },
+  "1025_Futaba_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "We have a lot of veggies too, so don't hold yourself back!"
+  },
+  "1036_Daichi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "We're working with the Shopping Association to hold a game tournament.\nWe're planning on getting some really skilled players to join!"
+  },
+  "1036_Daichi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "That sounds so exciting...! I'd love to watch!"
+  },
+  "1036_Daichi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "If a next-gen console was about to come out,\nwhat kind of feature would you want for it?"
+  },
+  "1036_Daichi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Well... I'd love to be able to smell the tasty-looking food in games! ♪"
+  },
+  "1036_Daichi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "For the second Electric Street Game Tournament,\nI'm thinking of holding a Denmon tournament."
+  },
+  "1036_Daichi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "That's exactly what I wanted to hear!\nI'm gonna rock the stage with my li'l sisters!"
+  },
+  "1037_Kuro_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "An adventure game where you manage a maid cafe...\nMight be fun..."
+  },
+  "1037_Kuro_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "I bet the in-game cafe would be in\njust as much trouble as ours... Ahaha..."
+  },
+  "1037_Kuro_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Retro games are cool...\nBut the newest VR games... are also cool."
+  },
+  "1037_Kuro_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Yep! If Magic Angel ever got a VR game,\nit'd be soooo cinematic~!"
+  },
+  "1037_Kuro_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Are you buying this? But this is...\nthe legendary \"Hoshi wo Yomu Hito\"..."
+  },
+  "1037_Kuro_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "There is no game I cannot conquer.\nThe higher the difficulty, the more strongly my soul burns!"
+  },
+  "1031_Yashuhiko_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Your hair is such a sleek black,\nI bet it'd look good long too!"
+  },
+  "1031_Yashuhiko_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "R-Really? Do you think so, Manager...?"
+  },
+  "1031_Yashuhiko_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Your hairstyle... What're they called again? Twin drills?\nIs that what's popular with young people nowadays...?"
+  },
+  "1031_Yashuhiko_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "No, it's not. This hairstyle is reserved for\na select few who are noble enough to deserve it."
+  },
+  "1031_Yashuhiko_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "It's so blisterin' hot outside, it might be a good idea\nto chop off my hair and wear it real short instead."
+  },
+  "1031_Yashuhiko_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Why not? I'd do it for ya!"
+  },
+  "1017_Sinobu_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "I can taste the dedication you have for the recipe.\nNow I know why Miyu is so addicted to the food here!"
+  },
+  "1017_Sinobu_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Thank you. Miyu-chan's become a great promoter for our malatang!"
+  },
+  "1017_Sinobu_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Nnngh...! It's as if I've been struck with lightning magic!"
+  },
+  "1017_Sinobu_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "And then it warms you right up! Simply magical, isn't it?"
+  },
+  "1017_Sinobu_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "The hotter it is outside, the more I wanna eat somethin' spicy...\nI wonder why that is, though..."
+  },
+  "1017_Sinobu_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Spicy food can stimulate your appetite,\nso it can help you recharge if you're feeling tired from the heat!"
+  },
+  "1018_Nobuyuki_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "I wanna try the limited-time soy milk soup too!"
+  },
+  "1018_Nobuyuki_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "We use tofu from the Kondou Tofu Store,\nso I guarantee the soup is rich and creamy!"
+  },
+  "1018_Nobuyuki_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "This aroma... It is a tempting spell attempting to drive me mad...!"
+  },
+  "1018_Nobuyuki_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Our original Sichuan pepper sauce is order-made locally!\nYou won't find this aroma or tingly feeling anywhere else in Japan!"
+  },
+  "1018_Nobuyuki_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "By the way, what does malatang mean, anyway?\nI never really thought about it."
+  },
+  "1018_Nobuyuki_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "It means \"tingly spicy soup\"!\nMalatang's been getting more popular in recent years."
+  },
+  "1030_Tokuko_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Here, I made this cold pickle on a stick.\nPerfect for a hot summer day, don't you think?"
+  },
+  "1030_Tokuko_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Thank you so much!\nMmm, I feel rehydrated and freshened up already!"
+  },
+  "1030_Tokuko_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Thanks so much for always buying our veggies, Fuwa Fuwa."
+  },
+  "1030_Tokuko_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "We'll be using your fresh and tasty veggies a lot from now on!"
+  },
+  "1030_Tokuko_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "My granddaughter is very good at video games.\nShe always beats my son like it's nothing."
+  },
+  "1030_Tokuko_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "I see... I would like to challenge her to a match one day."
+  },
+  "1014_Sakura_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Free watermelon samples~!\nFeel free to take one!"
+  },
+  "1014_Sakura_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "It's sooo juicy~! I should buy a watermelon next time I stop by!"
+  },
+  "1014_Sakura_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I heard that Game Tanteidan is organizing a video game tournament.\nThat sounds like so much fun!"
+  },
+  "1014_Sakura_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "They seemed to want to invite you to the battle for your impressive skill."
+  },
+  "1014_Sakura_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "This melon is perfect as a present!"
+  },
+  "1014_Sakura_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Should we gift this to any important patrons we get in the future, Manager?"
+  },
+  "1019_Ichiryu_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Tuna fileting looks so cool!\nI kind of want to try it!"
+  },
+  "1019_Ichiryu_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "I could teach you how to do it!\nWanna join in, Mr. Manager?"
+  },
+  "1019_Ichiryu_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "You remind me of the parrotfish I fileted in Okinawa."
+  },
+  "1019_Ichiryu_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "Is that so? I wonder what type of sea monster that is?"
+  },
+  "1019_Ichiryu_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Hey there! Come right on in!"
+  },
+  "1019_Ichiryu_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Ya always greet me so loudly whenever I come.\nI reckon that's the energy ya gotta have when ya run a business!"
+  },
+  "1020_Kaoru_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "The sashimi looks really good, but the decorative garnishe are so pretty too...!"
+  },
+  "1020_Kaoru_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Aw, thank you. I might not be good at much,\nbut I do know my way with a knife."
+  },
+  "1020_Kaoru_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "My daughter might be a little rough around the edges,\nbut please be nice with her."
+  },
+  "1020_Kaoru_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "But of course. I'm very intrigued by her mysterious super strength."
+  },
+  "1020_Kaoru_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I'm completely clueless with most forms of cooking,\nbut I'm very good at making sushi."
+  },
+  "1020_Kaoru_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Homemade sushi? That sounds lovely~!"
+  },
+  "1021_Haruka_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Won't you add fish to your maid cafe's menu?"
+  },
+  "1021_Haruka_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Hmm, good point! We'll think about it!"
+  },
+  "1021_Haruka_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Oh, you're on Densta too, Haruka-chan?\nWhatcha looking at?"
+  },
+  "1021_Haruka_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Sashimi plates!\nI'm learning how to make them look really pretty for photos!"
+  },
+  "1021_Haruka_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Oopsies! I almost forgot to buy wasabi.\nIt's super important for sashimi!"
+  },
+  "1021_Haruka_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "I don't really like wasabi that much...\nBut one day, I'm gonna develop a taste for it!"
+  },
+  "1038_Bunta_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "How about some refreshing tofu salad for a hot day like this?"
+  },
+  "1038_Bunta_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Great idea! I'll have to visit the grocer's later!"
+  },
+  "1038_Bunta_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "Tofu, abura-age, natto, miso...\nSoy beans can be transformed into so many things."
+  },
+  "1038_Bunta_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "That's right! And that's exactly how our store stays afloat!"
+  },
+  "1038_Bunta_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Aw, darn! I forgot to buy ingredients for miso soup!"
+  },
+  "1038_Bunta_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "The usual tofu and abura-age, right?\nI'll get them for you right away!"
+  },
+  "1039_Takumi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Whenever I run out of money from buying too much merch,\ntofu has always been my savior..."
+  },
+  "1039_Takumi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Glad to hear it, but you should try to eat balanced meals if you can."
+  },
+  "1039_Takumi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Mapo tofu, tofu burgers...\nTofu sure has unlimited potential!"
+  },
+  "1039_Takumi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "R-Really? I hope so..."
+  },
+  "1039_Takumi_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "I love tofu, but it always spoils so quicky..."
+  },
+  "1039_Takumi_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "You should try keeping the tofu soaked in water,\nand it lasts longer if you change the water every so often."
+  },
+  "1040_Megumi_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Welcome! We've got coffee milk in the fridge!"
+  },
+  "1040_Megumi_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "Your coffee is still my favorite, Manager...\nbut I could never give up the coffee milk they serve here!"
+  },
+  "1040_Megumi_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "Our baths do wonders for your skin!"
+  },
+  "1040_Megumi_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "For real?! Now I wanna come here every day!"
+  },
+  "1040_Megumi_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I've bought a whole bunch of rubber duckies.\nWould you like any?"
+  },
+  "1040_Megumi_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "If you seek a master for the White Waterfowl of Darkness,\nthen look no further!"
+  },
+  "1033_Akiho_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Would you like to take a look at our kimono fabrics?\nWe have a wide variety to choose from, see?"
+  },
+  "1033_Akiho_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "They're all so beautiful...!\nI could stay here and look at them for hours!"
+  },
+  "1033_Akiho_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "We rent out kimonos at a discounted price around New Years."
+  },
+  "1033_Akiho_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "Oooh...! I wanna try doing New Years stuff in a kimono,\nlike writing calligraphy and stuff!"
+  },
+  "1033_Akiho_TeamDiaToFavna1": {
+    "PT": "",
+    "EN": "I believe an elegant kimono would suit you very well.\nPerhaps something alluring, like the oiran..."
+  },
+  "1033_Akiho_TeamDiaToFavna2": {
+    "PT": "",
+    "EN": "If such a dark garment could be fashioned,\nI would be able to rule over the lands of the Far East as well!"
+  },
+  "1034_Tsuki_TeamDiaToShiro1": {
+    "PT": "",
+    "EN": "Do you know Neko Samurai?\nI'm collecting their capsule toys."
+  },
+  "1034_Tsuki_TeamDiaToShiro2": {
+    "PT": "",
+    "EN": "I do! They're so cool and cute at the same time!\nMy favorite character is Nyansuke!"
+  },
+  "1034_Tsuki_TeamDiaToMiyu1": {
+    "PT": "",
+    "EN": "What kind of kimono would you like to wear for your coming-of-age ceremony?\nPerhaps something chic and simplistic?"
+  },
+  "1034_Tsuki_TeamDiaToMiyu2": {
+    "PT": "",
+    "EN": "That would be cool, but I can't really decide~\n...Would you help me choose, Manager?"
+  },
+  "1034_Tsuki_TeamDiaToHonoka1": {
+    "PT": "",
+    "EN": "Younger people should feel free to wear kimono more casually."
+  },
+  "1034_Tsuki_TeamDiaToHonoka2": {
+    "PT": "",
+    "EN": "Our shrine thinks the same too.\nWe gotta keep promotin' it!"
+  }
+}

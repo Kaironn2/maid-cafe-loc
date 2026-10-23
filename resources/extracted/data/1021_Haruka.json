@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1021_Haruka_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1021_Haruka_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1021_Haruka_Basic_Idle1",
+    "Type": "Basic",
+    "Atlas": "1021_Haruka_Basic",
+    "Frame": "4_7"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1021_Haruka_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1021_Haruka_Basic",
+    "Frame": "8_13"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "1021_Haruka_Basic_Walk1",
+    "Type": "Basic",
+    "Atlas": "1021_Haruka_Basic",
+    "Frame": "14_19"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "1021_Haruka_Basic_Leisure",
+    "Type": "Basic",
+    "Atlas": "1021_Haruka_Basic",
+    "Frame": "20_27"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "1021_Haruka_Basic_Leisure1",
+    "Type": "Basic",
+    "Atlas": "1021_Haruka_Basic",
+    "Frame": "28_40"
+  }
+}

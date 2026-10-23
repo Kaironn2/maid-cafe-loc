@@ -1,0 +1,23 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1036_Daichi_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1036_Daichi_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1036_Daichi_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1036_Daichi_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1036_Daichi_Basic_SideSitIdle",
+    "Type": "Basic",
+    "Atlas": "1036_Daichi_Basic",
+    "Frame": "10_10"
+  }
+}

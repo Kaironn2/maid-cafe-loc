@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1003_Suzuka_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1003_Suzuka_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1003_Suzuka_Basic_Welcome",
+    "Type": "Basic",
+    "Atlas": "1003_Suzuka_Basic",
+    "Frame": "4_15"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1003_Suzuka_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1003_Suzuka_Basic",
+    "Frame": "16_21"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "1003_Suzuka_Basic_Idle1",
+    "Type": "Basic",
+    "Atlas": "1003_Suzuka_Basic",
+    "Frame": "22_25"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "1003_Suzuka_Basic_Walk1",
+    "Type": "Basic",
+    "Atlas": "1003_Suzuka_Basic",
+    "Frame": "26_31"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "1003_Suzuka_Basic_BackSitIdle",
+    "Type": "Basic",
+    "Atlas": "1003_Suzuka_Basic",
+    "Frame": "32_35"
+  }
+}

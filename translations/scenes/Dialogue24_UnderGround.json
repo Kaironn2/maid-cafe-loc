@@ -1,0 +1,502 @@
+{
+  "0": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you for inviting me, Manager!"
+  },
+  "1": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"No, thank you for coming. Where should we go?\""
+  },
+  "2": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hehe, wherever you want to go!"
+  },
+  "3": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Manager~! This way, this way~!"
+  },
+  "4": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Sorry to make you wait. So, where do you want to go today?\""
+  },
+  "5": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I'll leave that up to you!\nI expect you to be nothing short of chivalrous! ☆"
+  },
+  "6": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I see you're here to pick me up today.\nI expect no less from my familiar."
+  },
+  "7": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Where do you want to go, Favna?\""
+  },
+  "8": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You are the one who guides today.\nTake me somewhere that will quench the thirst of my heart."
+  },
+  "9": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Time really flies when you have fun.\nI had a really good time for the first time in a while!"
+  },
+  "10": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(We've faced a lot of uncertainties recently,\nso I'm glad this was a good change of pace.)"
+  },
+  "11": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "See you tomorrow, Manager!"
+  },
+  "12": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You watch as Shiro smiles and waves goodbye,\nand then return to your apartment..."
+  },
+  "13": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Phew, that was so much fun!\nIt's been a while since I could let loose like that!"
+  },
+  "14": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(We've faced a lot of uncertainties recently,\nso I'm glad this was a good change of pace.)"
+  },
+  "15": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Bye, Manager! Seeya tomorrow!"
+  },
+  "16": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You watch as Miyu smiles and waves goodbye,\nand then return to your apartment..."
+  },
+  "17": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The thirst has been quenched.\nAccepting your invitation was the correct choice."
+  },
+  "18": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(We've faced a lot of uncertainties recently,\nso I'm glad this was a good change of pace.)"
+  },
+  "19": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Then I shall see you again tomorrow, at the Elysium."
+  },
+  "20": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You watch as Favna smiles and waves goodbye,\nand then return to your apartment..."
+  },
+  "21": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Oh, there she is.) \"Heyyy, Shiro...\""
+  },
+  "22": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "......"
+  },
+  "23": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Observe:option1"
+  },
+  "24": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Hm~ Hm~ Hm~"
+  },
+  "25": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "She seems to be enjoying her music."
+  },
+  "26": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "She bounces to the rhythm, and even strikes a cute pose."
+  },
+  "27": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "......"
+  },
+  "28": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "But, perhaps hit by a sudden wave of embarrassment,\nshe quickly stops and pretends nothing ever happened."
+  },
+  "29": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Oh, Manager. What are you doing just standing there?"
+  },
+  "30": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh, nothing, just... I guess you could call it déjà vu?\nSomething felt really familiar.\""
+  },
+  "31": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Now that you mention it, this is just like the day\nwe first met up outside the cafe."
+  },
+  "32": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Maybe we could go around town and look back\non all the things we've done here so far.)"
+  },
+  "33": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I had a lot of fun today, Manager!\nThank you so much!"
+  },
+  "34": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you for going out of your way to buy me a yukata, Manager!\nI had so much fun!"
+  },
+  "35": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Shiro smiles at you and walks away,\nand you watch until her silhouette disappears into the crowd..."
+  },
+  "36": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Tomorrow's the day of the summer festival.)"
+  },
+  "37": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...I want to give Shiro a surprise present for the occasion.)"
+  },
+  "38": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(But what should I give her...? She loves maids so much,\nso maybe I should get her a maid costume.)"
+  },
+  "39": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(All right, I should go somewhere I can buy costumes!)"
+  },
+  "40": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thanks for hanging out with me all the time.\nLet's have fun at the summer festival too!"
+  },
+  "41": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thanks a lot for the yukata!\nI'll never forget today for the rest of my life!"
+  },
+  "42": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miyu smiles at you and walks away,\nand you watch until her silhouette disappears into the crowd..."
+  },
+  "43": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Tomorrow's the day of the summer festival.)"
+  },
+  "44": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...I want to give Miyu a surprise present for the occasion.)"
+  },
+  "45": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(But what should I give her...?\nI want Miyu to enjoy cooking even more.)"
+  },
+  "46": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(All right, I should go somewhere I can buy kitchen appliances!)"
+  },
+  "47": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You proved your loyalty once again.\nI trust you to entertain me again during the Late Summer Banquet."
+  },
+  "48": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The Late Summer Banquet was the most\nentertaining event I have ever attended.\n...Thank you."
+  },
+  "49": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Favna smiles at you and walks away,\nand you watch until her silhouette disappears into the crowd..."
+  },
+  "50": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Tomorrow's the day of the summer festival.)"
+  },
+  "51": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...I want to give Favna a surprise present for the occasion.)"
+  },
+  "52": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "As you go over your options for a present,\nyou remember the pendant Favna entrusted you with."
+  },
+  "53": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I want to give her a new accessory.\nI should go somewhere I can buy jewelry.)"
+  },
+  "54": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thanks for waiting, everyone.\""
+  },
+  "55": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "All right then, time to go!"
+  },
+  "56": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thanks for waiting.\""
+  },
+  "57": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Ohhh, your outfits...!\""
+  },
+  "58": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ta-daaa! Well? What do you think?"
+  },
+  "59": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Traditional Bathrobes of Relaxation...\nAre they not perfect for the Late Summer Banquet?"
+  },
+  "60": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Honoka-san helped me put it on!"
+  },
+  "61": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Thank you so much for buying me a yukata, Manager!"
+  },
+  "62": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We put together our pocket money and rented one too!\nThanks for chipping in, Shiro!"
+  },
+  "63": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "All right then, time to go!"
+  },
+  "64": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thanks for waiting.\""
+  },
+  "65": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Ohhh, your outfits...!\""
+  },
+  "66": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ta-daaa! Well? What do you think?"
+  },
+  "67": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Traditional Bathrobes of Relaxation...\nAre they not perfect for the Late Summer Banquet?"
+  },
+  "68": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Honoka-san helped me put it on!"
+  },
+  "69": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "This yukata you got me is soooo cute, it's, like, perfect!"
+  },
+  "70": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "We also rented our own bathrobes from the Association.\nThank you for contributing to our funds, Chef Rouge de Magie."
+  },
+  "71": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "All right then, time to go!"
+  },
+  "72": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thanks for waiting.\""
+  },
+  "73": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Ohhh, your outfits...!\""
+  },
+  "74": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ta-daaa! Well? What do you think?"
+  },
+  "75": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Traditional Bathrobes of Relaxation...\nAre they not perfect for the Late Summer Banquet?"
+  },
+  "76": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Honoka-san helped me put it on!"
+  },
+  "77": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "These Bathrobes are a symbol of your loyalty...\nBe sure to etch this scene in your mind's eye."
+  },
+  "78": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "We put together some money to rent our own, too.\nThanks for chippin' in with your pocket money, Favna!"
+  },
+  "79": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "All right then, time to go!"
+  },
+  "80": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thanks for waiting.\""
+  },
+  "81": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Ohhh, your outfits...!\""
+  },
+  "82": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Ta-daaa! Well? What do you think?"
+  },
+  "83": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Traditional Bathrobes of Relaxation...\nAre they not perfect for the Late Summer Banquet?"
+  },
+  "84": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Honoka-san helped me put it on!"
+  },
+  "85": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "This yukata ya bought me is gettin' me all pumped up for the festival!"
+  },
+  "86": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "We rented our own yukata for the occasion too.\nThank you so much for chipping in, Honoka-san!"
+  },
+  "87": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "All right then, time to go!"
+  },
+  "88": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager~! Thank you for waiting!"
+  },
+  "89": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Now that you get to take a closer look,\nShiro looks really cute in her yukata...\nBeing alone with her like this is making your heart skip a beat."
+  },
+  "90": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Let's have as much fun as possible today!"
+  },
+  "91": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thanks for waiting, Manager!"
+  },
+  "92": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Now that you get to take a closer look,\nMiyu looks more mature than usual in her yukata...\nBeing alone with her like this is making your heart skip a beat."
+  },
+  "93": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "What food should we grab from the stalls?\nOhhh, I can't wait~!"
+  },
+  "94": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Thank you for your patience, my familiar."
+  },
+  "95": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Now that you get to take a closer look,\nFavna looks so elegant yet cute at the same time in her yukata...\nBeing alone with her like this is making your heart skip a beat."
+  },
+  "96": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Now, let us depart for the Great Gilded Castle of Wealth!"
+  },
+  "97": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Sorry to make ya wait!"
+  },
+  "98": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Now that you get to take a closer look,\nHonoka looks so delicate and gorgeous in her yukata...\nBeing alone with her like this is making your heart skip a beat."
+  },
+  "99": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "C'mon, let's go!"
+  }
+}

@@ -1,0 +1,2877 @@
+{
+  "0": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Sigh..."
+  },
+  "1": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Huh, there's a shrine here?\nI pass by here all the time, but I never noticed."
+  },
+  "2": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Yes! I think the fact that there's a shrine right next to Electric Street\nis one of the most interesting things about this city."
+  },
+  "3": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You chat among yourselves as you enter the shrine."
+  },
+  "4": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Oh! Welcome, welcome to Ishida Shrine~!"
+  },
+  "5": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "...Shrines aren't exactly supposed to greet folks like that,\nbut y'know. Whatever."
+  },
+  "6": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "You clap twice at a shrine, right?\nOr was that for Buddhist temples...?"
+  },
+  "7": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I forgot to change out of my maid dress before coming,\nbut hey, free exposure for the cafe, I guess! ♪"
+  },
+  "8": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ya want a thrivin' business?\nThat there sounds like a job for our shrine!"
+  },
+  "9": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Did ya know? If you're wishin' for good fortune,\nya get better results by prayin' at a nearby shrine\ninstead of someplace way over yonder."
+  },
+  "10": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "And since y'all seem to be right next door,\nWhy don't you make an offering?"
+  },
+  "11": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ehehe, I'm just pullin' your leg."
+  },
+  "12": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You stand before the offertory box."
+  },
+  "13": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Throw in a 5 yen coin:option1;Throw in a 100 yen coin:option2;Throw in a 1000 yen bill:option3;Do nothing:option4"
+  },
+  "14": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You throw a 5 yen coin into the offertory box."
+  },
+  "15": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You throw a 100 yen coin into the offertory box."
+  },
+  "16": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You throw a 1000 yen bill into the offertory box."
+  },
+  "17": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You decide not to make an offering."
+  },
+  "18": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I wish for Fuwa Fuwa's business to be smooth-sailing...)"
+  },
+  "19": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You all wish for a thriving business."
+  },
+  "20": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Starting tomorrow, we'll get more customers for sure!"
+  },
+  "21": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, Miyu, let's work hard together!"
+  },
+  "22": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Mhm! Let's go back to the cafe, clean up,\nand change out of our outfits first."
+  },
+  "23": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You say goodbye to the shrine maiden and return to the cafe."
+  },
+  "24": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...Uu...uuuu......"
+  },
+  "25": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meooow."
+  },
+  "26": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You follow the black cat, and find a girl standing there."
+  },
+  "27": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait, haven't we met before...?\""
+  },
+  "28": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The great Favna's eyes are capable of perceiving destiny."
+  },
+  "29": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I knew that the kitten would bring you to me as long as I waited here.\nBoth the stars and the cards told me so."
+  },
+  "30": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You are the store manager for a ramen shop...\nAm I correct?"
+  },
+  "31": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh? Uh, no,\nI work at a cafe called Fuwa Fuwa...\""
+  },
+  "32": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "......"
+  },
+  "33": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "R-Right. A cafe. I knew that.\nI just had it mixed up in my mind."
+  },
+  "34": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There is only one path to the throne of the gods...\nbecause the truth is always within the great Favna."
+  },
+  "35": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That is why I never lose my way. Understood?"
+  },
+  "36": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Uh-huh... But she did guess that I was a store manager,\nand she somehow knew she would meet me here.)"
+  },
+  "37": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Does she really have some sort of mysterious power...?)"
+  },
+  "38": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Anyway. I should give this back to you.\""
+  },
+  "39": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You show Favna the pendant."
+  },
+  "40": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I found this after bumping into you last time. It's yours, isn't it?\""
+  },
+  "41": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There's no need to return it.\nThat is the proof of our pact..."
+  },
+  "42": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "And I stopped searching for it once I knew it was in your hands."
+  },
+  "43": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That pendant a holy relic that I had already planned to bestow upon you.\nThis was its fate from the very beginning."
+  },
+  "44": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "But it looks pretty expensive...:option5;This too is fate...?:option6"
+  },
+  "45": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The price of the relic is irrelevant."
+  },
+  "46": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The fact that you found it was determined by fate."
+  },
+  "47": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "So it belongs to you now!"
+  },
+  "48": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That's right. Do you understand now?"
+  },
+  "49": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Just as expected, you are the most worthy of becoming my familiar!"
+  },
+  "50": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"What even is fate, exactly...?\""
+  },
+  "51": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Fate is what draws us to that place...\nWhere garments of black and white billow and flutter..."
+  },
+  "52": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Say no more, I already know.\nLet us visit that fated place to sever your misfortune!"
+  },
+  "53": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meooow."
+  },
+  "54": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You follow the black cat, and find a girl standing there."
+  },
+  "55": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait, haven't we met before...?\""
+  },
+  "56": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The great Favna's eyes are capable of perceiving destiny."
+  },
+  "57": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I knew that the kitten would bring you to me as long as I waited here.\nBoth the stars and the cards told me so."
+  },
+  "58": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You are the store manager for a ramen shop...\nAm I correct?"
+  },
+  "59": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh? Uh, no,\nI work at a cafe called Fuwa Fuwa...\""
+  },
+  "60": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "......"
+  },
+  "61": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "R-Right. A maid cafe. I knew that.\nI just had it mixed up in my mind."
+  },
+  "62": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There is only one path to the throne of the gods...\nbecause the truth is always within the great Favna."
+  },
+  "63": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That is why I never lose my way. Understood?"
+  },
+  "64": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Uh-huh... But she did guess that I was a store manager,\nand she somehow knew she would meet me here.)"
+  },
+  "65": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Does she really have some sort of mysterious power...?)"
+  },
+  "66": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"By the way, what exactly do you mean by fate, anyway?\nBad things have been happening to me lately;\ncould it be because of that pendant...?\""
+  },
+  "67": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Yes, I am aware. I saw it all.\nI can't believe you listened to the coaxing of a devil\nand gave up the symbol of your pact."
+  },
+  "68": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Ough.\""
+  },
+  "69": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The pact has been permanently annulled.\nUnfortunately, there is no more stopping the gears of fate."
+  },
+  "70": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I don't believe we will ever meet again. Goodbye."
+  },
+  "71": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meooow."
+  },
+  "72": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You follow the black cat, and find a girl standing there."
+  },
+  "73": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait, haven't we met before...?\""
+  },
+  "74": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The great Favna's eyes are capable of perceiving destiny."
+  },
+  "75": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I knew that the kitten would bring you to me as long as I waited here.\nBoth the stars and the cards told me so."
+  },
+  "76": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You are the store manager for a ramen shop...\nAm I correct?"
+  },
+  "77": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh? Uh, no,\nI work at a cafe called Fuwa Fuwa...\""
+  },
+  "78": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "......"
+  },
+  "79": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "R-Right. It's a maid cafe, right? I knew that.\nI just had it mixed up in my mind."
+  },
+  "80": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There is only one path to the throne of the gods...\nbecause the truth is always within the great Favna."
+  },
+  "81": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That is why I never lose my way. Understood?"
+  },
+  "82": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Uh-huh... But she did guess that I was a store manager,\nand she somehow knew she would meet me here.)"
+  },
+  "83": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Does she really have some sort of mysterious powers...)"
+  },
+  "84": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Anyway. I should give this back to you.\""
+  },
+  "85": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You show Favna the pendant."
+  },
+  "86": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I found this after bumping into you last time. It's yours, isn't it?\""
+  },
+  "87": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There's no need to return it.\nThat is the proof of our pact..."
+  },
+  "88": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "In order for the pact to take effect, both parties must channel their mana\ninto the same catalyst. That is why on that day... I pretended to drop the pendant."
+  },
+  "89": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That pendant a holy relic that I had already planned to bestow upon you.\nThis was its fate from the very beginning."
+  },
+  "90": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "But it looks pretty expensive...:option5;This too is fate...?:option6"
+  },
+  "91": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The price of the relic is irrelevant."
+  },
+  "92": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The fact that you found it was determined by fate."
+  },
+  "93": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "So it belongs to you now!"
+  },
+  "94": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That's right. Do you understand now?"
+  },
+  "95": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Just as expected, you are the most worthy of becoming my familiar!"
+  },
+  "96": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"What even is fate, exactly...?\""
+  },
+  "97": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "When the proof of our pact is filled with a sufficient amount of mana,\nthe great catastrophe will perish,\nand the angel of darkness will reveal her true form..."
+  },
+  "98": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Until the time comes, please hold on to the pendant at all times.\nIt will protect you and your allies."
+  },
+  "99": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"W-Wait!\""
+  },
+  "100": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(The great catastrophe...? What's going to happen...?)"
+  },
+  "101": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I guess I'll have to take good care of this pendant\nuntil I meet that girl again...)"
+  },
+  "102": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You snap out of your stupor and find yourself at the shrine.\nHowever, there's no sight of the black cat."
+  },
+  "103": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait, where did the cat go...?\""
+  },
+  "104": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Ack... That pendant... That power... Argh..."
+  },
+  "105": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...Get... out...!"
+  },
+  "106": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...What?!)"
+  },
+  "107": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I-I can't move...?! What's happening...?!)"
+  },
+  "108": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "What's goin' on here?!"
+  },
+  "109": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "...That spirit! At a time like this...?!"
+  },
+  "110": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Hey! What'cha doin' over there?"
+  },
+  "111": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Nope, he can't even answer...\nI'll have to do somethin' about the ghost first..."
+  },
+  "112": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meowww!"
+  },
+  "113": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "A cat? Is it callin' for me?"
+  },
+  "114": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "A pendant... Are ya tellin' me to use it?\nThere does seem to be some power inside... I'll give it a shot!"
+  },
+  "115": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Urrrgh...! A disturbance...!"
+  },
+  "116": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "All right, it's gone for now.\nBut the pendant's gone off somewhere..."
+  },
+  "117": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Did I use it too forcibly?\nI prolly wasn't very compatible with it, either..."
+  },
+  "118": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Seeing you collapsed on the ground, Honoka holds you gently.\nYou feel weak all over, and it takes a while for you to recover."
+  },
+  "119": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Th-Thanks...\""
+  },
+  "120": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"But that pendant...\nWhat will I even say to Favna tomorrow?\""
+  },
+  "121": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Sounds like that pendant's important to ya..."
+  },
+  "122": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "It must be somewhere close.\nI'll help ya look for it! It's the least I can do."
+  },
+  "123": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you very much.\""
+  },
+  "124": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I'll go look over at the main building!\nTell me if there's anythin' I can help ya with!"
+  },
+  "125": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Mrrp..."
+  },
+  "126": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Don't worry, I'll find that pendant.\""
+  },
+  "127": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'd be too ashamed to talk to Favna if I lose the pendant.\nI have to find it somehow.)"
+  },
+  "128": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Hmm, it's not here...)"
+  },
+  "129": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Mya! Meow!"
+  },
+  "130": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hm? Is the pendant over there?\""
+  },
+  "131": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Oh, there's a storm drain here. Could it be in the drain...?)"
+  },
+  "132": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You look down at the drain and notice a red glint among the mud and leaves.\nThe pendant seems to have fallen into the drain."
+  },
+  "133": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(It's so narrow and muddy... I'll need a tool for this...)"
+  },
+  "134": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "A tool? What do ya need? Take your pick!"
+  },
+  "135": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Laundry pole:option9;Shovel:option10;Back scratcher:option11"
+  },
+  "136": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You borrowed a laundry pole from Honoka."
+  },
+  "137": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You borrowed a shovel from Honoka."
+  },
+  "138": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You borrowed a back scratcher from Honoka."
+  },
+  "139": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You see the pendant at the bottom of the drain.\nYou try to pick it up with the tool you borrowed."
+  },
+  "140": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I should be able to reach it with this laundry pole...\""
+  },
+  "141": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "But the mud and leaves make it hard to see where the pendant is.\nYou should do something about that first."
+  },
+  "142": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The mud and leaves are in the way. I'll clean it out first.\""
+  },
+  "143": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You use the shovel to clear the area of mud."
+  },
+  "144": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Now all you have to do is get the pendant out!\nYou should be able to get it by hooking it up with a long pole."
+  },
+  "145": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Can the back scratcher reach the pendant?\nI'd like to give it a shot, but...\""
+  },
+  "146": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "The mud and leaves are in the way. And even if you manage to get rid of the mud,\nthe back scratcher isn't long enough. You should probably try something else."
+  },
+  "147": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Finally. Time to get the pendant out of the drain.\""
+  },
+  "148": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Laundry pole:option12;Shovel:option13;Back scratcher:option14"
+  },
+  "149": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You borrowed a laundry pole from Honoka."
+  },
+  "150": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You borrowed a shovel from Honoka."
+  },
+  "151": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You borrowed a back scratcher from Honoka."
+  },
+  "152": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"This laundry pole looks more than long enough.\""
+  },
+  "153": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "...You can reach the pendant, but not get it out.\nIf only you had something that could hook it out easily..."
+  },
+  "154": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"This shovel is probably long enough...\""
+  },
+  "155": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "...Nope. The drain is too narrow for the shovel to fit inside.\nYou should try a different tool."
+  },
+  "156": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Maybe this back scratcher can reach it...?\""
+  },
+  "157": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "...No, it's too short! If only it was a bit longer..."
+  },
+  "158": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Well, too bad. Maybe I should try a different tool...\""
+  },
+  "159": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Excuse me, do you have any other tools?\""
+  },
+  "160": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I'm sorry, but this is all we've got..."
+  },
+  "161": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "...Oh, but there's a general store nearby, right?\nMaybe they've got somethin' useful!"
+  },
+  "162": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That's right! Thank you, I'll go take a look!\""
+  },
+  "163": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Wow, that's a retro-lookin' doohickey you got there.\nBut it looks pretty good at grabbin' things!"
+  },
+  "164": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"This should do it...! Don't let me down, Ultra Catcher...!\""
+  },
+  "165": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You extend the Ultra Catcher as far as it can go,\nbut the drain is deeper than you thought.\nYou'd have to stick your hand inside to reach the pendant."
+  },
+  "166": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I have work tomorrow, so I can't stay here all night...)"
+  },
+  "167": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Reach further inside:option15;Give up:option16"
+  },
+  "168": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "A-Are ya sure...?\nYou're gonna get yourself all muddy..."
+  },
+  "169": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(The drain is so muddy, and the smell might get on my clothes...)"
+  },
+  "170": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "I don't mind:option17;Give up:option18"
+  },
+  "171": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "...! I see... It's really, really important to you, ain't it..."
+  },
+  "172": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"It's not exactly mine...\nBut I promised its original owner that I would keep it safe!\""
+  },
+  "173": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You reach in as far as you can, ignoring the dirt that gets on you.\nYou feel the Ultra Catcher grasp the pendant firmly!"
+  },
+  "174": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Just a little bit more...! I got it!\""
+  },
+  "175": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You retrieved Favna's pendant!"
+  },
+  "176": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ohhh, thank goodness!\nI was on the edge of my seat! You got me all anxious, too!"
+  },
+  "177": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you for helping me get the pendant back.\""
+  },
+  "178": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ehehe, don't worry 'bout it.\nBuuut, I wouldn't say no to somethin' in return~"
+  },
+  "179": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Haha... If there's something I can help you with, I'd be happy to.\""
+  },
+  "180": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "(I should think long and hard about\nthat supernatural phenomenon just now...)"
+  },
+  "181": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You finally reach your apartment after a rather eventful night\nand rest your weary body..."
+  },
+  "182": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "...Meow."
+  },
+  "183": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Well? How is my familiar faring?"
+  },
+  "184": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meow.. meowmeow..."
+  },
+  "185": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "......I see. I had also predicted it somewhat,\nbut to think he would go to such lengths..."
+  },
+  "186": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Ah, this is truly the work of fate.\nI can hardly wait until the day we forge our pact..."
+  },
+  "187": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Mrooow."
+  },
+  "188": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "There you are. Come...\nIt is time for us to start the ritual."
+  },
+  "189": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...She's wearing her maid dress. She does look pretty good in it...\nMaybe she's taken a liking to it?)"
+  },
+  "190": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "As you do as Favna says and stand in front of her,\nshe starts reciting a strange incantation."
+  },
+  "191": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Now, we shall form an eternal pact written in blood,\nand sever the cursed chains of the false god who binds us,\nrearranging the gears of an unfortunate fate..."
+  },
+  "192": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Whoa, what's this light...?!)"
+  },
+  "193": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "As the Slayer of the False God, the Queen of the Kingdom of Darkness,\nthe All-Seeing Oracle, the Guardian of All Dreams—\nI, Favna, command you."
+  },
+  "194": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Serve me as my familiar...!"
+  },
+  "195": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "......"
+  },
+  "196": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...The pact is complete. From now on, we are bound together forever,\nno matter how many years may pass, or how many lives we are reborn in."
+  },
+  "197": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you...? Is that the right thing to say?\""
+  },
+  "198": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"That was an incredible performance.\nI never guessed that the pendant could light up like that!\""
+  },
+  "199": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "......"
+  },
+  "200": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Fufu."
+  },
+  "201": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Well. You will be convinced one day. I will make sure of it."
+  },
+  "202": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "...Hahhh! Haaaahh!!"
+  },
+  "203": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Evil spirit, begone! Evil spirit, begone!\nDoman! Seman! Doman! Seman! "
+  },
+  "204": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"H-Honoka-san...?\""
+  },
+  "205": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "...Ack! Who...\nOh, you're the manager of Fuwa Fuwa...!"
+  },
+  "206": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is this... salt? What are you doing?\""
+  },
+  "207": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Uhh... I'm just doin' a bit of purification here 'n' there.\nY'know, since we're a shrine, and it needs to, uh, stay pure!"
+  },
+  "208": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "It's nothin' special, really! Just business as usual!"
+  },
+  "209": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Really...? She's just tossing salt everywhere.\nThat looks like it'd be a hassle to clean up later...)"
+  },
+  "210": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "......"
+  },
+  "211": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Uu... Pleeease let this be enough..."
+  },
+  "212": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Huff, huff... Phew, that was horrible..."
+  },
+  "213": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Honoka-san!\""
+  },
+  "214": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Huh? Wh-What're y'all doin' here...?!"
+  },
+  "215": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Nonoka-chan and Nanoka-chan told us everything!\nAre you all right?"
+  },
+  "216": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ah, yes, don't ya worry...\nA bucket just fell outta the sky, that's all."
+  },
+  "217": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The evil presence is growing even stronger...\nThis place is dangerous."
+  },
+  "218": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But it's never felt this malevolent before...\nJust what in the world did you do?"
+  },
+  "219": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I, um... I was just tryin' to protect the shrine..."
+  },
+  "220": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Honoka-san...?\""
+  },
+  "221": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "...Ohh, stop it! Stop lookin' at me like that!"
+  },
+  "222": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I'm completely fine 'n' dandy! I don't need no help!\nI can deal with this on my own!"
+  },
+  "223": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Y'all are sweet, but please just leave me alone...!"
+  },
+  "224": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wh... Hey, wait...!\""
+  },
+  "225": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Go past here, and you'll be in the evil spirit's territory.\nI can't see it, but I know it's in there...!"
+  },
+  "226": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hmm... At a glance, there doesn't seem to be anything out of the ordinary...\""
+  },
+  "227": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Wait, no! Don't get too close...!"
+  },
+  "228": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Whoa?!\""
+  },
+  "229": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(It's happening again! I can't move my body...!)"
+  },
+  "230": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......Uurgh..."
+  },
+  "231": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "This dark suppression...!\nTh-There really IS something here that doesn't belong in this world!"
+  },
+  "232": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......Why......"
+  },
+  "233": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...?! A girl's voice...? Where's it coming from...?)"
+  },
+  "234": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......Why... are you getting in the way..."
+  },
+  "235": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I... I just... want..."
+  },
+  "236": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager! Oh no, what do we do...?!"
+  },
+  "237": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Uhhhh! W-We should get outta here, and fast!"
+  },
+  "238": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Argh... I... can't... moooove...!"
+  },
+  "239": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-I shall lend a hand as well!"
+  },
+  "240": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Grr... Haaaaah!!"
+  },
+  "241": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Owww... Oh, is it over...?\""
+  },
+  "242": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager! Are you okay? Are you hurt anywhere...?!"
+  },
+  "243": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'm fine. I just fell over, nothing more.\""
+  },
+  "244": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ohhh, thank goodness.\nI wouldn't know what to do with myself if I'd gotten ya got hurt..."
+  },
+  "245": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thanks so much for helping out, Honoka-chan!"
+  },
+  "246": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Yeah, you were a huge help.\nEspecially since it must've been so scary for everyone...\""
+  },
+  "247": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Heh. You really think that I, the Queen of the Kingdom of Darkness,\nwould be afraid of some lesser spirit's mischief?"
+  },
+  "248": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait, but you looked pretty scared just now...\""
+  },
+  "249": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "W-Watch your mouth, familiar!"
+  },
+  "250": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I heard strange noises, and I know we all couldn't move for a while,\nbut I didn't actually see anything. Was there really a ghost...?"
+  },
+  "251": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...I'm positive there must be a ghost. Because I...\""
+  },
+  "252": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"For just a moment... I heard her voice.\""
+  },
+  "253": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...I only... wanted..."
+  },
+  "254": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......To get over... my regrets......"
+  },
+  "255": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I'm terribly sorry for pushin' this onto your shoulders."
+  },
+  "256": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "That pendant is the proof of our pact.\nMy familiar has to be the one to hold it for it to have any effect."
+  },
+  "257": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'll be fine. And I'm sure you guys will\nsave me again if anything happens, right?\""
+  },
+  "258": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Duh, of course we will!\nWe won't let anyone hurt you!"
+  },
+  "259": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "G-Ghosts are scary... but you can count on us, Manager!"
+  },
+  "260": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "You nod back at the girls and step into the ghost's territory."
+  },
+  "261": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Gh...!"
+  },
+  "262": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Uu...uurgh... This power...!"
+  },
+  "263": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I can move... And I can hear her voice clearly!)"
+  },
+  "264": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "G-Go away..."
+  },
+  "265": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The ghost shows herself in front of the hokora at the back of the shrine.\nHer voice and expression are heavy with sadness."
+  },
+  "266": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Wait! Hear me out.\""
+  },
+  "267": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'm sorry for what we've done to you.\nI want to find a peaceful solution to this.\""
+  },
+  "268": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "You're weird... What are you trying to do...?"
+  },
+  "269": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Tell me. You have regrets, right?\""
+  },
+  "270": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "We're sorry for what we did to ya,\nbut this here shrine is important to us...!"
+  },
+  "271": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I'm afraid of ghosts, but... I want to try being friends!"
+  },
+  "272": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......Friend..."
+  },
+  "273": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......LIAR!"
+  },
+  "274": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Everyone says they'll be my friend...\nBut in the end, everyone forgets all about me..."
+  },
+  "275": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "You're no different...! You shoved that THING in my face and laughed at me...!"
+  },
+  "276": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Wait, what is she talking about...?)"
+  },
+  "277": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...I'll let you go, just this once.\nBut don't come back, or else..."
+  },
+  "278": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait! Please give us another chance...!\""
+  },
+  "279": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...You really are weird. I suppose I could tell you one thing..."
+  },
+  "280": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...My name is Miyako Noto.\n...Not that anyone would recognize that name..."
+  },
+  "281": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Umm... Where are we...?"
+  },
+  "282": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...We don't seem to have been teleported anywhere.\nWe must have just fallen unconscious."
+  },
+  "283": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...She looked so sad. You can tell she's been\nsuffering for a long time... I feel sorry for her.\""
+  },
+  "284": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager..."
+  },
+  "285": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Th-Then... Should we keep at it, for just a li'l longer?"
+  },
+  "286": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "In Shinto, death is said to cause \"kegare,\" or defilement...\nBut I can't just leave her alone after seein' her like that."
+  },
+  "287": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Now that I've seen her mopin' around,\nI wanna help turn her frown upside down!"
+  },
+  "288": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thanks, everyone. Let's try again!\""
+  },
+  "289": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The ghost might think you're a nuisance...\nBut Electric Street is all about togetherness and helping each other out."
+  },
+  "290": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I tried to think of ways I could help, but in the end,\nI reckoned I should do my job as a daughter of the shrine."
+  },
+  "291": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Honoka shows you a piece of paper cut into the shape of a person."
+  },
+  "292": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "This is a \"hitogata.\" I'll transfer my sins and defilement to it\nso it can receive judgement in my place."
+  },
+  "293": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "My sin... is not even gettin' to know the ghost\nbefore I started tryin' to exorcise her."
+  },
+  "294": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "It's not exactly a present, but it represents my remorse and my desire to make amends."
+  },
+  "295": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Acknowledging your mistakes like that is real admirable, Honoka.\""
+  },
+  "296": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "It's nothing that needs flatterin'. I could only do this 'cause I'm not alone."
+  },
+  "297": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Still... thanks. I can't exactly say that I ain't scared,\nbut I feel a li'l braver with y'all with me, for sure!"
+  },
+  "298": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You arrive at the shrine once again."
+  },
+  "299": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Take caution. The spirit is likely to still hold resentment in her heart.\nShe might restrict our movement the second we enter her territory."
+  },
+  "300": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I thought I told you to never come back..."
+  },
+  "301": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"We're sorry; we didn't mean to impose on you when\nwe don't even know the first thing about you!\""
+  },
+  "302": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......"
+  },
+  "303": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "We can't just leave ya alone, y'know?\nEspecially not now that we know why ya passed..."
+  },
+  "304": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I'm surprised to hear there's someone who still remembers my name..."
+  },
+  "305": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "We're here today to show our sincerity."
+  },
+  "306": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Honoka shows the ghost her hitogata—\nthe paper doll she had transferred her remorse into."
+  },
+  "307": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I was wrong to assume ya to be an evil spirit\nthat needs exorcisin'. I want to make it right by you."
+  },
+  "308": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "With the regret in my heart, I'll cast this into the river to purify.\nI hope it'll help with yours, even if just a little."
+  },
+  "309": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "But if ya won't forgive me..."
+  },
+  "310": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Then I'll never forget this grave mistake.\nIt's nothin' impressive, but this is the most I can do..."
+  },
+  "311": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Do you... really care that much about me...?"
+  },
+  "312": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The other girls are just as worried about you.\nThese gifts should show you that they're completely sincere.\""
+  },
+  "313": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miracle Maid polaroid:option19;Small bouquet:option20;Scented candle:option21"
+  },
+  "314": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Here you go! It's a photo I took with the most moe maids in the city...!"
+  },
+  "315": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Are you making fun of me...?!\nGet that out of my sight!"
+  },
+  "316": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(M-Maybe that was bad timing...?)"
+  },
+  "317": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I picked this out just for you. I didn't know what else I could do...!"
+  },
+  "318": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Flowers...\nNo one's ever given me flowers..."
+  },
+  "319": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I hope this aroma and light will guide your way..."
+  },
+  "320": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Why... does it feel warm...?"
+  },
+  "321": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......I-I won't fall for your tricks."
+  },
+  "322": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I've always been alone... There's no way I can be saved just like that..."
+  },
+  "323": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(She's wavering. One more push!)"
+  },
+  "324": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"We have other gifts for you. Take a look at this.\""
+  },
+  "325": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miracle Maid polaroid:option22;Small bouquet:option23;Scented candle:option24"
+  },
+  "326": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Here you go! It's a photo I took with the most moe maids in the city...!"
+  },
+  "327": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Are you making fun of me...?!\nGet that out of my sight!"
+  },
+  "328": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(M-Maybe that was bad timing...?)"
+  },
+  "329": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I picked this out just for you. I didn't know what else I could do...!"
+  },
+  "330": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Flowers...\nNo one's ever given me flowers..."
+  },
+  "331": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I hope this aroma and light will guide your way..."
+  },
+  "332": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Why... does it feel warm...?"
+  },
+  "333": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Friends... I have no idea what that entails..."
+  },
+  "334": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "But... I can tell... that you aren't my enemies..."
+  },
+  "335": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Thanks for believing in us!"
+  },
+  "336": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "This shrine... was the last place I remember visiting before I fell ill..."
+  },
+  "337": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "If I can let go, then I can move on to the other side. But..."
+  },
+  "338": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......No, I can't say it. I can't admit that THAT'S what's keeping me here..."
+  },
+  "339": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Wait... Are ya embarrassed about it?"
+  },
+  "340": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is this related to the reason you can't move on?\""
+  },
+  "341": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miracle Maid polaroid:option25;Delinquent manga series (full set):option26"
+  },
+  "342": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "O-Oops, I couldn't help it... Spreading the good word, and all..."
+  },
+  "343": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Wow, this brings me back...\nAll I did in the hospital was read manga all day."
+  },
+  "344": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "If you're talking delinquent manga,\nthen I loved \"B-Bout Blues\"!"
+  },
+  "345": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wh-Whoa! Talk about old-school...\nYou're one of the real fandom oldies...!"
+  },
+  "346": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I see, so this is the kind of delinquent manga\nthat's popular right now... I wanna read more!"
+  },
+  "347": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "...Uh, she sounds like she wants to stay in the mortal world now..."
+  },
+  "348": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Please don't! No more manga, look at this instead!\""
+  },
+  "349": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Th-That photo...!"
+  },
+  "350": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Miracle Maid polaroid:option27"
+  },
+  "351": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Th-That photo...!"
+  },
+  "352": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "So frilly... so elegant... so cute...\nTheir outfits are so lovely..."
+  },
+  "353": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Your regrets must have something to do with maid dresses; \notherwise, you wouldn't have said what you did that time...\""
+  },
+  "354": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "You're no different...! You shoved that... that THING in my face and laughed at me...!"
+  },
+  "355": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You were talking about the time I came here with Shiro and Miyu.\nYou saw them pray at the shrine in their maid dresses!\""
+  },
+  "356": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I... I'm just..."
+  },
+  "357": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I'm just sooooooo jealous!!!"
+  },
+  "358": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I... I also wanted... to wear a cute frilly outfit like that...!"
+  },
+  "359": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I wanted to lift up a little white apron, do a little curtsy, \nand say, \"Welcome home, Master!\" with a cute smile on my face...!!"
+  },
+  "360": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "But ya couldn't go outside in your final days,\nand even after death, you're stuck here at the shrine...\nYa couldn't do the things ya wanted to do..."
+  },
+  "361": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "You won't laugh at me...?"
+  },
+  "362": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Of course not! Hang on, we'll bring you a maid dress right now!"
+  },
+  "363": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "It's a classical maid dress! It's what we wear at Fuwa Fuwa!"
+  },
+  "364": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Ohhhhh my gosh... The skirt flows so beautifully...! And it's so elegant!\nThe waitresses I admired used to wear something just like this!"
+  },
+  "365": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager! Help her put it on!"
+  },
+  "366": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh?! B-But how do I...?\""
+  },
+  "367": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Well? How did it go?"
+  },
+  "368": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I... guess we should've seen this coming,\nbut she slipped right through the dress.\""
+  },
+  "369": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "......Ohhh......"
+  },
+  "370": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "So is this it? Am I stuck like this forever...?\nIt's my fault for getting attached to something so silly..."
+  },
+  "371": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "......"
+  },
+  "372": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "No! It ain't over yet!"
+  },
+  "373": {
+    "Personagem": "Everyone",
+    "PT": "",
+    "EN": "Huh...?"
+  },
+  "374": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I still have one more trick up my sleeve.\nNever thought I'd ever have to use it, though..."
+  },
+  "375": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "R-Really? Even though I've already caused you so much trouble...?"
+  },
+  "376": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Never mind that now;\nwhat's important is that we fulfill that wish of yours!\nPlease tell us what you want to do!"
+  },
+  "377": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I...!"
+  },
+  "378": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I... I want to wear a maid dress!\nJust once! Please...!!"
+  },
+  "379": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Don't worry, I'll help ya.\nI'm the one who'd feel bad if ya didn't move on."
+  },
+  "380": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Th-Thank you... so much..."
+  },
+  "381": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I'll get ready, so wait for me."
+  },
+  "382": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Got it! But promise to ask us for help if anything happens, okay?\""
+  },
+  "383": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ya really are a big softie... Thanks, though."
+  },
+  "384": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Having finally made peace with the ghost,\nyou call it a day and rest with a warm sense of relief..."
+  },
+  "385": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Manager! Ya came...!"
+  },
+  "386": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Remember how I said I had a trump card?"
+  },
+  "387": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "It's actually a technique passed down in my family for generations...\nThe Spirit Channeling Technique."
+  },
+  "388": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The what...?! You can do that?!\""
+  },
+  "389": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I never really believed in it either..."
+  },
+  "390": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "And it's said that the technique only works on spirits\nthat the user's on good terms with... which shouldn't be a problem here."
+  },
+  "391": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I see. I think it's worth a shot!\""
+  },
+  "392": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But to do that, I need the secret scrolls that contain\nthe instructions on how to use the technique."
+  },
+  "393": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wait, don't tell me...\""
+  },
+  "394": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "It's exactly what you're fearin'. They're gone!"
+  },
+  "395": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I reckon we lost 'em durin' spring cleanin'.\nI cleaned the bookshelves with my sisters..."
+  },
+  "396": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Did you throw them away?\""
+  },
+  "397": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "No, no. Daddy took it to the used bookstore."
+  },
+  "398": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But I can't remember which store it was..."
+  },
+  "399": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(There's a used bookstore nearby.\nIt could still be there. I should go check!)"
+  },
+  "400": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Sorry to keep ya waitin'. Is this all right?"
+  },
+  "401": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "YOOOOOOO!! A real-life shrine maiden?!\nThat's so POGGERS!!"
+  },
+  "402": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Kashikomi, kashikomi~♪"
+  },
+  "403": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Let's GOOOOOOOOOOOOOOOO!!"
+  },
+  "404": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I just happen to have a li'l prop on me too...♪\nWould ya like an omamori for 1000 yen?"
+  },
+  "405": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Take my money, lady!!!"
+  },
+  "406": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(As shrewd as ever... Hahaha...)"
+  },
+  "407": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Huff, huff... Oh, right, I almost forgor.\nHere's the dusty ol' zine I promised."
+  },
+  "408": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Obtained: Scroll of Spirit Channeling, Volume 4"
+  },
+  "409": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Well then, my work here is done..."
+  },
+  "410": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Wait a minute!\nDidn't you buy another scroll here?!\""
+  },
+  "411": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Wehhh, not this one too!\nI want it for my collection..."
+  },
+  "412": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Pleeeease? ...Or maybe we could\ntrade ya somethin' in exchange?"
+  },
+  "413": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Well... there's this doujinshi by a popular doujin artist\nthat I really want... It was online order only..."
+  },
+  "414": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "It sold out instantly and never got reprinted...\nBut I can't put money into the pockets of filthy resellers!!"
+  },
+  "415": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Would you happen to have a copy of... the legendary\n\"Is the Order a Little Sister?\" all-character high school AU doujinshi\nby the one and only \"Holy Hanpen-sensei\"?!"
+  },
+  "416": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Uhh... there's no way we'd have something THAT specific...\""
+  },
+  "417": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "........."
+  },
+  "418": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"......Honoka-san?\""
+  },
+  "419": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "......I do."
+  },
+  "420": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Oh worm?! Ohhh, to think I would meet a Holy Hanpen stan in the wild..."
+  },
+  "421": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "No, I, um... I just remembered I have a copy left over\nfrom someone's canceled order..."
+  },
+  "422": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Left over? Canceled order? Wait, are you saying...\""
+  },
+  "423": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Wait, hold on, there's no way.\nAre YOU Holy Hanpen-sensei...?!?!"
+  },
+  "424": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!\nThat's CRAZY! Are you saying the great Holy Hanpen-sensei\nis a SHRINE MAIDEN in real life?!"
+  },
+  "425": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Aw, hush your mouth! It's not that good, anyway,\nboth the art and plot are so juvenile... It's embarrassin'..."
+  },
+  "426": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Nuh-UH! The art is obviously god-tier, that goes without saying,\nand the AU is so well-thought out it's obviously made out of love for the series,\nyou wouldn't believe how many times I've cried over it...!!"
+  },
+  "427": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Th-Thank you... I just draw whatever I like,\nso it's really motivatin' to hear that."
+  },
+  "428": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I'd be happy to give ya a copy if that's how much ya like it.\nPlease accept my doujishi!"
+  },
+  "429": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You gave the otaku the doujinshi of his dreams\nand received Scroll of Spirit Channeling, Volume 5 in return!"
+  },
+  "430": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Augh... sob sob... Finally... Holy Hanpen-sensei's doujinshi...\nI'll put it in my shrine and pray to it every day..."
+  },
+  "431": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Sensei! You're going to SummerComi, right?\nGOOD LUCK HAVE FUN KICK THEIR BUTTS~!!"
+  },
+  "432": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"That went pretty well. We got your book back,\nand you even got to meet a passionate fan.\""
+  },
+  "433": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Yeah. It's kinda embarrassing that I got exposed\nas a doujin artist in front of ya, though..."
+  },
+  "434": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Anyway, let's deal with our ghost friend's problem first,\nand then we can enjoy the summer festival!\n...Both the normie one and the otaku one!"
+  },
+  "435": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I've changed into my shrine maiden uniform,\nand I've done some purification too, just in case!\n...Now I'm ready for the Spirit Channeling Technique!"
+  },
+  "436": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager! Honoka-san!"
+  },
+  "437": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You guys came too? How's the cafe doing?\""
+  },
+  "438": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's doing fine! The Electric Street locals\ncame to visit again today."
+  },
+  "439": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "It's you again... What now?\nAre you going to use the \"trump card\" you mentioned?"
+  },
+  "440": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Yep, and I'm ready to go. As long as I have this..."
+  },
+  "441": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Honoka reads out the instructions for the technique\nas written in the secret books."
+  },
+  "442": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "\"Five of the living shall surround the dead\nand offer them a prayer in unison.\""
+  },
+  "443": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "\"They shall be positioned according to the directions of the zodiac:\nFour shall stand in the directions of the pig, the dog, the rooster, and the monkey,\nand a shrine maiden shall stand in the direction of the sheep.\""
+  },
+  "444": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "\"When heaven hears the prayer,\nthe spirit of the dead shall descend to earth.\"\n...That's it."
+  },
+  "445": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Eastern necromancy...! To think it really exists..."
+  },
+  "446": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "I didn't expect something so occultish...\nThough that's rich coming from a ghost."
+  },
+  "447": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "And we have just enough people. Let's try it out!"
+  },
+  "448": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "All right, first we have to stand in the right positions.\nMind if ya go first, Shiro-chan?"
+  },
+  "449": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Got it! The first person will stand in the direction of the pig...\nWhat direction was that again?"
+  },
+  "450": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "North:option28;Northwest:option28;North-northwest:option28"
+  },
+  "451": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Okay, then I'll stand right... here!"
+  },
+  "452": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I'm next! Which direction is the dog in?"
+  },
+  "453": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Northeast:option29;West-northwest:option29;East-northeast:option29"
+  },
+  "454": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Okie dokie~ Right here?"
+  },
+  "455": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "My turn. Do you know which direction the rooster is in?"
+  },
+  "456": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "West:option30;East:option30;South:option30"
+  },
+  "457": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I shall follow your lead."
+  },
+  "458": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Next, you'll have to move too, Manager.\nYour position is in the direction of the monkey."
+  },
+  "459": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Southeast:option31;West-southwest:option31;East-southeast:option31"
+  },
+  "460": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"This should be the right place. Let's move on.\""
+  },
+  "461": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "And lastly, the shrine maiden... That's me.\nI'll have to stand in the direction of the sheep, which is..."
+  },
+  "462": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "South-southeast:option32;Southwest:option32;South-southwest:option32"
+  },
+  "463": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "That's right over here.\nHoo! This is gettin' wilder by the minute..."
+  },
+  "464": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Are you guys ready? You'll have to say the prayer first..."
+  },
+  "465": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "(...Kashikomi kashikomi mo mousaku...\n...With great respect and humility...)"
+  },
+  "466": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Wah?!"
+  },
+  "467": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Did we do it...?!)"
+  },
+  "468": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "......"
+  },
+  "469": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...It appears that our prayers were not delivered."
+  },
+  "470": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Well then, we'll just have to try again..."
+  },
+  "471": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Whoa, that's bright...!\""
+  },
+  "472": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-Is everyone okay?"
+  },
+  "473": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Yes, but..."
+  },
+  "474": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The ghost's spiritual pressure... has disappeared...?"
+  },
+  "475": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "......"
+  },
+  "476": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Honoka-chan? What's wrong...?"
+  },
+  "477": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "......Wow..."
+  },
+  "478": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "This... is a real shrine maiden outfit!\nOhmigosh, it's sooooo cuuuuute!!!"
+  },
+  "479": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh? Huh?! Honoka-san...?!"
+  },
+  "480": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"She's reacting to her cute outfit...?\nWait, does that mean...?!\""
+  },
+  "481": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "It's me! Miyako Noto!"
+  },
+  "482": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "I'm borrowing this girl's body for now.\nLooks like the spirit channeling was a success!"
+  },
+  "483": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Woohoo! Good for you, ghost girl! And Honoka-chan too!"
+  },
+  "484": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "My body feels so light...\nI've never been so agile before! Ohhh, I'm so happy!"
+  },
+  "485": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "(Whoa, whoa, hold your horses!\nYou're gonna get the uniform dirty...!)"
+  },
+  "486": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Huh? Wh-Who is it this time...?!"
+  },
+  "487": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "(...It's me, Honoka. Even though a ghost's possessin' my body,\nit looks like I'm still fully conscious.)"
+  },
+  "488": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I see... So the two souls can take turns to take control of the body."
+  },
+  "489": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A-Anyway, we can grant her wish now!\nLet's get the maid outfit out..."
+  },
+  "490": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "Wait! Not in the middle of the night like this!"
+  },
+  "491": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "I want to enjoy the maid outfit in the best possible scenario...\nLike a scene in a movie!"
+  },
+  "492": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "(Suddenly she's gettin' picky... But I kinda get it.)"
+  },
+  "493": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I understand the feeling, too! Please come to Fuwa Fuwa!\nThat shouldn't be a problem, right, Manager?"
+  },
+  "494": {
+    "Personagem": "4_Honoka_Miko_Ghost",
+    "PT": "",
+    "EN": "Thank you... I'll be there tomorrow even if it kills me!"
+  },
+  "495": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(But she's already dead... Whatever.)"
+  },
+  "496": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I'm just glad everyone's hard work paid off in the end!)"
+  },
+  "497": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Ever since the ghost left Ishida Shrine,\nvisitors have started returning."
+  },
+  "498": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Manager, let's go pray at the shrine together again!"
+  },
+  "499": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You stand in front of the offertory box,\nthis time with Favna and Honoka added to your group."
+  },
+  "500": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I wish for a happy future in Fuwa Fuwa...)"
+  },
+  "501": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "As you make your wish, a familiar face smiles at you in your mind's eye. It's..."
+  },
+  "502": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Shiro:option33;Miyu:option34;Favna:option35;Honoka:option36"
+  },
+  "503": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(With Shiro... and the others too!)"
+  },
+  "504": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Actually, I also snuck in a personal wish—one about you, Manager."
+  },
+  "505": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"What did you wish for...?\""
+  },
+  "506": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ehehe... it's a secret!"
+  },
+  "507": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(With Miyu... and the others too!)"
+  },
+  "508": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "What didja wish for, Manager~?"
+  },
+  "509": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Uh-oh... It's a little embarrassing to admit out loud...)"
+  },
+  "510": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'll tell you mine if you tell me yours.\""
+  },
+  "511": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Heeey~! Then I'm keeping mine a secret too!"
+  },
+  "512": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Who knows? We might've wished for the same thing! ☆"
+  },
+  "513": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(With Favna... and the others too!)"
+  },
+  "514": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...A wish befitting of my familiar."
+  },
+  "515": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Huh?!\""
+  },
+  "516": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Not a bad wish. I doubt it will require my full power, though."
+  },
+  "517": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Did she actually read my mind...? No, that can't be...)"
+  },
+  "518": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(With Honoka... and the others too!)"
+  },
+  "519": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Thanks for the offerings, sir ♪"
+  },
+  "520": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"What did you wish for, Honoka?\""
+  },
+  "521": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I just wished for some extra luck, nothin' new."
+  },
+  "522": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "...Though I feel like it'll come true real soon."
+  },
+  "523": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "And now, I can finally enjoy the summer festivities without any worries!"
+  },
+  "524": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I can't thank y'all enough!"
+  },
+  "525": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Here, take this. It's a li'l token of thanks for all the help."
+  },
+  "526": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Oooh, that's so cute~!"
+  },
+  "527": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It's so... fluffy..."
+  },
+  "528": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Fluffy... Oh! Is this a Fuwa Fuwa omamori?"
+  },
+  "529": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "It's stuffed to the brim with cotton. When you're feelin' anxious,\njust give it a nice squish and your worries will fade away...\nOr somethin' like that!"
+  },
+  "530": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I came up with an idea for a suuuper auspicious collab\nbetween Ishida Shrine and Fuwa Fuwa, see."
+  },
+  "531": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Imagine if we sold omamori blessed with the moe power of cute maids...\nI can already see them sellin' like hotcakes!"
+  },
+  "532": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "If we join forces, we'll definitely make a fortune!"
+  },
+  "533": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hahaha... Then I'll be counting on you.\""
+  },
+  "534": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Let's get along as neighbours from now on too, Honoka.\""
+  },
+  "535": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "As neighbours... Nope, that won't do."
+  },
+  "536": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh...?\""
+  },
+  "537": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "From now on, we're business partners, not just neighbours!\nAnd we're teammates of Fuwa Fuwa!"
+  },
+  "538": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Does that mean you'll join us and be a part of Fuwa Fuwa too?!"
+  },
+  "539": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "I mean, maid dresses are still a li'l embarrassin'...\nBut the time I spent in Fuwa Fuwa was real warm and cozy."
+  },
+  "540": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Besides! Our shrine would become the one and only shrine\nwith a shrine maiden who's ALSO a maid!"
+  },
+  "541": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Ishida Shrine would get so much attention and go viral\nand earn loads of money! Yep! I'm a genius!"
+  },
+  "542": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And everyone wins! What a wonderful idea!"
+  },
+  "543": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The gates to Elysium are open to all... And they will welcome you as well."
+  },
+  "544": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Things are gonna get even more fun with Honoka-chan around! ☆"
+  },
+  "545": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "Well then, I'll be countin' on you from now on, Manager! ♪"
+  },
+  "546": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "And so, with Honoka joining the team,\na new era of Fuwa Fuwa begins."
+  },
+  "547": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ooh! Good mornin', Manager!"
+  },
+  "548": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Daddy said yes! If folks buy omamori or one of our seal book\ndurin' the campaign, then they can get a stamp for the rally!"
+  },
+  "549": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Why don't we visit the places our shrine usually buys from?"
+  },
+  "550": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "First, let's talk to the nice lady from the kimono store!"
+  },
+  "551": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It's the last day of the summer festival.\nFor some reason, you woke up extra early today,\nand it seems like the same goes for the others."
+  },
+  "552": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You finished preparations early and went to the shrine together..."
+  },
+  "553": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "The shrine's gettin' a lotta visitors thanks to the festival,\nand I reckon this'll carry on after the festival too!"
+  },
+  "554": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "We've been coming to the shrine in our maid uniforms a lot, huh.\nYou think we could become famous for it? ☆"
+  },
+  "555": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "That's a good idea! Let's pray in our uniforms and let folks\nknow about Fuwa Fuwa. And then ask them for more offerings..."
+  },
+  "556": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Hahaha, there she goes again...)"
+  },
+  "557": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Come on, Manager, you too!"
+  },
+  "558": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "A wish... To tell the truth, you've already thought of your wish."
+  },
+  "559": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(If my wish could come true, I want that girl to...)"
+  },
+  "560": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...How strange. This is the first time\nnot even I could tell what you were wishing for..."
+  },
+  "561": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "No matter what it is, we hope it comes true!"
+  },
+  "562": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "It's the last day of the summer festival.\nFor some reason, you woke up extra early today,\nand it seems like the same goes for the others."
+  },
+  "563": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You finished preparations early and went to the shrine together..."
+  },
+  "564": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "The shrine's gettin' a lotta visitors thanks to the festival,\nand I reckon this'll carry on after the festival too!"
+  },
+  "565": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "It's our second time coming to the shrine in our maid uniforms, huh.\nYou think we could become famous for doing this a lot? ☆"
+  },
+  "566": {
+    "Personagem": "suinaixiang1",
+    "PT": "",
+    "EN": "That's a good idea! Let's pray in our uniforms and let folks\nknow about Fuwa Fuwa. And then ask them for more offerings..."
+  },
+  "567": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Hahaha, there she goes again...)"
+  },
+  "568": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "...Come on, Manager, you too!"
+  },
+  "569": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(What should I wish for...?)"
+  },
+  "570": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "I wish to stay by her side forever:option37;I wish we can all stick together forever:option38"
+  },
+  "571": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(If my wish could come true, I wish to stay by her side...)"
+  },
+  "572": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Maybe I'm getting greedy, but I want all of us to stick together...)"
+  },
+  "573": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...How strange. This is the first time\nnot even I could tell what you were wishing for..."
+  },
+  "574": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "No matter what it is, we hope it comes true!"
+  }
+}

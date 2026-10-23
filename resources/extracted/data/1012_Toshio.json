@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1012_Toshio_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1012_Toshio_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1012_Toshio_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1012_Toshio_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1012_Toshio_Basic_SideSitIdle",
+    "Type": "Basic",
+    "Atlas": "1012_Toshio_Basic",
+    "Frame": "10_13"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "1012_Toshio_Basic_SideSitOrder",
+    "Type": "Basic",
+    "Atlas": "1012_Toshio_Basic",
+    "Frame": "14_17"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "1012_Toshio_Basic_SideSitEat",
+    "Type": "Basic",
+    "Atlas": "1012_Toshio_Basic",
+    "Frame": "18_23"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "1012_Toshio_Basic_Interaction",
+    "Type": "Basic",
+    "Atlas": "1012_Toshio_Basic",
+    "Frame": "24_25"
+  }
+}

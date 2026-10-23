@@ -1,0 +1,1252 @@
+{
+  "0": {
+    "Personagem": "jingcha",
+    "PT": "",
+    "EN": "I'm on patrol duty today. Please come to me if you run into any problems!"
+  },
+  "1": {
+    "Personagem": "jingcha",
+    "PT": "",
+    "EN": "Though... this place is pretty peaceful,\nso I don't see anything coming up anytime soon..."
+  },
+  "2": {
+    "Personagem": "jingcha",
+    "PT": "",
+    "EN": "But if I just stand around doing nothing, people will complain that\nI'm wasting their tax money. Can something happen already...?!"
+  },
+  "3": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Did you watch \"Saga Idol Land\"? That was insane."
+  },
+  "4": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "Yeah I did! That was so wild, I loved it!"
+  },
+  "5": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "At first I thought it was weird just because it wanted to go viral or\nsomething, but it had so many local Saga jokes and was actually\na lot of fun!"
+  },
+  "6": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "And though the premise is really weird, the story itself is real classic,\nand it somehow worked out so well ♪"
+  },
+  "7": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "I know, right?! The girls have such great voices and the songs are all\nbangers, too. I'm gonna get all my Tooter followers to watch it!"
+  },
+  "8": {
+    "Personagem": "Grandpa",
+    "PT": "",
+    "EN": "\"Life has no reset button, but it does have a continue button.\"\nMost people know what that means, but they usually treat it as a hypothetical."
+  },
+  "9": {
+    "Personagem": "Grandpa",
+    "PT": "",
+    "EN": "Every life is full of regrets. But what's wrong with that?"
+  },
+  "10": {
+    "Personagem": "Hiroshi",
+    "PT": "",
+    "EN": "I wanna reflect light to make a sort of holographic effect."
+  },
+  "11": {
+    "Personagem": "Hiroshi",
+    "PT": "",
+    "EN": "Hmm... I don't think it'll work unless I use an OLED light for it."
+  },
+  "12": {
+    "Personagem": "Natsumi",
+    "PT": "",
+    "EN": "Welcome to the Electric Street Station."
+  },
+  "13": {
+    "Personagem": "Natsumi",
+    "PT": "",
+    "EN": "You can use an IC card to travel around Osaka,\nbut I would also recommend the one-day pass."
+  },
+  "14": {
+    "Personagem": "Worker",
+    "PT": "",
+    "EN": "There's road work up ahead,\nso this road is blocked off for now."
+  },
+  "15": {
+    "Personagem": "Worker",
+    "PT": "",
+    "EN": "I'm sorry for the trouble, but please take another path."
+  },
+  "16": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(I should focus on chasing the black cat for now.)"
+  },
+  "17": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "Do you know how to make Einspänner coffee?"
+  },
+  "18": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "Here, I'll let you in on the recipe:\nUse coffee as a base, then add sugar and whipped cream."
+  },
+  "19": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "It's sweet and looks real cute, so it's perfect for posting on social media.\nIf you want to learn more, you can buy the recipe at the bookstore."
+  },
+  "20": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "Welcome, welcooome! The fish are as fresh as ever!"
+  },
+  "21": {
+    "Personagem": "Haruka",
+    "PT": "",
+    "EN": "Let's all go to Fuwa Fuwa together when Dad comes back!"
+  },
+  "22": {
+    "Personagem": "Kaoru",
+    "PT": "",
+    "EN": "Fufu, yeah, let's. We'll see you later, everyone."
+  },
+  "23": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "Oh, Fuwa Fuwa big bro!"
+  },
+  "24": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh, you're helping out here again? Don't you have school?\""
+  },
+  "25": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "I'm going after this. Dad's packing my lunchbox."
+  },
+  "26": {
+    "Personagem": "Nana",
+    "PT": "",
+    "EN": "I wanna eat the Fuwa Fuwa omurice too!\nMaybe if I ask Dad really really nicely..."
+  },
+  "27": {
+    "Personagem": "Takumi",
+    "PT": "",
+    "EN": "So your specialty is coffee, huh? Just what I need to wake up."
+  },
+  "28": {
+    "Personagem": "Bunta",
+    "PT": "",
+    "EN": "I don't know much about maids, but sounds like a fun shop you're runnin' there!"
+  },
+  "29": {
+    "Personagem": "Yui",
+    "PT": "",
+    "EN": "...Perhaps I should visit during teatime to see you in your formal wear."
+  },
+  "30": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I'd love if more and more people could try Fuwa Fuwa's coffee!"
+  },
+  "31": {
+    "Personagem": "Memi",
+    "PT": "",
+    "EN": "Noooo, you don't have to do anything in return, sir!\nBut I wouldn't mind having someone new join the fandom..."
+  },
+  "32": {
+    "Personagem": "Passerby",
+    "PT": "",
+    "EN": "Noto? No, I don't think anyone named that lives around here."
+  },
+  "33": {
+    "Personagem": "Passerby",
+    "PT": "",
+    "EN": "Someone died here? I don't wanna hear about that..."
+  },
+  "34": {
+    "Personagem": "Passerby",
+    "PT": "",
+    "EN": "Miyako Noto... Sounds pretty old-fashioned.\nMaybe she's someone from a long time ago?"
+  },
+  "35": {
+    "Personagem": "Passerby",
+    "PT": "",
+    "EN": "If you're looking for someone who knows the area well,\nyou'd want to talk to the old man at the general store."
+  },
+  "36": {
+    "Personagem": "Passerby",
+    "PT": "",
+    "EN": "Miyako Noto? Oh, the voice actor with the soothing voice?\n...Wait, no, that's someone else."
+  },
+  "37": {
+    "Personagem": "Yousuke",
+    "PT": "",
+    "EN": "What's with the long face? Did you get sunstroke? Want some ice cream?"
+  },
+  "38": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'm fine, but... Don't mind if I do!\""
+  },
+  "39": {
+    "Personagem": "Madarame",
+    "PT": "",
+    "EN": "Ancient scroll? I'm not interested in that kinda stuff."
+  },
+  "40": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "An ancient scroll, huh. A friend of mine said\nhe got one recently. He's always in Surugaya."
+  },
+  "41": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "An ancient scroll? If it has to do with tokusatsu, I'd really want it!"
+  },
+  "42": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "An otaku who bought an ancient scroll? Nay, you have the wrong guy."
+  },
+  "43": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "I haven't bought an ancient scroll... but that gives me an idea!\nA game about ancient scrolls anthropomorphized as cute girls!\nThat would be SO moe, wouldn't it?!"
+  },
+  "44": {
+    "Personagem": "Yui",
+    "PT": "",
+    "EN": "Ancient scrolls? No, I'm not particularly interested in that sort of thing."
+  },
+  "45": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Have you watched Scrumptious in Cellar?\nThat was the best show ever."
+  },
+  "46": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "Of course I have! It was super good!"
+  },
+  "47": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "You know how they made ramen with the weirdest ingredients ever?\nI kinda want to try it now!"
+  },
+  "48": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "Yeah! And their expressions are always so funny!"
+  },
+  "49": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "It's such a funny anime, I laugh every episode!"
+  },
+  "50": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Have you watched The Lonely Rock?\nThat was the best show ever."
+  },
+  "51": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "Of course I have! It was super good!"
+  },
+  "52": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Even a social outcast can shine when they find their place in a band.\nThe protagonist is really shy and has bad social anxiety,\nbut she gathers all her courage and joins a band!"
+  },
+  "53": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "Yeah, that really got me. Maybe I should pick up an instrument too."
+  },
+  "54": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Wanna start a band together, even?"
+  },
+  "55": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Have you seen Frieza: Birth of a Journey?\nThat was the best show ever."
+  },
+  "56": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "Of course I have! It was super good!"
+  },
+  "57": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "I already thought it was amazing when I read the manga,\nbut the anime made it even better!"
+  },
+  "58": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "Yeah, I could tell that the animation team worked really hard on it!\nAnd the music was incredible too!"
+  },
+  "59": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Oh yeah, they released a card game recently.\nWanna buy a starter pack and try it out?"
+  },
+  "60": {
+    "Personagem": "Grandpa",
+    "PT": "",
+    "EN": "I started wearing a sailor uniform because of a campaign\nthat offered adult men a free bowl of ramen for wearing one."
+  },
+  "61": {
+    "Personagem": "Grandpa",
+    "PT": "",
+    "EN": "It's a silly reason, isn't it? But everything starts from a small spark.\nWhat matters is what you gain from accomplishing it,\nand how important that accomplishment is to you."
+  },
+  "62": {
+    "Personagem": "Hiroshi",
+    "PT": "",
+    "EN": "I heard the shrine nearby is haunted...\nHmm, I might know someone in the area who's good at holography."
+  },
+  "63": {
+    "Personagem": "Hiroshi",
+    "PT": "",
+    "EN": "People claim to have conversed with the ghost, but that's probably\na combination of ChatGDP and some sort of synthesized voice...\nIf I ever encounter this \"ghost,\" I'll try to pry the creator's info out of it."
+  },
+  "64": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Nipponbashi Maid War, Young Demon and Dark Maid...\nI'm glad there's been a healthy supply of maid anime lately."
+  },
+  "65": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "From Mihoro to Maid Dragoon...\nMaids are just unbeatable as a trope."
+  },
+  "66": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "There's new maid cafes here in Nipponbashi too.\nI've been kinda curious about that Fuwa Fuwa place lately."
+  },
+  "67": {
+    "Personagem": "Yamada",
+    "PT": "",
+    "EN": "Yeah, all the maids there have such strong personalities.\nThey'd make for great characters in a Kirarara 4-koma manga."
+  },
+  "68": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Which means our home turf is gonna become holy ground soon...\nLet's go become regulars before they get too popular!"
+  },
+  "69": {
+    "Personagem": "Madarame",
+    "PT": "",
+    "EN": "Do you remember if there's a zoo nearby? I've been itching to\nmeet some characters from that \"Friends\" anime I've been watching."
+  },
+  "70": {
+    "Personagem": "Takeshi",
+    "PT": "",
+    "EN": "I've been wanting to try camping, but it's pretty complicated, isn't it?\nMaybe I could try a really laid-back version of camping\nby setting up a tent and watching anime inside?"
+  },
+  "71": {
+    "Personagem": "Madarame",
+    "PT": "",
+    "EN": "Are the maids at your place actually assassins, by any chance...?\nOh, don't worry, it's just something that happened in an anime I'm watching."
+  },
+  "72": {
+    "Personagem": "Takeshi",
+    "PT": "",
+    "EN": "My friend said he started learning the guitar because of an anime.\n...And then he pulled out the guitar he bought over a decade ago."
+  },
+  "73": {
+    "Personagem": "Yoshida",
+    "PT": "",
+    "EN": "Just between you and me, there's rumors of a new anime\nwith the codename \"Project Fuwa Fuwa\"..."
+  },
+  "74": {
+    "Personagem": "Yoshida",
+    "PT": "",
+    "EN": "Nothing's impossible in the metaverse.\nYou could be a cute maid girl too."
+  },
+  "75": {
+    "Personagem": "Yoshida",
+    "PT": "",
+    "EN": "I wonder what the next generation of game engines will be like.\nI heard the Adventurer's Tavern guys use Oonity."
+  },
+  "76": {
+    "Personagem": "Yoshida",
+    "PT": "",
+    "EN": "Motion capture technology is so exciting.\nAnime, video games, virtual concerts...\nWhere will it be used next?"
+  },
+  "77": {
+    "Personagem": "Yoshida",
+    "PT": "",
+    "EN": "ChatGDP's pretty smart.\nI'm gonna ask it what I should get for dinner."
+  },
+  "78": {
+    "Personagem": "Hiroshi",
+    "PT": "",
+    "EN": "Drone shows are a real sight to behold, aren't they?\nMaybe one day we'll get to see one at a local festival."
+  },
+  "79": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "Now that's how a little sister should be... Innocent,\nconsiderate of her brother, sometimes tsundere, but in the end,\nOniichan is the best... I would like to order a little sister, yes please..."
+  },
+  "80": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "K, but Kirinan's waaay too tsun to her brother lol. She's\nso much cuter trying hard to act like the big sis, imo."
+  },
+  "81": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "It feels quite rare for you to lovemail imoutos, Akki-dono."
+  },
+  "82": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "Oh, y'know, Akki's got an irl little sister called Kirina,\nbut they're suuuper distant lol...\nProbably makes him like anime Kirina a lot more lol."
+  },
+  "83": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "Oh... He must want to make up with his real life sister..."
+  },
+  "84": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "The Kamen Writer BLANK rerun...\nHast thou watched it?"
+  },
+  "85": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "Of COURSE I have, it's a must-watch forreal!\nGorgon's evil plans are always so small-scale even in the movie lol..."
+  },
+  "86": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "Yet even with the internet meme-worthy level of comicality,\nBLANK is just as cool to adults as he is to children."
+  },
+  "87": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "UNFORGIVABLE!! HAH! lmao."
+  },
+  "88": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "I wish they would rerun the RS movie one day...\nI will be reborn in... a few years, give or take!"
+  },
+  "89": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "Heh... I watched BFF the whole way again...\nEven though I watched it on Friday movie night already."
+  },
+  "90": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "Its sophisticated and tight plot writing is like the foundation\nof all the other time travel stories that come after it..."
+  },
+  "91": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "The \"future\" they talk about is like, way in the past from now, right?\nAren't we lagging way behind then?"
+  },
+  "92": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "We must back up our data on a regular basis to avoid a harrowing fate..."
+  },
+  "93": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "Hello~? Is your data all there? Hello~?"
+  },
+  "94": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "Shin Gojida is great... I've been waiting for this: an epic\nbattle between the whole country and the kaijuu!"
+  },
+  "95": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "Yeah, but that part when the government officials refused to risk it\nand all went home on the dot was so realistic! I literally cried lmao."
+  },
+  "96": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "That's Director Annouji for you. Movies that don't look that deep,\nbut ask the most damning questions... truly an endangered species."
+  },
+  "97": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "In fact, we should realize the danger of our own real-life government\nreacting like thus in the face of a threat not from monsters, but war...!"
+  },
+  "98": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "Okay, okay, I get it, now calm down!"
+  },
+  "99": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "\"You're a Potluck-Venger too...\"\nI would love to be told that one day..."
+  },
+  "100": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "What a marvelous line that reminds us how anyone with the will to fight\ncan become a hero, even those who are weak and defeated..."
+  },
+  "101": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "What are you saying, Maro-dono?\nDo we not assemble here on Electric Street every day, just like them?"
+  },
+  "102": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "Exactly! And we're gonna protect the world of otaku together!"
+  },
+  "103": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "You guys... I love you 30,000...!"
+  },
+  "104": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "I can't NOT cry at Meguca... No matter how many times the timeline resets,\nMadomi ends up choosing the strongest machine body...!"
+  },
+  "105": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "It must be unimaginably hard for her...\nBut how they find a breakthrough is the best part of a time loop story."
+  },
+  "106": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "Let's see, how would I describe it with a real-life situation..."
+  },
+  "107": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "It's like if you bought CDs by the box for the concert ticket lottery chance\nthat comes with it, but you don't get a single seat..."
+  },
+  "108": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "Aaaah! That's HORRIBLE... That's ALSO a horrible loop...!"
+  },
+  "109": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "An Auto Music Doll who wants to know love...\nI want one to come over and play me a song."
+  },
+  "110": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "IMPURE!! Can you be more obvious about your intentions lmao."
+  },
+  "111": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "You misunderstand me! \"How does 'I love you' sound like?\"\nIt's the ultimate question, one I could not answer no matter\nhow much anime I watch or how many games I beat..."
+  },
+  "112": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "But if I could meet Violetta-chan, then maybe..."
+  },
+  "113": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "Yeah... I hope you'll find the answer you couldn't find\nwith Ayanami or Misuzu-chin or Nagato..."
+  },
+  "114": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "You think Akki's surprisingly into anime girls that're like,\nelegant and look like they're never happy...?"
+  },
+  "115": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "Having heroes of legends and folklore do your bidding\nand fighting until there's only one team left...\nThis series is filled with the dreams of little boys all over the world!"
+  },
+  "116": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "There's a bunch of spinoffs, but the main story is just classic.\nKey of Promised Victory! LMAO."
+  },
+  "117": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "It's great and all, but it hurts so much to read about\nthe people who lose as the match goes on..."
+  },
+  "118": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "If only there was a way to summon a legendary knight king to support me...\nOr maybe a cute childhood friend, I'm not too picky..."
+  },
+  "119": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "Now that's what I'd call an everdistant utopia..."
+  },
+  "120": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "The Celebration commercial is insane lol.\nEspecially that guy who got dragged into his own covers lmao."
+  },
+  "121": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "It's got that classic Japanese horror feel I haven't seen in a while,\nso the internet's going crazy for it. Have you watched it yet, Akki?"
+  },
+  "122": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "...Hehe... hehehehe... Hehehe..."
+  },
+  "123": {
+    "Personagem": "Kenta",
+    "PT": "",
+    "EN": "LMAO that's exactly what it sounds like!\nAkki you're insane LOL! ...Uh... Akki...?"
+  },
+  "124": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "Hehehe... hehe... Happy birthday... Ehehehe..."
+  },
+  "125": {
+    "Personagem": "Akki",
+    "PT": "",
+    "EN": "How was that? Wasn't that an incredible impression?"
+  },
+  "126": {
+    "Personagem": "Maro",
+    "PT": "",
+    "EN": "Y-You went too far on that one, Akki-dono!\nI almost thought you'd gone and joined the Celebration...!"
+  },
+  "127": {
+    "Personagem": "Daichi",
+    "PT": "",
+    "EN": "I'm glad to see younger kids like you stop by.\nThere's also another girl who shops here a lot.\nShe's always in a gothic lolita outfit."
+  },
+  "128": {
+    "Personagem": "Yui",
+    "PT": "",
+    "EN": "We offer tailor-made outfits to our most valued customers.\nPlease come again, darling. ♡"
+  },
+  "129": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "Memi-chan might look a little intimidating,\nbut she's actually really nice once you get to know her."
+  },
+  "130": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "Please stop by for some takoyaki again sometime."
+  },
+  "131": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "It sounds like you're having a hard time. Good luck."
+  },
+  "132": {
+    "Personagem": "Rumi",
+    "PT": "",
+    "EN": "Come eat takoyaki whenever you'd like."
+  },
+  "133": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Take care of her, okay? If you ever break her pact,\nI'll come in and personally punish you for it! ♪"
+  },
+  "134": {
+    "Personagem": "Yuuki",
+    "PT": "",
+    "EN": "You know the whole \"3 bathroom breaks a day, 3 minutes each\" rule?\nI've actually been secretly playing a game during those breaks."
+  },
+  "135": {
+    "Personagem": "Yuuki",
+    "PT": "",
+    "EN": "The protagonist is cursed to die within 1 minute...\nBut even that 1 minute is enough to take my mind off things."
+  },
+  "136": {
+    "Personagem": "Yuuki",
+    "PT": "",
+    "EN": "I wanna make an indie game like that someday.\n...Now I just have to decide when to quit this job!"
+  },
+  "137": {
+    "Personagem": "Takeshi",
+    "PT": "",
+    "EN": "Argh... I want that pendant so badly,\nI might just die from jealousy..."
+  },
+  "138": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Oh! Welcome, welcome to Ishida Shrine~!"
+  },
+  "139": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I'm Honoka."
+  },
+  "140": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "I'll be countin' on you from now on ♪"
+  },
+  "141": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ya want a thrivin' business?\nThat there sounds like a job for our shrine!"
+  },
+  "142": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Did ya know? If you're wishin' for good fortune,\nya get better results by prayin' at a nearby shrine\ninstead of someplace way over yonder."
+  },
+  "143": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "And since y'all seem to be right next door,\nWhy don't you make an offering?"
+  },
+  "144": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ehehe, I'm just pullin' your leg."
+  },
+  "145": {
+    "Personagem": "Nanoka",
+    "PT": "",
+    "EN": "Honoka-onee doesn't play with us no more, and I'm sooo booored!"
+  },
+  "146": {
+    "Personagem": "Nonoka",
+    "PT": "",
+    "EN": "Honoka-oneechan said she's busy today..."
+  },
+  "147": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Our shrine would become the one and only\nwith a shrine maiden who's ALSO a maid!"
+  },
+  "148": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Ishida Shrine would get so much attention, go viral,\nand earn loads of money! Yep! I'm a genius!"
+  },
+  "149": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Well then, I'll be countin' on you from now on, Manager! ♪"
+  },
+  "150": {
+    "Personagem": "Shougo",
+    "PT": "",
+    "EN": "I heard about what happened at the shrine. Wasn't that a huge mess!\nThankfully, plenty of regulars come to us for repairs and stuff,\nso I wasn't that badly affected."
+  },
+  "151": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "The chocolate bananas are delicious, but the goodies\nyou get for buying one are even better...!\nI have to complete the whole set!"
+  },
+  "152": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Anna, Misaki, where do you two wanna go next?"
+  },
+  "153": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "I wanna get something sweet~\nMaybe a chocolate banana, or cotton candy..."
+  },
+  "154": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "Or a candied apple, they're sooo Densta-worthy~\nLet's go get some later!"
+  },
+  "155": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "...Purseowner! Now, put on your mask\nto face your adversaries with a new identity!"
+  },
+  "156": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "Nanoka! Nonoka! Oh, look, you've both got food on your face...\nNow stand still so I can wipe it off for ya."
+  },
+  "157": {
+    "Personagem": "Nanoka",
+    "PT": "",
+    "EN": "Nonoka's cotton candy is bigger...\nIt's no faaaair!"
+  },
+  "158": {
+    "Personagem": "Nonoka",
+    "PT": "",
+    "EN": "Honoka-oneechan, fish me a yo-yo, pleeease~!"
+  },
+  "159": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Ummm, what stalls haven't I been to yet...?"
+  },
+  "160": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "I'm gonna eat from every single food stall~!"
+  },
+  "161": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "The goldfish are dwindling in number.\nI hope you find happiness with your new owners."
+  },
+  "162": {
+    "Personagem": "Honoka",
+    "PT": "",
+    "EN": "My li'l sisters even asked me to get 'em goldfish...\nBut can they really take care of goldfish?"
+  },
+  "163": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Egad! Is that THE \"Maestro City\" of eld?!\nI had snatched up the mini version, but to think I would see the real thing!"
+  },
+  "164": {
+    "Personagem": "Kenji",
+    "PT": "",
+    "EN": "Us officers are here to protect the peace,\nso you can relax and have fun."
+  },
+  "165": {
+    "Personagem": "Anna",
+    "PT": "",
+    "EN": "Misaki! We're totally gonna eat Miyu's omurice\nfor the autumn stamp rally campaign together, right?"
+  },
+  "166": {
+    "Personagem": "Misaki",
+    "PT": "",
+    "EN": "I can't believe even the chairman of the Association liked Miyu's cooking!\nThat's, like, incredible!"
+  },
+  "167": {
+    "Personagem": "Nanoka",
+    "PT": "",
+    "EN": "Mister, are ya Honoka-nee's \"beloved\" like they say~?"
+  },
+  "168": {
+    "Personagem": "Nonoka",
+    "PT": "",
+    "EN": "Honoka-oneechan keeps talkin' about ya at home."
+  },
+  "169": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Myamya? Meow!"
+  },
+  "170": {
+    "Personagem": "Black Cat",
+    "PT": "",
+    "EN": "Meowww~ myameow~!"
+  },
+  "171": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "Good evening. I'm glad the festival on Electric Street is so lively!\nYou guys have fun until the very end too!"
+  },
+  "172": {
+    "Personagem": "Yasuhiko",
+    "PT": "",
+    "EN": "I'm just as committed to beautiful hair as those trendy city folk!"
+  },
+  "173": {
+    "Personagem": "Yasuhiko",
+    "PT": "",
+    "EN": "Hey buddy, wanna try gettin' a new look at our salon?"
+  },
+  "174": {
+    "Personagem": "Yasuhiko",
+    "PT": "",
+    "EN": "I'm the master of the Tiger Maw Style! I'll give ya a fresh new cut\nwith my exceptional sword techni—Hey! Where are ya goin'?!"
+  },
+  "175": {
+    "Personagem": "Lin Long",
+    "PT": "",
+    "EN": "Apparently something happened at the shrine,\nand even the people I talked to ran away before I could ask for details."
+  },
+  "176": {
+    "Personagem": "Yui",
+    "PT": "",
+    "EN": "...You're saying I look very young, but you're curious to know my real age, right?"
+  },
+  "177": {
+    "Personagem": "Yui",
+    "PT": "",
+    "EN": "My, what a naughty darling you are...\nWeren't you taught not to ask a lady for her age?"
+  },
+  "178": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I love dolls, and I'm making matching dresses for my dolls!"
+  },
+  "179": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Don't you think Favna's as pretty as a doll too?"
+  },
+  "180": {
+    "Personagem": "suinaixiang",
+    "PT": "",
+    "EN": "Uu... Pleeease let this be enough..."
+  },
+  "181": {
+    "Personagem": "Hiroshi",
+    "PT": "",
+    "EN": "I've been looking all over Electric Street for the elusively rare Silver Sound Card...\nIf you have it, I'd love to trade with you."
+  },
+  "182": {
+    "Personagem": "Yoshida",
+    "PT": "",
+    "EN": "I've heard rumors that a certain collector has given up their Sun Hard Drive\nat a certain store... which means this is my chance!"
+  },
+  "183": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "The Adventurer's Tavern has a physical store in Shanghai.\nIt's a developer studio in the day, so it's only open at night,\nbut feel free to stop by if you ever have the chance."
+  },
+  "184": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "I have a special present for you for buying Maid Cafe on Electric Street!\nFirst come first serve, while stocks last."
+  },
+  "185": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "I started developing Maid Cafe on Electric Street in 2019,\nand I bet everything I have on it. It took around 5 years,\nbut I finally managed to share it with you all!"
+  },
+  "186": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "We had a limited budget and a small team, so it was a lot of hard work,\nbut we hope you're enjoying the game!"
+  },
+  "187": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "I hope this experience of walking around our version of Electric Street\nhas become something special in your hearts."
+  },
+  "188": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "And I'll make an even better game next! Keep an eye out for that!"
+  },
+  "189": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...Uu...uuuu......"
+  },
+  "190": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "Ack... That pendant... That power... Argh..."
+  },
+  "191": {
+    "Personagem": "Ghost",
+    "PT": "",
+    "EN": "...Get... out...!"
+  },
+  "192": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Augh, all of my favorite series are attacking me from all sides...!"
+  },
+  "193": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wait, could it be... A doujinshi by Holy Hanpei-san?!"
+  },
+  "194": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "They're a doujin author who really deeply analyzes the source material,\nand it really shows in their art. I never thought I'd see their work here...!"
+  },
+  "195": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "All riiiight! Time to play Magic Angel~!"
+  },
+  "196": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Oh, if it isn't my familiar. Have you completed your task?"
+  },
+  "197": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "These days, I see merchandise of retro games more often."
+  },
+  "198": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Even these games will be called \"retro\" after many years have passed..."
+  },
+  "199": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "But I believe they will be passed down as legendary games\nthat are just as good as their predecessors."
+  },
+  "200": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This limited boss drops rare items!"
+  },
+  "201": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "There's no one else here right now, so now's our chance!\nLet's grind for those cute outfits like there's no tomorrow~!"
+  },
+  "202": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Woohoo! We did it! GG!"
+  },
+  "203": {
+    "Personagem": "Miyu",
+    "PT": "",
+    "EN": "Phew! Thank god Shiro hopped on in time!"
+  },
+  "204": {
+    "Personagem": "Chunlei",
+    "PT": "",
+    "EN": "Hi, I'm here from cyberspace! The VR goggles are part of my body and I sleep with them on."
+  },
+  "205": {
+    "Personagem": "Chunlei",
+    "PT": "",
+    "EN": "My favorite drink is yuenyeung! You don't see it very often in Japan, but it is a popular drink in Hong Kong. When you mix coffee and black tea, two seemingly incompatible drinks, you can taste the bitterness and richness of both, and enjoy the robust flavor."
+  },
+  "206": {
+    "Personagem": "Chunlei",
+    "PT": "",
+    "EN": "I first heard about “Maid Cafe on Electric Street” at an indie game event in Shanghai a few years ago!"
+  },
+  "207": {
+    "Personagem": "Xiaoqing",
+    "PT": "",
+    "EN": "I used to drink Haitian coffee at Fuwafuwa's and I was fascinated. It's drizzled with rum, so it tastes very nice."
+  },
+  "208": {
+    "Personagem": "Xiaoqing",
+    "PT": "",
+    "EN": "When you on a date,  you may try talk to her at different places (V key or Y button)? Also, take her with you and talk to different people, you might discover something new!"
+  },
+  "209": {
+    "Personagem": "Xiaoqing",
+    "PT": "",
+    "EN": "I've been a supporter of the Adventurer's Tavern since “Change”! I wish they could release more games!"
+  },
+  "210": {
+    "Personagem": "No.51",
+    "PT": "",
+    "EN": "If you meet someone you like, whether it's in electric street or elsewhere, do your best to leave no regrets."
+  },
+  "211": {
+    "Personagem": "No.51",
+    "PT": "",
+    "EN": "There's nothing like a cup of Vietnamese coffee after a busy day, when your mind and body are tired. The punch of caffeine and the sweet, rich flavor of condensed milk will surely soothe you."
+  },
+  "212": {
+    "Personagem": "No.51",
+    "PT": "",
+    "EN": "I'm good friends with the boss of the Adventurer's Tavern, we often order grog and talk about indie games."
+  },
+  "213": {
+    "Personagem": "Luchuchu",
+    "PT": "",
+    "EN": "Meow? Why are you staring at my ear, do you want to touch it? Fine."
+  },
+  "214": {
+    "Personagem": "Luchuchu",
+    "PT": "",
+    "EN": "Between you and me. Suzuka who works at Miracle Maid Cafe, loves cocktails."
+  },
+  "215": {
+    "Personagem": "Luchuchu",
+    "PT": "",
+    "EN": "Nya? Did you know that there are hidden recipes other than coffee in the recipe book? You should try it next time you're at the store."
+  },
+  "216": {
+    "Personagem": "Sonoda",
+    "PT": "",
+    "EN": "Em...Our new song is on sale. It's only 72 yen!"
+  },
+  "217": {
+    "Personagem": "Sonoda",
+    "PT": "",
+    "EN": "When I was weak because of many LIVEs before, the honey latte that the producer made for me was the most delicious. The gentle sweetness of the honey soothed my fatigue!"
+  },
+  "218": {
+    "Personagem": "Sonoda",
+    "PT": "",
+    "EN": "The summer festival is coming soon. How about taking her on a date to Kimono Store?"
+  },
+  "219": {
+    "Personagem": "Hiro Ryu",
+    "PT": "",
+    "EN": "You could make a cool desktop wallpaper with this trick!"
+  },
+  "220": {
+    "Personagem": "Azami",
+    "PT": "",
+    "EN": "Jasmine, is this the right station?"
+  },
+  "221": {
+    "Personagem": "Jasmine",
+    "PT": "",
+    "EN": "Yep. We were asked to investigate Electric Street. Have you seen the deets I sent you on your phone?"
+  },
+  "222": {
+    "Personagem": "Azami",
+    "PT": "",
+    "EN": "Yes! We're going to gather information here, and if the client's satisfied, we can go meet them, right?"
+  },
+  "223": {
+    "Personagem": "Jasmine",
+    "PT": "",
+    "EN": "\"If the Urban Myth Dissolution Center is as the rumors say, I would like to make a request,\" they said..."
+  },
+  "224": {
+    "Personagem": "Jasmine",
+    "PT": "",
+    "EN": "...Feels like they're trying to test us. Yeesh."
+  },
+  "225": {
+    "Personagem": "Azami",
+    "PT": "",
+    "EN": "I just got a message from the Director! \"Don't forget to use your psychic abilities.\""
+  },
+  "226": {
+    "Personagem": "Jasmine",
+    "PT": "",
+    "EN": "Okay then, let's start with that. You haven't forgotten your glasses, right?"
+  },
+  "227": {
+    "Personagem": "Azami",
+    "PT": "",
+    "EN": "Of course I haven't! Let's start the investigation!"
+  },
+  "228": {
+    "Personagem": "Azami",
+    "PT": "",
+    "EN": "This is the place, Jasmine. Let's have some drinks and organize the info we found on social media!"
+  },
+  "229": {
+    "Personagem": "Jasmine",
+    "PT": "",
+    "EN": "Okay, but you've got excitement written all over your face, Azami. I bet you're itching to find out if the rumors on your feed were really true, huh? What was it called again? Fuyo Fuyo...?"
+  },
+  "230": {
+    "Personagem": "Azami",
+    "PT": "",
+    "EN": "The Fuwa Fuwa Special!"
+  },
+  "231": {
+    "Personagem": "Azami",
+    "PT": "",
+    "EN": "...Um, I mean, I just thought I'd order it if it was really on the menu. Because, um, the Director would want to know about the rumors too, right? So we should see if the Fuwa Fuwa Special really exists...!"
+  },
+  "232": {
+    "Personagem": "Jasmine",
+    "PT": "",
+    "EN": "Uh, hello? Our job is to investigate rumors related to our clients' requests and to discover the truth behind them..."
+  },
+  "233": {
+    "Personagem": "Jasmine",
+    "PT": "",
+    "EN": "Wait. That does kinda mean we can look into the Fuwa Fuwa thing too, huh???"
+  },
+  "234": {
+    "Personagem": "Jasmine",
+    "PT": "",
+    "EN": "All right then. Let's take a closer look at that menu."
+  },
+  "235": {
+    "Personagem": "Eimu",
+    "PT": "",
+    "EN": "This street is super cool! I feel like I'll get scouted just walking here!"
+  },
+  "236": {
+    "Personagem": "Romeko",
+    "PT": "",
+    "EN": "...In your dreams, maybe."
+  },
+  "237": {
+    "Personagem": "Eimu",
+    "PT": "",
+    "EN": "Maybe a cafe waitress, or a model... or a singer?! An actress?!"
+  },
+  "238": {
+    "Personagem": "Romeko",
+    "PT": "",
+    "EN": "...Wake up."
+  },
+  "239": {
+    "Personagem": "Eimu",
+    "PT": "",
+    "EN": "Oh noooo! We're totally looost!"
+  },
+  "240": {
+    "Personagem": "Romeko",
+    "PT": "",
+    "EN": "...If only we could fast travel to our destination."
+  },
+  "241": {
+    "Personagem": "Eimu",
+    "PT": "",
+    "EN": "This isn't a game! Keep your eyes on the map!"
+  },
+  "242": {
+    "Personagem": "Eimu",
+    "PT": "",
+    "EN": "We came all this way to check out the maid cafe that everyone says has a great vibe... but where in the world IS it?!"
+  },
+  "243": {
+    "Personagem": "Romeko",
+    "PT": "",
+    "EN": "This place smells retro... I bet there's shops selling old school FPSes..."
+  },
+  "244": {
+    "Personagem": "Eimu",
+    "PT": "",
+    "EN": "Whoa, there's lots of tasty-looking food too... Can my wallet take it?!"
+  },
+  "245": {
+    "Personagem": "Romeko",
+    "PT": "",
+    "EN": "Don't go opening my wallet too, now..."
+  },
+  "246": {
+    "Personagem": "Romeko",
+    "PT": "",
+    "EN": "...I'm looking out for the overseas-only limited edition of the first DOME game... Maybe by some miracle a copy ended up here..."
+  },
+  "247": {
+    "Personagem": "Romeko",
+    "PT": "",
+    "EN": "I'd kill for a triple-A FPS set in modern day Japan..."
+  },
+  "248": {
+    "Personagem": "Eimu",
+    "PT": "",
+    "EN": "I wish we could've gotten the whole club to come with us~"
+  },
+  "249": {
+    "Personagem": "Eimu",
+    "PT": "",
+    "EN": "I bought way too many games! I don't have a single yen left for souvenirs!!"
+  }
+}

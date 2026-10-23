@@ -1,0 +1,152 @@
+{
+  "1": {
+    "Id": 1,
+    "DishKey": "中华炒饭",
+    "Name": "DishName_1",
+    "Introduce": "DishIntroduce_1",
+    "DishPrice": 2000,
+    "DishType": 1,
+    "DishPrefab": "Dish1",
+    "CookingTime": 15.0
+  },
+  "2": {
+    "Id": 2,
+    "DishKey": "蛋包饭",
+    "Name": "DishName_2",
+    "Introduce": "DishIntroduce_2",
+    "DishPrice": 2800,
+    "DishType": 1,
+    "DishPrefab": "Dish2",
+    "CookingTime": 21.0
+  },
+  "3": {
+    "Id": 3,
+    "DishKey": "咖喱鸡",
+    "Name": "DishName_3",
+    "Introduce": "DishIntroduce_3",
+    "DishPrice": 3200,
+    "DishType": 1,
+    "DishPrefab": "Dish3",
+    "CookingTime": 24.0
+  },
+  "4": {
+    "Id": 4,
+    "DishKey": "热香饼",
+    "Name": "DishName_4",
+    "Introduce": "DishIntroduce_4",
+    "DishPrice": 2400,
+    "DishType": 1,
+    "DishPrefab": "Dish4",
+    "CookingTime": 18.0
+  },
+  "5": {
+    "Id": 5,
+    "DishKey": "拿铁",
+    "Name": "CoffeeGame_DrinkName_1",
+    "Introduce": "CoffeeGame_DrinkIntroduce_1",
+    "DishPrice": 1600,
+    "DishType": 2,
+    "DishPrefab": "Dish5",
+    "CookingTime": 12.0
+  },
+  "6": {
+    "Id": 6,
+    "DishKey": "特浓拿铁",
+    "Name": "CoffeeGame_DrinkName_2",
+    "Introduce": "CoffeeGame_DrinkIntroduce_2",
+    "DishPrice": 1600,
+    "DishType": 2,
+    "DishPrefab": "Dish6",
+    "CookingTime": 12.0
+  },
+  "7": {
+    "Id": 7,
+    "DishKey": "摩卡",
+    "Name": "CoffeeGame_DrinkName_3",
+    "Introduce": "CoffeeGame_DrinkIntroduce_3",
+    "DishPrice": 1600,
+    "DishType": 2,
+    "DishPrefab": "Dish7",
+    "CookingTime": 12.0
+  },
+  "8": {
+    "Id": 8,
+    "DishKey": "卡布奇诺",
+    "Name": "CoffeeGame_DrinkName_4",
+    "Introduce": "CoffeeGame_DrinkIntroduce_4",
+    "DishPrice": 1600,
+    "DishType": 2,
+    "DishPrefab": "Dish8",
+    "CookingTime": 12.0
+  },
+  "9": {
+    "Id": 9,
+    "DishKey": "呼哇呼哇特制",
+    "Name": "CoffeeGame_DrinkName_5",
+    "Introduce": "CoffeeGame_DrinkIntroduce_5",
+    "DishPrice": 1600,
+    "DishType": 2,
+    "DishPrefab": "Dish9",
+    "CookingTime": 12.0
+  },
+  "10": {
+    "Id": 10,
+    "DishKey": "中华炒饭+水",
+    "Name": "DishName_5",
+    "Introduce": "DishIntroduce_5",
+    "DishPrice": 2000,
+    "DishType": 3,
+    "DishPrefab": "Dish10",
+    "CookingTime": 15.0
+  },
+  "11": {
+    "Id": 11,
+    "DishKey": "蛋包饭+水",
+    "Name": "DishName_6",
+    "Introduce": "DishIntroduce_6",
+    "DishPrice": 2800,
+    "DishType": 3,
+    "DishPrefab": "Dish11",
+    "CookingTime": 21.0
+  },
+  "12": {
+    "Id": 12,
+    "DishKey": "咖喱鸡+水",
+    "Name": "DishName_7",
+    "Introduce": "DishIntroduce_7",
+    "DishPrice": 3200,
+    "DishType": 3,
+    "DishPrefab": "Dish12",
+    "CookingTime": 24.0
+  },
+  "13": {
+    "Id": 13,
+    "DishKey": "热香饼+拿铁",
+    "Name": "DishName_8",
+    "Introduce": "DishIntroduce_8",
+    "DishPrice": 4000,
+    "DishType": 3,
+    "DishPrefab": "Dish13",
+    "CookingTime": 30.0
+  },
+  "14": {
+    "Id": 14,
+    "DishKey": "热香饼+摩卡",
+    "Name": "DishName_9",
+    "Introduce": "DishIntroduce_9",
+    "DishPrice": 4000,
+    "DishType": 3,
+    "DishPrefab": "Dish14",
+    "CookingTime": 30.0
+  },
+  "15": {
+    "Id": 15,
+    "DishKey": "热香饼+呼哇呼哇特制",
+    "Name": "DishName_10",
+    "Introduce": "DishIntroduce_10",
+    "DishPrice": 4000,
+    "DishType": 3,
+    "DishPrefab": "Dish15",
+    "CookingTime": 30.0
+  }
+}

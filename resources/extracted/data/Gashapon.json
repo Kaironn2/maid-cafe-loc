@@ -1,0 +1,242 @@
+{
+  "1": {
+    "id": 1,
+    "ItemId": 28,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.100000001490116
+  },
+  "2": {
+    "id": 2,
+    "ItemId": 29,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "3": {
+    "id": 3,
+    "ItemId": 30,
+    "PrizeKey": "GashaponPrizeC",
+    "Rate": 0.349999994039536
+  },
+  "4": {
+    "id": 4,
+    "ItemId": 31,
+    "PrizeKey": "GashaponPrizeC",
+    "Rate": 0.349999994039536
+  },
+  "5": {
+    "id": 5,
+    "ItemId": 32,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.150000005960464
+  },
+  "6": {
+    "id": 6,
+    "ItemId": 33,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.25
+  },
+  "7": {
+    "id": 7,
+    "ItemId": 34,
+    "PrizeKey": "GashaponPrizeC",
+    "Rate": 0.5
+  },
+  "8": {
+    "id": 8,
+    "ItemId": 35,
+    "PrizeKey": "GashaponPrizeHidden",
+    "Rate": 0.100000001490116
+  },
+  "9": {
+    "id": 9,
+    "ItemId": 36,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "10": {
+    "id": 10,
+    "ItemId": 37,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "11": {
+    "id": 11,
+    "ItemId": 38,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "12": {
+    "id": 12,
+    "ItemId": 39,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "13": {
+    "id": 13,
+    "ItemId": 40,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.100000001490116
+  },
+  "14": {
+    "id": 14,
+    "ItemId": 41,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.100000001490116
+  },
+  "15": {
+    "id": 15,
+    "ItemId": 42,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "16": {
+    "id": 16,
+    "ItemId": 43,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "17": {
+    "id": 17,
+    "ItemId": 44,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "18": {
+    "id": 18,
+    "ItemId": 45,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "19": {
+    "id": 19,
+    "ItemId": 46,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.100000001490116
+  },
+  "20": {
+    "id": 20,
+    "ItemId": 47,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.100000001490116
+  },
+  "21": {
+    "id": 21,
+    "ItemId": 48,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "22": {
+    "id": 22,
+    "ItemId": 49,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "23": {
+    "id": 23,
+    "ItemId": 50,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "24": {
+    "id": 24,
+    "ItemId": 51,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.200000002980232
+  },
+  "25": {
+    "id": 25,
+    "ItemId": 52,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.100000001490116
+  },
+  "26": {
+    "id": 26,
+    "ItemId": 53,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.100000001490116
+  },
+  "27": {
+    "id": 27,
+    "ItemId": 238,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.150000005960464
+  },
+  "28": {
+    "id": 28,
+    "ItemId": 239,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.150000005960464
+  },
+  "29": {
+    "id": 29,
+    "ItemId": 240,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.150000005960464
+  },
+  "30": {
+    "id": 30,
+    "ItemId": 241,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.150000005960464
+  },
+  "31": {
+    "id": 31,
+    "ItemId": 242,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.150000005960464
+  },
+  "32": {
+    "id": 32,
+    "ItemId": 243,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.150000005960464
+  },
+  "33": {
+    "id": 33,
+    "ItemId": 244,
+    "PrizeKey": "GashaponPrizeHidden",
+    "Rate": 0.100000001490116
+  },
+  "34": {
+    "id": 34,
+    "ItemId": 245,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.150000005960464
+  },
+  "35": {
+    "id": 35,
+    "ItemId": 246,
+    "PrizeKey": "GashaponPrizeA",
+    "Rate": 0.150000005960464
+  },
+  "36": {
+    "id": 36,
+    "ItemId": 247,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.150000005960464
+  },
+  "37": {
+    "id": 37,
+    "ItemId": 248,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.150000005960464
+  },
+  "38": {
+    "id": 38,
+    "ItemId": 249,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.150000005960464
+  },
+  "39": {
+    "id": 39,
+    "ItemId": 250,
+    "PrizeKey": "GashaponPrizeB",
+    "Rate": 0.150000005960464
+  },
+  "40": {
+    "id": 40,
+    "ItemId": 251,
+    "PrizeKey": "GashaponPrizeHidden",
+    "Rate": 0.100000001490116
+  }
+}

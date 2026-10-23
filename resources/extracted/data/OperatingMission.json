@@ -1,0 +1,58 @@
+{
+  "1": {
+    "Id": 1,
+    "MissionType": 1,
+    "ItemParam": "9:1",
+    "Delegator": 1,
+    "Duration": 1.0,
+    "Rewards": ""
+  },
+  "2": {
+    "Id": 2,
+    "MissionType": 1,
+    "ItemParam": "10:1",
+    "Delegator": 2,
+    "Duration": 1.5,
+    "Rewards": ""
+  },
+  "3": {
+    "Id": 3,
+    "MissionType": 1,
+    "ItemParam": "12:1",
+    "Delegator": 1,
+    "Duration": 1.0,
+    "Rewards": ""
+  },
+  "4": {
+    "Id": 4,
+    "MissionType": 1,
+    "ItemParam": "14:1",
+    "Delegator": 2,
+    "Duration": 1.5,
+    "Rewards": ""
+  },
+  "5": {
+    "Id": 5,
+    "MissionType": 1,
+    "ItemParam": "24:1",
+    "Delegator": 1,
+    "Duration": 1.0,
+    "Rewards": ""
+  },
+  "6": {
+    "Id": 6,
+    "MissionType": 1,
+    "ItemParam": "9:1;10:1",
+    "Delegator": 2,
+    "Duration": 2.0,
+    "Rewards": ""
+  },
+  "999": {
+    "Id": 999,
+    "MissionType": 2,
+    "ItemParam": "1",
+    "Delegator": 1,
+    "Duration": 9999.0,
+    "Rewards": ""
+  }
+}

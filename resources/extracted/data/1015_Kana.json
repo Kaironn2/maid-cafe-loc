@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1015_Kana_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1015_Kana_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1015_Kana_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1015_Kana_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1015_Kana_Basic_Leisure1",
+    "Type": "Basic",
+    "Atlas": "1015_Kana_Basic",
+    "Frame": "10_13"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "1015_Kana_Basic_Leisure2",
+    "Type": "Basic",
+    "Atlas": "1015_Kana_Basic",
+    "Frame": "14_17"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "1015_Kana_Basic_Leisure3",
+    "Type": "Basic",
+    "Atlas": "1015_Kana_Basic",
+    "Frame": "18_21"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "1015_Kana_Basic_Leisure4",
+    "Type": "Basic",
+    "Atlas": "1015_Kana_Basic",
+    "Frame": "22_25"
+  }
+}

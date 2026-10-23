@@ -1,0 +1,74 @@
+{
+  "1": {
+    "Id": 1,
+    "CharacterKey": "1_Siro",
+    "CharacterId": 1,
+    "Service": 4,
+    "Cook": 2,
+    "Clean": 3
+  },
+  "2": {
+    "Id": 2,
+    "CharacterKey": "2_Miyu",
+    "CharacterId": 2,
+    "Service": 2,
+    "Cook": 5,
+    "Clean": 2
+  },
+  "3": {
+    "Id": 3,
+    "CharacterKey": "3_Favna",
+    "CharacterId": 3,
+    "Service": 3,
+    "Cook": 3,
+    "Clean": 3
+  },
+  "4": {
+    "Id": 4,
+    "CharacterKey": "4_Honoka",
+    "CharacterId": 4,
+    "Service": 1,
+    "Cook": 3,
+    "Clean": 5
+  },
+  "5": {
+    "Id": 5,
+    "CharacterKey": "5_Anna",
+    "CharacterId": 5,
+    "Service": 7,
+    "Cook": 3,
+    "Clean": 3
+  },
+  "6": {
+    "Id": 6,
+    "CharacterKey": "6_Misaki",
+    "CharacterId": 6,
+    "Service": 3,
+    "Cook": 3,
+    "Clean": 7
+  },
+  "7": {
+    "Id": 7,
+    "CharacterKey": "7_Rin",
+    "CharacterId": 7,
+    "Service": 5,
+    "Cook": 4,
+    "Clean": 4
+  },
+  "8": {
+    "Id": 8,
+    "CharacterKey": "8_Doragon",
+    "CharacterId": 8,
+    "Service": 9,
+    "Cook": 9,
+    "Clean": 9
+  },
+  "9": {
+    "Id": 9,
+    "CharacterKey": "9_BlackCat",
+    "CharacterId": 9,
+    "Service": 9,
+    "Cook": 1,
+    "Clean": 9
+  }
+}

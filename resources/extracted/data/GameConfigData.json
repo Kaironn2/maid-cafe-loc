@@ -1,0 +1,188 @@
+{
+  "operatingmission_duration": {
+    "ID": "operatingmission_duration",
+    "StringParam": "",
+    "FloatParam": 1.0,
+    "IntParam": 0
+  },
+  "operatingmission_probability": {
+    "ID": "operatingmission_probability",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 100
+  },
+  "operatingmission_endtime": {
+    "ID": "operatingmission_endtime",
+    "StringParam": "",
+    "FloatParam": 8.0,
+    "IntParam": 0
+  },
+  "operatingmission_numlimit": {
+    "ID": "operatingmission_numlimit",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 2
+  },
+  "weather_cloudydayp": {
+    "ID": "weather_cloudydayp",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 20
+  },
+  "weather_cloudydaypop": {
+    "ID": "weather_cloudydaypop",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 10
+  },
+  "weather_sunnydaypop": {
+    "ID": "weather_sunnydaypop",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 50
+  },
+  "weather_rain_min": {
+    "ID": "weather_rain_min",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 7200
+  },
+  "weather_rain_max": {
+    "ID": "weather_rain_max",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 28800
+  },
+  "restday": {
+    "ID": "restday",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 1
+  },
+  "operating_maxtime": {
+    "ID": "operating_maxtime",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 10
+  },
+  "operating_customercomingmaxtime": {
+    "ID": "operating_customercomingmaxtime",
+    "StringParam": "",
+    "FloatParam": 9.0,
+    "IntParam": 0
+  },
+  "operting_maxdishnum": {
+    "ID": "operting_maxdishnum",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 5
+  },
+  "operating_incomturnpercent": {
+    "ID": "operating_incomturnpercent",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 20
+  },
+  "customerproblem_probability": {
+    "ID": "customerproblem_probability",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 30
+  },
+  "customer_goseattime": {
+    "ID": "customer_goseattime",
+    "StringParam": "",
+    "FloatParam": 10.0,
+    "IntParam": 0
+  },
+  "customer_waitorder": {
+    "ID": "customer_waitorder",
+    "StringParam": "",
+    "FloatParam": 5.0,
+    "IntParam": 0
+  },
+  "customer_eattime": {
+    "ID": "customer_eattime",
+    "StringParam": "",
+    "FloatParam": 5.0,
+    "IntParam": 0
+  },
+  "cookingtime": {
+    "ID": "cookingtime",
+    "StringParam": "",
+    "FloatParam": 10.0,
+    "IntParam": 0
+  },
+  "maid_allordertime": {
+    "ID": "maid_allordertime",
+    "StringParam": "",
+    "FloatParam": 5.0,
+    "IntParam": 0
+  },
+  "maid_ordertime": {
+    "ID": "maid_ordertime",
+    "StringParam": "",
+    "FloatParam": 2.0,
+    "IntParam": 0
+  },
+  "maid_allgetdishtime": {
+    "ID": "maid_allgetdishtime",
+    "StringParam": "",
+    "FloatParam": 5.0,
+    "IntParam": 0
+  },
+  "maid_allsenddishtime": {
+    "ID": "maid_allsenddishtime",
+    "StringParam": "",
+    "FloatParam": 5.0,
+    "IntParam": 0
+  },
+  "maid_allsolvingproblemtime": {
+    "ID": "maid_allsolvingproblemtime",
+    "StringParam": "",
+    "FloatParam": 8.0,
+    "IntParam": 0
+  },
+  "maid_allcheckouttime": {
+    "ID": "maid_allcheckouttime",
+    "StringParam": "",
+    "FloatParam": 6.0,
+    "IntParam": 0
+  },
+  "maid_checkouttime": {
+    "ID": "maid_checkouttime",
+    "StringParam": "",
+    "FloatParam": 3.0,
+    "IntParam": 0
+  },
+  "operating_leaflets": {
+    "ID": "operating_leaflets",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 20
+  },
+  "operating_leafletssuccespercent": {
+    "ID": "operating_leafletssuccespercent",
+    "StringParam": "",
+    "FloatParam": 0.0500000007450581,
+    "IntParam": 0
+  },
+  "operting_borndrinkmission": {
+    "ID": "operting_borndrinkmission",
+    "StringParam": "",
+    "FloatParam": 0.800000011920929,
+    "IntParam": 0
+  },
+  "operting_maxskillpower": {
+    "ID": "operting_maxskillpower",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 100
+  },
+  "operting_eachactionaddskillpower": {
+    "ID": "operting_eachactionaddskillpower",
+    "StringParam": "",
+    "FloatParam": 0.0,
+    "IntParam": 10
+  }
+}

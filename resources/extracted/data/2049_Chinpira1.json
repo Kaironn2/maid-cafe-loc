@@ -1,0 +1,51 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "2049_Chinpira1_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "2049_Chinpira1_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "2049_Chinpira1_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "2049_Chinpira1_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "2049_Chinpira1_Basic_SideSitIdle",
+    "Type": "Basic",
+    "Atlas": "2049_Chinpira1_Basic",
+    "Frame": "10_12"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "2049_Chinpira1_Basic_SideSitOrder",
+    "Type": "Basic",
+    "Atlas": "2049_Chinpira1_Basic",
+    "Frame": "13_13"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "2049_Chinpira1_Basic_SideSitEat",
+    "Type": "Basic",
+    "Atlas": "2049_Chinpira1_Basic",
+    "Frame": "14_19"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "2049_Chinpira1_Basic_BackStandIdle",
+    "Type": "Basic",
+    "Atlas": "2049_Chinpira1_Basic",
+    "Frame": "20_20"
+  },
+  "7": {
+    "Id": 7,
+    "Name": "2049_Chinpira1_Basic_Interaction",
+    "Type": "Basic",
+    "Atlas": "2049_Chinpira1_Basic",
+    "Frame": "20_21"
+  }
+}

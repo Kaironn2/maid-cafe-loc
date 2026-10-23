@@ -1,0 +1,2492 @@
+{
+  "1_Siro_Daily": {
+    "id": "1_Siro_Daily",
+    "WelcomeDiaID": 470,
+    "RandomDiaIDs": "474",
+    "StoryDiaIDs": ""
+  },
+  "2_Miyu_Daily": {
+    "id": "2_Miyu_Daily",
+    "WelcomeDiaID": 471,
+    "RandomDiaIDs": "475",
+    "StoryDiaIDs": ""
+  },
+  "3_Favna_Daily": {
+    "id": "3_Favna_Daily",
+    "WelcomeDiaID": 472,
+    "RandomDiaIDs": "483",
+    "StoryDiaIDs": ""
+  },
+  "4_Honoka_Daily": {
+    "id": "4_Honoka_Daily",
+    "WelcomeDiaID": 473,
+    "RandomDiaIDs": "484",
+    "StoryDiaIDs": ""
+  },
+  "7_Rin_Daily": {
+    "id": "7_Rin_Daily",
+    "WelcomeDiaID": 52,
+    "RandomDiaIDs": "53;54;558",
+    "StoryDiaIDs": ""
+  },
+  "9_BlackCat_Daily": {
+    "id": "9_BlackCat_Daily",
+    "WelcomeDiaID": 479,
+    "RandomDiaIDs": "321;322;323;480;481;481",
+    "StoryDiaIDs": ""
+  },
+  "1001_Shiori_Daily": {
+    "id": "1001_Shiori_Daily",
+    "WelcomeDiaID": 62,
+    "RandomDiaIDs": "63;64;65",
+    "StoryDiaIDs": ""
+  },
+  "1004_Haru_Daily": {
+    "id": "1004_Haru_Daily",
+    "WelcomeDiaID": 58,
+    "RandomDiaIDs": "59;60;61;490",
+    "StoryDiaIDs": ""
+  },
+  "1005_Mio_Daily": {
+    "id": "1005_Mio_Daily",
+    "WelcomeDiaID": 1,
+    "RandomDiaIDs": "2;3;4;5",
+    "StoryDiaIDs": ""
+  },
+  "1006_Masafumi_Daily": {
+    "id": "1006_Masafumi_Daily",
+    "WelcomeDiaID": 6,
+    "RandomDiaIDs": "7;488;489",
+    "StoryDiaIDs": ""
+  },
+  "1007_Yuka_Daily": {
+    "id": "1007_Yuka_Daily",
+    "WelcomeDiaID": 55,
+    "RandomDiaIDs": "56;57;559;560",
+    "StoryDiaIDs": ""
+  },
+  "1008_Narumi_Daily": {
+    "id": "1008_Narumi_Daily",
+    "WelcomeDiaID": 168,
+    "RandomDiaIDs": "169;170;171;172;173;174",
+    "StoryDiaIDs": ""
+  },
+  "1009_Syogo_Daily": {
+    "id": "1009_Syogo_Daily",
+    "WelcomeDiaID": 129,
+    "RandomDiaIDs": "130;131;132",
+    "StoryDiaIDs": ""
+  },
+  "1010_Natsumi_Daily": {
+    "id": "1010_Natsumi_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "204;205;206",
+    "StoryDiaIDs": ""
+  },
+  "1014_Sakura_Daily": {
+    "id": "1014_Sakura_Daily",
+    "WelcomeDiaID": 10,
+    "RandomDiaIDs": "11;512;513",
+    "StoryDiaIDs": ""
+  },
+  "1015_Kana_Daily": {
+    "id": "1015_Kana_Daily",
+    "WelcomeDiaID": 175,
+    "RandomDiaIDs": "176;177;178",
+    "StoryDiaIDs": ""
+  },
+  "1017_Sinobu_Daily": {
+    "id": "1017_Sinobu_Daily",
+    "WelcomeDiaID": 46,
+    "RandomDiaIDs": "47;48;556",
+    "StoryDiaIDs": ""
+  },
+  "1018_Nobuyuki_Daily": {
+    "id": "1018_Nobuyuki_Daily",
+    "WelcomeDiaID": 49,
+    "RandomDiaIDs": "50;51;557",
+    "StoryDiaIDs": ""
+  },
+  "1019_Ichiryu_Daily": {
+    "id": "1019_Ichiryu_Daily",
+    "WelcomeDiaID": 16,
+    "RandomDiaIDs": "17;520;521",
+    "StoryDiaIDs": ""
+  },
+  "1022_Shioriko_Daily": {
+    "id": "1022_Shioriko_Daily",
+    "WelcomeDiaID": 43,
+    "RandomDiaIDs": "44;45;552",
+    "StoryDiaIDs": ""
+  },
+  "1024_Toshiko_Daily": {
+    "id": "1024_Toshiko_Daily",
+    "WelcomeDiaID": 193,
+    "RandomDiaIDs": "194;195;196",
+    "StoryDiaIDs": ""
+  },
+  "1025_Futaba_Daily": {
+    "id": "1025_Futaba_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "197;198;199",
+    "StoryDiaIDs": ""
+  },
+  "1026_Yutaka_Daily": {
+    "id": "1026_Yutaka_Daily",
+    "WelcomeDiaID": 30,
+    "RandomDiaIDs": "31;32;33;34",
+    "StoryDiaIDs": ""
+  },
+  "1027_Romin_Daily": {
+    "id": "1027_Romin_Daily",
+    "WelcomeDiaID": 14,
+    "RandomDiaIDs": "15;485;486;487",
+    "StoryDiaIDs": ""
+  },
+  "1028_Mi_Daily": {
+    "id": "1028_Mi_Daily",
+    "WelcomeDiaID": 161,
+    "RandomDiaIDs": "162;163;164",
+    "StoryDiaIDs": ""
+  },
+  "1029_Jiro_Daily": {
+    "id": "1029_Jiro_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "165;166;167",
+    "StoryDiaIDs": ""
+  },
+  "1030_Tokuko_Daily": {
+    "id": "1030_Tokuko_Daily",
+    "WelcomeDiaID": 12,
+    "RandomDiaIDs": "13;514;515",
+    "StoryDiaIDs": ""
+  },
+  "1032_Yuusuke_Daily": {
+    "id": "1032_Yuusuke_Daily",
+    "WelcomeDiaID": 18,
+    "RandomDiaIDs": "19;528;529",
+    "StoryDiaIDs": ""
+  },
+  "1034_Tsuki_Daily": {
+    "id": "1034_Tsuki_Daily",
+    "WelcomeDiaID": 35,
+    "RandomDiaIDs": "36;548;549",
+    "StoryDiaIDs": ""
+  },
+  "1035_Yui_Daily": {
+    "id": "1035_Yui_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "476;477;478",
+    "StoryDiaIDs": ""
+  },
+  "1036_Daichi_Daily": {
+    "id": "1036_Daichi_Daily",
+    "WelcomeDiaID": 22,
+    "RandomDiaIDs": "23;535;536",
+    "StoryDiaIDs": ""
+  },
+  "1037_Kuro_Daily": {
+    "id": "1037_Kuro_Daily",
+    "WelcomeDiaID": 24,
+    "RandomDiaIDs": "25;537;538;539",
+    "StoryDiaIDs": ""
+  },
+  "1038_Bunta_Daily": {
+    "id": "1038_Bunta_Daily",
+    "WelcomeDiaID": 8,
+    "RandomDiaIDs": "9;507;508",
+    "StoryDiaIDs": ""
+  },
+  "1040_Megumi_Daily": {
+    "id": "1040_Megumi_Daily",
+    "WelcomeDiaID": 200,
+    "RandomDiaIDs": "201;202;203",
+    "StoryDiaIDs": ""
+  },
+  "1041_Murasaki_Daily": {
+    "id": "1041_Murasaki_Daily",
+    "WelcomeDiaID": 20,
+    "RandomDiaIDs": "21;530;531",
+    "StoryDiaIDs": ""
+  },
+  "1043_Asuna_Daily": {
+    "id": "1043_Asuna_Daily",
+    "WelcomeDiaID": 26,
+    "RandomDiaIDs": "27;540;541",
+    "StoryDiaIDs": ""
+  },
+  "1044_Kazuto_Daily": {
+    "id": "1044_Kazuto_Daily",
+    "WelcomeDiaID": 28,
+    "RandomDiaIDs": "29;542;543",
+    "StoryDiaIDs": ""
+  },
+  "1045_Nagi_Daily": {
+    "id": "1045_Nagi_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "179;180;181",
+    "StoryDiaIDs": ""
+  },
+  "1046_An_Daily": {
+    "id": "1046_An_Daily",
+    "WelcomeDiaID": 182,
+    "RandomDiaIDs": "183;184;185",
+    "StoryDiaIDs": ""
+  },
+  "1047_Yuusaku_Daily": {
+    "id": "1047_Yuusaku_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "186;187;188",
+    "StoryDiaIDs": ""
+  },
+  "1049_Ayame_Daily": {
+    "id": "1049_Ayame_Daily",
+    "WelcomeDiaID": 40,
+    "RandomDiaIDs": "41;42;551",
+    "StoryDiaIDs": ""
+  },
+  "1055_Yousuke_Daily": {
+    "id": "1055_Yousuke_Daily",
+    "WelcomeDiaID": 140,
+    "RandomDiaIDs": "141;142;143",
+    "StoryDiaIDs": ""
+  },
+  "1057_Linglong_Daily": {
+    "id": "1057_Linglong_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "137;138;139",
+    "StoryDiaIDs": ""
+  },
+  "1058_Izumi_Daily": {
+    "id": "1058_Izumi_Daily",
+    "WelcomeDiaID": 133,
+    "RandomDiaIDs": "134;135;136",
+    "StoryDiaIDs": ""
+  },
+  "1059_Midori_Daily": {
+    "id": "1059_Midori_Daily",
+    "WelcomeDiaID": 37,
+    "RandomDiaIDs": "38;39;550",
+    "StoryDiaIDs": ""
+  },
+  "1063_Kazuma_Daily": {
+    "id": "1063_Kazuma_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "144;145;146",
+    "StoryDiaIDs": ""
+  },
+  "1064_Shizuo_Daily": {
+    "id": "1064_Shizuo_Daily",
+    "WelcomeDiaID": 147,
+    "RandomDiaIDs": "148;149;150",
+    "StoryDiaIDs": ""
+  },
+  "1065_Megumi_Daily": {
+    "id": "1065_Megumi_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "151;152;153",
+    "StoryDiaIDs": ""
+  },
+  "1068_Kitamura_Daily": {
+    "id": "1068_Kitamura_Daily",
+    "WelcomeDiaID": 154,
+    "RandomDiaIDs": "155;156;157",
+    "StoryDiaIDs": ""
+  },
+  "1069_Rico_Daily": {
+    "id": "1069_Rico_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "158;159;160",
+    "StoryDiaIDs": ""
+  },
+  "1070_Yanagihara_Daily": {
+    "id": "1070_Yanagihara_Daily",
+    "WelcomeDiaID": 189,
+    "RandomDiaIDs": "190;191;192",
+    "StoryDiaIDs": ""
+  },
+  "1062_Saji_Day46": {
+    "id": "1062_Saji_Day46",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "66;67;68;69;70"
+  },
+  "1055_Yousuke_Day46": {
+    "id": "1055_Yousuke_Day46",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "71;72;73;74;75"
+  },
+  "1009_Syogo_Day46": {
+    "id": "1009_Syogo_Day46",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "76;77;78;79;80;81"
+  },
+  "1059_Midori_Day46": {
+    "id": "1059_Midori_Day46",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "82;83;84;85;86"
+  },
+  "1039_Takumi_Day46": {
+    "id": "1039_Takumi_Day46",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "87;88;89;90;91"
+  },
+  "1052_Memi_Day46": {
+    "id": "1052_Memi_Day46",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "92;93;94;95;96"
+  },
+  "7_Rin_Day46": {
+    "id": "7_Rin_Day46",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "97;98;99;100;101"
+  },
+  "1026_Yutaka_ShinyaShokudo": {
+    "id": "1026_Yutaka_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "102"
+  },
+  "1062_Saji_ShinyaShokudo": {
+    "id": "1062_Saji_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "103"
+  },
+  "1006_Masafumi_ShinyaShokudo": {
+    "id": "1006_Masafumi_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "104"
+  },
+  "1007_Yuka_ShinyaShokudo": {
+    "id": "1007_Yuka_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "105"
+  },
+  "1004_Haru_ShinyaShokudo": {
+    "id": "1004_Haru_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "106"
+  },
+  "1009_Syogo_ShinyaShokudo": {
+    "id": "1009_Syogo_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "107"
+  },
+  "1058_Izumi_ShinyaShokudo": {
+    "id": "1058_Izumi_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "108"
+  },
+  "1059_Midori_ShinyaShokudo": {
+    "id": "1059_Midori_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "109"
+  },
+  "1055_Yousuke_ShinyaShokudo": {
+    "id": "1055_Yousuke_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "110"
+  },
+  "1010_Natsumi_ShinyaShokudo": {
+    "id": "1010_Natsumi_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "111"
+  },
+  "1008_Narumi_ShinyaShokudo": {
+    "id": "1008_Narumi_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "112"
+  },
+  "1015_Kana_ShinyaShokudo": {
+    "id": "1015_Kana_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "113"
+  },
+  "1046_An_ShinyaShokudo": {
+    "id": "1046_An_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "114"
+  },
+  "1044_Kazuto_ShinyaShokudo": {
+    "id": "1044_Kazuto_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "115"
+  },
+  "1022_Shioriko_ShinyaShokudo": {
+    "id": "1022_Shioriko_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "116"
+  },
+  "1032_Yuusuke_ShinyaShokudo": {
+    "id": "1032_Yuusuke_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "117"
+  },
+  "1049_Ayame_ShinyaShokudo": {
+    "id": "1049_Ayame_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "118"
+  },
+  "1035_Yui_ShinyaShokudo": {
+    "id": "1035_Yui_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "119"
+  },
+  "7_Rin_ShinyaShokudo": {
+    "id": "7_Rin_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "120"
+  },
+  "1052_Memi_ShinyaShokudo": {
+    "id": "1052_Memi_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "121"
+  },
+  "1036_Daichi_ShinyaShokudo": {
+    "id": "1036_Daichi_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "122"
+  },
+  "1024_Toshiko_ShinyaShokudo": {
+    "id": "1024_Toshiko_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "123"
+  },
+  "1017_Sinobu_ShinyaShokudo": {
+    "id": "1017_Sinobu_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "124"
+  },
+  "1014_Sakura_ShinyaShokudo": {
+    "id": "1014_Sakura_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "125"
+  },
+  "1019_Ichiryu_ShinyaShokudo": {
+    "id": "1019_Ichiryu_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "126"
+  },
+  "1039_Takumi_ShinyaShokudo": {
+    "id": "1039_Takumi_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "127"
+  },
+  "1033_Akiho_ShinyaShokudo": {
+    "id": "1033_Akiho_ShinyaShokudo",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "128"
+  },
+  "1_Siro_Day13_OsakaCastlePark_SiroNotParter": {
+    "id": "1_Siro_Day13_OsakaCastlePark_SiroNotParter",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "207"
+  },
+  "2_Miyu_Day13_OsakaCastlePark_MiyuNotPartner": {
+    "id": "2_Miyu_Day13_OsakaCastlePark_MiyuNotPartner",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "208"
+  },
+  "5_Anna_Day13_OsakaCastlePark_MiyuNotPartner": {
+    "id": "5_Anna_Day13_OsakaCastlePark_MiyuNotPartner",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "209"
+  },
+  "6_Misaki_Day13_OsakaCastlePark_MiyuNotPartner": {
+    "id": "6_Misaki_Day13_OsakaCastlePark_MiyuNotPartner",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "210"
+  },
+  "3_Favna_Day13_OsakaCastlePark_FavnaNotParter": {
+    "id": "3_Favna_Day13_OsakaCastlePark_FavnaNotParter",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "211"
+  },
+  "4_Honoka_Day13_OsakaCastlePark_HonokaNotParter": {
+    "id": "4_Honoka_Day13_OsakaCastlePark_HonokaNotParter",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "212"
+  },
+  "1050_Nanaka_Day13_OsakaCastlePark_HonokaNotParter": {
+    "id": "1050_Nanaka_Day13_OsakaCastlePark_HonokaNotParter",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "213"
+  },
+  "1051_Nonoka_Day13_OsakaCastlePark_HonokaNotParter": {
+    "id": "1051_Nonoka_Day13_OsakaCastlePark_HonokaNotParter",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "214"
+  },
+  "1_Siro_Day14_OsakaCastlePark_SiroNotParter": {
+    "id": "1_Siro_Day14_OsakaCastlePark_SiroNotParter",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "215"
+  },
+  "2_Miyu_Day14_OsakaCastlePark_MiyuNotPartner": {
+    "id": "2_Miyu_Day14_OsakaCastlePark_MiyuNotPartner",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "216"
+  },
+  "3_Favna_Day14_OsakaCastlePark_FavnaNotParter": {
+    "id": "3_Favna_Day14_OsakaCastlePark_FavnaNotParter",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "217"
+  },
+  "4_Honoka_Day14_OsakaCastlePark_HonokaNotParter": {
+    "id": "4_Honoka_Day14_OsakaCastlePark_HonokaNotParter",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "218"
+  },
+  "1049_Ayame_Day12_OsakaCastlePark": {
+    "id": "1049_Ayame_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "219",
+    "StoryDiaIDs": ""
+  },
+  "1055_Yousuke_Day12_OsakaCastlePark": {
+    "id": "1055_Yousuke_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 220,
+    "RandomDiaIDs": "221",
+    "StoryDiaIDs": ""
+  },
+  "1009_Syogo_Day12_OsakaCastlePark": {
+    "id": "1009_Syogo_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "222",
+    "StoryDiaIDs": ""
+  },
+  "1059_Midori_Day12_OsakaCastlePark": {
+    "id": "1059_Midori_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 223,
+    "RandomDiaIDs": "224",
+    "StoryDiaIDs": ""
+  },
+  "1039_Takumi_Day12_OsakaCastlePark": {
+    "id": "1039_Takumi_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 225,
+    "RandomDiaIDs": "226",
+    "StoryDiaIDs": ""
+  },
+  "1038_Bunta_Day12_OsakaCastlePark": {
+    "id": "1038_Bunta_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "227",
+    "StoryDiaIDs": ""
+  },
+  "1052_Memi_Day12_OsakaCastlePark": {
+    "id": "1052_Memi_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 228,
+    "RandomDiaIDs": "229",
+    "StoryDiaIDs": ""
+  },
+  "1035_Yui_Day13_OsakaCastlePark": {
+    "id": "1035_Yui_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "231",
+    "StoryDiaIDs": ""
+  },
+  "7_Rin_Day14_OsakaCastlePark": {
+    "id": "7_Rin_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "232",
+    "StoryDiaIDs": ""
+  },
+  "1040_Megumi_Day13_OsakaCastlePark": {
+    "id": "1040_Megumi_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "233",
+    "StoryDiaIDs": ""
+  },
+  "1043_Asuna_Day12_OsakaCastlePark": {
+    "id": "1043_Asuna_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "234",
+    "StoryDiaIDs": ""
+  },
+  "1036_Daichi_Day12_OsakaCastlePark": {
+    "id": "1036_Daichi_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "235",
+    "StoryDiaIDs": ""
+  },
+  "1044_Kazuto_Day13_OsakaCastlePark": {
+    "id": "1044_Kazuto_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "236",
+    "StoryDiaIDs": ""
+  },
+  "1037_Kuro_Day13_OsakaCastlePark": {
+    "id": "1037_Kuro_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "237",
+    "StoryDiaIDs": ""
+  },
+  "1057_Linglong_Day13_OsakaCastlePark": {
+    "id": "1057_Linglong_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "239",
+    "StoryDiaIDs": ""
+  },
+  "1062_Noyama_Day13_OsakaCastlePark": {
+    "id": "1062_Noyama_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "240",
+    "StoryDiaIDs": ""
+  },
+  "1062_Noyama_Day14_OsakaCastlePark": {
+    "id": "1062_Noyama_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "241",
+    "StoryDiaIDs": ""
+  },
+  "1003_Suzuka_Day13_OsakaCastlePark": {
+    "id": "1003_Suzuka_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 242,
+    "RandomDiaIDs": "243",
+    "StoryDiaIDs": ""
+  },
+  "1003_Suzuka_Day14_OsakaCastlePark": {
+    "id": "1003_Suzuka_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 244,
+    "RandomDiaIDs": "245;246;247",
+    "StoryDiaIDs": ""
+  },
+  "1002_Mari_Day13_OsakaCastlePark": {
+    "id": "1002_Mari_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "246",
+    "StoryDiaIDs": ""
+  },
+  "1001_Shiori_Day13_OsakaCastlePark": {
+    "id": "1001_Shiori_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "247",
+    "StoryDiaIDs": ""
+  },
+  "1032_Yuusuke_Day14_OsakaCastlePark": {
+    "id": "1032_Yuusuke_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 248,
+    "RandomDiaIDs": "249",
+    "StoryDiaIDs": ""
+  },
+  "1014_Sakura_Day14_OsakaCastlePark": {
+    "id": "1014_Sakura_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 250,
+    "RandomDiaIDs": "251",
+    "StoryDiaIDs": ""
+  },
+  "1063_Kazuma_Day14_OsakaCastlePark": {
+    "id": "1063_Kazuma_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 252,
+    "RandomDiaIDs": "253",
+    "StoryDiaIDs": ""
+  },
+  "1019_Ichiryu_Day14_OsakaCastlePark": {
+    "id": "1019_Ichiryu_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 254,
+    "RandomDiaIDs": "255;256;257",
+    "StoryDiaIDs": ""
+  },
+  "1020_Kaoru_Day14_OsakaCastlePark": {
+    "id": "1020_Kaoru_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "256",
+    "StoryDiaIDs": ""
+  },
+  "1021_Haruka_Day14_OsakaCastlePark": {
+    "id": "1021_Haruka_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "257",
+    "StoryDiaIDs": ""
+  },
+  "1012_Toshio_Day12_OsakaCastlePark": {
+    "id": "1012_Toshio_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "258",
+    "StoryDiaIDs": ""
+  },
+  "1016_Kenji_Day12_OsakaCastlePark": {
+    "id": "1016_Kenji_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "259",
+    "StoryDiaIDs": ""
+  },
+  "5_Anna_Day14_OsakaCastlePark": {
+    "id": "5_Anna_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "260",
+    "StoryDiaIDs": ""
+  },
+  "6_Misaki_Day14_OsakaCastlePark": {
+    "id": "6_Misaki_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "261",
+    "StoryDiaIDs": ""
+  },
+  "1050_Nanaka_Day14_OsakaCastlePark": {
+    "id": "1050_Nanaka_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "262",
+    "StoryDiaIDs": ""
+  },
+  "1051_Nonoka_Day14_OsakaCastlePark": {
+    "id": "1051_Nonoka_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "263",
+    "StoryDiaIDs": ""
+  },
+  "9_BlackCat_Day12_OsakaCastlePark": {
+    "id": "9_BlackCat_Day12_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "264",
+    "StoryDiaIDs": ""
+  },
+  "9_BlackCat_Day13_OsakaCastlePark": {
+    "id": "9_BlackCat_Day13_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "265",
+    "StoryDiaIDs": ""
+  },
+  "1048_HiroRyu_Day14_OsakaCastlePark": {
+    "id": "1048_HiroRyu_Day14_OsakaCastlePark",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "266",
+    "StoryDiaIDs": ""
+  },
+  "AkibaBrothers_DianMei": {
+    "id": "AkibaBrothers_DianMei",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "267;268;269;270;271"
+  },
+  "AkibaBrothers_Kamen": {
+    "id": "AkibaBrothers_Kamen",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "272;273;274;275;276"
+  },
+  "AkibaBrothers_BFF": {
+    "id": "AkibaBrothers_BFF",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "277;278;279;280;281"
+  },
+  "AkibaBrothers_Gojita": {
+    "id": "AkibaBrothers_Gojita",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "282;283;284;285;286"
+  },
+  "AkibaBrothers_Avengers": {
+    "id": "AkibaBrothers_Avengers",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "287;288;289;290;291"
+  },
+  "AkibaBrothers_Mahou": {
+    "id": "AkibaBrothers_Mahou",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "292;293;294;295;296"
+  },
+  "AkibaBrothers_Violet": {
+    "id": "AkibaBrothers_Violet",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "297;298;299;300;301;302"
+  },
+  "AkibaBrothers_Hate": {
+    "id": "AkibaBrothers_Hate",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "303;304;305;306;307"
+  },
+  "AkibaBrothers_Zhuyuan": {
+    "id": "AkibaBrothers_Zhuyuan",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "308;309;310;311;312;313;314"
+  },
+  "1057_Linglong_Day19_Dia": {
+    "id": "1057_Linglong_Day19_Dia",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "315"
+  },
+  "1027_Romin_Day22_Dia": {
+    "id": "1027_Romin_Day22_Dia",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "316;317"
+  },
+  "1031_Yashuhiko_DailyDia": {
+    "id": "1031_Yashuhiko_DailyDia",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "318;319;320",
+    "StoryDiaIDs": ""
+  },
+  "1009_Syogo_TeamDiaToHonoka": {
+    "id": "1009_Syogo_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "324;325"
+  },
+  "1058_Izumi_TeamDiaToHonoka": {
+    "id": "1058_Izumi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "326;327"
+  },
+  "1057_Linglong_TeamDiaToShiro": {
+    "id": "1057_Linglong_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "328;329"
+  },
+  "1059_Midori_TeamDiaToMiyu": {
+    "id": "1059_Midori_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "330;331"
+  },
+  "9_BlackCat_TeamDiaToShiro": {
+    "id": "9_BlackCat_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "332;333"
+  },
+  "9_BlackCat_TeamDiaToMiyu": {
+    "id": "9_BlackCat_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "334;335"
+  },
+  "9_BlackCat_TeamDiaToFavna": {
+    "id": "9_BlackCat_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "336;337;338"
+  },
+  "9_BlackCat_TeamDiaToHonoka": {
+    "id": "9_BlackCat_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "339;340"
+  },
+  "1055_Yousuke_TeamDiaToShiro": {
+    "id": "1055_Yousuke_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "341;342"
+  },
+  "1055_Yousuke_TeamDiaToHonoka": {
+    "id": "1055_Yousuke_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "343;344"
+  },
+  "1063_Kazuma_TeamDiaToMiyu": {
+    "id": "1063_Kazuma_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "345;346"
+  },
+  "1064_Shizuo_TeamDiaToShiro": {
+    "id": "1064_Shizuo_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "347;348"
+  },
+  "1065_Megumi_TeamDiaToFavna": {
+    "id": "1065_Megumi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "349;350"
+  },
+  "1068_Kitamura_TeamDiaToShiro": {
+    "id": "1068_Kitamura_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "351;352"
+  },
+  "1069_Rico_TeamDiaToMiyu": {
+    "id": "1069_Rico_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "353;354"
+  },
+  "1005_Mio_TeamDiaToHonoka": {
+    "id": "1005_Mio_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "355;356"
+  },
+  "1006_Masafumi_TeamDiaToShiro": {
+    "id": "1006_Masafumi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "357;358"
+  },
+  "1006_Masafumi_TeamDiaToShiro_6": {
+    "id": "1006_Masafumi_TeamDiaToShiro_6",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "359;360"
+  },
+  "1004_Haru_TeamDiaToFavna": {
+    "id": "1004_Haru_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "361;362"
+  },
+  "1066_Lynn_TeamDiaToFavna": {
+    "id": "1066_Lynn_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "363;364"
+  },
+  "1067_Mayuri_TeamDiaToMiyu": {
+    "id": "1067_Mayuri_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "365;366"
+  },
+  "1010_Natsumi_TeamDiaToShiro": {
+    "id": "1010_Natsumi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "367;368"
+  },
+  "1003_Suzuka_TeamDiaToShiro": {
+    "id": "1003_Suzuka_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "369;370"
+  },
+  "1003_Suzuka_TeamDiaToMiyu": {
+    "id": "1003_Suzuka_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "371;372"
+  },
+  "1003_Suzuka_TeamDiaToFavna": {
+    "id": "1003_Suzuka_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "373;374"
+  },
+  "1003_Suzuka_TeamDiaToHonoka": {
+    "id": "1003_Suzuka_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "375;376"
+  },
+  "1001_Shiori_TeamDiaToFavna": {
+    "id": "1001_Shiori_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "377;378"
+  },
+  "1001_Shiori_TeamDiaToHonoka": {
+    "id": "1001_Shiori_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "379;380;381"
+  },
+  "1002_Mari_TeamDiaToShiro": {
+    "id": "1002_Mari_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "382;383"
+  },
+  "1002_Mari_TeamDiaToMiyu": {
+    "id": "1002_Mari_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "384;385;386"
+  },
+  "1026_Yutaka_TeamDiaToHonoka": {
+    "id": "1026_Yutaka_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "387;388"
+  },
+  "1007_Yuka_TeamDiaToHonoka_6": {
+    "id": "1007_Yuka_TeamDiaToHonoka_6",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "389;390"
+  },
+  "1007_Yuka_TeamDiaToHonoka_4": {
+    "id": "1007_Yuka_TeamDiaToHonoka_4",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "389;390"
+  },
+  "1007_Yuka_TeamDiaToHonoka_1": {
+    "id": "1007_Yuka_TeamDiaToHonoka_1",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "389;390"
+  },
+  "1008_Narumi_TeamDiaToMiyu": {
+    "id": "1008_Narumi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "391;392"
+  },
+  "1015_Kana_TeamDiaToMiyu": {
+    "id": "1015_Kana_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "393;394"
+  },
+  "1045_Nagi_TeamDiaToHonoka": {
+    "id": "1045_Nagi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "395;396"
+  },
+  "1046_An_TeamDiaToMiyu": {
+    "id": "1046_An_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "397;398"
+  },
+  "1047_Yuusaku_TeamDiaToShiro": {
+    "id": "1047_Yuusaku_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "399;400"
+  },
+  "1043_Asuna_TeamDiaToFavna": {
+    "id": "1043_Asuna_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "401;402"
+  },
+  "1044_Kazuto_TeamDiaToFavna": {
+    "id": "1044_Kazuto_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "403;404"
+  },
+  "1070_Yanagihara_TeamDiaToShiro": {
+    "id": "1070_Yanagihara_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "405;406"
+  },
+  "1022_Shioriko_TeamDiaToFavna": {
+    "id": "1022_Shioriko_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "407;408"
+  },
+  "1023_Daigo_TeamDiaToShiro": {
+    "id": "1023_Daigo_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "409;410"
+  },
+  "1032_Yuusuke_TeamDiaToMiyu": {
+    "id": "1032_Yuusuke_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "411;412"
+  },
+  "1049_Ayame_TeamDiaToFavna": {
+    "id": "1049_Ayame_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "413;414"
+  },
+  "1035_Yui_TeamDiaToFavna": {
+    "id": "1035_Yui_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "415;416"
+  },
+  "7_Rin_TeamDiaToFavna": {
+    "id": "7_Rin_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "417;418"
+  },
+  "1052_Memi_TeamDiaToShiro": {
+    "id": "1052_Memi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "419;420"
+  },
+  "1027_Romin_TeamDiaToHonoka": {
+    "id": "1027_Romin_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "421;422"
+  },
+  "1028_Mi_TeamDiaToHonoka": {
+    "id": "1028_Mi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "423;424"
+  },
+  "1029_Jiro_TeamDiaToMiyu": {
+    "id": "1029_Jiro_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "425;426"
+  },
+  "1041_Murasaki_TeamDiaToHonoka": {
+    "id": "1041_Murasaki_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "427;428"
+  },
+  "1042_Chiharu_TeamDiaToMiyu": {
+    "id": "1042_Chiharu_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "429;430"
+  },
+  "1024_Toshiko_TeamDiaToMiyu": {
+    "id": "1024_Toshiko_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "431;432"
+  },
+  "1025_Futaba_TeamDiaToFavna": {
+    "id": "1025_Futaba_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "433;434"
+  },
+  "1036_Daichi_TeamDiaToFavna": {
+    "id": "1036_Daichi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "435;436"
+  },
+  "1037_Kuro_TeamDiaToHonoka": {
+    "id": "1037_Kuro_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "437;438"
+  },
+  "1031_Yashuhiko_TeamDiaToMiyu": {
+    "id": "1031_Yashuhiko_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "439;440"
+  },
+  "1017_Sinobu_TeamDiaToMiyu": {
+    "id": "1017_Sinobu_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "441;442"
+  },
+  "1018_Nobuyuki_TeamDiaToShiro": {
+    "id": "1018_Nobuyuki_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "443;444"
+  },
+  "1030_Tokuko_TeamDiaToHonoka": {
+    "id": "1030_Tokuko_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "445;446"
+  },
+  "1014_Sakura_TeamDiaToShiro": {
+    "id": "1014_Sakura_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "447;448"
+  },
+  "1019_Ichiryu_TeamDiaToShiro": {
+    "id": "1019_Ichiryu_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "449;450"
+  },
+  "1020_Kaoru_TeamDiaToMiyu": {
+    "id": "1020_Kaoru_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "451;452"
+  },
+  "1021_Haruka_TeamDiaToFavna": {
+    "id": "1021_Haruka_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "453;454"
+  },
+  "1038_Bunta_TeamDiaToShiro": {
+    "id": "1038_Bunta_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "455;456;457"
+  },
+  "1039_Takumi_TeamDiaToFavna": {
+    "id": "1039_Takumi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "458;459"
+  },
+  "1040_Megumi_TeamDiaToHonoka": {
+    "id": "1040_Megumi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "460;461"
+  },
+  "1033_Akiho_TeamDiaToHonoka": {
+    "id": "1033_Akiho_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "462;463"
+  },
+  "1034_Tsuki_TeamDiaToFavna": {
+    "id": "1034_Tsuki_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "464;465"
+  },
+  "1007_Yuka_TeamDiaToShiro_1": {
+    "id": "1007_Yuka_TeamDiaToShiro_1",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "466;467"
+  },
+  "1007_Yuka_TeamDiaToShiro_4": {
+    "id": "1007_Yuka_TeamDiaToShiro_4",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "468;469"
+  },
+  "1066_Lynn_Daily": {
+    "id": "1066_Lynn_Daily",
+    "WelcomeDiaID": 491,
+    "RandomDiaIDs": "492;493;494",
+    "StoryDiaIDs": ""
+  },
+  "1067_Mayuri_Daily": {
+    "id": "1067_Mayuri_Daily",
+    "WelcomeDiaID": 495,
+    "RandomDiaIDs": "496;497;498",
+    "StoryDiaIDs": ""
+  },
+  "1002_Mari_Daily": {
+    "id": "1002_Mari_Daily",
+    "WelcomeDiaID": 499,
+    "RandomDiaIDs": "500;501;502",
+    "StoryDiaIDs": ""
+  },
+  "1003_Suzuka_Daily": {
+    "id": "1003_Suzuka_Daily",
+    "WelcomeDiaID": 503,
+    "RandomDiaIDs": "504;505;506",
+    "StoryDiaIDs": ""
+  },
+  "1039_Takumi_Daily": {
+    "id": "1039_Takumi_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "509;510;511",
+    "StoryDiaIDs": ""
+  },
+  "1052_Memi_Daily": {
+    "id": "1052_Memi_Daily",
+    "WelcomeDiaID": 516,
+    "RandomDiaIDs": "517;518;519",
+    "StoryDiaIDs": ""
+  },
+  "1020_Kaoru_Daily": {
+    "id": "1020_Kaoru_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "522;523;524",
+    "StoryDiaIDs": ""
+  },
+  "1021_Haruka_Daily": {
+    "id": "1021_Haruka_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "525;526;527",
+    "StoryDiaIDs": ""
+  },
+  "1042_Chiharu_Daily": {
+    "id": "1042_Chiharu_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "532;533;534",
+    "StoryDiaIDs": ""
+  },
+  "1033_Akiho_Daily": {
+    "id": "1033_Akiho_Daily",
+    "WelcomeDiaID": 544,
+    "RandomDiaIDs": "545;546;547",
+    "StoryDiaIDs": ""
+  },
+  "1023_Daigo_Daily": {
+    "id": "1023_Daigo_Daily",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "553;554;555",
+    "StoryDiaIDs": ""
+  },
+  "1_Siro_Daily_AtferWork": {
+    "id": "1_Siro_Daily_AtferWork",
+    "WelcomeDiaID": 561,
+    "RandomDiaIDs": "562",
+    "StoryDiaIDs": ""
+  },
+  "2_Miyu_Daily_AtferWork": {
+    "id": "2_Miyu_Daily_AtferWork",
+    "WelcomeDiaID": 563,
+    "RandomDiaIDs": "564",
+    "StoryDiaIDs": ""
+  },
+  "3_Favna_Daily_AtferWork": {
+    "id": "3_Favna_Daily_AtferWork",
+    "WelcomeDiaID": 565,
+    "RandomDiaIDs": "566",
+    "StoryDiaIDs": ""
+  },
+  "4_Honoka_Daily_AtferWork": {
+    "id": "4_Honoka_Daily_AtferWork",
+    "WelcomeDiaID": 567,
+    "RandomDiaIDs": "568",
+    "StoryDiaIDs": ""
+  },
+  "1_Siro_Daily_Level2": {
+    "id": "1_Siro_Daily_Level2",
+    "WelcomeDiaID": 569,
+    "RandomDiaIDs": "570",
+    "StoryDiaIDs": ""
+  },
+  "1_Siro_Daily_Level3": {
+    "id": "1_Siro_Daily_Level3",
+    "WelcomeDiaID": 571,
+    "RandomDiaIDs": "572",
+    "StoryDiaIDs": ""
+  },
+  "2_Miyu_Daily_Level2": {
+    "id": "2_Miyu_Daily_Level2",
+    "WelcomeDiaID": 573,
+    "RandomDiaIDs": "574",
+    "StoryDiaIDs": ""
+  },
+  "2_Miyu_Daily_Level3": {
+    "id": "2_Miyu_Daily_Level3",
+    "WelcomeDiaID": 575,
+    "RandomDiaIDs": "576",
+    "StoryDiaIDs": ""
+  },
+  "3_Favna_Daily_Level2": {
+    "id": "3_Favna_Daily_Level2",
+    "WelcomeDiaID": 577,
+    "RandomDiaIDs": "578",
+    "StoryDiaIDs": ""
+  },
+  "3_Favna_Daily_Level3": {
+    "id": "3_Favna_Daily_Level3",
+    "WelcomeDiaID": 579,
+    "RandomDiaIDs": "580",
+    "StoryDiaIDs": ""
+  },
+  "4_Honoka_Daily_Level2": {
+    "id": "4_Honoka_Daily_Level2",
+    "WelcomeDiaID": 581,
+    "RandomDiaIDs": "582",
+    "StoryDiaIDs": ""
+  },
+  "4_Honoka_Daily_Level3": {
+    "id": "4_Honoka_Daily_Level3",
+    "WelcomeDiaID": 583,
+    "RandomDiaIDs": "584",
+    "StoryDiaIDs": ""
+  },
+  "1017_Sinobu_TeamDiaToMiyu_Day4": {
+    "id": "1017_Sinobu_TeamDiaToMiyu_Day4",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "585;586"
+  },
+  "1048_HiroRyu_Daily": {
+    "id": "1048_HiroRyu_Daily",
+    "WelcomeDiaID": 587,
+    "RandomDiaIDs": "588;589;590",
+    "StoryDiaIDs": ""
+  },
+  "1009_Syogo_TeamDiaToShiro": {
+    "id": "1009_Syogo_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "591;592"
+  },
+  "1009_Syogo_TeamDiaToMiyu": {
+    "id": "1009_Syogo_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "593;594"
+  },
+  "1009_Syogo_TeamDiaToFavna": {
+    "id": "1009_Syogo_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "595;596"
+  },
+  "1058_Izumi_TeamDiaToShiro": {
+    "id": "1058_Izumi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "597;598"
+  },
+  "1058_Izumi_TeamDiaToMiyu": {
+    "id": "1058_Izumi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "599;600"
+  },
+  "1058_Izumi_TeamDiaToFavna": {
+    "id": "1058_Izumi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "601;602"
+  },
+  "1057_Linglong_TeamDiaToMiyu": {
+    "id": "1057_Linglong_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "603;604"
+  },
+  "1057_Linglong_TeamDiaToFavna": {
+    "id": "1057_Linglong_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "605;606"
+  },
+  "1057_Linglong_TeamDiaToHonoka": {
+    "id": "1057_Linglong_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "607;608"
+  },
+  "1059_Midori_TeamDiaToShiro": {
+    "id": "1059_Midori_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "609;610"
+  },
+  "1059_Midori_TeamDiaToFavna": {
+    "id": "1059_Midori_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "611;612"
+  },
+  "1059_Midori_TeamDiaToHonoka": {
+    "id": "1059_Midori_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "613;614"
+  },
+  "1055_Yousuke_TeamDiaToMiyu": {
+    "id": "1055_Yousuke_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "615;616"
+  },
+  "1055_Yousuke_TeamDiaToFavna": {
+    "id": "1055_Yousuke_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "617;618"
+  },
+  "1063_Kazuma_TeamDiaToShiro": {
+    "id": "1063_Kazuma_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "619;620"
+  },
+  "1063_Kazuma_TeamDiaToFavna": {
+    "id": "1063_Kazuma_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "621;622"
+  },
+  "1063_Kazuma_TeamDiaToHonoka": {
+    "id": "1063_Kazuma_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "623;624"
+  },
+  "1064_Shizuo_TeamDiaToMiyu": {
+    "id": "1064_Shizuo_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "625;626"
+  },
+  "1064_Shizuo_TeamDiaToFavna": {
+    "id": "1064_Shizuo_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "627;628"
+  },
+  "1064_Shizuo_TeamDiaToHonoka": {
+    "id": "1064_Shizuo_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "629;630"
+  },
+  "1065_Megumi_TeamDiaToShiro": {
+    "id": "1065_Megumi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "631;632"
+  },
+  "1065_Megumi_TeamDiaToMiyu": {
+    "id": "1065_Megumi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "633;634"
+  },
+  "1065_Megumi_TeamDiaToHonoka": {
+    "id": "1065_Megumi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "635;636"
+  },
+  "1068_Kitamura_TeamDiaToMiyu": {
+    "id": "1068_Kitamura_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "637;638"
+  },
+  "1068_Kitamura_TeamDiaToFavna": {
+    "id": "1068_Kitamura_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "639;640"
+  },
+  "1068_Kitamura_TeamDiaToHonoka": {
+    "id": "1068_Kitamura_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "641;642"
+  },
+  "1069_Rico_TeamDiaToShiro": {
+    "id": "1069_Rico_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "643;644"
+  },
+  "1069_Rico_TeamDiaToFavna": {
+    "id": "1069_Rico_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "645;646"
+  },
+  "1069_Rico_TeamDiaToHonoka": {
+    "id": "1069_Rico_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "647;648"
+  },
+  "1005_Mio_TeamDiaToShiro": {
+    "id": "1005_Mio_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "649;650"
+  },
+  "1005_Mio_TeamDiaToMiyu": {
+    "id": "1005_Mio_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "651;652"
+  },
+  "1005_Mio_TeamDiaToFavna": {
+    "id": "1005_Mio_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "653;654"
+  },
+  "1006_Masafumi_TeamDiaToMiyu": {
+    "id": "1006_Masafumi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "655;656"
+  },
+  "1006_Masafumi_TeamDiaToFavna": {
+    "id": "1006_Masafumi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "657;658"
+  },
+  "1006_Masafumi_TeamDiaToHonoka": {
+    "id": "1006_Masafumi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "659;660"
+  },
+  "1004_Haru_TeamDiaToShiro": {
+    "id": "1004_Haru_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "661;662"
+  },
+  "1004_Haru_TeamDiaToMiyu": {
+    "id": "1004_Haru_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "663;664"
+  },
+  "1004_Haru_TeamDiaToHonoka": {
+    "id": "1004_Haru_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "665;666"
+  },
+  "1066_Lynn_TeamDiaToShiro": {
+    "id": "1066_Lynn_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "667;668"
+  },
+  "1066_Lynn_TeamDiaToMiyu": {
+    "id": "1066_Lynn_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "669;670"
+  },
+  "1066_Lynn_TeamDiaToHonoka": {
+    "id": "1066_Lynn_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "671;672"
+  },
+  "1067_Mayuri_TeamDiaToShiro": {
+    "id": "1067_Mayuri_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "673;674"
+  },
+  "1067_Mayuri_TeamDiaToFavna": {
+    "id": "1067_Mayuri_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "675;676"
+  },
+  "1067_Mayuri_TeamDiaToHonoka": {
+    "id": "1067_Mayuri_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "677;678"
+  },
+  "1010_Natsumi_TeamDiaToMiyu": {
+    "id": "1010_Natsumi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "679;680"
+  },
+  "1010_Natsumi_TeamDiaToFavna": {
+    "id": "1010_Natsumi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "681;682"
+  },
+  "1010_Natsumi_TeamDiaToHonoka": {
+    "id": "1010_Natsumi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "683;684"
+  },
+  "1001_Shiori_TeamDiaToShiro": {
+    "id": "1001_Shiori_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "685;686"
+  },
+  "1001_Shiori_TeamDiaToMiyu": {
+    "id": "1001_Shiori_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "687;688"
+  },
+  "1002_Mari_TeamDiaToFavna": {
+    "id": "1002_Mari_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "689;690;691"
+  },
+  "1002_Mari_TeamDiaToHonoka": {
+    "id": "1002_Mari_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "692;693"
+  },
+  "1026_Yutaka_TeamDiaToShiro": {
+    "id": "1026_Yutaka_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "694;695"
+  },
+  "1026_Yutaka_TeamDiaToMiyu": {
+    "id": "1026_Yutaka_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "696;697"
+  },
+  "1026_Yutaka_TeamDiaToFavna": {
+    "id": "1026_Yutaka_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "698;699"
+  },
+  "1007_Yuka_TeamDiaToShiro_6": {
+    "id": "1007_Yuka_TeamDiaToShiro_6",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "700;701;702"
+  },
+  "1007_Yuka_TeamDiaToMiyu_6": {
+    "id": "1007_Yuka_TeamDiaToMiyu_6",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "703;704"
+  },
+  "1007_Yuka_TeamDiaToFavna_6": {
+    "id": "1007_Yuka_TeamDiaToFavna_6",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "705;706"
+  },
+  "1007_Yuka_TeamDiaToMiyu_4": {
+    "id": "1007_Yuka_TeamDiaToMiyu_4",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "703;704"
+  },
+  "1007_Yuka_TeamDiaToFavna_4": {
+    "id": "1007_Yuka_TeamDiaToFavna_4",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "705;706"
+  },
+  "1007_Yuka_TeamDiaToMiyu_1": {
+    "id": "1007_Yuka_TeamDiaToMiyu_1",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "703;704"
+  },
+  "1007_Yuka_TeamDiaToFavna_1": {
+    "id": "1007_Yuka_TeamDiaToFavna_1",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "705;706"
+  },
+  "1008_Narumi_TeamDiaToShiro": {
+    "id": "1008_Narumi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "707;708"
+  },
+  "1008_Narumi_TeamDiaToFavna": {
+    "id": "1008_Narumi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "709;710"
+  },
+  "1008_Narumi_TeamDiaToHonoka": {
+    "id": "1008_Narumi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "711;712"
+  },
+  "1015_Kana_TeamDiaToShiro": {
+    "id": "1015_Kana_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "713;714"
+  },
+  "1015_Kana_TeamDiaToFavna": {
+    "id": "1015_Kana_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "715;716"
+  },
+  "1015_Kana_TeamDiaToHonoka": {
+    "id": "1015_Kana_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "717;718"
+  },
+  "1045_Nagi_TeamDiaToShiro": {
+    "id": "1045_Nagi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "719;720"
+  },
+  "1045_Nagi_TeamDiaToMiyu": {
+    "id": "1045_Nagi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "721;722"
+  },
+  "1045_Nagi_TeamDiaToFavna": {
+    "id": "1045_Nagi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "723;724"
+  },
+  "1046_An_TeamDiaToShiro": {
+    "id": "1046_An_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "725;726"
+  },
+  "1046_An_TeamDiaToFavna": {
+    "id": "1046_An_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "727;728"
+  },
+  "1046_An_TeamDiaToHonoka": {
+    "id": "1046_An_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "729;730"
+  },
+  "1047_Yuusaku_TeamDiaToMiyu": {
+    "id": "1047_Yuusaku_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "731;732"
+  },
+  "1047_Yuusaku_TeamDiaToFavna": {
+    "id": "1047_Yuusaku_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "733;734"
+  },
+  "1047_Yuusaku_TeamDiaToHonoka": {
+    "id": "1047_Yuusaku_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "735;736"
+  },
+  "1043_Asuna_TeamDiaToShiro": {
+    "id": "1043_Asuna_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "737;738"
+  },
+  "1043_Asuna_TeamDiaToMiyu": {
+    "id": "1043_Asuna_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "739;740"
+  },
+  "1043_Asuna_TeamDiaToHonoka": {
+    "id": "1043_Asuna_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "741;742"
+  },
+  "1044_Kazuto_TeamDiaToShiro": {
+    "id": "1044_Kazuto_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "743;744"
+  },
+  "1044_Kazuto_TeamDiaToMiyu": {
+    "id": "1044_Kazuto_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "745;746"
+  },
+  "1044_Kazuto_TeamDiaToHonoka": {
+    "id": "1044_Kazuto_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "747;748"
+  },
+  "1070_Yanagihara_TeamDiaToMiyu": {
+    "id": "1070_Yanagihara_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "749;750"
+  },
+  "1070_Yanagihara_TeamDiaToFavna": {
+    "id": "1070_Yanagihara_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "751;752"
+  },
+  "1070_Yanagihara_TeamDiaToHonoka": {
+    "id": "1070_Yanagihara_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "753;754"
+  },
+  "1022_Shioriko_TeamDiaToShiro": {
+    "id": "1022_Shioriko_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "755;756"
+  },
+  "1022_Shioriko_TeamDiaToMiyu": {
+    "id": "1022_Shioriko_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "757;758"
+  },
+  "1022_Shioriko_TeamDiaToHonoka": {
+    "id": "1022_Shioriko_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "759;760"
+  },
+  "1023_Daigo_TeamDiaToMiyu": {
+    "id": "1023_Daigo_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "761;762"
+  },
+  "1023_Daigo_TeamDiaToFavna": {
+    "id": "1023_Daigo_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "763;764"
+  },
+  "1023_Daigo_TeamDiaToHonoka": {
+    "id": "1023_Daigo_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "765;766"
+  },
+  "1032_Yuusuke_TeamDiaToShiro": {
+    "id": "1032_Yuusuke_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "767;768"
+  },
+  "1032_Yuusuke_TeamDiaToFavna": {
+    "id": "1032_Yuusuke_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "769;770"
+  },
+  "1032_Yuusuke_TeamDiaToHonoka": {
+    "id": "1032_Yuusuke_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "771;772"
+  },
+  "1049_Ayame_TeamDiaToShiro": {
+    "id": "1049_Ayame_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "773;774"
+  },
+  "1049_Ayame_TeamDiaToMiyu": {
+    "id": "1049_Ayame_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "775;776"
+  },
+  "1049_Ayame_TeamDiaToHonoka": {
+    "id": "1049_Ayame_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "777;778"
+  },
+  "1035_Yui_TeamDiaToShiro": {
+    "id": "1035_Yui_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "779;780"
+  },
+  "1035_Yui_TeamDiaToMiyu": {
+    "id": "1035_Yui_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "781;782"
+  },
+  "1035_Yui_TeamDiaToHonoka": {
+    "id": "1035_Yui_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "783;784"
+  },
+  "7_Rin_TeamDiaToShiro": {
+    "id": "7_Rin_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "785;786"
+  },
+  "7_Rin_TeamDiaToMiyu": {
+    "id": "7_Rin_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "787;788"
+  },
+  "7_Rin_TeamDiaToHonoka": {
+    "id": "7_Rin_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "789;790"
+  },
+  "1052_Memi_TeamDiaToMiyu": {
+    "id": "1052_Memi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "791;792"
+  },
+  "1052_Memi_TeamDiaToFavna": {
+    "id": "1052_Memi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "793;794"
+  },
+  "1052_Memi_TeamDiaToHonoka": {
+    "id": "1052_Memi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "795;796"
+  },
+  "1027_Romin_TeamDiaToShiro": {
+    "id": "1027_Romin_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "797;798"
+  },
+  "1027_Romin_TeamDiaToMiyu": {
+    "id": "1027_Romin_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "799;800"
+  },
+  "1027_Romin_TeamDiaToFavna": {
+    "id": "1027_Romin_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "801;802"
+  },
+  "1028_Mi_TeamDiaToShiro": {
+    "id": "1028_Mi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "803;804"
+  },
+  "1028_Mi_TeamDiaToMiyu": {
+    "id": "1028_Mi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "805;806"
+  },
+  "1028_Mi_TeamDiaToFavna": {
+    "id": "1028_Mi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "807;808"
+  },
+  "1029_Jiro_TeamDiaToShiro": {
+    "id": "1029_Jiro_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "809;810"
+  },
+  "1029_Jiro_TeamDiaToFavna": {
+    "id": "1029_Jiro_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "811;812"
+  },
+  "1029_Jiro_TeamDiaToHonoka": {
+    "id": "1029_Jiro_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "813;814"
+  },
+  "1041_Murasaki_TeamDiaToShiro": {
+    "id": "1041_Murasaki_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "815;816"
+  },
+  "1041_Murasaki_TeamDiaToMiyu": {
+    "id": "1041_Murasaki_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "817;818"
+  },
+  "1041_Murasaki_TeamDiaToFavna": {
+    "id": "1041_Murasaki_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "819;820"
+  },
+  "1042_Chiharu_TeamDiaToShiro": {
+    "id": "1042_Chiharu_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "821;822"
+  },
+  "1042_Chiharu_TeamDiaToFavna": {
+    "id": "1042_Chiharu_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "823;824"
+  },
+  "1042_Chiharu_TeamDiaToHonoka": {
+    "id": "1042_Chiharu_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "825;826"
+  },
+  "1024_Toshiko_TeamDiaToShiro": {
+    "id": "1024_Toshiko_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "827;828"
+  },
+  "1024_Toshiko_TeamDiaToFavna": {
+    "id": "1024_Toshiko_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "829;830"
+  },
+  "1024_Toshiko_TeamDiaToHonoka": {
+    "id": "1024_Toshiko_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "831;832"
+  },
+  "1025_Futaba_TeamDiaToShiro": {
+    "id": "1025_Futaba_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "833;834"
+  },
+  "1025_Futaba_TeamDiaToMiyu": {
+    "id": "1025_Futaba_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "835;836"
+  },
+  "1025_Futaba_TeamDiaToHonoka": {
+    "id": "1025_Futaba_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "837;838"
+  },
+  "1036_Daichi_TeamDiaToShiro": {
+    "id": "1036_Daichi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "839;840"
+  },
+  "1036_Daichi_TeamDiaToMiyu": {
+    "id": "1036_Daichi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "841;842"
+  },
+  "1036_Daichi_TeamDiaToHonoka": {
+    "id": "1036_Daichi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "843;844"
+  },
+  "1037_Kuro_TeamDiaToShiro": {
+    "id": "1037_Kuro_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "845;846"
+  },
+  "1037_Kuro_TeamDiaToMiyu": {
+    "id": "1037_Kuro_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "847;848"
+  },
+  "1037_Kuro_TeamDiaToFavna": {
+    "id": "1037_Kuro_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "849;850"
+  },
+  "1031_Yashuhiko_TeamDiaToShiro": {
+    "id": "1031_Yashuhiko_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "851;852"
+  },
+  "1031_Yashuhiko_TeamDiaToFavna": {
+    "id": "1031_Yashuhiko_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "853;854"
+  },
+  "1031_Yashuhiko_TeamDiaToHonoka": {
+    "id": "1031_Yashuhiko_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "855;856"
+  },
+  "1017_Sinobu_TeamDiaToShiro": {
+    "id": "1017_Sinobu_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "857;858"
+  },
+  "1017_Sinobu_TeamDiaToFavna": {
+    "id": "1017_Sinobu_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "859;860"
+  },
+  "1017_Sinobu_TeamDiaToHonoka": {
+    "id": "1017_Sinobu_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "861;862"
+  },
+  "1018_Nobuyuki_TeamDiaToMiyu": {
+    "id": "1018_Nobuyuki_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "863;864"
+  },
+  "1018_Nobuyuki_TeamDiaToFavna": {
+    "id": "1018_Nobuyuki_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "865;866"
+  },
+  "1018_Nobuyuki_TeamDiaToHonoka": {
+    "id": "1018_Nobuyuki_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "867;868"
+  },
+  "1030_Tokuko_TeamDiaToShiro": {
+    "id": "1030_Tokuko_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "869;870"
+  },
+  "1030_Tokuko_TeamDiaToMiyu": {
+    "id": "1030_Tokuko_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "871;872"
+  },
+  "1030_Tokuko_TeamDiaToFavna": {
+    "id": "1030_Tokuko_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "873;874"
+  },
+  "1014_Sakura_TeamDiaToMiyu": {
+    "id": "1014_Sakura_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "875;876"
+  },
+  "1014_Sakura_TeamDiaToFavna": {
+    "id": "1014_Sakura_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "877;878"
+  },
+  "1014_Sakura_TeamDiaToHonoka": {
+    "id": "1014_Sakura_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "879;880"
+  },
+  "1019_Ichiryu_TeamDiaToMiyu": {
+    "id": "1019_Ichiryu_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "881;882"
+  },
+  "1019_Ichiryu_TeamDiaToFavna": {
+    "id": "1019_Ichiryu_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "883;884"
+  },
+  "1019_Ichiryu_TeamDiaToHonoka": {
+    "id": "1019_Ichiryu_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "885;886"
+  },
+  "1020_Kaoru_TeamDiaToShiro": {
+    "id": "1020_Kaoru_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "887;888"
+  },
+  "1020_Kaoru_TeamDiaToFavna": {
+    "id": "1020_Kaoru_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "889;890"
+  },
+  "1020_Kaoru_TeamDiaToHonoka": {
+    "id": "1020_Kaoru_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "891;892"
+  },
+  "1021_Haruka_TeamDiaToShiro": {
+    "id": "1021_Haruka_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "893;894"
+  },
+  "1021_Haruka_TeamDiaToMiyu": {
+    "id": "1021_Haruka_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "895;896"
+  },
+  "1021_Haruka_TeamDiaToHonoka": {
+    "id": "1021_Haruka_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "897;898"
+  },
+  "1038_Bunta_TeamDiaToMiyu": {
+    "id": "1038_Bunta_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "899;900"
+  },
+  "1038_Bunta_TeamDiaToFavna": {
+    "id": "1038_Bunta_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "901;902"
+  },
+  "1038_Bunta_TeamDiaToHonoka": {
+    "id": "1038_Bunta_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "903;904"
+  },
+  "1039_Takumi_TeamDiaToShiro": {
+    "id": "1039_Takumi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "905;906"
+  },
+  "1039_Takumi_TeamDiaToMiyu": {
+    "id": "1039_Takumi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "907;908"
+  },
+  "1039_Takumi_TeamDiaToHonoka": {
+    "id": "1039_Takumi_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "909;910"
+  },
+  "1040_Megumi_TeamDiaToShiro": {
+    "id": "1040_Megumi_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "911;912"
+  },
+  "1040_Megumi_TeamDiaToMiyu": {
+    "id": "1040_Megumi_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "913;914"
+  },
+  "1040_Megumi_TeamDiaToFavna": {
+    "id": "1040_Megumi_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "915;916"
+  },
+  "1033_Akiho_TeamDiaToShiro": {
+    "id": "1033_Akiho_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "917;918"
+  },
+  "1033_Akiho_TeamDiaToMiyu": {
+    "id": "1033_Akiho_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "919;920"
+  },
+  "1033_Akiho_TeamDiaToFavna": {
+    "id": "1033_Akiho_TeamDiaToFavna",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "921;922"
+  },
+  "1034_Tsuki_TeamDiaToShiro": {
+    "id": "1034_Tsuki_TeamDiaToShiro",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "923;924"
+  },
+  "1034_Tsuki_TeamDiaToMiyu": {
+    "id": "1034_Tsuki_TeamDiaToMiyu",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "925;926"
+  },
+  "1034_Tsuki_TeamDiaToHonoka": {
+    "id": "1034_Tsuki_TeamDiaToHonoka",
+    "WelcomeDiaID": 0,
+    "RandomDiaIDs": "",
+    "StoryDiaIDs": "927;928"
+  }
+}

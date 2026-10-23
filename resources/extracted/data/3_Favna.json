@@ -1,0 +1,597 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "3_Favna_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "3_Favna_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "3_Favna_Basic_OpenTheUmbrella",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "10_13"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "3_Favna_Basic_IdleWithUmbrella",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "14_17"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "3_Favna_Basic_WalkWithUmbrella",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "18_23"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "3_Favna_Basic_BackSitIdle",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "24_27"
+  },
+  "7": {
+    "Id": 7,
+    "Name": "3_Favna_Basic_SideSitIdle",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "28_34"
+  },
+  "8": {
+    "Id": 8,
+    "Name": "3_Favna_Basic_SideSitEat",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "35_42"
+  },
+  "9": {
+    "Id": 9,
+    "Name": "3_Favna_Basic_SideSitDrink",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "43_50"
+  },
+  "10": {
+    "Id": 10,
+    "Name": "3_Favna_Basic_SideSitOrder",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "51_57"
+  },
+  "11": {
+    "Id": 11,
+    "Name": "3_Favna_Basic_WalkWithOrder",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "58_63"
+  },
+  "12": {
+    "Id": 12,
+    "Name": "3_Favna_Basic_Welcome",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "64_72"
+  },
+  "13": {
+    "Id": 13,
+    "Name": "3_Favna_Basic_Order",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "73_76"
+  },
+  "14": {
+    "Id": 14,
+    "Name": "3_Favna_Basic_Clean1",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "77_80"
+  },
+  "15": {
+    "Id": 15,
+    "Name": "3_Favna_Basic_Clean2",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "81_84"
+  },
+  "16": {
+    "Id": 16,
+    "Name": "3_Favna_Basic_Cook1",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "85_88"
+  },
+  "17": {
+    "Id": 17,
+    "Name": "3_Favna_Basic_Moemoekyun",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "89_110"
+  },
+  "18": {
+    "Id": 18,
+    "Name": "3_Favna_Basic_Photograph",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "111_122"
+  },
+  "19": {
+    "Id": 19,
+    "Name": "3_Favna_Basic_FrontSitIdle",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "123_123"
+  },
+  "20": {
+    "Id": 20,
+    "Name": "3_Favna_Basic_BackStandIdle",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "124_124"
+  },
+  "21": {
+    "Id": 21,
+    "Name": "3_Favna_Basic_Interaction",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "124_125"
+  },
+  "22": {
+    "Id": 22,
+    "Name": "3_Favna_Basic_Seesaw",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "126_137"
+  },
+  "23": {
+    "Id": 23,
+    "Name": "3_Favna_Basic_Swing",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "138_158"
+  },
+  "24": {
+    "Id": 24,
+    "Name": "3_Favna_Basic_RidingIdle",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "159_159"
+  },
+  "25": {
+    "Id": 25,
+    "Name": "3_Favna_Basic_Riding",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "159_166"
+  },
+  "26": {
+    "Id": 26,
+    "Name": "3_Favna_Basic_FallDown",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "167_167"
+  },
+  "27": {
+    "Id": 27,
+    "Name": "3_Favna_Basic_FrontSitScaring",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "168_183"
+  },
+  "28": {
+    "Id": 28,
+    "Name": "3_Favna_Basic_FrontSitFascinated",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "184_186"
+  },
+  "29": {
+    "Id": 29,
+    "Name": "3_Favna_Basic_FrontSitSmile",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "187_188"
+  },
+  "30": {
+    "Id": 30,
+    "Name": "3_Favna_Basic_FrontSitCry",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "189_189"
+  },
+  "31": {
+    "Id": 31,
+    "Name": "3_Favna_Basic_Sing1",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "190_237"
+  },
+  "32": {
+    "Id": 32,
+    "Name": "3_Favna_Basic_Sing2",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "238_245"
+  },
+  "33": {
+    "Id": 33,
+    "Name": "3_Favna_Basic_Dance1",
+    "Type": "Basic",
+    "Atlas": "3_Favna_Basic",
+    "Frame": "246_256"
+  },
+  "34": {
+    "Id": 34,
+    "Name": "3_Favna_Suit1_Idle",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "0_3"
+  },
+  "35": {
+    "Id": 35,
+    "Name": "3_Favna_Suit1_Walk",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "4_9"
+  },
+  "36": {
+    "Id": 36,
+    "Name": "3_Favna_Suit1_OpenTheUmbrella",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "10_13"
+  },
+  "37": {
+    "Id": 37,
+    "Name": "3_Favna_Suit1_IdleWithUmbrella",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "14_17"
+  },
+  "38": {
+    "Id": 38,
+    "Name": "3_Favna_Suit1_WalkWithUmbrella",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "18_23"
+  },
+  "39": {
+    "Id": 39,
+    "Name": "3_Favna_Suit1_BackSitIdle",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "24_27"
+  },
+  "40": {
+    "Id": 40,
+    "Name": "3_Favna_Suit1_SideSitIdle",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "28_34"
+  },
+  "41": {
+    "Id": 41,
+    "Name": "3_Favna_Suit1_SideSitEat",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "35_42"
+  },
+  "42": {
+    "Id": 42,
+    "Name": "3_Favna_Suit1_SideSitDrink",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "43_50"
+  },
+  "43": {
+    "Id": 43,
+    "Name": "3_Favna_Suit1_SideSitOrder",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "51_57"
+  },
+  "44": {
+    "Id": 44,
+    "Name": "3_Favna_Suit1_Photograph",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "58_69"
+  },
+  "45": {
+    "Id": 45,
+    "Name": "3_Favna_Suit1_FrontSitIdle",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "70_70"
+  },
+  "46": {
+    "Id": 46,
+    "Name": "3_Favna_Suit1_BackStandIdle",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "71_71"
+  },
+  "47": {
+    "Id": 47,
+    "Name": "3_Favna_Suit1_Interaction",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "71_72"
+  },
+  "48": {
+    "Id": 48,
+    "Name": "3_Favna_Suit1_Seesaw",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "73_84"
+  },
+  "49": {
+    "Id": 49,
+    "Name": "3_Favna_Suit1_Swing",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "85_105"
+  },
+  "50": {
+    "Id": 50,
+    "Name": "3_Favna_Suit1_RidingIdle",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "106_106"
+  },
+  "51": {
+    "Id": 51,
+    "Name": "3_Favna_Suit1_Riding",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "106_113"
+  },
+  "52": {
+    "Id": 52,
+    "Name": "3_Favna_Suit1_FallDown",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "114_114"
+  },
+  "53": {
+    "Id": 53,
+    "Name": "3_Favna_Suit1_FrontSitScaring",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "115_130"
+  },
+  "54": {
+    "Id": 54,
+    "Name": "3_Favna_Suit1_FrontSitFascinated",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "131_133"
+  },
+  "55": {
+    "Id": 55,
+    "Name": "3_Favna_Suit1_FrontSitSmile",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "134_135"
+  },
+  "56": {
+    "Id": 56,
+    "Name": "3_Favna_Suit1_FrontSitCry",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "136_136"
+  },
+  "57": {
+    "Id": 57,
+    "Name": "3_Favna_Suit1_Sing1",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "137_184"
+  },
+  "58": {
+    "Id": 58,
+    "Name": "3_Favna_Suit1_Sing2",
+    "Type": "Suit1",
+    "Atlas": "3_Favna_Suit1",
+    "Frame": "185_192"
+  },
+  "59": {
+    "Id": 59,
+    "Name": "3_Favna_Maid1_Idle",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "0_3"
+  },
+  "60": {
+    "Id": 60,
+    "Name": "3_Favna_Maid1_Walk",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "4_9"
+  },
+  "61": {
+    "Id": 61,
+    "Name": "3_Favna_Maid1_SideSitIdle",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "10_17"
+  },
+  "62": {
+    "Id": 62,
+    "Name": "3_Favna_Maid1_SideSitEat",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "18_24"
+  },
+  "63": {
+    "Id": 63,
+    "Name": "3_Favna_Maid1_SideSitDrink",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "25_32"
+  },
+  "64": {
+    "Id": 64,
+    "Name": "3_Favna_Maid1_SideSitOrder",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "33_39"
+  },
+  "65": {
+    "Id": 65,
+    "Name": "3_Favna_Maid1_WalkWithOrder",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "40_45"
+  },
+  "66": {
+    "Id": 66,
+    "Name": "3_Favna_Maid1_Welcome",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "46_54"
+  },
+  "67": {
+    "Id": 67,
+    "Name": "3_Favna_Maid1_Order",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "55_58"
+  },
+  "68": {
+    "Id": 68,
+    "Name": "3_Favna_Maid1_Clean1",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "59_62"
+  },
+  "69": {
+    "Id": 69,
+    "Name": "3_Favna_Maid1_Clean2",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "63_66"
+  },
+  "70": {
+    "Id": 70,
+    "Name": "3_Favna_Maid1_Cook1",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "67_70"
+  },
+  "71": {
+    "Id": 71,
+    "Name": "3_Favna_Maid1_Moemoekyun",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "71_96"
+  },
+  "72": {
+    "Id": 72,
+    "Name": "3_Favna_Maid1_BackStandIdle",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "97_97"
+  },
+  "73": {
+    "Id": 73,
+    "Name": "3_Favna_Maid1_Interaction",
+    "Type": "Maid1",
+    "Atlas": "3_Favna_Maid1",
+    "Frame": "97_98"
+  },
+  "74": {
+    "Id": 74,
+    "Name": "3_Favna_Yukata_Idle",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "0_3"
+  },
+  "75": {
+    "Id": 75,
+    "Name": "3_Favna_Yukata_Walk",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "4_9"
+  },
+  "76": {
+    "Id": 76,
+    "Name": "3_Favna_Yukata_BackSitIdle",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "10_13"
+  },
+  "77": {
+    "Id": 77,
+    "Name": "3_Favna_Yukata_SideSitIdle",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "14_20"
+  },
+  "78": {
+    "Id": 78,
+    "Name": "3_Favna_Yukata_SideSitEat",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "21_29"
+  },
+  "79": {
+    "Id": 79,
+    "Name": "3_Favna_Yukata_SideSitDrink",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "30_36"
+  },
+  "80": {
+    "Id": 80,
+    "Name": "3_Favna_Yukata_SideSitOrder",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "37_43"
+  },
+  "81": {
+    "Id": 81,
+    "Name": "3_Favna_Yukata_Photograph",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "44_55"
+  },
+  "82": {
+    "Id": 82,
+    "Name": "3_Favna_Yukata_FrontSitIdle",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "56_56"
+  },
+  "83": {
+    "Id": 83,
+    "Name": "3_Favna_Yukata_BackStandIdle",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "57_57"
+  },
+  "84": {
+    "Id": 84,
+    "Name": "3_Favna_Yukata_Interaction",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "57_58"
+  },
+  "85": {
+    "Id": 85,
+    "Name": "3_Favna_Yukata_Dance1",
+    "Type": "Yukata",
+    "Atlas": "3_Favna_Yukata",
+    "Frame": "59_69"
+  }
+}

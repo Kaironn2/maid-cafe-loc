@@ -1,0 +1,4526 @@
+{
+  "CharacterName_boss": {
+    "PT": "",
+    "EN": "BOSS"
+  },
+  "CharacterName_youshu": {
+    "PT": "",
+    "EN": "Senpai"
+  },
+  "CharacterName_colleague1": {
+    "PT": "",
+    "EN": "Employee 997"
+  },
+  "CharacterName_colleague2": {
+    "PT": "",
+    "EN": "Employee 985"
+  },
+  "CharacterName_colleague3": {
+    "PT": "",
+    "EN": "Employee 404"
+  },
+  "CharacterName_colleague4": {
+    "PT": "",
+    "EN": "Employee 811648"
+  },
+  "CharacterName_colleague5": {
+    "PT": "",
+    "EN": "Employee 807"
+  },
+  "CharacterName_colleague6": {
+    "PT": "",
+    "EN": "Employee 711"
+  },
+  "CharacterName_colleague7": {
+    "PT": "",
+    "EN": "Junior Employee"
+  },
+  "CharacterName_all": {
+    "PT": "",
+    "EN": "Everyone"
+  },
+  "CharacterName_???": {
+    "PT": "",
+    "EN": "???"
+  },
+  "CharacterName_????": {
+    "PT": "",
+    "EN": "???"
+  },
+  "CharacterName_maid1": {
+    "PT": "",
+    "EN": "Maid"
+  },
+  "CharacterName_maid2": {
+    "PT": "",
+    "EN": "Maid"
+  },
+  "CharacterName_xiaobai": {
+    "PT": "",
+    "EN": "Shiro"
+  },
+  "CharacterName_xiaobai1": {
+    "PT": "",
+    "EN": "Shiro"
+  },
+  "CharacterName_xiaobai2": {
+    "PT": "",
+    "EN": "Maid"
+  },
+  "CharacterName_xiaobai???": {
+    "PT": "",
+    "EN": "???"
+  },
+  "CharacterName_fafuna": {
+    "PT": "",
+    "EN": "Favna"
+  },
+  "CharacterName_xinyou": {
+    "PT": "",
+    "EN": "Miyu"
+  },
+  "CharacterName_xinyou1": {
+    "PT": "",
+    "EN": "Miyu"
+  },
+  "CharacterName_honoka": {
+    "PT": "",
+    "EN": "Honoka"
+  },
+  "CharacterName_dianyuan1": {
+    "PT": "",
+    "EN": "Clerk"
+  },
+  "CharacterName_dianyuan3": {
+    "PT": "",
+    "EN": "Clerk"
+  },
+  "CharacterName_dianyuan-cinema": {
+    "PT": "",
+    "EN": "Clerk"
+  },
+  "CharacterName_anna": {
+    "PT": "",
+    "EN": "Anna"
+  },
+  "CharacterName_misaki": {
+    "PT": "",
+    "EN": "Misaki"
+  },
+  "CharacterName_pangzhai": {
+    "PT": "",
+    "EN": "Big Guy"
+  },
+  "CharacterName_shouzhai": {
+    "PT": "",
+    "EN": "Scrawny Guy"
+  },
+  "CharacterName_Animate_Clerk": {
+    "PT": "",
+    "EN": "Clerk"
+  },
+  "CharacterName_fenfa": {
+    "PT": "",
+    "EN": "Pink-haired Girl"
+  },
+  "CharacterName_hongfa": {
+    "PT": "",
+    "EN": "Red-haired Girl"
+  },
+  "CharacterName_wanzitou": {
+    "PT": "",
+    "EN": "Twin Buns Girl"
+  },
+  "CharacterName_mid1": {
+    "PT": "",
+    "EN": "Maid"
+  },
+  "CharacterName_lingxiang": {
+    "PT": "",
+    "EN": "Suzuka"
+  },
+  "CharacterName_doragon": {
+    "PT": "",
+    "EN": "Dragon Girl"
+  },
+  "CharacterName_blackcat": {
+    "PT": "",
+    "EN": "Black Cat"
+  },
+  "CharacterName_1001_Shiori": {
+    "PT": "",
+    "EN": "Shiori"
+  },
+  "CharacterName_1002_Mari": {
+    "PT": "",
+    "EN": "Mari"
+  },
+  "CharacterName_1003_Suzuka": {
+    "PT": "",
+    "EN": "Suzuka"
+  },
+  "CharacterName_1004_Haru": {
+    "PT": "",
+    "EN": "Haru"
+  },
+  "CharacterName_1005_Mio": {
+    "PT": "",
+    "EN": "Mio"
+  },
+  "CharacterName_1006_Masafumi": {
+    "PT": "",
+    "EN": "Masafumi"
+  },
+  "CharacterName_1007_Yuka": {
+    "PT": "",
+    "EN": "Yuka"
+  },
+  "CharacterName_1008_Narumi": {
+    "PT": "",
+    "EN": "Narumi"
+  },
+  "CharacterName_1009_Syogo": {
+    "PT": "",
+    "EN": "Shougo"
+  },
+  "CharacterName_1010_Natsumi": {
+    "PT": "",
+    "EN": "Natsumi"
+  },
+  "CharacterName_1011_Manabu": {
+    "PT": "",
+    "EN": "Madarame"
+  },
+  "CharacterName_1012_Toshio": {
+    "PT": "",
+    "EN": "Toshio"
+  },
+  "CharacterName_1013_Takeshi": {
+    "PT": "",
+    "EN": "Takeshi"
+  },
+  "CharacterName_1014_Sakura": {
+    "PT": "",
+    "EN": "Nana"
+  },
+  "CharacterName_1015_Kana": {
+    "PT": "",
+    "EN": "Kanade"
+  },
+  "CharacterName_1016_Kenji": {
+    "PT": "",
+    "EN": "Kenji"
+  },
+  "CharacterName_1017_Sinobu": {
+    "PT": "",
+    "EN": "Shinobu"
+  },
+  "CharacterName_1018_Nobuyuki": {
+    "PT": "",
+    "EN": "Nobuyuki"
+  },
+  "CharacterName_1019_Ichiryu": {
+    "PT": "",
+    "EN": "Ichiryu"
+  },
+  "CharacterName_1020_Kaoru": {
+    "PT": "",
+    "EN": "Kaoru"
+  },
+  "CharacterName_1021_Haruka": {
+    "PT": "",
+    "EN": "Haruka"
+  },
+  "CharacterName_1022_Shioriko": {
+    "PT": "",
+    "EN": "Shioriko"
+  },
+  "CharacterName_1023_Daigo": {
+    "PT": "",
+    "EN": "Daigo"
+  },
+  "CharacterName_1024_Toshiko": {
+    "PT": "",
+    "EN": "Toshiko"
+  },
+  "CharacterName_1025_Futaba": {
+    "PT": "",
+    "EN": "Futaba"
+  },
+  "CharacterName_1026_Yutaka": {
+    "PT": "",
+    "EN": "Yutaka"
+  },
+  "CharacterName_1027_Romin": {
+    "PT": "",
+    "EN": "Rumi"
+  },
+  "CharacterName_1028_Mi": {
+    "PT": "",
+    "EN": "Tomi"
+  },
+  "CharacterName_1029_Jiro": {
+    "PT": "",
+    "EN": "Jirou"
+  },
+  "CharacterName_1030_Tokuko": {
+    "PT": "",
+    "EN": "Tokuko"
+  },
+  "CharacterName_1031_Yashuhiko": {
+    "PT": "",
+    "EN": "Yasuhiko"
+  },
+  "CharacterName_1032_Yuusuke": {
+    "PT": "",
+    "EN": "Yuusuke"
+  },
+  "CharacterName_1033_Akiho": {
+    "PT": "",
+    "EN": "Akiho"
+  },
+  "CharacterName_1034_Tsuki": {
+    "PT": "",
+    "EN": "Tsuki"
+  },
+  "CharacterName_1035_Yui": {
+    "PT": "",
+    "EN": "Yui"
+  },
+  "CharacterName_1036_Daichi": {
+    "PT": "",
+    "EN": "Daichi"
+  },
+  "CharacterName_1037_Kuro": {
+    "PT": "",
+    "EN": "Kuro"
+  },
+  "CharacterName_1038_Bunta": {
+    "PT": "",
+    "EN": "Bunta"
+  },
+  "CharacterName_1039_Takumi": {
+    "PT": "",
+    "EN": "Takumi"
+  },
+  "CharacterName_1040_Megumi": {
+    "PT": "",
+    "EN": "Megumi"
+  },
+  "CharacterName_1041_Murasaki": {
+    "PT": "",
+    "EN": "Tsukushi"
+  },
+  "CharacterName_1042_Chiharu": {
+    "PT": "",
+    "EN": "Wakou"
+  },
+  "CharacterName_1043_Asuna": {
+    "PT": "",
+    "EN": "Asuna"
+  },
+  "CharacterName_1044_Kazuto": {
+    "PT": "",
+    "EN": "Kazuto"
+  },
+  "CharacterName_1045_Nagi": {
+    "PT": "",
+    "EN": "Nagi"
+  },
+  "CharacterName_1046_An": {
+    "PT": "",
+    "EN": "An"
+  },
+  "CharacterName_1047_Yuusaku": {
+    "PT": "",
+    "EN": "Yuusaku"
+  },
+  "CharacterName_1048_HiroRyu": {
+    "PT": "",
+    "EN": "Hiro Ryu"
+  },
+  "CharacterName_1049_Ayame": {
+    "PT": "",
+    "EN": "Ayami"
+  },
+  "CharacterName_1050_Nanaka": {
+    "PT": "",
+    "EN": "Nanoka"
+  },
+  "CharacterName_1051_Nonoka": {
+    "PT": "",
+    "EN": "Nonoka"
+  },
+  "CharacterName_1052_Memi": {
+    "PT": "",
+    "EN": "Memi"
+  },
+  "CharacterName_1053_Zaemon": {
+    "PT": "",
+    "EN": "Saemon"
+  },
+  "CharacterName_1054_Genjiro": {
+    "PT": "",
+    "EN": "Genjirou"
+  },
+  "CharacterName_1055_Yousuke": {
+    "PT": "",
+    "EN": "Yousuke"
+  },
+  "CharacterName_Cat2": {
+    "PT": "",
+    "EN": "Midori's Cat"
+  },
+  "CharacterIntoduce_Rin": {
+    "PT": "",
+    "EN": "A crossdresser and Favna's good friend. Loves pretty and cute clothes, and works part time at the boutique in the Shopping Association."
+  },
+  "CharacterIntoduce_Doragon": {
+    "PT": "",
+    "EN": "The dev team's mascot character and the personification of the evil dragon in the in-universe retro game MaidQuest. An important NPC who gives the protagonist the MaidQuest cartridge. Beat MaidQuest and the rest of the retro games to recruit her as a maid. (P.S. Since dragons are cold-blooded animals, they prefer to laze around in warm, almost tropical places. She particularly loves Japanese onsen and can often be found at the Dragon Springs in the Shopping Association.)"
+  },
+  "CharacterIntoduce_Blackcat": {
+    "PT": "",
+    "EN": "Favna's companion and/or familiar. Thanks to Favna's pampering, it's become very picky with its food."
+  },
+  "CharacterIntoduce_1003_Suzuka": {
+    "PT": "",
+    "EN": "Name: Suzuka Shiina\nGender: Female"
+  },
+  "CharacterIntoduce_1004_Haru": {
+    "PT": "",
+    "EN": "Name: Kamijou Haru\nGender: Female\nAge: 24\nAn energetic big-sister type. Loves cats and commands all the cats in the area, both house cat and street cat alike."
+  },
+  "CharacterIntoduce_1005_Mio": {
+    "PT": "",
+    "EN": "Name: Mio Kitsuki\nGender: Female\nAge: 25\nA clerk at the theater. Doesn't have a favorite genre of movie and instead simply loves movies in general. Will happily recommend customers the hottest films of the day."
+  },
+  "CharacterIntoduce_1006_Masafumi": {
+    "PT": "",
+    "EN": "Name: Masafumi Yuasa\nGender: Male\nAge: 21\nA first year film student. Working part time at the theater because he loves movies. Has lately started getting hands-on experience with shooting movies and is considering quitting his job to focus on it."
+  },
+  "CharacterIntoduce_1007_Yuka": {
+    "PT": "",
+    "EN": "Name: Yuka Shinoda\nA clerk who's pushing thirty. Can't seem to find a boyfriend despite looking conventionally attractive. Is usually friendly and polite, but loses her composure and panics whenever romance is brought up."
+  },
+  "CharacterIntoduce_1008_narumi": {
+    "PT": "",
+    "EN": "Name: Narumi Echizen\nGender: Male\nAge: 23\nA sporty, handsome, boy-next-door kind of guy. A member of his college's tennis team. Working part time at the convenience store to make up for the money he spends on sports equipment. Very hospitable."
+  },
+  "CharacterIntoduce_1009_syogo": {
+    "PT": "",
+    "EN": "Name: Shougo Kurahashi\nGender: Male\nAge: 58\nA huge fan of machines, so much that he turned half of the furniture store into a workshop to tinker in. Takes a lot of orders for custom-made furniture and creates his own inventions, which often invites snarky comments from his old partner, but is still thankful for his partner's support over the years."
+  },
+  "CharacterIntoduce_1010_natsumi": {
+    "PT": "",
+    "EN": "Name: Natsumi Kobayagawa\nGender: Female\nAge: \nA thoughtful station attendant who can serve many customers in a row as smoothly as flowing water, but is extremely coy when it comes to romance. Is actually in love with Kenji (and he with her), but their relationship is only crawling forward at a snail's pace."
+  },
+  "CharacterIntoduce_1011_manabu": {
+    "PT": "",
+    "EN": "姓名:斑目俊夫（现视研）\n性别:男\n年龄:\n正统的御宅族,有着强大的行动力,可以为喜欢的食物节衣缩食,与武同属一个大学社团,似乎是下任社长候补"
+  },
+  "CharacterIntoduce_1012_toshio": {
+    "PT": "",
+    "EN": "姓名:御田斗司夫（冈田斗司夫）\n性别:男\n年龄:52\n神秘的富有大龄宅男,痴迷于各式各样的宅文化,似乎同时也在进行着的宅文化研究"
+  },
+  "CharacterIntoduce_1013_takeshi": {
+    "PT": "",
+    "EN": "姓名:柴木座武（柴木座义辉）\n性别:男\n年龄:\n正统的御宅族,俊夫的御宅族伙伴,同属一个大学社团,虽然也深爱ACG文化,但对于喜欢的食物会量力而行,经常接济生活窘迫的俊夫。"
+  },
+  "CharacterIntoduce_1015_kana": {
+    "PT": "",
+    "EN": "姓名:凉月奏（迷茫管家与懦弱的我）\n性别:女\n\n色诱顾客的KTV公主，既是前台的招待，但有时也是会给一些出手大方的顾客一些特殊服务的（陪酒）"
+  },
+  "CharacterIntoduce_1016_kenji": {
+    "PT": "",
+    "EN": "姓名:东海林剑司（逮捕令）\n性别:男\n年龄:32\n商店会社区的片警,为人认真负责,.喜欢站务员小姐,经常不经意就会巡查到站口附近,也喜欢宅文化"
+  },
+  "CharacterIntoduce_1017_sinobu": {
+    "PT": "",
+    "EN": "姓名:大西忍（异世界食堂/异世界居酒屋）\n性别:男\n年龄:\n因为过去在中国的留学经历迷上麻辣烫,目前在日本开起了麻辣烫店努力将这一喜爱的食物传播给更多日本人"
+  },
+  "CharacterIntoduce_1018_nobuyuki": {
+    "PT": "",
+    "EN": "姓名:山方信之（异世界食堂/异世界居酒屋）\n性别:男\n年龄:\n麻辣烫店的厨师,深爱中华料理,曾经学习多年的中华料理,如今应聘来挑战麻辣烫这一新兴事物"
+  },
+  "CharacterIntoduce_1019_ichiryu": {
+    "PT": "",
+    "EN": "姓名:黑田一龙（如龙）\n性别:男\n年龄:40\n前黑道,从某个大事件中隐退,现在从良做鱼肉生意,经常亲自为真夜食堂送货并借此与老友叙旧"
+  },
+  "CharacterIntoduce_1020_kaoru": {
+    "PT": "",
+    "EN": "姓名:黑田熏（如龙）\n性别:女\n年龄:36\n鱼店老板的妻子，黑道家的女儿，一袭银白色的长发是标志，外冷内热，因为病弱无法帮助丈夫全心投入家务与对女儿的教育，手中的旱烟早是对于自己又爱又恨的黑道父母的怀念"
+  },
+  "CharacterIntoduce_1021_haruka": {
+    "PT": "",
+    "EN": "姓名:黑田遥（如龙）\n性别:女\n年龄:16\n鱼店夫妇的女儿，平时空闲时间会帮忙在店外招揽生意，继承了母亲的美貌和罕见的白色长发，同时因为父母极道的血统而拥有天生的怪力，可以轻松的徒手挥舞一条成年体型的金枪鱼"
+  },
+  "CharacterIntoduce_1022_shioriko": {
+    "PT": "",
+    "EN": "姓名:篠川栞（古书堂事件手帖）\n性别:女\n年龄:27 \n对于初见面的人难以正常说话,十分纯粹的书虫.痴迷于古旧书刊的收集,,商店街的人们经常会请她帮忙寻找一些老旧书刊,店里也会经常招揽来怀旧派的客人\n"
+  },
+  "CharacterIntoduce_1023_daigo": {
+    "PT": "",
+    "EN": "姓名:浦元大吾（古书堂事件手帖）\n性别:男\n年龄:28\n兔月屋书店的男店员，外表壮实可靠，因为店主的无能承担了大量的对外工作,对旧书刊并不感冒,似乎是因为别的原因才留在这里工作"
+  },
+  "CharacterIntoduce_1024_toshiko": {
+    "PT": "",
+    "EN": "姓名:真田俊子 （即使如此小镇还是转个不停）\n性别：女\n年龄：25\n连锁咖喱koko一番的年轻店长 做事认真严谨 也是店员双叶的发小 用咖喱劝诱了双叶成为店员 其实也是在偷偷为她实现小时每日都能吃上咖喱的愿望"
+  },
+  "CharacterIntoduce_1025_futaba": {
+    "PT": "",
+    "EN": "姓名:岚山双叶（即使如此小镇还是转个不停）\n性别:女\n年龄:25\n商店街有名的咖喱爱好者 最后被发小俊子用咖喱捆绑在店内成为了店员 虽然对发小的认真严谨颇有微词 但也很满意现在每天都能吃上咖喱的日子"
+  },
+  "CharacterIntoduce_1026_yutaka": {
+    "PT": "",
+    "EN": "姓名:小田丰（真夜食堂）\n年龄：46\n性别男\n前黑道成员,之前所处的组织与鱼店老板的组织曾是敌对关系，共同因为一个大事件隐退,如今已是经常聚会的老友"
+  },
+  "CharacterIntoduce_1027_romin": {
+    "PT": "",
+    "EN": "姓名:小鸟游露明\n性别:女\n年龄:\n附近大学的二年生，在章鱼小丸子屋的帮工，不太擅长交际但是很会照顾人,与性格外向的芽美关系很要好,但是对于芽美一不在生意就会立刻变冷淡这件事有些在意"
+  },
+  "CharacterIntoduce_1028_mi": {
+    "PT": "",
+    "EN": "姓名:石动美\n性别:女\n年龄\n以烧肉主义自居的女性,但又因为担心身材而经常陷入自我纠结中。"
+  },
+  "CharacterIntoduce_1029_jiro": {
+    "PT": "",
+    "EN": "姓名:佐藤次郎（假面骑士build）\n性别:男\n年龄：\n年轻帅气的烧肉店店员,喜欢以夸张的回身动作来招揽顾客,非常喜欢打工的这家店,经常在这家店与朋友晚间聚会。"
+  },
+  "CharacterIntoduce_1030_tokuko": {
+    "PT": "",
+    "EN": "姓名:寺田徳子（假面骑士build）\n性别:女\n年龄:\n商店街八百屋的奶奶,商店街的最年长者,经历了它的兴衰,虽然子女和老伴都很早离开了她,也没能使她放弃乐观积极的处世态度,多年与孙女相依为命,是孙女心中的\"超级奶奶\"。"
+  },
+  "CharacterIntoduce_1031_yashuhiko": {
+    "PT": "",
+    "EN": "姓名:冢田靖彦（剑豪生死斗 骏河城御前试合）\n性别:男\n年龄:\n技艺高超的理发师,同时也是虎咬流剑术的门人,掌握了新时代的理发技术,同时也在钻研着刀剑理发的特别技艺,目前正在招募有勇气尝试的客人（目前一个都没有）。"
+  },
+  "CharacterIntoduce_1032_yuusuke": {
+    "PT": "",
+    "EN": "姓名:一条雄介\n性别:男\n年龄:\n壮实的肉铺老板,意外的很健谈,和巡警剑司很合得来,经常可以在真夜食堂寻见两人"
+  },
+  "CharacterIntoduce_1033_akiho": {
+    "PT": "",
+    "EN": "姓名:乃木坂秋穗（乃木坂春香的秘密）\n性别:女\n年龄:\n端庄的传统大阪美人,也是传统和服,同时作为小原流的花道大师,在商店街开设着花道教室"
+  },
+  "CharacterIntoduce_1034_tsuki": {
+    "PT": "",
+    "EN": "姓名:桜坂月（乃木坂春香的秘密）\n性别:女\n年龄:\n年轻的和服店店员,同时喜欢着传统和新锐文化,目前为了学习和服文化和花道而追随着秋穗师范\n"
+  },
+  "CharacterIntoduce_1035_yui": {
+    "PT": "",
+    "EN": "姓名:椎名安娜（K）\n性别:女\n年龄:\n萝莉塔服装店的店长,萝莉塔服饰设计的爱好者,是从设计到制作全流程的能力者,通过自己的努力开起了这家店,同时也在进行着网络贩售,拥有小众的自主品牌"
+  },
+  "CharacterIntoduce_1036_daichi": {
+    "PT": "",
+    "EN": "姓名:榎宫空（游戏人生）\n性别:男\n年龄:\n游戏侦探的店员,也是有名的视频主,虽然已经过了游戏视频创作的黄金年代依然在业余坚持创作优质的游戏内容视频,和同店的白作为玩家组合在各式各样的线下游戏比赛中赢取过荣誉。\n"
+  },
+  "CharacterIntoduce_1037_kuro": {
+    "PT": "",
+    "EN": "姓名:淀川白（游戏人生）\n性别:女\n年龄:\n沉默寡言的店员,能用肢体语言时绝不出口,和空的玩家组合很有名,在打游戏时会露出完全不同的表情"
+  },
+  "CharacterIntoduce_1038_bunta": {
+    "PT": "",
+    "EN": "姓名:高桥文太（头文字D）\n性别:男\n年龄:56\n豆腐店的老板,年轻时是有名公路车手,将兴趣和能力传递给了下一代,目前全心运营着豆腐店"
+  },
+  "CharacterIntoduce_1039_takumi": {
+    "PT": "",
+    "EN": "姓名:高桥拓海（头文字D）\n年龄:35\n年轻时受父亲影响成为了职业车赛手,在巅峰期因伤退役,目前也致力于培养下一代车手,时常也会回家给父亲帮忙"
+  },
+  "CharacterIntoduce_1040_megumi": {
+    "PT": "",
+    "EN": "姓名:下江惠\n性别:女\n年龄:36\n大众浴室的老板娘,丈夫突然有一天失踪,寻找多年已经放弃,如今下定决心要守护好丈夫所爱的这家浴室和它的秘密,经常会受一些神秘访客的照顾"
+  },
+  "CharacterIntoduce_1041_murasaki": {
+    "PT": "",
+    "EN": "姓名:雾岛筑紫\n性别:女\n年龄:34\n自行车店的店主,健壮开朗的成熟女性,外表无法判断年龄,喜好锻炼与竞技自行车,过去似乎拥有众多追求者,但坚持独身主义至今。"
+  },
+  "CharacterIntoduce_1042_Chiharu": {
+    "PT": "",
+    "EN": "姓名:波江和光\n性别:男\n年龄:28\n筑紫姐年轻时众多追求者之一,与筑紫姐因自行车结识,把家中传下的自行车店转给了筑紫姐后依旧厚脸皮追随在她身边帮工。"
+  },
+  "CharacterIntoduce_1043_asuna": {
+    "PT": "",
+    "EN": "姓名:绫野明日奈(SAO)\n性别:女\n年龄:22\n新晋的主机游戏玩家,过去只接触过手游,现在为了打工在店长和店员伙伴的帮助下熟悉主机游戏"
+  },
+  "CharacterIntoduce_1044_kazuto": {
+    "PT": "",
+    "EN": "姓名:金井和人(SAO)\n性别:男\n年龄:26\n资深游戏玩家,在知名论坛担任版主,不论是时下流行的手游还是主机游戏都十分精通,除了正常的销售之外还会提供攻略服务\n"
+  },
+  "CharacterIntoduce_1045_nagi": {
+    "PT": "",
+    "EN": "姓名:凉城薙\nKTV彩虹的女招待,对同店的凉月奏似乎抱有特别的感情"
+  },
+  "CharacterIntoduce_1046_an": {
+    "PT": "",
+    "EN": "姓名:真崎杏(Yu-Gi-Oh)\n性别:女\n年龄:\n卡牌店的女板娘,多种TCG的高手与温顺的外表不同是打牌的风格很具有侵略性,最近把很多时间投入了新兴趣舞蹈上,让其它店员很苦恼。"
+  },
+  "CharacterIntoduce_1047_yuusaku": {
+    "PT": "",
+    "EN": "姓名:武藤游作(Yu-Gi-Oh)\n性别:男\n年龄:\n发型很特别的牌店店员,掌握多种TCG技术的高手,名誉无数,常有客人远道而来就为了挑战他"
+  },
+  "CharacterIntoduce_1048_hiroryu": {
+    "PT": "",
+    "EN": "姓名:龘龘\n冒险者酒馆的店主，本项目的制作人的缩影，喜欢复古游戏收藏，喜欢无限麻辣烫，主要在酒馆中出没，偶尔会出现在麻辣烫店"
+  },
+  "CharacterIntoduce_1049_ayame": {
+    "PT": "",
+    "EN": "姓名:郡道绫美(郡道美绫)\n表面上是经营当铺的年轻女店主，实际上是魔鬼在人间的化身，善用花言巧语骗取人心爱珍藏之物，那些留有物主强烈思念的器物，想必有着如同灵魂一样让恶鬼们垂涎的特质。在剧情中曾一度诓骗玩家变买法芙娜珍爱的项链，夺他人所爱以己之利的行为致使玩家最终也难逃恶果。"
+  },
+  "CharacterIntoduce_1050_nanaka": {
+    "PT": "",
+    "EN": "姓名:菜乃香\n性格活泼的妹妹,永远精力满满的调皮鬼,因为热爱户外活动肤色与姐姐相异"
+  },
+  "CharacterIntoduce_1051_nonoka": {
+    "PT": "",
+    "EN": "姓名:野乃香\n性格文静的姐姐,但是因为太过文静经常被认为是妹妹"
+  },
+  "CharacterIntoduce_1052_memi": {
+    "PT": "",
+    "EN": "姓名:早乙女芽美\n性别:女\n章鱼小丸子屋家的女儿,因为性格外向大方,经常替家里照看生意其实是章鱼小丸子屋的隐藏招牌,自己对于这件事一无所知,与店里打工的露明情同姐妹"
+  },
+  "CharacterIntoduce_1053_zaemon": {
+    "PT": "",
+    "EN": "姓名:牛股左卫门\n性别:男\n年龄:40\n虎咬流师范代 健壮忠厚的中年男人 门派衰落后随师父一起开设理发店 门派中最精通正常理发技艺的人 经常代表店里参加地区理发协会的比赛"
+  },
+  "CharacterIntoduce_1054_genjiro": {
+    "PT": "",
+    "EN": "姓名:藤木源次郎\n性别:男\n年龄:28\n虎咬流剑术的年轻门生 剑术高超 是个有些死板的人 被指定为下任继承人 宗主没让他接触理发相关的事宜 但是还是想为门派出力 一直在偷偷考取理发师资格证"
+  },
+  "CharacterIntoduce_1055_yousuke": {
+    "PT": "",
+    "EN": "姓名:鹿田洋介"
+  },
+  "Shopping_soldout": {
+    "PT": "",
+    "EN": "Sold Out"
+  },
+  "CoffeeGame_Base_01": {
+    "PT": "",
+    "EN": "Espresso"
+  },
+  "CoffeeGame_Base_02": {
+    "PT": "",
+    "EN": "Coffee"
+  },
+  "CoffeeGame_Accessories_01": {
+    "PT": "",
+    "EN": "Milk"
+  },
+  "CoffeeGame_Accessories_02": {
+    "PT": "",
+    "EN": "Honey"
+  },
+  "CoffeeGame_Accessories_03": {
+    "PT": "",
+    "EN": "Cinammon"
+  },
+  "CoffeeGame_Accessories_04": {
+    "PT": "",
+    "EN": "Caramel"
+  },
+  "CoffeeGame_Accessories_05": {
+    "PT": "",
+    "EN": "Chocolate"
+  },
+  "CoffeeGame_Accessories_06": {
+    "PT": "",
+    "EN": "Whipped Cream"
+  },
+  "CoffeeGame_Accessories_07": {
+    "PT": "",
+    "EN": "Rum"
+  },
+  "CoffeeGame_Accessories_08": {
+    "PT": "",
+    "EN": "Sugar"
+  },
+  "CoffeeGame_Accessories_09": {
+    "PT": "",
+    "EN": "Condensed Milk"
+  },
+  "CoffeeGame_Accessories_10": {
+    "PT": "",
+    "EN": "Egg"
+  },
+  "CoffeeGame_Accessories_11": {
+    "PT": "",
+    "EN": "Black Tea"
+  },
+  "CoffeeGame_Accessories_12": {
+    "PT": "",
+    "EN": "Soy Milk"
+  },
+  "CoffeeGame_Accessories_13": {
+    "PT": "",
+    "EN": "Orange Juice"
+  },
+  "CoffeeGame_Accessories_14": {
+    "PT": "",
+    "EN": "Ice Cream"
+  },
+  "CoffeeGame_Accessories_15": {
+    "PT": "",
+    "EN": "Magic Potion"
+  },
+  "CoffeeGame_DrinkName_1": {
+    "PT": "",
+    "EN": "Latte"
+  },
+  "CoffeeGame_DrinkName_2": {
+    "PT": "",
+    "EN": "Cafe au Lait"
+  },
+  "CoffeeGame_DrinkName_3": {
+    "PT": "",
+    "EN": "Mocha"
+  },
+  "CoffeeGame_DrinkName_4": {
+    "PT": "",
+    "EN": "Cappuccino"
+  },
+  "CoffeeGame_DrinkName_5": {
+    "PT": "",
+    "EN": "Fuwa Fuwa Special"
+  },
+  "CoffeeGame_DrinkName_6": {
+    "PT": "",
+    "EN": "Einspänner Coffee"
+  },
+  "CoffeeGame_DrinkName_7": {
+    "PT": "",
+    "EN": "Haitian Coffee"
+  },
+  "CoffeeGame_DrinkName_8": {
+    "PT": "",
+    "EN": "Honey Latte"
+  },
+  "CoffeeGame_DrinkName_9": {
+    "PT": "",
+    "EN": "Caramel Latte"
+  },
+  "CoffeeGame_DrinkName_10": {
+    "PT": "",
+    "EN": "Soy Latte"
+  },
+  "CoffeeGame_DrinkName_11": {
+    "PT": "",
+    "EN": "Vietnamese Coffee"
+  },
+  "CoffeeGame_DrinkName_12": {
+    "PT": "",
+    "EN": "Egg Coffee"
+  },
+  "CoffeeGame_DrinkName_13": {
+    "PT": "",
+    "EN": "Yuenyeung"
+  },
+  "CoffeeGame_DrinkName_14": {
+    "PT": "",
+    "EN": "Orleans Coffee"
+  },
+  "CoffeeGame_DrinkName_15": {
+    "PT": "",
+    "EN": "Bittersweet Heartbreak Valentine"
+  },
+  "CoffeeGame_DrinkName_16": {
+    "PT": "",
+    "EN": "Cafe Maria Theresa"
+  },
+  "CoffeeGame_DrinkName_17": {
+    "PT": "",
+    "EN": "Cinammon Chocolate Coffee"
+  },
+  "CoffeeGame_DrinkName_18": {
+    "PT": "",
+    "EN": "Affogato"
+  },
+  "CoffeeGame_DrinkName_19": {
+    "PT": "",
+    "EN": "Haitian Coffee (Non-alcoholic)"
+  },
+  "CoffeeGame_DrinkIntroduce_1": {
+    "PT": "",
+    "EN": "Latte"
+  },
+  "CoffeeGame_DrinkIntroduce_2": {
+    "PT": "",
+    "EN": "Cafe au Lait"
+  },
+  "CoffeeGame_DrinkIntroduce_3": {
+    "PT": "",
+    "EN": "Mocha"
+  },
+  "CoffeeGame_DrinkIntroduce_4": {
+    "PT": "",
+    "EN": "Cappuccino"
+  },
+  "CoffeeGame_DrinkIntroduce_5": {
+    "PT": "",
+    "EN": "Fuwa Fuwa Special"
+  },
+  "CoffeeGame_DrinkIntroduce_6": {
+    "PT": "",
+    "EN": "Einspänner Coffee"
+  },
+  "CoffeeGame_DrinkIntroduce_7": {
+    "PT": "",
+    "EN": "Haitian Coffee"
+  },
+  "CoffeeGame_DrinkIntroduce_8": {
+    "PT": "",
+    "EN": "Honey Latte"
+  },
+  "CoffeeGame_DrinkIntroduce_9": {
+    "PT": "",
+    "EN": "Caramel Latte"
+  },
+  "CoffeeGame_DrinkIntroduce_10": {
+    "PT": "",
+    "EN": "Soy Latte"
+  },
+  "CoffeeGame_DrinkIntroduce_11": {
+    "PT": "",
+    "EN": "Vietnamese Coffee"
+  },
+  "CoffeeGame_DrinkIntroduce_12": {
+    "PT": "",
+    "EN": "Egg Coffee"
+  },
+  "CoffeeGame_DrinkIntroduce_13": {
+    "PT": "",
+    "EN": "Yuenyeung"
+  },
+  "CoffeeGame_DrinkIntroduce_14": {
+    "PT": "",
+    "EN": "Orleans Coffee"
+  },
+  "CoffeeGame_DrinkIntroduce_15": {
+    "PT": "",
+    "EN": "Bittersweet Heartbreak Valentine"
+  },
+  "CoffeeGame_DrinkIntroduce_16": {
+    "PT": "",
+    "EN": "Cafe Maria Theresa"
+  },
+  "CoffeeGame_DrinkIntroduce_17": {
+    "PT": "",
+    "EN": "Cinammon Chocolate Coffee"
+  },
+  "CoffeeGame_DrinkIntroduce_18": {
+    "PT": "",
+    "EN": "Affogato"
+  },
+  "CoffeeGame_DrinkIntroduce_19": {
+    "PT": "",
+    "EN": "Haitian Coffee (Non-alcoholic)"
+  },
+  "CoffeeGame_StepText1": {
+    "PT": "",
+    "EN": "Choose a base"
+  },
+  "CoffeeGame_StepText2": {
+    "PT": "",
+    "EN": "Choose an ingredient"
+  },
+  "CoffeeGame_StepText3": {
+    "PT": "",
+    "EN": "Choose an ingredient"
+  },
+  "ItemName_1": {
+    "PT": "",
+    "EN": "Is the Order a Little Sister? - 5th Anniversary Limited Edition Set"
+  },
+  "ItemIntroduce_1": {
+    "PT": "",
+    "EN": "A limited edition merch set of the hit anime movie \"Is the Order a Little Sister?\" including acrylic stands and can badges of popular characters."
+  },
+  "ItemName_2": {
+    "PT": "",
+    "EN": "Is the Order a Little Sister? - Movie Poster"
+  },
+  "ItemIntroduce_2": {
+    "PT": "",
+    "EN": "An extra-large sized poster for the hit anime movie \"Is the Order a Little Sister?\" Can be displayed in the apartment."
+  },
+  "ItemName_3": {
+    "PT": "",
+    "EN": "Magic Angel - Lilith Figure"
+  },
+  "ItemIntroduce_3": {
+    "PT": "",
+    "EN": "A figure of Lilith, a popular character from Magic Angel."
+  },
+  "ItemName_4": {
+    "PT": "",
+    "EN": "Change - Tapestry 1"
+  },
+  "ItemIntroduce_4": {
+    "PT": "",
+    "EN": "The first of a set of commemorative tapestries for the indie game \"Change.\" Can be displayed in the apartment."
+  },
+  "ItemName_5": {
+    "PT": "",
+    "EN": "Change - Tapestry 2"
+  },
+  "ItemIntroduce_5": {
+    "PT": "",
+    "EN": "The second of a set of commemorative tapestries for the indie game \"Change.\" Can be displayed in the apartment."
+  },
+  "ItemName_6": {
+    "PT": "",
+    "EN": "Magic Angel - Lilith Figure"
+  },
+  "ItemIntroduce_6": {
+    "PT": "",
+    "EN": "A figure of Lilith, a popular character from Magic Angel."
+  },
+  "ItemName_7": {
+    "PT": "",
+    "EN": "Wuxia Archive - Mingyao Yue Figure"
+  },
+  "ItemIntroduce_7": {
+    "PT": "",
+    "EN": "A figure of Mingyao Yue, a character from the indie game \"Wuxia Archive\" who became the head of the Huayue Clan at a young age. Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_8": {
+    "PT": "",
+    "EN": "Pokori Sports Drink"
+  },
+  "ItemIntroduce_8": {
+    "PT": "",
+    "EN": "The brand everybody thinks about when they think of sports drinks."
+  },
+  "ItemName_9": {
+    "PT": "",
+    "EN": "Anpan"
+  },
+  "ItemIntroduce_9": {
+    "PT": "",
+    "EN": "Stuffed with red bean paste. Subtly sweet. Might make a girl happy."
+  },
+  "ItemName_10": {
+    "PT": "",
+    "EN": "Yakisoba Curry Pan"
+  },
+  "ItemIntroduce_10": {
+    "PT": "",
+    "EN": "Every student's favorite bread and always out of stock: the yakisoba pan. Now with added curry flavor!"
+  },
+  "ItemName_11": {
+    "PT": "",
+    "EN": "Makeup Set"
+  },
+  "ItemIntroduce_11": {
+    "PT": "",
+    "EN": "A makeup set, perfect for touch-ups. Should be a good gift for girls."
+  },
+  "ItemName_12": {
+    "PT": "",
+    "EN": "Oden"
+  },
+  "ItemIntroduce_12": {
+    "PT": "",
+    "EN": "If only it were available all year round. The daikon is the best part!"
+  },
+  "ItemName_13": {
+    "PT": "",
+    "EN": "Rakumi Barley Tea"
+  },
+  "ItemIntroduce_13": {
+    "PT": "",
+    "EN": "Barley tea with Nipponbashi exclusive packaging."
+  },
+  "ItemName_14": {
+    "PT": "",
+    "EN": "Mineral Water"
+  },
+  "ItemIntroduce_14": {
+    "PT": "",
+    "EN": "Your run-of-the-mill drinking water. Fulfills mankind's most basic needs."
+  },
+  "ItemName_15": {
+    "PT": "",
+    "EN": "Fried Chicken"
+  },
+  "ItemIntroduce_15": {
+    "PT": "",
+    "EN": "Piping hot fried chicken. Every otaku craves its enticing and perfectly golden brown exterior."
+  },
+  "ItemName_16": {
+    "PT": "",
+    "EN": "Coco Cola"
+  },
+  "ItemIntroduce_16": {
+    "PT": "",
+    "EN": "The \"water of life\" for otaku. A must-have for the summer."
+  },
+  "ItemName_17": {
+    "PT": "",
+    "EN": "French Fries"
+  },
+  "ItemIntroduce_17": {
+    "PT": "",
+    "EN": "Freshly fried until nice and crispy. Comes with ketchup and cheese sauce."
+  },
+  "ItemName_18": {
+    "PT": "",
+    "EN": "Beef Burger"
+  },
+  "ItemIntroduce_18": {
+    "PT": "",
+    "EN": "A classic combination of beef patty, bread, and fresh vegetables. Delicious and filling."
+  },
+  "ItemName_19": {
+    "PT": "",
+    "EN": "Ice Cream Cone"
+  },
+  "ItemIntroduce_19": {
+    "PT": "",
+    "EN": "Soft serve. Ice cold, sweet, and begging for a bite!"
+  },
+  "ItemName_20": {
+    "PT": "",
+    "EN": "Is the Order a Little Sister?"
+  },
+  "ItemIntroduce_20": {
+    "PT": "",
+    "EN": "Coco, who just became a high school student, gets lost on her way back from school. She finds herself in a bakery called Rabbit Room, where she meets her estranged half-brother and his pet kitten. Her life as a new little sister and pastry chef starts here!"
+  },
+  "ItemName_21": {
+    "PT": "",
+    "EN": "Kamen Writer BLANK - Business Trip to Onigashima"
+  },
+  "ItemIntroduce_21": {
+    "PT": "",
+    "EN": "Netarou Mitabi is a deadbeat office worker who was artificially modified into Kamen Writer BLANK after one too many late clock-ins. In order to solve an ongoing mystery of missing children, Netarou takes to the streets for the first time in weeks, only to be confronted by Chairman Chameleon himself...! Can Kamen Writer BLANK crush the evil Gorgon Corp?!"
+  },
+  "ItemName_22": {
+    "PT": "",
+    "EN": "Backup for the Future!"
+  },
+  "ItemIntroduce_22": {
+    "PT": "",
+    "EN": "The high schooler Murphy gets transported 30 years into the past by a time machine invented by his friend and scientist Dr. Dog. However, Murphy accidentally deletes the design data of the time machine in the past, which would mean the time machine would never exist. He'll have to recover the data with Dog's help, but it's not as easy as it looks..."
+  },
+  "ItemName_23": {
+    "PT": "",
+    "EN": "Shin Gojida"
+  },
+  "ItemIntroduce_23": {
+    "PT": "",
+    "EN": "A giant explosion suddenly occurs in the Gulf of Tokyo. The Japanese government scrambles to deal with the crisis and discovers the cause: a giant monster hiding at the bottom of the ocean. But the related government offices refuse to work past their 5 PM standard work hours..."
+  },
+  "ItemName_24": {
+    "PT": "",
+    "EN": "Popcorn"
+  },
+  "ItemIntroduce_24": {
+    "PT": "",
+    "EN": "Once you start eating popcorn at the theater, you just can't stop."
+  },
+  "ItemName_25": {
+    "PT": "",
+    "EN": "Coco Cola"
+  },
+  "ItemIntroduce_25": {
+    "PT": "",
+    "EN": "The \"water of life\" for otaku. A must-have for the summer."
+  },
+  "ItemName_26": {
+    "PT": "",
+    "EN": "Wuxia Archive - Baixiang Figure"
+  },
+  "ItemIntroduce_26": {
+    "PT": "",
+    "EN": "A figure of Baixiang of Yaowang Valley, a character from the indie game \"Wuxia Archive.\" Can be displayed in the showcase."
+  },
+  "ItemName_27": {
+    "PT": "",
+    "EN": "Miracle Maid Cafe Free Trial Ticket"
+  },
+  "ItemIntroduce_27": {
+    "PT": "",
+    "EN": "A free trial ticket given out at Miracle Maid Cafe. Allows for one free visit to the cafe."
+  },
+  "ItemName_28": {
+    "PT": "",
+    "EN": "Neko Samurai - Nyanbee"
+  },
+  "ItemIntroduce_28": {
+    "PT": "",
+    "EN": "A newbie samurai Nyan with a strong sense of justice. Makes it his duty to preserve the peace of the city."
+  },
+  "ItemName_29": {
+    "PT": "",
+    "EN": "Neko Samurai - Nyansuke"
+  },
+  "ItemIntroduce_29": {
+    "PT": "",
+    "EN": "A ninja Nyan who works in the shadows. Often assists Nyanbee."
+  },
+  "ItemName_30": {
+    "PT": "",
+    "EN": "Neko Samurai - Nyantarou"
+  },
+  "ItemIntroduce_30": {
+    "PT": "",
+    "EN": "A mysterious ronin Nyan who gave up his status as a samurai. Is both friend and foe to Nyanbee."
+  },
+  "ItemName_31": {
+    "PT": "",
+    "EN": "Neko Samurai - Nyansousei"
+  },
+  "ItemIntroduce_31": {
+    "PT": "",
+    "EN": "A revered master Nyan and teacher of Nyantarou and Nyanbee. No one knows the true extent of his power."
+  },
+  "ItemName_32": {
+    "PT": "",
+    "EN": "Neko Hime - Princess Mewhime"
+  },
+  "ItemIntroduce_32": {
+    "PT": "",
+    "EN": "A princess Nyan who only wants her people to be happy. Beautiful and refined."
+  },
+  "ItemName_33": {
+    "PT": "",
+    "EN": "Neko Hime - Servant Harumew"
+  },
+  "ItemIntroduce_33": {
+    "PT": "",
+    "EN": "A servant who grew up with Mewhime. Both as her caretaker and older sister figure."
+  },
+  "ItemName_34": {
+    "PT": "",
+    "EN": "Neko Hime - Maiden Megumew"
+  },
+  "ItemIntroduce_34": {
+    "PT": "",
+    "EN": "A lady who was raised in the city. Bright-eyed and naive, she's one of the most popular Nyans in town."
+  },
+  "ItemName_35": {
+    "PT": "",
+    "EN": "Neko Hime - Princess Mewhime (Bride)"
+  },
+  "ItemIntroduce_35": {
+    "PT": "",
+    "EN": "Princess Mewhime, clad in traditional wedding attire. What a rare sight. Who could the groom Nyan be?"
+  },
+  "ItemName_36": {
+    "PT": "",
+    "EN": "Coco"
+  },
+  "ItemIntroduce_36": {
+    "PT": "",
+    "EN": "A can badge of Coco. Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_37": {
+    "PT": "",
+    "EN": "Kirina"
+  },
+  "ItemIntroduce_37": {
+    "PT": "",
+    "EN": "A can badge of Kirina. Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_38": {
+    "PT": "",
+    "EN": "Owner"
+  },
+  "ItemIntroduce_38": {
+    "PT": "",
+    "EN": "A can badge of the bakery owner. Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_39": {
+    "PT": "",
+    "EN": "Onii-chan"
+  },
+  "ItemIntroduce_39": {
+    "PT": "",
+    "EN": "A can badge of Onii-chan. Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_40": {
+    "PT": "",
+    "EN": "Coco"
+  },
+  "ItemIntroduce_40": {
+    "PT": "",
+    "EN": "A mini figure of Coco. Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_41": {
+    "PT": "",
+    "EN": "Coco (Secret)"
+  },
+  "ItemIntroduce_41": {
+    "PT": "",
+    "EN": "A mini figure of Coco (secret version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_42": {
+    "PT": "",
+    "EN": "Coco (Christmas)"
+  },
+  "ItemIntroduce_42": {
+    "PT": "",
+    "EN": "A can badge of Coco (Christmas verison). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_43": {
+    "PT": "",
+    "EN": "Kirina (Christmas)"
+  },
+  "ItemIntroduce_43": {
+    "PT": "",
+    "EN": "A can badge of Kirina (Christmas version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_44": {
+    "PT": "",
+    "EN": "Owner (Christmas)"
+  },
+  "ItemIntroduce_44": {
+    "PT": "",
+    "EN": "A can badge of the bakery owner (Christmas version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_45": {
+    "PT": "",
+    "EN": "Onii-chan (Christmas)"
+  },
+  "ItemIntroduce_45": {
+    "PT": "",
+    "EN": "A can badge of Onii-chan (Christmas version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_46": {
+    "PT": "",
+    "EN": "Coco (Christmas)"
+  },
+  "ItemIntroduce_46": {
+    "PT": "",
+    "EN": "A mini figure of Coco (Christmas version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_47": {
+    "PT": "",
+    "EN": "Kirina (Christmas)"
+  },
+  "ItemIntroduce_47": {
+    "PT": "",
+    "EN": "A mini figure of Kirina (Christmas version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_48": {
+    "PT": "",
+    "EN": "Coco (Halloween)"
+  },
+  "ItemIntroduce_48": {
+    "PT": "",
+    "EN": "A can badge of Coco (Halloween version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_49": {
+    "PT": "",
+    "EN": "Kirina (Halloween)"
+  },
+  "ItemIntroduce_49": {
+    "PT": "",
+    "EN": "A can badge of Kirina (Halloween version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_50": {
+    "PT": "",
+    "EN": "Owner (Halloween)"
+  },
+  "ItemIntroduce_50": {
+    "PT": "",
+    "EN": "A can badge of the bakery owner (Halloween version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_51": {
+    "PT": "",
+    "EN": "Onii-chan (Halloween)"
+  },
+  "ItemIntroduce_51": {
+    "PT": "",
+    "EN": "A can badge of Onii-chan (Halloween version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_52": {
+    "PT": "",
+    "EN": "Coco (Halloween)"
+  },
+  "ItemIntroduce_52": {
+    "PT": "",
+    "EN": "A mini figure of Coco (Halloween version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_53": {
+    "PT": "",
+    "EN": "Kirina (Halloween)"
+  },
+  "ItemIntroduce_53": {
+    "PT": "",
+    "EN": "A mini figure of Kirina (Halloween version). Can be displayed in the showcase in the apartment."
+  },
+  "ItemName_54": {
+    "PT": "",
+    "EN": "Bittersweet Heartbreak Valentine"
+  },
+  "ItemName_55": {
+    "PT": "",
+    "EN": "Miracle Special Omurice"
+  },
+  "ItemName_56": {
+    "PT": "",
+    "EN": "Mysterious Pendant"
+  },
+  "ItemIntroduce_56": {
+    "PT": "",
+    "EN": "Dropped by a mysterious girl. The gem seems to glow a faint red if you squint."
+  },
+  "ItemName_57": {
+    "PT": "",
+    "EN": "Chicken"
+  },
+  "ItemName_58": {
+    "PT": "",
+    "EN": "Pork"
+  },
+  "ItemName_59": {
+    "PT": "",
+    "EN": "Beef"
+  },
+  "ItemName_60": {
+    "PT": "",
+    "EN": "Fried Shrimp"
+  },
+  "ItemName_61": {
+    "PT": "",
+    "EN": "Egg"
+  },
+  "ItemName_62": {
+    "PT": "",
+    "EN": "Tofu"
+  },
+  "ItemName_63": {
+    "PT": "",
+    "EN": "Cabbage"
+  },
+  "ItemName_64": {
+    "PT": "",
+    "EN": "Lettuce"
+  },
+  "ItemName_65": {
+    "PT": "",
+    "EN": "Natto"
+  },
+  "ItemName_66": {
+    "PT": "",
+    "EN": "Eggplant"
+  },
+  "ItemName_67": {
+    "PT": "",
+    "EN": "Bamboo Shoot"
+  },
+  "ItemName_68": {
+    "PT": "",
+    "EN": "Bean Sprouts"
+  },
+  "ItemName_69": {
+    "PT": "",
+    "EN": "Udon"
+  },
+  "ItemName_70": {
+    "PT": "",
+    "EN": "Glass Noodles"
+  },
+  "ItemName_71": {
+    "PT": "",
+    "EN": "Soba"
+  },
+  "ItemName_72": {
+    "PT": "",
+    "EN": "Sashimi"
+  },
+  "ItemIntroduce_72": {
+    "PT": "",
+    "EN": "The fishmonger's specialty."
+  },
+  "ItemName_73": {
+    "PT": "",
+    "EN": "Deluxe Golden Fatty Tuna Flavor Cat Food"
+  },
+  "ItemIntroduce_73": {
+    "PT": "",
+    "EN": "Premium cat food flavored with fatty tuna. A favorite of the cats on Electric Street."
+  },
+  "ItemName_74": {
+    "PT": "",
+    "EN": "Life-Sized Figure Receipt"
+  },
+  "ItemIntroduce_74": {
+    "PT": "",
+    "EN": "The receipt for a super rare figure. You can't wait for it to arrive!"
+  },
+  "ItemName_75": {
+    "PT": "",
+    "EN": "Ultra Catcher"
+  },
+  "ItemIntroduce_75": {
+    "PT": "",
+    "EN": "Everyone's favorite grabby catcher. Not just a fun toy, but a surprisingly useful tool that can help with many mundane problems."
+  },
+  "ItemName_76": {
+    "PT": "",
+    "EN": "Potluck-Vengers"
+  },
+  "ItemIntroduce_76": {
+    "PT": "",
+    "EN": "The Supperact, an artifact being studied by the International Peacekeeping Association, has been stolen, and the earth faces its greatest threat yet. Superpowered heroes rise to the occasion, each bringing their best homemade cooking, forming the Potluck-Vengers. Once a hero joins the Potluck-Vengers, they're forever a Potluck-Venger. And so an epic battle begins..."
+  },
+  "ItemName_77": {
+    "PT": "",
+    "EN": "Magical Cannon Girl Meguca☆Machina: The Movie"
+  },
+  "ItemIntroduce_77": {
+    "PT": "",
+    "EN": "\"I want you to form a contract with me and become Magical Cannon Girls!\"\nThe middle schoolers Meguca and Sayako meet the strange creature called Tobey, who calls himself the messenger of the Magical Cannon. Those who form a contract with Tobey are granted one wish, any wish, but in exchange, they must become Magical Cannon Girls—mechanical beings who wield Machina, the power of the Magical Cannon, to fight evil witches who threaten to regress civilization. As Meguca and Sayako try to decide whether to form the contract, they learn of the horrible fates of the Magical Cannon Girls before them..."
+  },
+  "ItemName_78": {
+    "PT": "",
+    "EN": "Violinist Evergarden: The Movie"
+  },
+  "ItemIntroduce_78": {
+    "PT": "",
+    "EN": "—What does \"I love you\" sound like?\n\nAfter the end of a four-year war, Violetta, a girl who only knew the battlefield, replaces the arms she lost in the war with high-tech prosthetics and starts a new life as an Auto Musical Doll violinist. Unable to understand the \"I love you\" her dear Colonel Gilbert said to her in his last moments, Violetta searches for the meaning of those final words as she interacts with the people and children of the town in both her work and everyday life."
+  },
+  "ItemName_79": {
+    "PT": "",
+    "EN": "Wait/Stay Where?: The Movie"
+  },
+  "ItemIntroduce_79": {
+    "PT": "",
+    "EN": "\"I ask of you. Where have you put the master key to my house?\"\nSeven mages who have lost their home keys form contracts with knights to fight for the Holy Key, a key that is said to be able to open any door. Thus marks the start of the Holy Key War. Only one pair may obtain the Holy Key and go home, and so they are fated to fight to the death until only one pair remains..."
+  },
+  "ItemName_80": {
+    "PT": "",
+    "EN": "The Celebration"
+  },
+  "ItemIntroduce_80": {
+    "PT": "",
+    "EN": "The college student Rika visits an old lady living alone as part of her volunteer activities, but the house is haunted by the ghost of Kyarako, a housewife who was killed before she could celebrate her son's birthday. The people around Rika coincidentally visit the house on their birthdays, but start dying one after the other. Finally, it's Rika's turn to join in the celebration...!"
+  },
+  "ItemName_81": {
+    "PT": "",
+    "EN": "Old Notebook"
+  },
+  "ItemIntroduce_81": {
+    "PT": "",
+    "EN": "A notebook left by the former owner of the cafe. Includes recipes for basic drinks, including the Fuwa Fuwa Special, as well as how to operate all the different pieces of equipment in the cafe. The numerous corrections and footnotes show how serious he was about coffee."
+  },
+  "ItemName_82": {
+    "PT": "",
+    "EN": "Einspänner Coffee Recipe"
+  },
+  "ItemIntroduce_82": {
+    "PT": "",
+    "EN": "A recipe for Einspänner coffee."
+  },
+  "ItemName_83": {
+    "PT": "",
+    "EN": "Honey Latte Recipe"
+  },
+  "ItemIntroduce_83": {
+    "PT": "",
+    "EN": "A recipe for honey latte."
+  },
+  "ItemName_84": {
+    "PT": "",
+    "EN": "Caramel Latte Recipe"
+  },
+  "ItemIntroduce_84": {
+    "PT": "",
+    "EN": "A recipe for caramel latte."
+  },
+  "ItemName_85": {
+    "PT": "",
+    "EN": "Soy Latte Recipe"
+  },
+  "ItemIntroduce_85": {
+    "PT": "",
+    "EN": "A recipe for soy latte."
+  },
+  "ItemName_86": {
+    "PT": "",
+    "EN": "Vietnamese Coffee Recipe"
+  },
+  "ItemIntroduce_86": {
+    "PT": "",
+    "EN": "A recipe for Vietnamese coffee."
+  },
+  "ItemName_87": {
+    "PT": "",
+    "EN": "Egg Coffee Recipe"
+  },
+  "ItemIntroduce_87": {
+    "PT": "",
+    "EN": "A recipe for egg coffee."
+  },
+  "ItemName_88": {
+    "PT": "",
+    "EN": "Yuenyeung Recipe"
+  },
+  "ItemIntroduce_88": {
+    "PT": "",
+    "EN": "A recipe for Yuenyeung."
+  },
+  "ItemName_89": {
+    "PT": "",
+    "EN": "Is the Order a Little Sister? Vol. 1"
+  },
+  "ItemIntroduce_89": {
+    "PT": "",
+    "EN": "The first volume of the Is the Order a Little Sister? series."
+  },
+  "ItemName_90": {
+    "PT": "",
+    "EN": "Is the Order a Little Sister? Vol. 2"
+  },
+  "ItemIntroduce_90": {
+    "PT": "",
+    "EN": "The second volume of the Is the Order a Little Sister? series."
+  },
+  "ItemName_91": {
+    "PT": "",
+    "EN": "Is the Order a Little Sister? Vol. 3"
+  },
+  "ItemIntroduce_91": {
+    "PT": "",
+    "EN": "The third volume of the Is the Order a Little Sister? series."
+  },
+  "ItemName_92": {
+    "PT": "",
+    "EN": "Magic Angel Vol. 1"
+  },
+  "ItemIntroduce_92": {
+    "PT": "",
+    "EN": "The first volume of the \"Magic Angel\" series."
+  },
+  "ItemName_93": {
+    "PT": "",
+    "EN": "Magic Angel Vol. 2"
+  },
+  "ItemIntroduce_93": {
+    "PT": "",
+    "EN": "The second volume of the \"Magic Angel\" series."
+  },
+  "ItemName_94": {
+    "PT": "",
+    "EN": "Magic Angel Vol. 3"
+  },
+  "ItemIntroduce_94": {
+    "PT": "",
+    "EN": "The third volume of the \"Magic Angel\" series."
+  },
+  "ItemName_95": {
+    "PT": "",
+    "EN": "Miracle Maid Polaroid"
+  },
+  "ItemName_96": {
+    "PT": "",
+    "EN": "Small Bouquet"
+  },
+  "ItemName_97": {
+    "PT": "",
+    "EN": "Scented Candle"
+  },
+  "ItemName_98": {
+    "PT": "",
+    "EN": "Large Hitogata"
+  },
+  "ItemName_99": {
+    "PT": "",
+    "EN": "Scroll of Spirit Channeling: Volume 1"
+  },
+  "ItemName_100": {
+    "PT": "",
+    "EN": "Scroll of Spirit Channeling: Volume 2"
+  },
+  "ItemName_101": {
+    "PT": "",
+    "EN": "Scroll of Spirit Channeling: Volume 3"
+  },
+  "ItemName_102": {
+    "PT": "",
+    "EN": "Scroll of Spirit Channeling: Volume 4"
+  },
+  "ItemName_103": {
+    "PT": "",
+    "EN": "Scroll of Spirit Channeling: Volume 5"
+  },
+  "ItemName_104": {
+    "PT": "",
+    "EN": "ラム酒"
+  },
+  "ItemIntroduce_104": {
+    "PT": "",
+    "EN": "高级そうなラム酒だ。たぶんハイチ産だろう。"
+  },
+  "ItemName_105": {
+    "PT": "",
+    "EN": "Haitian Coffee Recipe"
+  },
+  "ItemIntroduce_105": {
+    "PT": "",
+    "EN": "A recipe for Haitian coffee."
+  },
+  "ItemName_106": {
+    "PT": "",
+    "EN": "Mocha Recipe"
+  },
+  "ItemIntroduce_106": {
+    "PT": "",
+    "EN": "A recipe for mocha."
+  },
+  "ItemName_107": {
+    "PT": "",
+    "EN": "Orleans Coffee Recipe"
+  },
+  "ItemIntroduce_107": {
+    "PT": "",
+    "EN": "A recipe for Orleans coffee."
+  },
+  "ItemName_108": {
+    "PT": "",
+    "EN": "Kaijuu-Oh: Volume 1"
+  },
+  "ItemIntroduce_108": {
+    "PT": "",
+    "EN": "A popular trading card set that features muscular animal characters! \n3 cards per pack\n10 cards in total"
+  },
+  "ItemName_109": {
+    "PT": "",
+    "EN": "Kaijuu-Oh: Volume 2"
+  },
+  "ItemIntroduce_109": {
+    "PT": "",
+    "EN": "A popular trading card set that features sword princesses! \n3 cards per pack\n10 cards in total"
+  },
+  "ItemName_110": {
+    "PT": "",
+    "EN": "Castle Rondo"
+  },
+  "ItemIntroduce_110": {
+    "PT": "",
+    "EN": "The retro game \"Castle Rondo.\""
+  },
+  "ItemName_111": {
+    "PT": "",
+    "EN": "Castle Symphony"
+  },
+  "ItemIntroduce_111": {
+    "PT": "",
+    "EN": "The retro game \"Castle Symphony.\""
+  },
+  "ItemName_112": {
+    "PT": "",
+    "EN": "Animal Street"
+  },
+  "ItemIntroduce_112": {
+    "PT": "",
+    "EN": "The newly released game \"Animal Street.\""
+  },
+  "ItemName_113": {
+    "PT": "",
+    "EN": "Denmon Garnet"
+  },
+  "ItemIntroduce_113": {
+    "PT": "",
+    "EN": "The newly released game \"Denmon Garnet.\""
+  },
+  "ItemName_114": {
+    "PT": "",
+    "EN": "Keeby's Fantasy Land"
+  },
+  "ItemIntroduce_114": {
+    "PT": "",
+    "EN": "The retro game \"Keeby's Fantasy Land.\""
+  },
+  "ItemName_115": {
+    "PT": "",
+    "EN": "Snow Sis"
+  },
+  "ItemIntroduce_115": {
+    "PT": "",
+    "EN": "The retro game \"Snow Sis.\""
+  },
+  "ItemName_116": {
+    "PT": "",
+    "EN": "Mithra"
+  },
+  "ItemIntroduce_116": {
+    "PT": "",
+    "EN": "The retro game \"Mithra.\""
+  },
+  "ItemName_117": {
+    "PT": "",
+    "EN": "Maid Quest"
+  },
+  "ItemIntroduce_117": {
+    "PT": "",
+    "EN": "The retro game \"Maid Quest.\""
+  },
+  "ItemName_118": {
+    "PT": "",
+    "EN": "Denmon Amethyst"
+  },
+  "ItemIntroduce_118": {
+    "PT": "",
+    "EN": "The newly released game \"Denmon Amethyst.\""
+  },
+  "ItemName_119": {
+    "PT": "",
+    "EN": "VA-11 Hall-A"
+  },
+  "ItemIntroduce_119": {
+    "PT": "",
+    "EN": "A physical edition of the indie game \"VA-11 Hall-A.\""
+  },
+  "ItemName_120": {
+    "PT": "",
+    "EN": "VA-11 Hall-A - Tapestry"
+  },
+  "ItemIntroduce_120": {
+    "PT": "",
+    "EN": "A tapestry for the indie game \"VA-11 Hall-A.\" Can be displayed in the apartment."
+  },
+  "ItemName_121": {
+    "PT": "",
+    "EN": "VA-11 Hall-Aのポスター"
+  },
+  "ItemIntroduce_121": {
+    "PT": "",
+    "EN": "インディーゲーム「VA-11 Hall-A」のポスター、部屋のドアに饰ることができる。"
+  },
+  "ItemName_122": {
+    "PT": "",
+    "EN": "High-Grade Cat Food"
+  },
+  "ItemIntroduce_122": {
+    "PT": "",
+    "EN": "The newest flavor: Supreme Premium Salmon and Foie Gras."
+  },
+  "ItemName_123": {
+    "PT": "",
+    "EN": "High-Grade Sashimi"
+  },
+  "ItemIntroduce_123": {
+    "PT": "",
+    "EN": "The fishmonger's specialty."
+  },
+  "ItemName_124": {
+    "PT": "",
+    "EN": "Bargain Steak"
+  },
+  "ItemName_125": {
+    "PT": "",
+    "EN": "A5 Wagyu Steak"
+  },
+  "ItemName_126": {
+    "PT": "",
+    "EN": "Kamen Writer BLANK - Movie Poster"
+  },
+  "ItemIntroduce_126": {
+    "PT": "",
+    "EN": "A poster for the movie \"Kamen Writer BLANK.\"\nCan be displayed in the apartment."
+  },
+  "ItemName_127": {
+    "PT": "",
+    "EN": "Backup for the Future! - Movie Poster"
+  },
+  "ItemIntroduce_127": {
+    "PT": "",
+    "EN": "A poster for the movie \"Backup for the Future!\"\nCan be displayed in the apartment."
+  },
+  "ItemName_128": {
+    "PT": "",
+    "EN": "Wait/Stay Where? - Movie Poster"
+  },
+  "ItemIntroduce_128": {
+    "PT": "",
+    "EN": "A poster for the movie \"Wait/Stay Where?\"\nCan be displayed in the apartment."
+  },
+  "ItemName_129": {
+    "PT": "",
+    "EN": "Shin Gojida - Movie Poster"
+  },
+  "ItemIntroduce_129": {
+    "PT": "",
+    "EN": "A poster for the movie \"Shin Gojida.\" Can be displayed in the apartment."
+  },
+  "ItemName_130": {
+    "PT": "",
+    "EN": "Potluck-Vengers - Movie Poster"
+  },
+  "ItemIntroduce_130": {
+    "PT": "",
+    "EN": "A poster for the movie \"Potluck-Vengers.\"\nCan be displayed in the apartment."
+  },
+  "ItemName_131": {
+    "PT": "",
+    "EN": "The Celebration - Movie Poster"
+  },
+  "ItemIntroduce_131": {
+    "PT": "",
+    "EN": "A poster for the movie \"The Celebration.\"\nCan be displayed in the apartment."
+  },
+  "ItemName_132": {
+    "PT": "",
+    "EN": "Magical Cannon Girl Meguca☆Machina - Movie Poster"
+  },
+  "ItemIntroduce_132": {
+    "PT": "",
+    "EN": "A poster for the movie \"Magical Cannon Girl Meguca☆Machina.\" \nCan be displayed in the apartment."
+  },
+  "ItemName_133": {
+    "PT": "",
+    "EN": "Violinist Evergarden - Movie Poster"
+  },
+  "ItemIntroduce_133": {
+    "PT": "",
+    "EN": "A poster for the movie \"Violinist Evergarden.\"\nCan be displayed in the apartment."
+  },
+  "ItemName_134": {
+    "PT": "",
+    "EN": "Hi-Tea"
+  },
+  "ItemName_135": {
+    "PT": "",
+    "EN": "Midnight Tea"
+  },
+  "ItemName_136": {
+    "PT": "",
+    "EN": "Red Monster"
+  },
+  "ItemName_137": {
+    "PT": "",
+    "EN": "Premium Don Coffee"
+  },
+  "ItemName_138": {
+    "PT": "",
+    "EN": "Don (Indulgent Low Sugar)"
+  },
+  "ItemName_139": {
+    "PT": "",
+    "EN": "Return"
+  },
+  "ItemIntroduce_139": {
+    "PT": "",
+    "EN": "The single \"Return.\""
+  },
+  "ItemName_140": {
+    "PT": "",
+    "EN": "Joy"
+  },
+  "ItemIntroduce_140": {
+    "PT": "",
+    "EN": "The single \"Joy.\""
+  },
+  "ItemName_141": {
+    "PT": "",
+    "EN": "Absolute"
+  },
+  "ItemIntroduce_141": {
+    "PT": "",
+    "EN": "The single \"Absolute.\""
+  },
+  "ItemName_142": {
+    "PT": "",
+    "EN": "Craze"
+  },
+  "ItemIntroduce_142": {
+    "PT": "",
+    "EN": "The single \"Craze.\""
+  },
+  "ItemName_143": {
+    "PT": "",
+    "EN": "Chase"
+  },
+  "ItemIntroduce_143": {
+    "PT": "",
+    "EN": "The single \"Chase.\""
+  },
+  "ItemName_144": {
+    "PT": "",
+    "EN": "Thought"
+  },
+  "ItemIntroduce_144": {
+    "PT": "",
+    "EN": "The single \"Thought.\""
+  },
+  "ItemName_145": {
+    "PT": "",
+    "EN": "Hero"
+  },
+  "ItemIntroduce_145": {
+    "PT": "",
+    "EN": "The single \"Hero.\""
+  },
+  "ItemName_146": {
+    "PT": "",
+    "EN": "Doubt"
+  },
+  "ItemIntroduce_146": {
+    "PT": "",
+    "EN": "The single \"Doubt.\""
+  },
+  "ItemName_147": {
+    "PT": "",
+    "EN": "Recollection"
+  },
+  "ItemIntroduce_147": {
+    "PT": "",
+    "EN": "The single \"Recollection.\""
+  },
+  "ItemName_148": {
+    "PT": "",
+    "EN": "Haunt"
+  },
+  "ItemIntroduce_148": {
+    "PT": "",
+    "EN": "The single \"Haunt.\""
+  },
+  "ItemName_149": {
+    "PT": "",
+    "EN": "Lonely Rock"
+  },
+  "ItemIntroduce_149": {
+    "PT": "",
+    "EN": "The single \"Lonely Rock.\""
+  },
+  "ItemName_150": {
+    "PT": "",
+    "EN": "Morning Glory"
+  },
+  "ItemIntroduce_150": {
+    "PT": "",
+    "EN": "The single \"Morning Glory.\""
+  },
+  "ItemName_151": {
+    "PT": "",
+    "EN": "Sad Memories"
+  },
+  "ItemIntroduce_151": {
+    "PT": "",
+    "EN": "The single \"Sad Memories.\""
+  },
+  "ItemName_152": {
+    "PT": "",
+    "EN": "My Answer"
+  },
+  "ItemIntroduce_152": {
+    "PT": "",
+    "EN": "The single \"My Answer.\""
+  },
+  "ItemName_153": {
+    "PT": "",
+    "EN": "At Work"
+  },
+  "ItemIntroduce_153": {
+    "PT": "",
+    "EN": "The single \"At Work.\""
+  },
+  "ItemName_154": {
+    "PT": "",
+    "EN": "What Are You Doing?"
+  },
+  "ItemIntroduce_154": {
+    "PT": "",
+    "EN": "The single \"What are You Doing?\""
+  },
+  "ItemName_155": {
+    "PT": "",
+    "EN": "First Love"
+  },
+  "ItemIntroduce_155": {
+    "PT": "",
+    "EN": "The single \"First Love.\""
+  },
+  "ItemName_156": {
+    "PT": "",
+    "EN": "Energetic Day"
+  },
+  "ItemIntroduce_156": {
+    "PT": "",
+    "EN": "The single \"Energetic Day.\""
+  },
+  "ItemName_157": {
+    "PT": "",
+    "EN": "Travel"
+  },
+  "ItemIntroduce_157": {
+    "PT": "",
+    "EN": "The single \"Travel.\""
+  },
+  "ItemName_158": {
+    "PT": "",
+    "EN": "Time"
+  },
+  "ItemIntroduce_158": {
+    "PT": "",
+    "EN": "The single \"Time.\""
+  },
+  "ItemName_159": {
+    "PT": "",
+    "EN": "Mega Maid"
+  },
+  "ItemIntroduce_159": {
+    "PT": "",
+    "EN": "The retro game \"Mega Maid.\""
+  },
+  "ItemName_160": {
+    "PT": "",
+    "EN": "Maids 'n Goblins"
+  },
+  "ItemIntroduce_160": {
+    "PT": "",
+    "EN": "The retro game \"Maids 'n Goblins.\""
+  },
+  "ItemName_161": {
+    "PT": "",
+    "EN": "Wrecka"
+  },
+  "ItemIntroduce_161": {
+    "PT": "",
+    "EN": "The retro game \"Wrecka.\""
+  },
+  "ItemName_162": {
+    "PT": "",
+    "EN": "Maithena"
+  },
+  "ItemIntroduce_162": {
+    "PT": "",
+    "EN": "The retro game \"Maithena.\""
+  },
+  "ItemName_163": {
+    "PT": "",
+    "EN": "Meimick!"
+  },
+  "ItemIntroduce_163": {
+    "PT": "",
+    "EN": "The retro game \"Meimick!\""
+  },
+  "ItemName_164": {
+    "PT": "",
+    "EN": "Nakayoshi to Meido"
+  },
+  "ItemIntroduce_164": {
+    "PT": "",
+    "EN": "The retro game \"Nakayoshi to Meido.\""
+  },
+  "ItemName_165": {
+    "PT": "",
+    "EN": "Maid Fantasy"
+  },
+  "ItemIntroduce_165": {
+    "PT": "",
+    "EN": "The retro game \"Maid Fantasy.\""
+  },
+  "ItemName_166": {
+    "PT": "",
+    "EN": "Maid Gear"
+  },
+  "ItemIntroduce_166": {
+    "PT": "",
+    "EN": "The retro game \"Maid Gear.\""
+  },
+  "ItemName_167": {
+    "PT": "",
+    "EN": "Battle Robots"
+  },
+  "ItemIntroduce_167": {
+    "PT": "",
+    "EN": "The retro game \"Battle Robots.\""
+  },
+  "ItemName_168": {
+    "PT": "",
+    "EN": "Maid Crystal"
+  },
+  "ItemIntroduce_168": {
+    "PT": "",
+    "EN": "The retro game \"Maid Crystal.\""
+  },
+  "ItemName_169": {
+    "PT": "",
+    "EN": "Maids in Adventure Land"
+  },
+  "ItemIntroduce_169": {
+    "PT": "",
+    "EN": "The retro game \"Maids in Adventure Land.\""
+  },
+  "ItemName_170": {
+    "PT": "",
+    "EN": "Maid Street"
+  },
+  "ItemIntroduce_170": {
+    "PT": "",
+    "EN": "The retro game \"Maid Street.\""
+  },
+  "ItemName_171": {
+    "PT": "",
+    "EN": "Sun Hard Drive"
+  },
+  "ItemIntroduce_171": {
+    "PT": "",
+    "EN": "A super rare item!"
+  },
+  "ItemName_172": {
+    "PT": "",
+    "EN": "Dragon Badge"
+  },
+  "ItemIntroduce_172": {
+    "PT": "",
+    "EN": "A super rare item!"
+  },
+  "ItemName_173": {
+    "PT": "",
+    "EN": "Silver Sound Card"
+  },
+  "ItemIntroduce_173": {
+    "PT": "",
+    "EN": "A super rare item!"
+  },
+  "ItemName_174": {
+    "PT": "",
+    "EN": "Raincloud Joystick"
+  },
+  "ItemIntroduce_174": {
+    "PT": "",
+    "EN": "A super rare item!"
+  },
+  "ItemName_175": {
+    "PT": "",
+    "EN": "Rainbow Controller"
+  },
+  "ItemIntroduce_175": {
+    "PT": "",
+    "EN": "A super rare item!"
+  },
+  "ItemName_176": {
+    "PT": "",
+    "EN": "Delinquent Manga Series (Full Set)"
+  },
+  "ItemIntroduce_176": {
+    "PT": "",
+    "EN": "A present from Memi."
+  },
+  "ItemName_177": {
+    "PT": "",
+    "EN": "Master of Cleaning"
+  },
+  "ItemIntroduce_177": {
+    "PT": "",
+    "EN": "Learn the secret to cleaning without getting tired!\n(Raises cleaning skill)"
+  },
+  "ItemName_178": {
+    "PT": "",
+    "EN": "Recipes of the Week"
+  },
+  "ItemIntroduce_178": {
+    "PT": "",
+    "EN": "Learn recipes to dishes you'll want to eat every day!\n(Raises cooking skill)"
+  },
+  "ItemName_179": {
+    "PT": "",
+    "EN": "Maid in Training"
+  },
+  "ItemIntroduce_179": {
+    "PT": "",
+    "EN": "A must-read for anyone who wants to be the No.1 Maid!\n(Raises service skill)"
+  },
+  "ItemName_180": {
+    "PT": "",
+    "EN": "Fuwa Fuwa Omamori"
+  },
+  "ItemIntroduce_180": {
+    "PT": "",
+    "EN": "A blessing from Honoka."
+  },
+  "ItemName_181": {
+    "PT": "",
+    "EN": "Late-Night Diner Coupon"
+  },
+  "ItemIntroduce_181": {
+    "PT": "",
+    "EN": "A present from your senpai."
+  },
+  "ItemName_182": {
+    "PT": "",
+    "EN": "Custom-Made Apron"
+  },
+  "ItemIntroduce_182": {
+    "PT": "",
+    "EN": "A present for a special someone."
+  },
+  "ItemName_183": {
+    "PT": "",
+    "EN": "Breadmaker"
+  },
+  "ItemIntroduce_183": {
+    "PT": "",
+    "EN": "A present for a special someone."
+  },
+  "ItemName_184": {
+    "PT": "",
+    "EN": "Zircon Earrings"
+  },
+  "ItemIntroduce_184": {
+    "PT": "",
+    "EN": "A present for a special someone."
+  },
+  "ItemName_185": {
+    "PT": "",
+    "EN": "Glass Pen"
+  },
+  "ItemIntroduce_185": {
+    "PT": "",
+    "EN": "A present for a special someone."
+  },
+  "ItemName_186": {
+    "PT": "",
+    "EN": "Lily"
+  },
+  "ItemName_187": {
+    "PT": "",
+    "EN": "Rose"
+  },
+  "ItemName_188": {
+    "PT": "",
+    "EN": "Tulip"
+  },
+  "ItemName_189": {
+    "PT": "",
+    "EN": "Sunflower"
+  },
+  "ItemName_190": {
+    "PT": "",
+    "EN": "Chrysanthemum"
+  },
+  "ItemName_191": {
+    "PT": "",
+    "EN": "Flower Basket"
+  },
+  "ItemName_192": {
+    "PT": "",
+    "EN": "Polaroid Request"
+  },
+  "ItemIntroduce_192": {
+    "PT": "",
+    "EN": "Lets you take a polaroid with the maids of Miracle Maid Cafe."
+  },
+  "ItemName_193": {
+    "PT": "",
+    "EN": "Sirloin Steak"
+  },
+  "ItemIntroduce_193": {
+    "PT": "",
+    "EN": "How do you like your steak cooked?"
+  },
+  "ItemName_194": {
+    "PT": "",
+    "EN": "Seafood Pasta"
+  },
+  "ItemName_195": {
+    "PT": "",
+    "EN": "Ceasar Salad"
+  },
+  "ItemName_196": {
+    "PT": "",
+    "EN": "Baguette"
+  },
+  "ItemName_197": {
+    "PT": "",
+    "EN": "Order-Made Ice Cream Cake"
+  },
+  "ItemIntroduce_197": {
+    "PT": "",
+    "EN": "A special dessert by the best pastry chef of the bakery."
+  },
+  "ItemName_198": {
+    "PT": "",
+    "EN": "2-Hour Course"
+  },
+  "ItemName_199": {
+    "PT": "",
+    "EN": "4-Hour Course"
+  },
+  "ItemName_200": {
+    "PT": "",
+    "EN": "Pork Miso Soup Set"
+  },
+  "ItemName_201": {
+    "PT": "",
+    "EN": "Beer"
+  },
+  "ItemName_202": {
+    "PT": "",
+    "EN": "Bathhouse Ticket"
+  },
+  "ItemName_203": {
+    "PT": "",
+    "EN": "Royal Premium Yakiniku Course: Take"
+  },
+  "ItemName_204": {
+    "PT": "",
+    "EN": "Royal Premium Yakiniku Course: Matsu"
+  },
+  "ItemName_205": {
+    "PT": "",
+    "EN": "Hand Fan"
+  },
+  "ItemIntroduce_205": {
+    "PT": "",
+    "EN": "A popular gift item."
+  },
+  "ItemName_206": {
+    "PT": "",
+    "EN": "Scented Pouch"
+  },
+  "ItemIntroduce_206": {
+    "PT": "",
+    "EN": "A popular gift item."
+  },
+  "ItemName_207": {
+    "PT": "",
+    "EN": "Luxurious Kimono"
+  },
+  "ItemIntroduce_207": {
+    "PT": "",
+    "EN": "A popular gift item."
+  },
+  "ItemName_208": {
+    "PT": "",
+    "EN": "Bell Bracelet"
+  },
+  "ItemIntroduce_208": {
+    "PT": "",
+    "EN": "A popular gift item."
+  },
+  "ItemName_209": {
+    "PT": "",
+    "EN": "Princess Shoes"
+  },
+  "ItemIntroduce_209": {
+    "PT": "",
+    "EN": "A popular gift item."
+  },
+  "ItemName_210": {
+    "PT": "",
+    "EN": "Order-Made Lolita Dress"
+  },
+  "ItemIntroduce_210": {
+    "PT": "",
+    "EN": "An order-made lolita dress that showcases the owner's skill and good tastes."
+  },
+  "ItemName_211": {
+    "PT": "",
+    "EN": "Curry Udon"
+  },
+  "ItemName_212": {
+    "PT": "",
+    "EN": "Handmade Pork Cutlet Curry"
+  },
+  "ItemName_213": {
+    "PT": "",
+    "EN": "Beef Curry (Spice Level 20)"
+  },
+  "ItemName_214": {
+    "PT": "",
+    "EN": "Bicycle"
+  },
+  "ItemIntroduce_214": {
+    "PT": "",
+    "EN": "Ride with the R key / Right directional key."
+  },
+  "ItemName_215": {
+    "PT": "",
+    "EN": "Upgrade Service"
+  },
+  "ItemIntroduce_215": {
+    "PT": "",
+    "EN": "Provide upgrades for your bicycle\n(Increase movement speed)"
+  },
+  "ItemName_216": {
+    "PT": "",
+    "EN": "Clam Ramen"
+  },
+  "ItemIntroduce_216": {
+    "PT": "",
+    "EN": "The signature dish of The Old Man's Best Swing."
+  },
+  "ItemName_217": {
+    "PT": "",
+    "EN": "Dandan Noodles"
+  },
+  "ItemName_218": {
+    "PT": "",
+    "EN": "Mapo Tofu"
+  },
+  "ItemName_219": {
+    "PT": "",
+    "EN": "Shrimp Dumplings"
+  },
+  "ItemIntroduce_219": {
+    "PT": "",
+    "EN": "A staple dim sum."
+  },
+  "ItemName_220": {
+    "PT": "",
+    "EN": "Shumai"
+  },
+  "ItemIntroduce_220": {
+    "PT": "",
+    "EN": "A staple dim sum."
+  },
+  "ItemName_221": {
+    "PT": "",
+    "EN": "Yumstick: Takoyaki Flavor"
+  },
+  "ItemIntroduce_221": {
+    "PT": "",
+    "EN": "A classic snack."
+  },
+  "ItemName_222": {
+    "PT": "",
+    "EN": "Karikari-Chan"
+  },
+  "ItemName_223": {
+    "PT": "",
+    "EN": "Ramune Soda"
+  },
+  "ItemName_224": {
+    "PT": "",
+    "EN": "Premium Chocolate Cookie Gift Box"
+  },
+  "ItemIntroduce_224": {
+    "PT": "",
+    "EN": "A popular gift item."
+  },
+  "ItemName_225": {
+    "PT": "",
+    "EN": "Mysterious Pretty Bracelet"
+  },
+  "ItemIntroduce_225": {
+    "PT": "",
+    "EN": "A popular gift item."
+  },
+  "ItemName_226": {
+    "PT": "",
+    "EN": "Mysterious Wooden Mask"
+  },
+  "ItemIntroduce_226": {
+    "PT": "",
+    "EN": "A popular gift item."
+  },
+  "ItemName_227": {
+    "PT": "",
+    "EN": "Maid Encyclopedia"
+  },
+  "ItemIntroduce_227": {
+    "PT": "",
+    "EN": "Learn everything there is to learn about maids!\n(Raises all skills)"
+  },
+  "ItemName_228": {
+    "PT": "",
+    "EN": "Marfusha"
+  },
+  "ItemIntroduce_228": {
+    "PT": "",
+    "EN": "A collectable trading card for the indie game Marfusha: Sentinel Girls."
+  },
+  "ItemName_229": {
+    "PT": "",
+    "EN": "Snezhinka"
+  },
+  "ItemIntroduce_229": {
+    "PT": "",
+    "EN": "A collectable trading card for the indie game Snezhinka: Sentinel Girls 2."
+  },
+  "ItemName_230": {
+    "PT": "",
+    "EN": "Belka"
+  },
+  "ItemIntroduce_230": {
+    "PT": "",
+    "EN": "A collectable trading card for the indie game Marfusha: Sentinel Girls."
+  },
+  "ItemName_231": {
+    "PT": "",
+    "EN": "Strelka"
+  },
+  "ItemIntroduce_231": {
+    "PT": "",
+    "EN": "A collectable trading card for the indie game Marfusha: Sentinel Girls."
+  },
+  "ItemName_232": {
+    "PT": "",
+    "EN": "Bion"
+  },
+  "ItemIntroduce_232": {
+    "PT": "",
+    "EN": "A collectable trading card for the indie game Marfusha: Sentinel Girls."
+  },
+  "ItemName_233": {
+    "PT": "",
+    "EN": "Alibina"
+  },
+  "ItemIntroduce_233": {
+    "PT": "",
+    "EN": "A collectable trading card for the indie game Marfusha: Sentinel Girls."
+  },
+  "ItemName_234": {
+    "PT": "",
+    "EN": "Felicette"
+  },
+  "ItemIntroduce_234": {
+    "PT": "",
+    "EN": "A collectable trading card for the indie game Marfusha: Sentinel Girls."
+  },
+  "ItemName_235": {
+    "PT": "",
+    "EN": "Enos"
+  },
+  "ItemIntroduce_235": {
+    "PT": "",
+    "EN": "A collectable trading card for the indie game Marfusha: Sentinel Girls."
+  },
+  "ItemName_236": {
+    "PT": "",
+    "EN": "Laica"
+  },
+  "ItemIntroduce_236": {
+    "PT": "",
+    "EN": "A collectable trading card for the indie game Marfusha: Sentinel Girls."
+  },
+  "ItemName_237": {
+    "PT": "",
+    "EN": "Marfusha (Secret Rare)"
+  },
+  "ItemIntroduce_237": {
+    "PT": "",
+    "EN": "A secret rare collectable trading card for the indie game Marfusha: Sentinel Girls."
+  },
+  "ItemName_238": {
+    "PT": "",
+    "EN": "SQ"
+  },
+  "ItemIntroduce_238": {
+    "PT": "",
+    "EN": "A mini figure of SQ."
+  },
+  "ItemName_239": {
+    "PT": "",
+    "EN": "Setsu"
+  },
+  "ItemIntroduce_239": {
+    "PT": "",
+    "EN": "A mini figure of Setsu."
+  },
+  "ItemName_240": {
+    "PT": "",
+    "EN": "Gina"
+  },
+  "ItemIntroduce_240": {
+    "PT": "",
+    "EN": "A can badge of Gina."
+  },
+  "ItemName_241": {
+    "PT": "",
+    "EN": "Raqio"
+  },
+  "ItemIntroduce_241": {
+    "PT": "",
+    "EN": "A can badge of Raqio."
+  },
+  "ItemName_242": {
+    "PT": "",
+    "EN": "Stella"
+  },
+  "ItemIntroduce_242": {
+    "PT": "",
+    "EN": "A can badge of Stella."
+  },
+  "ItemName_243": {
+    "PT": "",
+    "EN": "Shigemichi"
+  },
+  "ItemIntroduce_243": {
+    "PT": "",
+    "EN": "A can badge of Shigemichi."
+  },
+  "ItemName_244": {
+    "PT": "",
+    "EN": "SQ (Secret Rare)"
+  },
+  "ItemIntroduce_244": {
+    "PT": "",
+    "EN": "A secret rare mini figure of SQ."
+  },
+  "ItemName_245": {
+    "PT": "",
+    "EN": "Jill"
+  },
+  "ItemIntroduce_245": {
+    "PT": "",
+    "EN": "A mini figure of Jill."
+  },
+  "ItemName_246": {
+    "PT": "",
+    "EN": "Dana"
+  },
+  "ItemIntroduce_246": {
+    "PT": "",
+    "EN": "A mini figure of Dana."
+  },
+  "ItemName_247": {
+    "PT": "",
+    "EN": "Dorothy"
+  },
+  "ItemIntroduce_247": {
+    "PT": "",
+    "EN": "A can badge of Dorothy."
+  },
+  "ItemName_248": {
+    "PT": "",
+    "EN": "Alma"
+  },
+  "ItemIntroduce_248": {
+    "PT": "",
+    "EN": "A can badge of Alma."
+  },
+  "ItemName_249": {
+    "PT": "",
+    "EN": "Dana"
+  },
+  "ItemIntroduce_249": {
+    "PT": "",
+    "EN": "A can badge of Dana."
+  },
+  "ItemName_250": {
+    "PT": "",
+    "EN": "Sei"
+  },
+  "ItemIntroduce_250": {
+    "PT": "",
+    "EN": "A can badge of Sei."
+  },
+  "ItemName_251": {
+    "PT": "",
+    "EN": "Jill (Secret Rare)"
+  },
+  "ItemIntroduce_251": {
+    "PT": "",
+    "EN": "A secret rare mini figure of Jill."
+  },
+  "ItemName_252": {
+    "PT": "",
+    "EN": "Muscle Committee Armored Train (R)"
+  },
+  "ItemIntroduce_252": {
+    "PT": "",
+    "EN": "Wherever a muscle unbeliever is, \nthe Muscle Friends will race to \nthe scene in their armored train.\nFighting laziness is the Muscle\nFriends' most important mission."
+  },
+  "ItemName_253": {
+    "PT": "",
+    "EN": "Five-Month Crash Course (R)"
+  },
+  "ItemIntroduce_253": {
+    "PT": "",
+    "EN": "Set a milestone for yourself every\nfive months. Anyone can become\na true musclemind with enough\nsweat and hard work."
+  },
+  "ItemName_254": {
+    "PT": "",
+    "EN": "Let's Train Together! (R)"
+  },
+  "ItemIntroduce_254": {
+    "PT": "",
+    "EN": "Hup! Hup! Can't miss your daily\ntraining! You over there! Time to\ndo 10 more sets of squats!"
+  },
+  "ItemName_255": {
+    "PT": "",
+    "EN": "Too Much Forest (R)"
+  },
+  "ItemIntroduce_255": {
+    "PT": "",
+    "EN": "A Muscle Friend from afar\nkeeps muttering something\nabout \"deforestation.\" How\n weird! That's impossible!"
+  },
+  "ItemName_256": {
+    "PT": "",
+    "EN": "A New Friend (R)"
+  },
+  "ItemIntroduce_256": {
+    "PT": "",
+    "EN": "A new Friend has joined! Let's\nencourage them to train with us!"
+  },
+  "ItemName_257": {
+    "PT": "",
+    "EN": "Bunny the Protein Friend (SR)"
+  },
+  "ItemIntroduce_257": {
+    "PT": "",
+    "EN": "Bunny loves showing off their\nmuscles! Whenever they find\nthe chance, they put on a show\nto encourage other Friends to\ntrain together."
+  },
+  "ItemName_258": {
+    "PT": "",
+    "EN": "Puppy the Protein Friend (SR)"
+  },
+  "ItemIntroduce_258": {
+    "PT": "",
+    "EN": "Puppy will strictly supervise \new Friends and their training. \nA wavering spirit is a betrayal\nto becoming a true musclemind!"
+  },
+  "ItemName_259": {
+    "PT": "",
+    "EN": "Pony the Protein Friend (SR)"
+  },
+  "ItemIntroduce_259": {
+    "PT": "",
+    "EN": "The loyal Protein Friend Pony will\nwipe out any muscle unbelievers\nat the drop of a hat. A strong\nbody is essential to being ready\nto fight at any time!"
+  },
+  "ItemName_260": {
+    "PT": "",
+    "EN": "Fluffy Muscle Monster (SSR)"
+  },
+  "ItemIntroduce_260": {
+    "PT": "",
+    "EN": "Muscle Mommy's trusty \ncompanion. The great and wise\nMuscle Monster will lead the\n musclefication of the world!"
+  },
+  "ItemName_261": {
+    "PT": "",
+    "EN": "Muscle Mommy (SSR)"
+  },
+  "ItemIntroduce_261": {
+    "PT": "",
+    "EN": "Muscle Mommy is the mother of\nall Muscle Animals. A great mother\nand leader, she helped weak animals\nreestablish the rule of the forest."
+  },
+  "ItemName_262": {
+    "PT": "",
+    "EN": "Iganokami Fujiwara Kinmichi (R)"
+  },
+  "ItemIntroduce_262": {
+    "PT": "",
+    "EN": "Hmph... Show some manners. I'll \nhave you know I was granted the\nChrysanthemum Seal and the title\nof Japanese Bladesmithing Master."
+  },
+  "ItemName_263": {
+    "PT": "",
+    "EN": "Suishinshi Masahide (R)"
+  },
+  "ItemIntroduce_263": {
+    "PT": "",
+    "EN": "Masahide, at your service. I was\nmade by the best bladesmith of the\nShinshintou period. Huh? \"The \npioneer of Shinshintou\"? Don't, that\nmakes me sound like an old hag."
+  },
+  "ItemName_264": {
+    "PT": "",
+    "EN": "Taikei Naotane (R)"
+  },
+  "ItemIntroduce_264": {
+    "PT": "",
+    "EN": "N-Naotane, reporting for duty... \nI-I'm from the Shinshintou period,\nand... Suishinshi Masahide's pupil...\nHuh?! I-Is Sensei here too?!"
+  },
+  "ItemName_265": {
+    "PT": "",
+    "EN": "Maintenance Tools (R)"
+  },
+  "ItemIntroduce_265": {
+    "PT": "",
+    "EN": "Tools used to keep Sword \nPrincesses in tip-top condition.\nEven in human form, they still\nneed to stay clean and oiled!"
+  },
+  "ItemName_266": {
+    "PT": "",
+    "EN": "Polishing Spa (R)"
+  },
+  "ItemIntroduce_266": {
+    "PT": "",
+    "EN": "Polishing makes swords shine as if \nbrand new, and that also applies to\nthe humanoid Sword Princesses."
+  },
+  "ItemName_267": {
+    "PT": "",
+    "EN": "Echizen Yasutsugu (SR)"
+  },
+  "ItemIntroduce_267": {
+    "PT": "",
+    "EN": "Ehe~ I'm a treasured sword of THE\nTokugawa clan! Hehe, I bet you're \nalready head over heels for my\nforeign steel body! Feast your eyes\non it, loser!"
+  },
+  "ItemName_268": {
+    "PT": "",
+    "EN": "Nagasone Okisato (SR)"
+  },
+  "ItemIntroduce_268": {
+    "PT": "",
+    "EN": "Okisato? Kotetsu? Eh, call me \nwhateveryou want. Anyway, do\nyou wanna touch my blade?\nEhehehe~"
+  },
+  "ItemName_269": {
+    "PT": "",
+    "EN": "Yoshioka Ichimonji (SR)"
+  },
+  "ItemIntroduce_269": {
+    "PT": "",
+    "EN": "Wahoo! Yoshioka Ichimonji at \nyour service! Huh? No, I'm not\nNorimune! What's with your \nattitude?! We just met and you're\n already bringing up my senpai?!"
+  },
+  "ItemName_270": {
+    "PT": "",
+    "EN": "Mikazuki Munechika (SSR)"
+  },
+  "ItemIntroduce_270": {
+    "PT": "",
+    "EN": "Mikazuki Munechika, one of the five\nfamous swords. Are you my new \nmaster? You must be as respected\nas a certain someone, hm? Oh, you\n're not? Still, work hard for my sake,\nWon't you?"
+  },
+  "ItemName_271": {
+    "PT": "",
+    "EN": "Doujigiri Yasutsune (SSR)"
+  },
+  "ItemIntroduce_271": {
+    "PT": "",
+    "EN": "Doujigiri Yasutsune, at your service! \nHm... Master, what's with that look\nin your eyes...? Could you be a lustful\noni in disguise?! In that case, I must\n slay you!"
+  },
+  "ItemName_272": {
+    "PT": "",
+    "EN": "Surugaya Walker"
+  },
+  "ItemIntroduce_272": {
+    "PT": "",
+    "EN": "Surugaya's first official magazine! Take this book to your local Surugaya to find exactly what you want! (Asuka Publishing)"
+  },
+  "ItemName_273": {
+    "PT": "",
+    "EN": "GNOSIA"
+  },
+  "ItemIntroduce_273": {
+    "PT": "",
+    "EN": "A physical copy of the indie game \"GNOSIA.\""
+  },
+  "ItemName_274": {
+    "PT": "",
+    "EN": "Rose and Camellia"
+  },
+  "ItemIntroduce_274": {
+    "PT": "",
+    "EN": "A physical copy of the indie game \"Rose and Camellia.\""
+  },
+  "ItemName_275": {
+    "PT": "",
+    "EN": "La-Mulana"
+  },
+  "ItemIntroduce_275": {
+    "PT": "",
+    "EN": "A physical copy of the indie game \"La-Mulana.\""
+  },
+  "ItemName_276": {
+    "PT": "",
+    "EN": "La-Mulana - Tapestry"
+  },
+  "ItemIntroduce_276": {
+    "PT": "",
+    "EN": "A tapestry for the indie game \"La-Mulana.\" Can be displayed in the apartment."
+  },
+  "ItemName_277": {
+    "PT": "",
+    "EN": "ラムラーナのポスター"
+  },
+  "ItemIntroduce_277": {
+    "PT": "",
+    "EN": "インディーゲーム「ラムラーナ」のポスター、部屋のドアに饰ることができる。"
+  },
+  "ItemName_278": {
+    "PT": "",
+    "EN": "GNOSIA - Tapestry"
+  },
+  "ItemIntroduce_278": {
+    "PT": "",
+    "EN": "A tapestry for the indie game \"GNOSIA.\" Can be displayed in the apartment."
+  },
+  "ItemName_279": {
+    "PT": "",
+    "EN": "グノーシアのポスター"
+  },
+  "ItemIntroduce_279": {
+    "PT": "",
+    "EN": "インディーゲーム「グノーシア」のポスター、部屋のドアに饰ることができる。"
+  },
+  "ItemName_280": {
+    "PT": "",
+    "EN": "Rose and Camellia - Tapestry"
+  },
+  "ItemIntroduce_280": {
+    "PT": "",
+    "EN": "A tapestry for the indie game \"Rose and Camellia.\" Can be displayed in the apartment."
+  },
+  "ItemName_281": {
+    "PT": "",
+    "EN": "蔷薇と椿のポスター"
+  },
+  "ItemIntroduce_281": {
+    "PT": "",
+    "EN": "インディーゲーム「蔷薇と椿」のポスター、部屋のドアに饰ることができる。"
+  },
+  "ItemName_282": {
+    "PT": "",
+    "EN": "La-Mulana - Figure"
+  },
+  "ItemIntroduce_282": {
+    "PT": "",
+    "EN": "A figure of Lemeza, the protagonist of the indie game \"La-Mulana.\""
+  },
+  "ItemName_283": {
+    "PT": "",
+    "EN": "Ryuunensei"
+  },
+  "ItemIntroduce_283": {
+    "PT": "",
+    "EN": "The PC game \"Ryuunensei.\""
+  },
+  "ItemName_284": {
+    "PT": "",
+    "EN": "Joukyuusei"
+  },
+  "ItemIntroduce_284": {
+    "PT": "",
+    "EN": "The PC game \"Joukyuusei.\""
+  },
+  "ItemName_285": {
+    "PT": "",
+    "EN": "White Photo Frame"
+  },
+  "ItemIntroduce_285": {
+    "PT": "",
+    "EN": "The PC game \"White Photo Frame.\""
+  },
+  "ItemName_286": {
+    "PT": "",
+    "EN": "White Photo Frame 2"
+  },
+  "ItemIntroduce_286": {
+    "PT": "",
+    "EN": "The PC game \"White Photo Frame 2.\""
+  },
+  "ItemName_287": {
+    "PT": "",
+    "EN": "Welcome to Pia Cabbage!!"
+  },
+  "ItemIntroduce_287": {
+    "PT": "",
+    "EN": "The PC game \"Welcome to Pia Cabbage!!\""
+  },
+  "ItemName_288": {
+    "PT": "",
+    "EN": "KUKI"
+  },
+  "ItemIntroduce_288": {
+    "PT": "",
+    "EN": "The PC game \"KUKI.\""
+  },
+  "ItemName_289": {
+    "PT": "",
+    "EN": "本屋で売るアイテム１"
+  },
+  "ItemIntroduce_289": {
+    "PT": "",
+    "EN": "本屋で売るアイテム１（予备用、使わない可能性あり）"
+  },
+  "ItemName_290": {
+    "PT": "",
+    "EN": "本屋で売るアイテム２"
+  },
+  "ItemIntroduce_290": {
+    "PT": "",
+    "EN": "本屋で売るアイテム２（予备用、使わない可能性あり）"
+  },
+  "ItemName_291": {
+    "PT": "",
+    "EN": "Chococliff"
+  },
+  "ItemIntroduce_291": {
+    "PT": "",
+    "EN": "A classic snack."
+  },
+  "ItemName_292": {
+    "PT": "",
+    "EN": "Potato Chips"
+  },
+  "ItemIntroduce_292": {
+    "PT": "",
+    "EN": "A classic snack."
+  },
+  "ItemName_293": {
+    "PT": "",
+    "EN": "Yumstick: Corn Soup Flavor"
+  },
+  "ItemIntroduce_293": {
+    "PT": "",
+    "EN": "A classic snack."
+  },
+  "ItemName_294": {
+    "PT": "",
+    "EN": "Yumstick: Salami Flavor"
+  },
+  "ItemIntroduce_294": {
+    "PT": "",
+    "EN": "A classic snack."
+  },
+  "ItemName_295": {
+    "PT": "",
+    "EN": "Monaka Ice Cream Sandwich"
+  },
+  "ItemIntroduce_295": {
+    "PT": "",
+    "EN": "A classic icy treat."
+  },
+  "ItemName_296": {
+    "PT": "",
+    "EN": "Vanilla Cup"
+  },
+  "ItemIntroduce_296": {
+    "PT": "",
+    "EN": "A classic icy treat."
+  },
+  "ItemName_297": {
+    "PT": "",
+    "EN": "Melon Ice Ball"
+  },
+  "ItemIntroduce_297": {
+    "PT": "",
+    "EN": "A classic icy treat."
+  },
+  "ItemName_298": {
+    "PT": "",
+    "EN": "Homerun Ice Cream"
+  },
+  "ItemIntroduce_298": {
+    "PT": "",
+    "EN": "A classic icy treat."
+  },
+  "ItemName_299": {
+    "PT": "",
+    "EN": "Shaved Ice"
+  },
+  "ItemIntroduce_299": {
+    "PT": "",
+    "EN": "A classic festival snack."
+  },
+  "ItemName_300": {
+    "PT": "",
+    "EN": "Yakisoba"
+  },
+  "ItemIntroduce_300": {
+    "PT": "",
+    "EN": "A classic festival snack."
+  },
+  "ItemName_301": {
+    "PT": "",
+    "EN": "Candied Apple"
+  },
+  "ItemIntroduce_301": {
+    "PT": "",
+    "EN": "A classic festival snack."
+  },
+  "ItemName_302": {
+    "PT": "",
+    "EN": "Cotton Candy"
+  },
+  "ItemIntroduce_302": {
+    "PT": "",
+    "EN": "A classic festival snack."
+  },
+  "ItemName_303": {
+    "PT": "",
+    "EN": "Takoyaki"
+  },
+  "ItemIntroduce_303": {
+    "PT": "",
+    "EN": "The signature dish of the takoyaki stand Tokushin."
+  },
+  "ItemName_304": {
+    "PT": "",
+    "EN": "Grilled Squid"
+  },
+  "ItemIntroduce_304": {
+    "PT": "",
+    "EN": "A classic festival snack."
+  },
+  "ItemName_305": {
+    "PT": "",
+    "EN": "Frankfurter"
+  },
+  "ItemIntroduce_305": {
+    "PT": "",
+    "EN": "A classic festival snack."
+  },
+  "ItemName_306": {
+    "PT": "",
+    "EN": "Chocolate Banana"
+  },
+  "ItemIntroduce_306": {
+    "PT": "",
+    "EN": "A classic festival snack."
+  },
+  "ItemName_307": {
+    "PT": "",
+    "EN": "Baby Castella"
+  },
+  "ItemIntroduce_307": {
+    "PT": "",
+    "EN": "A classic festival snack."
+  },
+  "ItemName_308": {
+    "PT": "",
+    "EN": "Grilled Corn"
+  },
+  "ItemIntroduce_308": {
+    "PT": "",
+    "EN": "A classic festival snack."
+  },
+  "ItemName_309": {
+    "PT": "",
+    "EN": "Purseowner"
+  },
+  "ItemIntroduce_309": {
+    "PT": "",
+    "EN": "The newly released game \"Purseowner.\""
+  },
+  "ItemName_310": {
+    "PT": "",
+    "EN": "Minced Cutlet"
+  },
+  "ItemIntroduce_310": {
+    "PT": "",
+    "EN": "The most popular item at the butcher's."
+  },
+  "ItemName_311": {
+    "PT": "",
+    "EN": "Van Gogh Sunflower Postcard Book"
+  },
+  "ItemIntroduce_311": {
+    "PT": "",
+    "EN": "A postcard book of Van Gogh's famous sunflower paintings."
+  },
+  "ItemName_312": {
+    "PT": "",
+    "EN": "My First World Map"
+  },
+  "ItemIntroduce_312": {
+    "PT": "",
+    "EN": "Comes with a poster of the world map."
+  },
+  "ItemName_313": {
+    "PT": "",
+    "EN": "Pretty Much an Octopus"
+  },
+  "ItemIntroduce_313": {
+    "PT": "",
+    "EN": "An illustrated children's book about a Martian that looks like an octopus."
+  },
+  "ItemName_314": {
+    "PT": "",
+    "EN": "100 Dam Collection"
+  },
+  "ItemIntroduce_314": {
+    "PT": "",
+    "EN": "A collection of dam photos, from the famous Hoover Dam to the nichest Mercury Dam."
+  },
+  "ItemName_315": {
+    "PT": "",
+    "EN": "Yggdrasill Odyssey: A Complete Guide"
+  },
+  "ItemIntroduce_315": {
+    "PT": "",
+    "EN": "A guidebook for the game Yggdrasill Odyssey, a dungeon crawler where you explore a giant tree growing in the legendary lands of the Great Red Spot."
+  },
+  "ItemName_316": {
+    "PT": "",
+    "EN": "The Life of William Herschel"
+  },
+  "ItemIntroduce_316": {
+    "PT": "",
+    "EN": "A biography of William Herschel, a famous astronomer and composer."
+  },
+  "ItemName_317": {
+    "PT": "",
+    "EN": "Trembling Travels: Seaside Day Trip Special"
+  },
+  "ItemIntroduce_317": {
+    "PT": "",
+    "EN": "A special episode of Trembling Travels, a steamy series featuring Roman gods (in the form of cute girls, of course)."
+  },
+  "ItemName_318": {
+    "PT": "",
+    "EN": "Hanasakyo Maid Team"
+  },
+  "ItemIntroduce_318": {
+    "PT": "",
+    "EN": "A fanservice-heavy manga about maids from the underworld."
+  },
+  "ItemName_319": {
+    "PT": "",
+    "EN": "On Tarot and Astrology"
+  },
+  "ItemIntroduce_319": {
+    "PT": "",
+    "EN": "Tarot and astrology are strongly connected to each other. For example, each of the major arcana corresponds to a planet or astrological sign."
+  },
+  "ItemName_320": {
+    "PT": "",
+    "EN": "An Introduction to the Music of Ancient China"
+  },
+  "ItemIntroduce_320": {
+    "PT": "",
+    "EN": "Ancient Chinese music featured the Five Tones, which are 宫 (Gong), 商 (Shang), 角 (Jue), 征 (Zhi), and 羽 (Yu).\n\nYou can remember them by their Western music counterparts. 宫 (Gong) is Do, 商 (Shang) is Re, 角 (Jue) is Mi, 征 (Zhi) is So, and 羽 (Yu) is La!"
+  },
+  "ItemName_321": {
+    "PT": "",
+    "EN": "The Mysterious Bagua"
+  },
+  "ItemIntroduce_321": {
+    "PT": "",
+    "EN": "The bagua is a set of symbols used in ancient Chinese divination.\n\nIt consists of eight symbols created with combinations of yin(--) and yang(—) lines: ☰ (干, qian), ☱ (兑, dui), ☲ (离, li), ☳ (震, zhen), ☴ (巽, xun), ☵ (坎, kan), ☶ (艮,gen), and ☷ (坤, kun).\n"
+  },
+  "ItemName_322": {
+    "PT": "",
+    "EN": "Torn Page 1"
+  },
+  "ItemIntroduce_322": {
+    "PT": "",
+    "EN": "\"Today is my birthday. My granny gave me a present. She's my favorite person!\"\n\n\"She gave me a floral dress she made herself. She told me to wear it the next time I visit her. I'll treasure it for the rest of my life!\""
+  },
+  "ItemName_323": {
+    "PT": "",
+    "EN": "Torn Page 2"
+  },
+  "ItemIntroduce_323": {
+    "PT": "",
+    "EN": "\"It was so sunny today, the sun was almost blinding. I put on the dress I got for my birthday as well as my favorite veiled hat, then hurried outdoors.\"\n\n\"But then, I ran into bullies. They splashed mud onto my hat and used scissors to cut my precious dress.\""
+  },
+  "ItemName_324": {
+    "PT": "",
+    "EN": "Torn Page 3"
+  },
+  "ItemIntroduce_324": {
+    "PT": "",
+    "EN": "\"After that, I washed my hat, over and over again. But then, a fairy in the form of a black cat appeared.\"\n\n\"The mischievous fairy cast a spell on my hat and gave me a blessing. The blessing was placed on my neck and glowed somewhat eerily.\""
+  },
+  "ItemName_325": {
+    "PT": "",
+    "EN": "Torn Page 4"
+  },
+  "ItemIntroduce_325": {
+    "PT": "",
+    "EN": "\"I wanted to distract myself from my sorrow, so I went out to town and visited the many boutiques there.\"\n\n\"There, I found something I desperately wanted—a gorgeous red hat! I decided to save up my pocket money so I could buy it someday.\""
+  },
+  "ItemName_326": {
+    "PT": "",
+    "EN": "Torn Page 5"
+  },
+  "ItemIntroduce_326": {
+    "PT": "",
+    "EN": "\"I tried my best to repair the dress, but I couldn't do it very well. My fingers were soon covered in plasters.\"\n\n\"All I had left was the blue dress I always wore. The bullies laughed at me and said I looked like a beggar.\""
+  },
+  "ItemName_327": {
+    "PT": "",
+    "EN": "Torn Page 6"
+  },
+  "ItemIntroduce_327": {
+    "PT": "",
+    "EN": "\"I finally saved up enough money! I practically skipped to town again to buy the red hat.\"\n\n\"But when I arrived, the hat was nowhere to be seen. Someone had already bought it before me.\"\n\n\"As I walked home with my head hung low, I saw the bullies from afar. I hid nearby to see what they were doing...\"\n\n\"And then I saw one of them holding the very same hat, saying that she was going to give it to her mom as a present. Why does she get to ruin everything for me and take everything for herself...?\""
+  },
+  "ItemName_328": {
+    "PT": "",
+    "EN": "Torn Page 7"
+  },
+  "ItemIntroduce_328": {
+    "PT": "",
+    "EN": "\"Today, the bullies came up to me with happy grins on their faces. One of them dangled a beautiful brooch in front of my face mockingly.\"\n\n\"I couldn't take it anymore, and so I snatched the brooch out of her hands.\"\n\n\"She chased after me, but I held my fist high and shouted, 'This is worthless!'"
+  },
+  "ItemName_329": {
+    "PT": "",
+    "EN": "Torn Page 8"
+  },
+  "ItemIntroduce_329": {
+    "PT": "",
+    "EN": "\"Ever since that day, the bullying got even worse. I didn't want to make Granny worry, so I couldn't visit her.\"\n\n\"But while I was crying, the fairy's blessing glowed eerily again. A crescent moon appeared in the night sky, shining a bright red.\""
+  },
+  "ItemName_330": {
+    "PT": "",
+    "EN": "Torn Page 9"
+  },
+  "ItemIntroduce_330": {
+    "PT": "",
+    "EN": "\"That night, Granny breathed her last. But I couldn't join her.\"\n\n\"My deep sorrow dyed my torn dress with darkness and put it back today. That was my mourning dress.\"\n\n\"I danced under the red moonlight, praying for Granny to pass peacefully, and casting a curse on the naughty children...\""
+  },
+  "ItemName_331": {
+    "PT": "",
+    "EN": "Blue Dress"
+  },
+  "ItemName_332": {
+    "PT": "",
+    "EN": "Floral Dress"
+  },
+  "ItemName_333": {
+    "PT": "",
+    "EN": "Pink Ribbon"
+  },
+  "ItemName_334": {
+    "PT": "",
+    "EN": "Black Dress"
+  },
+  "ItemName_335": {
+    "PT": "",
+    "EN": "Red Hat"
+  },
+  "ItemName_336": {
+    "PT": "",
+    "EN": "Black Hat"
+  },
+  "ItemName_337": {
+    "PT": "",
+    "EN": "Purple Hat"
+  },
+  "ItemName_338": {
+    "PT": "",
+    "EN": "Cat's Eye Necklace"
+  },
+  "ItemName_339": {
+    "PT": "",
+    "EN": "Emerald Brooch"
+  },
+  "GashaponMachineName_1": {
+    "PT": "",
+    "EN": "Neko Samurai"
+  },
+  "GashaponMachineIntroduce_1": {
+    "PT": "",
+    "EN": "The first in the Edo Cat Capsule Toy Series: Neko Samurai.\nCombines the traditional Edo man with cats\nto create a cool yet cute group of\nsamurai Nyan who work in the shadows of the city... (500 yen apiece.)"
+  },
+  "GashaponMachineName_2": {
+    "PT": "",
+    "EN": "Neko Hime"
+  },
+  "GashaponMachineIntroduce_2": {
+    "PT": "",
+    "EN": "The second in the Edo Cat Capsule Toy Series: Neko Hime.\nCute cats transform into girls of different social classes who live\nleisurely in the city. Includes a secret prize! (500 yen apiece.)"
+  },
+  "GashaponMachineName_3": {
+    "PT": "",
+    "EN": "Is the Order a Little Sister?"
+  },
+  "GashaponMachineIntroduce_3": {
+    "PT": "",
+    "EN": "The first capsule toy series of \"Is the Order a Little Sister?\"\nrecreates the cute characters of the original! (500 yen apiece.)"
+  },
+  "GashaponMachineName_4": {
+    "PT": "",
+    "EN": "Is the Order a Little Sister??"
+  },
+  "GashaponMachineIntroduce_4": {
+    "PT": "",
+    "EN": "The second capsule toy series of \"Is the Order a Little Sister?\" shows off the little sisters' Christmas outfits! (500 yen apiece.)"
+  },
+  "GashaponMachineName_5": {
+    "PT": "",
+    "EN": "Is the Order a Little Sister???"
+  },
+  "GashaponMachineIntroduce_5": {
+    "PT": "",
+    "EN": "The third capsule toy series of \"Is the Order a Little Sister?\" celebrates Halloween with the little sisters! (500 yen apiece.)"
+  },
+  "GashaponMachineName_6": {
+    "PT": "",
+    "EN": "VA-11 Hall-A"
+  },
+  "GashaponMachineIntroduce_6": {
+    "PT": "",
+    "EN": "A capsule toy series for the indie game \"VA-11 Hall-A.\" (500 yen apiece.)"
+  },
+  "GashaponMachineName_7": {
+    "PT": "",
+    "EN": "GNOSIA"
+  },
+  "GashaponMachineIntroduce_7": {
+    "PT": "",
+    "EN": "A capsule toy series for the indie game \"GNOSIA.\" (500 yen apiece.)"
+  },
+  "GashaponPrizeA": {
+    "PT": "",
+    "EN": "A Prize"
+  },
+  "GashaponPrizeB": {
+    "PT": "",
+    "EN": "B Prize"
+  },
+  "GashaponPrizeC": {
+    "PT": "",
+    "EN": "C Prize"
+  },
+  "GashaponPrizeHidden": {
+    "PT": "",
+    "EN": "Secret"
+  },
+  "Pos_StreetFull": {
+    "PT": "",
+    "EN": "Electric Street"
+  },
+  "Pos_Animate": {
+    "PT": "",
+    "EN": "Surugaya"
+  },
+  "Pos_McDonalds": {
+    "PT": "",
+    "EN": "WoDonalds"
+  },
+  "Pos_Operat_Lobby": {
+    "PT": "",
+    "EN": "Fuwa Fuwa"
+  },
+  "Pos_Operat_RestRoom": {
+    "PT": "",
+    "EN": "Fuwa Fuwa - Break Room"
+  },
+  "Pos_Cinema_Indoor": {
+    "PT": "",
+    "EN": "Theater"
+  },
+  "Pos_Cinema_ProjectionHall": {
+    "PT": "",
+    "EN": "Movie Hall"
+  },
+  "Pos_ConvenienceStore": {
+    "PT": "",
+    "EN": "Convenience Store"
+  },
+  "Pos_UnderGround": {
+    "PT": "",
+    "EN": "Train Station"
+  },
+  "Pos_MyRoom": {
+    "PT": "",
+    "EN": "Apartment"
+  },
+  "Pos_GameCenter_FirstFloor": {
+    "PT": "",
+    "EN": "Arcade (1st Floor)"
+  },
+  "Pos_GameCenter_SecondFloor": {
+    "PT": "",
+    "EN": "Arcade (2nd Floor)"
+  },
+  "Pos_Gashapon": {
+    "PT": "",
+    "EN": "Capsule Vending Machine"
+  },
+  "Pos_Park": {
+    "PT": "",
+    "EN": "Park"
+  },
+  "Pos_Shrine": {
+    "PT": "",
+    "EN": "Shrine"
+  },
+  "Pos_BookStore": {
+    "PT": "",
+    "EN": "Nipponbashi Bookstore"
+  },
+  "Pos_Milakuru": {
+    "PT": "",
+    "EN": "Miracle Maid Cafe"
+  },
+  "Pos_Restaurant": {
+    "PT": "",
+    "EN": "High-Class Restaurant"
+  },
+  "Pos_StreetFull2": {
+    "PT": "",
+    "EN": "Shopping Association"
+  },
+  "Pos_SpicyHotShop": {
+    "PT": "",
+    "EN": "Mugen Malatang"
+  },
+  "Pos_PawnShop": {
+    "PT": "",
+    "EN": "Thrift Store"
+  },
+  "Pos_SEGAWorld": {
+    "PT": "",
+    "EN": "Arcade"
+  },
+  "Pos_Karaoke_Lobby": {
+    "PT": "",
+    "EN": "Karaoke Rainbow"
+  },
+  "Pos_Karaoke_Room": {
+    "PT": "",
+    "EN": "Karaoke Room"
+  },
+  "Pos_DragonStar": {
+    "PT": "",
+    "EN": "Dragon Star"
+  },
+  "Pos_AdventurersTavern": {
+    "PT": "",
+    "EN": "Adventurers' Tavern"
+  },
+  "Pos_Togetsuya": {
+    "PT": "",
+    "EN": "Togetsuya"
+  },
+  "Pos_ShinyaShokudo": {
+    "PT": "",
+    "EN": "Late-Night Diner"
+  },
+  "Pos_Bathhouse_Lobby": {
+    "PT": "",
+    "EN": "Public Bath: Dragon Springs"
+  },
+  "Pos_Bathhouse_ChangingRoom": {
+    "PT": "",
+    "EN": "Changing Room"
+  },
+  "Pos_Bathhouse_Yudono": {
+    "PT": "",
+    "EN": "Outdoor Baths"
+  },
+  "Pos_GameDetective": {
+    "PT": "",
+    "EN": "Game Tanteidan"
+  },
+  "Pos_Laundromat": {
+    "PT": "",
+    "EN": "Laundromat"
+  },
+  "Pos_Yakiniku": {
+    "PT": "",
+    "EN": "Yakiniku Place"
+  },
+  "Pos_Kimonoya": {
+    "PT": "",
+    "EN": "Kimono Store"
+  },
+  "Pos_Youfukuya": {
+    "PT": "",
+    "EN": "Boutique"
+  },
+  "Pos_KoKo": {
+    "PT": "",
+    "EN": "Curry Place"
+  },
+  "Pos_BicycleShop": {
+    "PT": "",
+    "EN": "Bicycle Shop"
+  },
+  "Pos_Tokoya": {
+    "PT": "",
+    "EN": "Hair Salon"
+  },
+  "Pos_FurnitureStore": {
+    "PT": "",
+    "EN": "Furniture Store"
+  },
+  "Pos_RamenShop": {
+    "PT": "",
+    "EN": "The Old Man's Best Swing"
+  },
+  "Pos_Florist": {
+    "PT": "",
+    "EN": "Florist"
+  },
+  "Pos_WesternRestauran": {
+    "PT": "",
+    "EN": "High-Class Restaurant"
+  },
+  "Pos_NihonbashiBookStore": {
+    "PT": "",
+    "EN": "Nipponbashi Bookstore"
+  },
+  "Pos_SuperPotato": {
+    "PT": "",
+    "EN": "Super Potato"
+  },
+  "Pos_OsakaCastlePark": {
+    "PT": "",
+    "EN": "Osaka Castle Park"
+  },
+  "Pos_ChineseFood": {
+    "PT": "",
+    "EN": "Chinese Restaurant"
+  },
+  "Pos_Grocery": {
+    "PT": "",
+    "EN": "Corner Store"
+  },
+  "Pos_SoftMap": {
+    "PT": "",
+    "EN": "Sofmap"
+  },
+  "Pos_SoftMapR18": {
+    "PT": "",
+    "EN": "???"
+  },
+  "Monday": {
+    "PT": "",
+    "EN": "Monday"
+  },
+  "Tuesday": {
+    "PT": "",
+    "EN": "Tuesday"
+  },
+  "Wednesday": {
+    "PT": "",
+    "EN": "Wednesday"
+  },
+  "Thursday": {
+    "PT": "",
+    "EN": "Thursday"
+  },
+  "Friday": {
+    "PT": "",
+    "EN": "Friday"
+  },
+  "Saturday": {
+    "PT": "",
+    "EN": "Saturday"
+  },
+  "Sunday": {
+    "PT": "",
+    "EN": "Sunday"
+  },
+  "DishName_1": {
+    "PT": "",
+    "EN": "Fried Rice"
+  },
+  "DishName_2": {
+    "PT": "",
+    "EN": "Omurice"
+  },
+  "DishName_3": {
+    "PT": "",
+    "EN": "Curry Rice"
+  },
+  "DishName_4": {
+    "PT": "",
+    "EN": "Pancake"
+  },
+  "DishName_5": {
+    "PT": "",
+    "EN": "Latte"
+  },
+  "DishName_6": {
+    "PT": "",
+    "EN": "Espresso Latte"
+  },
+  "DishName_7": {
+    "PT": "",
+    "EN": "Mocha"
+  },
+  "DishName_8": {
+    "PT": "",
+    "EN": "Cappuccino"
+  },
+  "DishName_9": {
+    "PT": "",
+    "EN": "Fuwa Fuwa Special"
+  },
+  "Book_1": {
+    "PT": "",
+    "EN": "\"I-I want you to become my older brother!\"\n\nThat was the first thing Kirina-chan said to me, hands clasped tightly, when she suddenly visited the room I was staying at in the middle of the night.\n\n\"Older brother?! Don't you mean older sister, at least?\"\n\n\"Yes! I have an older brother... but he's such a pathetic loser, he's a horrible point of reference...\"\n\nApparently, Kirina-chan was making a dating game with a brotherly character as the love interest, and so she wanted to know how a little sister in love with a perfect older brother would feel like."
+  },
+  "Book_2": {
+    "PT": "",
+    "EN": "\"We look like real sisters here, don't we?\"\n\nI couldn't help but grin as I looked at the photos I took with Kirina-chan.\n\n\"Sisters? Then... C-Coco-oneechan?\"\n\nHearing Kirina-chan call me \"oneechan\" even though she was so embarrassed made me feel like a warm hand gave my heart a squeeze. It was the first time anyone ever called me \"oneechan\", and from Kirina-chan who was always so cold to me...\n\n\"Say that again! Call me oneechan again, just once more! Please, Kirina-chan!\"\n\n\"Uhhh, no... You're really annoying...\""
+  },
+  "Book_3": {
+    "PT": "",
+    "EN": "It was almost time for my flight. I was about to go overseas to learn how to be a baker, but the one thing I couldn't put behind me was Kirina-chan. But...\n\n\"I really, really like how good the bread you make smells, Coco-oneechan...\"\n\nKirina-chan looked at me with tears in her eyes as she struggled to find the right words to say what she wanted to.\n\"Y-You have to... you have to come back... to make yummy bread...!\"\n\nKirina-chan's voice was shaking, and I wrapped her up in a tight hug.\n\nWe'd spent so much time together ever since I started staying at the cafe, and she even started calling me oneechan."
+  },
+  "Book_4": {
+    "PT": "",
+    "EN": "\"The Magic Scheduler is glowing... A-Are you the Earth Producer...?!\"\n\nLilith the young devil held a black leather notebook in her hands, where all the colors of the rainbow shone from between the pages.\n\n\"What do you mean...? Ngh... gwuh!!\"\n\n\"That's what I'm trying to ask! But... we have no choice. Make your decision before we die.\"\n\nLilith let out a deep sigh and turned to stare at me with a serious look in her eyes.\n\n\"You have two choices. Either produce the Magic Angels, 12 idols who rule over the 12 horoscopes, to fight against giant alien creatures and protect Earth, or die here in peace. Take your pick!\""
+  },
+  "Book_5": {
+    "PT": "",
+    "EN": "\"Double-booking bravery and power... Leo Archer!\"\n\nYumina and Leon held each other close as they became enveloped in a bright light, and from the light emerged a brand new nova idol. Combining the power of two idols and bringing out a new strength beyond both their limits... it was a part of my newest Unit Project.\n\n\"D-Double booking causes trouble for all the clients involved!\"\n\nCheatee-V, the alien monster who tricked drained the dream power of innocent girls, turned tail and started running.\n\n\"And I'm perfectly aware of that! Pierce my foe, Lion Arrow!\"\n\n\"GYAAAAAAAAHHH!\""
+  },
+  "Book_6": {
+    "PT": "",
+    "EN": "\"As long as there's music and love in the world!\"\n\n\"Our concert will never end!\"\n\n\"Come on, sing with us... Lilith!\"\n\nAs Lilith was about to disappear from overusing her powers, the twelve Magic Angels stretched out their arms and gently wrapped her into a hug.\n\n\"C-Can I... Can I really be... a Magic Angel too...?\"\n\nWe all nodded at her with a smile. Of course. Lilith was also an idol who protected the Earth to the best of her ability... a true Magic Angel.\n\n\"Y-You imbecile! Do you really think you can make it in the industry like that?!\""
+  },
+  "Book_7": {
+    "PT": "",
+    "EN": "\n\n\nTop a cup of coffee with some fluffy whipped cream!\n<color=#A24C2C>Retro yet trendy</color>, and obviously super cute, this coffee is especially popular with women.\n\nWith this recipe, you'll be able to use whipped cream in your cafe!\n\nEinspanner coffee: Coffee + Sugar + Whipped Cream"
+  },
+  "Book_8": {
+    "PT": "",
+    "EN": "\n\n\nAdding honey to latte makes for a comforting cup of coffee.\nThe gentle sweetness of honey rejuvenates the body and <color=#A24C2C>provides a relaxing break</color> from hectic city life.\n\nWith this recipe, you'll be able to use honey in your cafe!\n\nHoney latte: Espresso + Milk + Honey"
+  },
+  "Book_9": {
+    "PT": "",
+    "EN": "\n\n\nCaramel lattes are a stylish staple of every cafe.\nThe <color=#A24C2C>sweet, aromatic</color> caramel adds richness to the bitter coffee.\n\nWith this recipe, you'll be able to use caramel in your cafe!\n\nCaramel latte: Espresso + Milk + Caramel"
+  },
+  "Book_10": {
+    "PT": "",
+    "EN": "\n\n\nA latte that uses soy milk instead of milk.\n<color=#A24C2C>Mild, smooth, and healthy</color>, soy lattes will show you a whole new type of coffee!\n\nWith this recipe, you'll be able to use soy milk in your cafe!\n\nSoy latte: Espresso + Soy Milk + Soy Milk"
+  },
+  "Book_11": {
+    "PT": "",
+    "EN": "\n\n\nA traditional Vietnamese coffee.\nEnjoy a harmony of bitter coffee beans and <color=#A24C2C>rich, sweet</color> condensed milk.\n\nWith this recipe, you'll be able to use condensed milk in your cafe!\n\nVietnamese coffee: Coffee + Condensed Milk + Condensed Milk"
+  },
+  "Book_12": {
+    "PT": "",
+    "EN": "\n\n\nA <color=#A24C2C>dessert-like</color> coffee topped with egg cream!\nThis coffee was created in Vietnam, at a time when time when milk was hard to come by.\n\nWith this recipe, you'll be able to use eggs in your cafe!\n\nEgg coffee: Espresso + Egg + Condensed Milk"
+  },
+  "Book_13": {
+    "PT": "",
+    "EN": "\n\n\nA <color=#A24C2C>surprising combination</color> of coffee and black tea?!\nA drink commonly found in cafes in Hong Kong.\nYuenyeung means \"mandarin duck\" in Cantonese, which is also an idiom for \"affectionate.\" Perhaps it is meant to represent the lovely fusion between coffee and black tea.\n\nWith this recipe, you'll be able to use black tea in your cafe!\n\nYuenyeung: Coffee + Black Tea + Condensed Milk"
+  },
+  "Book_14": {
+    "PT": "",
+    "EN": "\n\n\nA refreshing coffee from Haiti that uses less bitter coffee beans.\nDrizzle in some rum to enjoy <color=#A24C2C>a more adult taste</color>.\n\nWith this recipe, you'll be able to use rum in your cafe!\n\nHaitian coffee: Coffee + Sugar + Rum"
+  },
+  "Book_15": {
+    "PT": "",
+    "EN": "\n\n\nMocha is a drink made by adding chocolate and milk to espresso.\nThe mix of chocolate and milk creates a <color=#A24C2C>harmony of bittersweet warmth</color>.\n\nWith this recipe, you'll be able to use chocolate in your cafe!\n\nMocha: Espresso + Milk + Chocolate"
+  },
+  "Book_16": {
+    "PT": "",
+    "EN": "\n\n\nA <color=#A24C2C>cocktail</color> made by mixing coffee, orange juice, and rum.\nThe orange zing will add a fresh twist to your coffee break.\n\nWith this recipe, you'll be able to use orange juice in your cafe!\n\nOrleans Coffee: Coffee + Orange Juice + Rum"
+  },
+  "Book_17": {
+    "PT": "",
+    "EN": "Let's go to Surugaya!\nProviding excitement for every adult's inner child,\nSurugaya is a warm wonderland.\nFind the movies, music, and games that touched you in the past and ride that high again.\nBut don't forget the latest trends! If it's something you would love, dates don't matter.\nSurugaya will grant your every dream. Come see us at your closest store!"
+  },
+  "Omikuji_1": {
+    "PT": "",
+    "EN": "Uncertain Fortune\nJust a stone's throw away,\nyet still worlds apart."
+  },
+  "Omikuji_2": {
+    "PT": "",
+    "EN": "Small Fortune\nLove grows over time;\nprogress is gradual but sure."
+  },
+  "Omikuji_3": {
+    "PT": "",
+    "EN": "Good Fortune\nA budding romance,\nonly a breath's distance apart."
+  },
+  "Omikuji_4": {
+    "PT": "",
+    "EN": "Great Fortune\nA match made in heaven,\nsmiles reflected in each other's eyes."
+  },
+  "SkillNameKey1": {
+    "PT": "",
+    "EN": "Special Service Magic!"
+  },
+  "SkillNameKey2": {
+    "PT": "",
+    "EN": "Special Service Magic!"
+  },
+  "SkillNameKey3": {
+    "PT": "",
+    "EN": "Special Service Magic!"
+  },
+  "SkillNameKey4": {
+    "PT": "",
+    "EN": "Special Service Magic!"
+  },
+  "SkillNameKey5": {
+    "PT": "",
+    "EN": "Special Service Magic!"
+  },
+  "ItemName_340": {
+    "PT": "",
+    "EN": "Ojikawa"
+  },
+  "ItemIntroduce_340": {
+    "PT": "",
+    "EN": "A super popular crane game prize."
+  },
+  "ItemName_341": {
+    "PT": "",
+    "EN": "Sealnamoroll"
+  },
+  "ItemIntroduce_341": {
+    "PT": "",
+    "EN": "A super popular crane game prize."
+  },
+  "ItemName_342": {
+    "PT": "",
+    "EN": "Salami"
+  },
+  "ItemIntroduce_342": {
+    "PT": "",
+    "EN": "A super popular crane game prize."
+  },
+  "ItemName_343": {
+    "PT": "",
+    "EN": "Moe Baseball"
+  },
+  "ItemIntroduce_343": {
+    "PT": "",
+    "EN": "レトロゲーム萌えプロ"
+  },
+  "ItemName_344": {
+    "PT": "",
+    "EN": "Little Maid"
+  },
+  "ItemIntroduce_344": {
+    "PT": "",
+    "EN": "レトロゲームメイド伝说"
+  },
+  "ItemName_345": {
+    "PT": "",
+    "EN": "Maid Trainer"
+  },
+  "ItemIntroduce_345": {
+    "PT": "",
+    "EN": "レトロゲームメイドトレーナー"
+  },
+  "ItemName_346": {
+    "PT": "",
+    "EN": "MAIDNUC"
+  },
+  "ItemIntroduce_346": {
+    "PT": "",
+    "EN": "レトロゲームメイドナック"
+  },
+  "ItemName_347": {
+    "PT": "",
+    "EN": "Ninja Maid"
+  },
+  "ItemIntroduce_347": {
+    "PT": "",
+    "EN": "レトロゲーム忍者めいど丸"
+  },
+  "ItemName_348": {
+    "PT": "",
+    "EN": "Maid Ranger"
+  },
+  "ItemIntroduce_348": {
+    "PT": "",
+    "EN": "レトロゲームメイドレンジャー"
+  },
+  "ItemName_349": {
+    "PT": "",
+    "EN": "My, Her, and Her Love"
+  },
+  "ItemIntroduce_349": {
+    "PT": "",
+    "EN": "The PC game \"My, Her, and Her Love.\""
+  },
+  "ItemName_350": {
+    "PT": "",
+    "EN": "KANONAD"
+  },
+  "ItemIntroduce_350": {
+    "PT": "",
+    "EN": "The PC game \"KANONAD.\""
+  },
+  "ItemName_351": {
+    "PT": "",
+    "EN": "Chinese Stir Fried Noodles"
+  },
+  "ItemName_352": {
+    "PT": "",
+    "EN": "Shaved Ice"
+  },
+  "ItemName_353": {
+    "PT": "",
+    "EN": "VA-11 Hall-A - Jill"
+  },
+  "ItemIntroduce_353": {
+    "PT": "",
+    "EN": "A figure of Jill from the indie game \"VA-11 Hall-A\", special Electric Street edition."
+  },
+  "ItemName_354": {
+    "PT": "",
+    "EN": "Marfusha"
+  },
+  "ItemIntroduce_354": {
+    "PT": "",
+    "EN": "A phyiscal edition of the indie game \"Marfusha.\""
+  },
+  "ItemName_355": {
+    "PT": "",
+    "EN": "Marfusha"
+  },
+  "ItemIntroduce_355": {
+    "PT": "",
+    "EN": "Collectable cards of the indie game \"Marfusha.\"\n3 cards per pack\n10 cards in total"
+  },
+  "Book_18": {
+    "PT": "",
+    "EN": "\n\nLatte: Espresso + Milk + Milk\nCafe au lait: Coffee + Milk + Sugar\nFuwa Fuwa Special: Espresso + MIlk + Cinammon\n\nI can learn how to use different ingredients to make different types of coffee by obtaining new recipes.\n\nOh, right, I haven't gotten back the tables I asked the furniture store to repair. Maybe I could help out to speed up the process..."
+  },
+  "CharacterName_1_Siro": {
+    "PT": "",
+    "EN": "Shiro"
+  },
+  "CharacterName_2_Miyu": {
+    "PT": "",
+    "EN": "Miyu"
+  },
+  "CharacterName_3_Favna": {
+    "PT": "",
+    "EN": "Favna"
+  },
+  "CharacterName_4_Honoka": {
+    "PT": "",
+    "EN": "Honoka"
+  },
+  "CharacterName_5_Anna": {
+    "PT": "",
+    "EN": "Anna"
+  },
+  "CharacterName_6_Misaki": {
+    "PT": "",
+    "EN": "Misaki"
+  },
+  "CharacterName_7_Rin": {
+    "PT": "",
+    "EN": "Rin"
+  },
+  "CharacterName_8_Doragon": {
+    "PT": "",
+    "EN": "Dragon Girl"
+  },
+  "CharacterName_9_BlackCat": {
+    "PT": "",
+    "EN": "Black Cat"
+  },
+  "CharacterName_1056_Yuki": {
+    "PT": "",
+    "EN": "Yuuki"
+  },
+  "CharacterName_1057_Linglong": {
+    "PT": "",
+    "EN": "Lin Long"
+  },
+  "CharacterName_1058_Izumi": {
+    "PT": "",
+    "EN": "Izumi"
+  },
+  "CharacterName_1059_Midori": {
+    "PT": "",
+    "EN": "Midori"
+  },
+  "CharacterName_1060_Ghost": {
+    "PT": "",
+    "EN": "Ghost"
+  },
+  "CharacterName_1061_OtakuMaster": {
+    "PT": "",
+    "EN": "Toshio"
+  },
+  "CharacterName_1062_Noyama": {
+    "PT": "",
+    "EN": "Chairman Noyama"
+  },
+  "CharacterName_1063_Kazuma": {
+    "PT": "",
+    "EN": "Kazuma"
+  },
+  "CharacterName_1064_Shizuo": {
+    "PT": "",
+    "EN": "Shizuo"
+  },
+  "CharacterName_1065_Megumi": {
+    "PT": "",
+    "EN": "Megumi"
+  },
+  "CharacterName_1066_Lynn": {
+    "PT": "",
+    "EN": "Rinn"
+  },
+  "CharacterName_1067_Mayuri": {
+    "PT": "",
+    "EN": "Mayuri"
+  },
+  "CharacterName_1068_Kitamura": {
+    "PT": "",
+    "EN": "Mayu"
+  },
+  "CharacterName_1069_Rico": {
+    "PT": "",
+    "EN": "Riko"
+  },
+  "CharacterName_1070_Yanagihara": {
+    "PT": "",
+    "EN": "Takayuki"
+  },
+  "ItemName_356": {
+    "PT": "",
+    "EN": "Pontab: Special Issue"
+  },
+  "ItemIntroduce_356": {
+    "PT": "",
+    "EN": "A special issue of Pontab, a free publication distributed in Nipponbashi, Osaka.\nFeatures the latest news of Electric Street."
+  },
+  "Book_19": {
+    "PT": "",
+    "EN": "The following places are hiring part-time work:\nWoDonald's (Tuesdays)\nHigh-Class Restaurant (Wednesdays)\nYakiniku Restaurant (Thursdays)\nRamen Restaurant (Fridays)\nChinese Restaurant (Saturdays)\n\nThere's a note in small print in the corner...\n\"There are rumors that the Adventurer's Tavern is hiring part-timers at good rates, but no one knows the details...\""
+  },
+  "Pos_AdventurersTavern_OutsideDoor": {
+    "PT": "",
+    "EN": "Arcade (3rd Floor?)"
+  },
+  "Pos_AdventurersTavern_InsideDoor": {
+    "PT": "",
+    "EN": "Adventurer's Tavern"
+  },
+  "Pos_Office": {
+    "PT": "",
+    "EN": "Office"
+  },
+  "Pos_UFOCatcher": {
+    "PT": "",
+    "EN": "Crane Game Machine"
+  },
+  "CharacterName_suinaixiang???": {
+    "PT": "",
+    "EN": "???"
+  },
+  "CharacterName_suinaixiang??": {
+    "PT": "",
+    "EN": "Honoka(?)"
+  },
+  "CharacterName_suinaixiang?": {
+    "PT": "",
+    "EN": "Miyoko"
+  },
+  "CharacterName_1072_ITMan": {
+    "PT": "",
+    "EN": "Hiroshi"
+  },
+  "CharacterName_1073_FashionableMan": {
+    "PT": "",
+    "EN": "Anime Otaku"
+  },
+  "CharacterName_1074_Maro": {
+    "PT": "",
+    "EN": "Maro"
+  },
+  "CharacterName_1075_Akki": {
+    "PT": "",
+    "EN": "Akki"
+  },
+  "CharacterName_1076_Kenta": {
+    "PT": "",
+    "EN": "Kenta"
+  },
+  "CharacterName_2024_OldJKMan": {
+    "PT": "",
+    "EN": "Grandpa"
+  },
+  "CharacterName_2027_FashionableMan": {
+    "PT": "",
+    "EN": "Yamada"
+  },
+  "CharacterName_2031_Yoshida": {
+    "PT": "",
+    "EN": "Yoshida"
+  },
+  "CharacterName_1002_Mari?": {
+    "PT": "",
+    "EN": "Maid"
+  },
+  "Book_1_2": {
+    "PT": "",
+    "EN": "Ever since I started staying at this cafe, I had never really been able to click with Kirina-chan, so I was really happy to see her ask me for a favor.\n\n\"Got it! Leave it all to yours truly!\"\n\nSeeing Kirina-chan's worried face, I answered with a smack on my chest without much thought."
+  },
+  "Book_3_2": {
+    "PT": "",
+    "EN": "I hugged her tight, so that I wouldn't remember the warm feelings she gave me.\n\n\"Don't worry, your oneechan will be back really soon. I'll give you advice and solve your problems for you whenever you want for the rest of your life, Kirina-chan...!\""
+  },
+  "Book_4_2": {
+    "PT": "",
+    "EN": "Every time I coughed up blood from my lungs, my vision grew blurrier. And as the world became dark, all the idol concerts I've ever been to started to play in my mind's eye. Is this what people see when they die?\n\nBut this reminded me... Throughout my gloomy, uninteresting life, idols were what showed me a bright, sparkling world.\n\nIf I could support them, and even save the world by doing so, then...!\n\n\"I'll be a producer. I'll use the love of idols... to save Earth!\""
+  },
+  "Book_6_2": {
+    "PT": "",
+    "EN": "Maguerai Gear, the Dark Lord of Destruction, descended along with the moon. Yet 55,000 people, filling Tokyo Dome, lifted their penlights.\n\n\"Let's go, everyone! One, two...!\"\n\n\"Magic! Angel! Lovin' youuuuuu!\"\n\nAnd so the bright orange light turned into a single giant sword of light, piercing through the Dark Lord's body."
+  },
+  "Pos_UnderGroundCars": {
+    "PT": "",
+    "EN": "In the train"
+  },
+  "ItemName_357": {
+    "PT": "",
+    "EN": "Maid Cafe on Electric Street - Tapestry 1"
+  },
+  "ItemIntroduce_357": {
+    "PT": "",
+    "EN": "The first of a set of commemorative tapestries for the indie game \"Maid Cafe on Electric Street.\" Can be displayed in the apartment."
+  },
+  "ItemName_358": {
+    "PT": "",
+    "EN": "Maid Cafe on Electric Street - Tapestry 2"
+  },
+  "ItemIntroduce_358": {
+    "PT": "",
+    "EN": "The second of a set of commemorative tapestries for the indie game \"Maid Cafe on Electric Street.\" Can be displayed in the apartment."
+  },
+  "ItemName_359": {
+    "PT": "",
+    "EN": "Maid Cafe on Electric Street - Tapestry 3"
+  },
+  "ItemIntroduce_359": {
+    "PT": "",
+    "EN": "The third of a set of commemorative tapestries for the indie game \"Maid Cafe on Electric Street.\" Can be displayed in the apartment."
+  },
+  "ItemName_360": {
+    "PT": "",
+    "EN": "Maid Cafe on Electric Street - Tapestry 4"
+  },
+  "ItemIntroduce_360": {
+    "PT": "",
+    "EN": "The fourth of a set of commemorative tapestries for the indie game \"Maid Cafe on Electric Street.\" Can be displayed in the apartment."
+  },
+  "ItemName_361": {
+    "PT": "",
+    "EN": "Fuwa Fuwa Special"
+  },
+  "ItemIntroduce_361": {
+    "PT": "",
+    "EN": "The single \"Fuwa Fuwa Special.\""
+  },
+  "ItemName_362": {
+    "PT": "",
+    "EN": "Do you not like it?"
+  },
+  "ItemIntroduce_362": {
+    "PT": "",
+    "EN": "The single \"Do you not like it?\""
+  },
+  "ItemName_363": {
+    "PT": "",
+    "EN": "Special Customer"
+  },
+  "ItemIntroduce_363": {
+    "PT": "",
+    "EN": "The single \"Special Customer.\""
+  },
+  "ItemName_364": {
+    "PT": "",
+    "EN": "The End of Summer"
+  },
+  "ItemIntroduce_364": {
+    "PT": "",
+    "EN": "The single \"The End of Summer.\""
+  },
+  "ItemName_365": {
+    "PT": "",
+    "EN": "Maid Cafe on Electric Street"
+  },
+  "ItemIntroduce_365": {
+    "PT": "",
+    "EN": "The single \"Maid Cafe on Electric Street.\""
+  },
+  "Book_18_2": {
+    "PT": "",
+    "EN": "\n\nElectric Street Rumors\n\nFrom day1 since Fuwa Fuwa's reopening, you can save your progress from the menu(<color=blue>Esc or menu button</color>)\nYou must get proper <color=blue>rest</color> in order to open the cafe the next day.\nThe Adventurer's Tavern is usually open at <color=blue>night</color>.\nThe capsule vending machines in front of <color=blue>Surugaya</color> get updated frequently.\nYou can sell items at the <color=blue>thrift store</color>.\nYou can relieve fatigue by <color=blue>eating out</color>, but you can relax and relieve more fatigue by visiting the <color=blue>public bath</color>."
+  },
+  "Book_18_3": {
+    "PT": "",
+    "EN": "\n\nElectric Street Rumors\n\nBuy <color=blue>recipes</color> to unlock coffee ingredients.\nHelp out at the <color=blue>furniture store</color> so that your tables can be repaired more quickly.\nDoing <color=blue>part time jobs</color> at restaurants is a way to earn some more pocket money.\nSomething good might happen if you befriend the <color=blue>black cat</color>...\nFixing up your <color=blue>hairstyle</color> might make you a sight for sore eyes and relieve some of your staff's fatigue."
+  },
+  "ItemName_366": {
+    "PT": "",
+    "EN": "The Chinese Zodiac and Their Lucky Directions"
+  },
+  "ItemIntroduce_366": {
+    "PT": "",
+    "EN": "The Chinese Zodiac can be used to represent different compass directions. Learn more about them in this book!"
+  },
+  "Book_20": {
+    "PT": "",
+    "EN": "\n\n\nThe Mouse represents the North</color>...\nThe Ox represents the North Northeast</color>...\nThe Tiger represents the East Northeast</color>...\nThe Rabbit represents the East</color>...\nThe Dragon represents the East Southeast</color>...\nThe Snake represents the South Southeast</color>...\nThe Horse represents the South</color>...\nThe Goat represents the South Southwest</color>...\nThe Monkey represents the West Southwest</color>...\nThe Rooster represents the West</color>...\nThe Dog represents the West Northwest</color>...\nThe Pig represents the North Northwest</color>..."
+  },
+  "ItemName_367": {
+    "PT": "",
+    "EN": "500 Trillion Ways to Make Money"
+  },
+  "ItemIntroduce_367": {
+    "PT": "",
+    "EN": "A book featuring many increasingly ridiculous methods of making money, including somehow owning and selling a world-famous painting by Sandro Botticelli."
+  },
+  "CharacterName_3001_Chun": {
+    "PT": "",
+    "EN": "Chunlei"
+  },
+  "CharacterName_3002_De": {
+    "PT": "",
+    "EN": "Xiaoqing"
+  },
+  "CharacterName_3003_Wu": {
+    "PT": "",
+    "EN": "No.51"
+  },
+  "CharacterName_3004_Lu": {
+    "PT": "",
+    "EN": "Luchuchu"
+  },
+  "CharacterName_3005_Ba": {
+    "PT": "",
+    "EN": "Sonoda"
+  },
+  "ItemName_368": {
+    "PT": "",
+    "EN": "Wizardry: The Five Ordeals"
+  },
+  "ItemIntroduce_368": {
+    "PT": "",
+    "EN": "A physical edition of \"Wizardry: The Five Ordeals,\" the newest entry in a classic dungeon-crawling RPG series."
+  },
+  "ItemName_369": {
+    "PT": "",
+    "EN": "The Exit 8 + Platform 8"
+  },
+  "ItemIntroduce_369": {
+    "PT": "",
+    "EN": "The million-copy bestseller The Exit 8 and its sequel Platform 8 are both included in this sleek physical edition!"
+  },
+  "Book_21": {
+    "PT": "",
+    "EN": "Ancient Chinese music featured the Five Tones, which are 宫 (Gong), 商 (Shang), 角 (Jue), 征 (Zhi), and 羽 (Yu).\n\nYou can remember them by their Western music counterparts. 宫 (Gong) is Do, 商 (Shang) is Re, 角 (Jue) is Mi, 征 (Zhi) is So, and 羽 (Yu) is La!"
+  },
+  "Book_22": {
+    "PT": "",
+    "EN": "The bagua is a set of symbols used in ancient Chinese divination.\n\nIt consists of eight symbols created with combinations of yin(--) and yang(—) lines: ☰ (干, qian), ☱ (兑, dui), ☲ (离, li), ☳ (震, zhen), ☴ (巽, xun), ☵ (坎, kan), ☶ (艮,gen), and ☷ (坤, kun).\n\nTips: Number in Chinese characters:\n一 is one,  二 is two, 三 is three, 四 is four, 五 is five, 六 is six, 七 is seven, 八 is eight, 九 is nine, 十 is ten!"
+  },
+  "Book_23": {
+    "PT": "",
+    "EN": "\"Today is my birthday. My granny gave me a present. She's my favorite person!\"\n\n\"She gave me a floral dress she made herself. She told me to wear it the next time I visit her. I'll treasure it for the rest of my life!\""
+  },
+  "Book_24": {
+    "PT": "",
+    "EN": "\"It was so sunny today, the sun was almost blinding. I put on the dress I got for my birthday as well as my favorite veiled hat, then hurried outdoors.\"\n\n\"But then, I ran into bullies. They splashed mud onto my hat and used scissors to cut my precious dress.\""
+  },
+  "Book_25": {
+    "PT": "",
+    "EN": "\"After that, I washed my hat, over and over again. But then, a fairy in the form of a black cat appeared.\"\n\n\"The mischievous fairy cast a spell on my hat and gave me a blessing. The blessing was placed on my neck and glowed somewhat eerily.\""
+  },
+  "Book_26": {
+    "PT": "",
+    "EN": "\"I wanted to distract myself from my sorrow, so I went out to town and visited the many boutiques there.\"\n\n\"There, I found something I desperately wanted—a gorgeous red hat! I decided to save up my pocket money so I could buy it someday.\""
+  },
+  "Book_27": {
+    "PT": "",
+    "EN": "\"I tried my best to repair the dress, but I couldn't do it very well. My fingers were soon covered in plasters.\"\n\n\"All I had left was the blue dress I always wore. The bullies laughed at me and said I looked like a beggar.\""
+  },
+  "Book_28": {
+    "PT": "",
+    "EN": "\"I finally saved up enough money! I practically skipped to town again to buy the red hat.\"\n\n\"But when I arrived, the hat was nowhere to be seen. Someone had already bought it before me.\"\n\n\"As I walked home with my head hung low, I saw the bullies from afar. I hid nearby to see what they were doing...\"\n\n\"And then I saw one of them holding the very same hat, saying that she was going to give it to her mom as a present. Why does she get to ruin everything for me and take everything for herself...?\""
+  },
+  "Book_29": {
+    "PT": "",
+    "EN": "\"Today, the bullies came up to me with happy grins on their faces. One of them dangled a beautiful brooch in front of my face mockingly.\"\n\n\"I couldn't take it anymore, and so I snatched the brooch out of her hands.\"\n\n\"She chased after me, but I held my fist high and shouted, 'This is worthless!'"
+  },
+  "Book_30": {
+    "PT": "",
+    "EN": "\"Ever since that day, the bullying got even worse. I didn't want to make Granny worry, so I couldn't visit her.\"\n\n\"But while I was crying, the fairy's blessing glowed eerily again. A crescent moon appeared in the night sky, shining a bright red.\""
+  },
+  "Book_31": {
+    "PT": "",
+    "EN": "\"That night, Granny breathed her last. But I couldn't join her.\"\n\n\"My deep sorrow dyed my torn dress with darkness and put it back today. That was my mourning dress.\"\n\n\"I danced under the red moonlight, praying for Granny to pass peacefully, and casting a curse on the naughty children...\""
+  },
+  "ItemName_370": {
+    "PT": "",
+    "EN": "Maid Cafe on Electric Street ArrangeVer"
+  },
+  "ItemIntroduce_370": {
+    "PT": "",
+    "EN": "The single \"Maid Cafe on Electric Street ArrangeVer.\""
+  },
+  "ItemName_371": {
+    "PT": "",
+    "EN": "Adventurer's Tavern"
+  },
+  "ItemIntroduce_371": {
+    "PT": "",
+    "EN": "The single \"Adventurer's Tavern\""
+  },
+  "ItemName_0": {
+    "PT": "",
+    "EN": "[Empty]"
+  },
+  "ItemName_372": {
+    "PT": "",
+    "EN": "Wizardry: The Five Ordeals - Tapestry"
+  },
+  "ItemIntroduce_372": {
+    "PT": "",
+    "EN": "A tapestry for the game \"Wizardry: The Five Ordeals.\" Can be displayed in the apartment."
+  },
+  "ItemName_373": {
+    "PT": "",
+    "EN": "Idol Manager"
+  },
+  "ItemIntroduce_373": {
+    "PT": "",
+    "EN": "Idol Manager is a business sim about conquering the entertainment industry with a new generation of pop idols using any means you deem necessary."
+  },
+  "ItemName_374": {
+    "PT": "",
+    "EN": "Idol Manager - Tapestry"
+  },
+  "ItemIntroduce_374": {
+    "PT": "",
+    "EN": "A tapestry for the indie game \"Idol Manager.\" Can be displayed in the apartment."
+  },
+  "ItemName_375": {
+    "PT": "",
+    "EN": "Urban Myth Dissolution Center"
+  },
+  "ItemIntroduce_375": {
+    "PT": "",
+    "EN": "Join forces with the psychic Director of the Urban Myth Dissolution Center and solve a variety of cases involving cursed relics, rental properties with shady histories, and dimensional anomalies. Monstrous oddities and otherworldly planes abound in this occult mystery adventure game!"
+  },
+  "ItemName_376": {
+    "PT": "",
+    "EN": "Urban Myth Dissolution Center - Tapestry"
+  },
+  "ItemIntroduce_376": {
+    "PT": "",
+    "EN": "A tapestry for the indie game \"Urban Myth Dissolution Center.\" Can be displayed in the apartment."
+  },
+  "ItemName_377": {
+    "PT": "",
+    "EN": "Junk Gaming Maiden Vol.1"
+  },
+  "ItemIntroduce_377": {
+    "PT": "",
+    "EN": "This 4-koma manga features Romeko and Eimu, two gamer girls into shooters, and the wacky friendly-fire shenanigans they get up to. Serialized on gaming media site GameSpark, this is the first volume in physical form."
+  },
+  "Pos_UnderGroundExit8": {
+    "PT": "",
+    "EN": "<color=red>Exit 8?</color>"
+  },
+  "ItemName_378": {
+    "PT": "",
+    "EN": "Junk Gaming Maiden Vol. 2"
+  },
+  "ItemIntroduce_378": {
+    "PT": "",
+    "EN": "This 4-koma manga features Romeko and Eimu, two gamer girls into shooters, and the wacky friendly-fire shenanigans they get up to. Serialized on gaming media site GameSpark, this is the second volume in physical form."
+  },
+  "ItemName_379": {
+    "PT": "",
+    "EN": "Toshikai-kun"
+  },
+  "ItemIntroduce_379": {
+    "PT": "",
+    "EN": "A figure of Toshikai-kun, the adorable mascot of the Urban Myth Dissolution Center. He's not a deer, he's a reindeer! Get it right!"
+  },
+  "CharacterName_3006_Azami": {
+    "PT": "",
+    "EN": "Azami"
+  },
+  "CharacterName_3007_Jasmin": {
+    "PT": "",
+    "EN": "Jasmine"
+  },
+  "CharacterName_3008_Aimu": {
+    "PT": "",
+    "EN": "Eimu"
+  },
+  "CharacterName_3009_Romeko": {
+    "PT": "",
+    "EN": "Romeko"
+  },
+  "ItemName_380": {
+    "PT": "",
+    "EN": "Wizardry - Monster Collection - Vol. 1"
+  },
+  "ItemIntroduce_380": {
+    "PT": "",
+    "EN": "Trading cards featuring monsters from the popular DRPG 'Wizardry: The Five Ordeals'.\nCollect powerful monsters and become the Dungeon Master!"
+  },
+  "ItemName_381": {
+    "PT": "",
+    "EN": "Wizardry - Monster Collection - Vol. 2"
+  },
+  "ItemIntroduce_381": {
+    "PT": "",
+    "EN": "Trading cards featuring monsters from the popular DRPG 'Wizardry: The Five Ordeals'.\nCollect powerful monsters and become the Dungeon Master!"
+  },
+  "ItemName_382": {
+    "PT": "",
+    "EN": "No.063"
+  },
+  "ItemIntroduce_382": {
+    "PT": "",
+    "EN": "Monster No.063"
+  },
+  "ItemName_383": {
+    "PT": "",
+    "EN": "No.099"
+  },
+  "ItemIntroduce_383": {
+    "PT": "",
+    "EN": "Monster No.099"
+  },
+  "ItemName_384": {
+    "PT": "",
+    "EN": "No.117"
+  },
+  "ItemIntroduce_384": {
+    "PT": "",
+    "EN": "Monster No.117"
+  },
+  "ItemName_385": {
+    "PT": "",
+    "EN": "No.118"
+  },
+  "ItemIntroduce_385": {
+    "PT": "",
+    "EN": "Monster No.118"
+  },
+  "ItemName_386": {
+    "PT": "",
+    "EN": "No.125"
+  },
+  "ItemIntroduce_386": {
+    "PT": "",
+    "EN": "Monster No.125"
+  },
+  "ItemName_387": {
+    "PT": "",
+    "EN": "No.165"
+  },
+  "ItemIntroduce_387": {
+    "PT": "",
+    "EN": "Monster No.165"
+  },
+  "ItemName_388": {
+    "PT": "",
+    "EN": "No.181"
+  },
+  "ItemIntroduce_388": {
+    "PT": "",
+    "EN": "Monster No.181"
+  },
+  "ItemName_389": {
+    "PT": "",
+    "EN": "No.185"
+  },
+  "ItemIntroduce_389": {
+    "PT": "",
+    "EN": "Monster No.185"
+  },
+  "ItemName_390": {
+    "PT": "",
+    "EN": "No.190"
+  },
+  "ItemIntroduce_390": {
+    "PT": "",
+    "EN": "Monster No.190"
+  },
+  "ItemName_391": {
+    "PT": "",
+    "EN": "No.194"
+  },
+  "ItemIntroduce_391": {
+    "PT": "",
+    "EN": "Monster No.194"
+  },
+  "ItemName_392": {
+    "PT": "",
+    "EN": "No.200"
+  },
+  "ItemIntroduce_392": {
+    "PT": "",
+    "EN": "Monster No.200"
+  },
+  "ItemName_393": {
+    "PT": "",
+    "EN": "No.202"
+  },
+  "ItemIntroduce_393": {
+    "PT": "",
+    "EN": "Monster No.202"
+  },
+  "ItemName_394": {
+    "PT": "",
+    "EN": "No.204"
+  },
+  "ItemIntroduce_394": {
+    "PT": "",
+    "EN": "Monster No.204"
+  },
+  "ItemName_395": {
+    "PT": "",
+    "EN": "No.205"
+  },
+  "ItemIntroduce_395": {
+    "PT": "",
+    "EN": "Monster No.205"
+  },
+  "ItemName_396": {
+    "PT": "",
+    "EN": "No.297"
+  },
+  "ItemIntroduce_396": {
+    "PT": "",
+    "EN": "Monster No.297"
+  },
+  "ItemName_397": {
+    "PT": "",
+    "EN": "No.306"
+  },
+  "ItemIntroduce_397": {
+    "PT": "",
+    "EN": "Monster No.306"
+  },
+  "ItemName_398": {
+    "PT": "",
+    "EN": "No.324"
+  },
+  "ItemIntroduce_398": {
+    "PT": "",
+    "EN": "Monster No.324"
+  },
+  "ItemName_399": {
+    "PT": "",
+    "EN": "No.350"
+  },
+  "ItemIntroduce_399": {
+    "PT": "",
+    "EN": "Monster No.350"
+  },
+  "ItemName_400": {
+    "PT": "",
+    "EN": "No.351"
+  },
+  "ItemIntroduce_400": {
+    "PT": "",
+    "EN": "Monster No.351"
+  },
+  "ItemName_401": {
+    "PT": "",
+    "EN": "No.379"
+  },
+  "ItemIntroduce_401": {
+    "PT": "",
+    "EN": "Monster No.379"
+  },
+  "ItemName_402": {
+    "PT": "",
+    "EN": "FATAL FURY: City of the Wolves"
+  },
+  "ItemIntroduce_402": {
+    "PT": "",
+    "EN": "26 years on, a brand-new entry in the Fatal Fury series is set to arrive on the scene! FATAL FURY: City of the Wolves features a unique art style that stimulates the senses and an innovative REV System that supercharges the excitement. Here, at long last, a new legend is about to unfold…"
+  },
+  "CharacterName_FamleWorker": {
+    "PT": "",
+    "EN": "Worker"
+  },
+  "ItemName_403": {
+    "PT": "",
+    "EN": "La-Mulana 2"
+  },
+  "ItemIntroduce_403": {
+    "PT": "",
+    "EN": "La-Mulana 2 features sprawling ancient ruins, mind-boggling mysteries, untold numbers of items, and terrible enemies combining to form what is possibly the perfect Metroidvania-style \"archaeological ruin exploration action game\"."
+  },
+  "ItemName_404": {
+    "PT": "",
+    "EN": "La-Mulana 2 - Figure"
+  },
+  "ItemIntroduce_404": {
+    "PT": "",
+    "EN": "A figure of Lemeza, the protagonist of the indie game \"La-Mulana 2.\""
+  }
+}

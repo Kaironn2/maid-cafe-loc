@@ -1,0 +1,22 @@
+{
+  "1": {
+    "Id": 1,
+    "Key": "Prologue",
+    "Chapter": 1
+  },
+  "2": {
+    "Id": 2,
+    "Key": "Daily",
+    "Chapter": 2
+  },
+  "3": {
+    "Id": 3,
+    "Key": "OperateDay1_MyRoom_Part1",
+    "Chapter": 3
+  },
+  "4": {
+    "Id": 4,
+    "Key": "OperateDay1_MyRoom_Part2",
+    "Chapter": 4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1032_Yuusuke_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1032_Yuusuke_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1032_Yuusuke_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1032_Yuusuke_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1032_Yuusuke_Basic_Leisure",
+    "Type": "Basic",
+    "Atlas": "1032_Yuusuke_Basic",
+    "Frame": "10_13"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "1032_Yuusuke_Basic_SideSitIdle",
+    "Type": "Basic",
+    "Atlas": "1032_Yuusuke_Basic",
+    "Frame": "14_14"
+  }
+}

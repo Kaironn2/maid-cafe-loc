@@ -1,0 +1,792 @@
+{
+  "0": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "This appears to be a used bookstore..."
+  },
+  "1": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Every nook and cranny of the small store is filled with stuff,\nfrom model kits, to figures, to idol posters."
+  },
+  "2": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Oh? That pendant..."
+  },
+  "3": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "I know the girl who wears that pendant.\nShe comes here often..."
+  },
+  "4": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "She seems to like niche, subculture things and the occult.\nEspecially things that are a little mysterious or different..."
+  },
+  "5": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Old parchment etched with recordings from the ancient world...\nA most favorable scent, I must say."
+  },
+  "6": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Oh, Favna-san. I think I'll have a book coming in that you might like..."
+  },
+  "7": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "A grimoire said to belong to a witch in the Middle Ages.\nShe had it her whole life and refused to part with it...\nHmm. It'll be hard to tell if it's the real thing, but..."
+  },
+  "8": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It will be just the thing to enhance my magical capabilities, nonetheless!\nI expected no less from you."
+  },
+  "9": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "By the way, who's that gentleman you're with...?"
+  },
+  "10": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "He's my familiar, with whom I forged a pact under the blood crystal."
+  },
+  "11": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "I see... A familiar... Is that some sort of cryptid, perhaps...?"
+  },
+  "12": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...I'm sorry to disappoint you, but I'm just a regular human.\""
+  },
+  "13": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Fufufu, I'm joking.\nDon't worry, I've dabbled in black magic myself."
+  },
+  "14": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Is that... supposed to be reassuring...?)"
+  },
+  "15": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Favna-san, you came at just the right time..."
+  },
+  "16": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "The book I told you about just came in.\nRemember? The grimoire with the intriguing history..."
+  },
+  "17": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "This is it! This is the holy relic I've been seeking! Moonstone!"
+  },
+  "18": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Moonstone? But it's just a book.\""
+  },
+  "19": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Fufufu... Actually, this grimoire has a little secret. Go on, open it..."
+  },
+  "20": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Oh! The pages have been made hollow... and there's a necklace inside!\""
+  },
+  "21": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "This is a moonstone. It can amplify the powers of creatures of the night."
+  },
+  "22": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "All that remains is to perform the ritual in an open area—\nsomewhere with an unobstructed view of the cloudless moon.\nThe Garden of Gnomish Gambol should suffice."
+  },
+  "23": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "This bookstore is a real hole-in-the-wall too!"
+  },
+  "24": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Wait, could it be... A doujinshi by Holy Hanpei-san?!"
+  },
+  "25": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "They're a doujin author who really deeply analyzes the source material,\nand it really shows in their art. I never thought I'd see their work here...!"
+  },
+  "26": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Welcome."
+  },
+  "27": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Did my father come here to sell some old scrolls?"
+  },
+  "28": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Ah, yes, I remember..."
+  },
+  "29": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Somethin' important got mixed up in there.\nIt's 5 volumes of ancient scrolls..."
+  },
+  "30": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Oh, one of them is right here..."
+  },
+  "31": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Obtained: Scroll of Spirit Channeling, Volume 1"
+  },
+  "32": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you! Is this it?\""
+  },
+  "33": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Y-Yeah! But, um..."
+  },
+  "34": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "I need all 5 volumes..."
+  },
+  "35": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "I'm sorry, the rest have already been sold to other customers..."
+  },
+  "36": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Do you remember who bought what?\""
+  },
+  "37": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Yes. The first buyer was the lady from the thrift store."
+  },
+  "38": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "The second one was... a girl in a red skirt.\nI believe you would call her style \"Gothic Lolita\"?"
+  },
+  "39": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "And the last buyer was a man who looked like\nthe dictionary definition of an otaku. He bought 2 scrolls."
+  },
+  "40": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Thank you so much!\""
+  },
+  "41": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "All right, I've committed it to memory!\nIf ya ever forget who to look for, talk to me with the Chat button."
+  },
+  "42": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Let's look for the people who bought the scrolls!)"
+  },
+  "43": {
+    "Personagem": "Daigo",
+    "PT": "",
+    "EN": "Hey, Favna-chan, welcome.\nWe've gotten a copy of the Hathor's Book of Spells\nthat came with that one issue of Moo Monthly."
+  },
+  "44": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "What?! That cursed artifact that allows one\nto see one's true fate...?! I mean, ahem."
+  },
+  "45": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I-It sounds very interesting, but I shall leave that for another day\nwhen the moon and the stars have aligned.\nToday, I bring you a new oracle. Familiar!"
+  },
+  "46": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Here's a rundown of the new campaign we're planning!\""
+  },
+  "47": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "A stamp rally? Huh, that sounds pretty neat.\nI bet completionists would go ham over that."
+  },
+  "48": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "Sure, why not? And just say the word if there's\nanything we can help you with, newbie Manager."
+  },
+  "49": {
+    "Personagem": "Shioriko",
+    "PT": "",
+    "EN": "You too, Favna-chan. I'll keep the copy of Moo in the back,\nso come back anytime if you want to take a better look at it."
+  },
+  "50": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "You have my thanks, Noble Witch of the Moon!\nMay you be blessed by both the light and darkness alike!"
+  },
+  "51": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Now for our final destination... The Holy Map of the Great Scripture."
+  },
+  "52": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"The holy map...? Map... Oh, you mean Sofmap!\""
+  },
+  "53": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(There's no one here.\nWhere did the black cat go...?)"
+  },
+  "54": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "...BAM!"
+  },
+  "55": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Huh?!\""
+  },
+  "56": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The door won't open. You've been locked in from the outside..."
+  },
+  "57": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "There's a backdoor on the other side! Let's check that!"
+  },
+  "58": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The backdoor is also locked. Have you been trapped...?"
+  },
+  "59": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "There's a note on the door. Let me see..."
+  },
+  "60": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"Dear denizens of darkness brought here by a demonic guide.\nSolve the riddle of this prison of wisdom and grasp your freedom.\""
+  },
+  "61": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "\"Otherwise, your souls will be fed to the demons...\""
+  },
+  "62": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Wh-What is this? A weird mark and an even weirder message...\""
+  },
+  "63": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Th-This is... There's no mistaking it!\nWe're being challenged!"
+  },
+  "64": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Whuh? Why all of a sudden...?\""
+  },
+  "65": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "We should be able to escape if we solve the riddle!\nLet's investigate our surroundings!"
+  },
+  "66": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Looks like this mark is a hint for the riddle..."
+  },
+  "67": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "The books in the bookshelf have been swapped with fake props.\nThey're affixed to the shelves and won't budge."
+  },
+  "68": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Why would someone go out of their way to make this...?\""
+  },
+  "69": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "But that also means that any real books,\nmust be pretty important for the riddle!"
+  },
+  "70": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Oh, this book comes off the shelf.\""
+  },
+  "71": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"Van Gogh Sunflower Postcard Book\"!"
+  },
+  "72": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Postcards of a famous painting!\nThey're so pretty, I almost want to take them home with me."
+  },
+  "73": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "A section of reference books for kids.\nIt somehow brings back memories."
+  },
+  "74": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"My First World Map\"!"
+  },
+  "75": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "It comes with a poster of a world map!\nThis is a real book, so this must be important!"
+  },
+  "76": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You find a single real book among the stack of fake ones."
+  },
+  "77": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Is this a picture book?\nThere's a drawing of an octopus on the cover.\""
+  },
+  "78": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"Pretty Much an Octopus\"!"
+  },
+  "79": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Speaking of octopuses... Since we're in Togetsuya,\nI can't help but be reminded of something more occultic~"
+  },
+  "80": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "There's more books over here too.\nThere must be a hint for the riddle!"
+  },
+  "81": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"100 Dam Collection Photobook\"!"
+  },
+  "82": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "A collection of dam photos!\nThe gushing water looks so powerful!"
+  },
+  "83": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "(There's a book on the floor.\nI should pick it up too, just in case.)"
+  },
+  "84": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"Yggdrasill Odyssey: A Complete Guide\"!"
+  },
+  "85": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "A video game guidebook!\nYou could take it with you, or leave it behind..."
+  },
+  "86": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I'm taking it with me, of course.\""
+  },
+  "87": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You find a book on the counter\nthat looks like it was very purposefully put there..."
+  },
+  "88": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"The Life of William Herschel\"!"
+  },
+  "89": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "That biography is so thick~\nI wonder what great exploits this person has?"
+  },
+  "90": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Found a book!\nDo you think this will be useful for the riddle?"
+  },
+  "91": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"Trembling Travels: Seaside Day Trip Special\"!"
+  },
+  "92": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Ooh, the sea~ I wanna go to the beach too!"
+  },
+  "93": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Oooh, you're looking there~?\nAre you what they'd call a man of culture?"
+  },
+  "94": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I-I have no other choice!\nIt's for the riddle, that's all...!\""
+  },
+  "95": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"Hanasakyo Maid Team\"!"
+  },
+  "96": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Mhmmm... So you like this kind of manga, Mr. Familiar~?"
+  },
+  "97": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Th-This is a family-friendly manga, okay?!\nCompletely, utterly family-friendly!\""
+  },
+  "98": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I found a book hidden in the box of a model kit!\nMaybe this is an important hint!"
+  },
+  "99": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"On Tarot and Astrology\"!"
+  },
+  "100": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Lemme read this. \"Tarot and astrology are strongly connected to each other.\nFor example, each of the major arcana corresponds to a planet or astrological sign.\""
+  },
+  "101": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Tarot... Sounds like something the people who work here would be into.\""
+  },
+  "102": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Tarot and astrology are strongly connected to each other\"..."
+  },
+  "103": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Since it was so well-hidden,\nit must be one of the most important clues!"
+  },
+  "104": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I found another real book!\nLet's see what it's about..."
+  },
+  "105": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"An Introduction to the Music of Ancient China\"!"
+  },
+  "106": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Let's see here... \"Ancient Chinese music featured the Five Tones,\nwhich are 宮(Gong), 商(Shang), 角(Jue), 徴(Zhi), and 羽(Yu).\""
+  },
+  "107": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "\"You can remember them by their Western music counterparts.\n宮(Gong) is Do, 商(Shang) is Re, 角(Jue) is Mi,徴(Zhi) is So, and 羽(Yu) is La!\""
+  },
+  "108": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Music notes, huh. But there aren't any musical instruments here.\""
+  },
+  "109": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "No, but we might need this for later! Let's take it with us."
+  },
+  "110": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Oh, there's another book here!\nWhat's it about?"
+  },
+  "111": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You obtained \"The Mysterious Bagua\"!"
+  },
+  "112": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Hrmm... \"The bagua is a set of symbols used in ancient Chinese divination.\nIt consists of eight symbols created with combinations of yin(--) and yang(—) lines:\n☰ (乾, qian), ☱ (兌, dui), ☲ (離, li), ☳ (震, zhen), ☴ (巽, xun), ☵ (坎, kan), ☶ (艮, gen), and ☷ (坤, kun).\""
+  },
+  "113": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "What is this...? I didn't understand any of that!\nBut maybe it's an important hint?"
+  },
+  "114": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "There's a note here too!\nLet's take a look at it..."
+  },
+  "115": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "What's this? There's some symbols and kanji..."
+  },
+  "116": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "It must be some sort of puzzle!\nThere's probably somewhere we can input the answer!"
+  },
+  "117": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You find a suspiciously important-looking box under the frog statue..."
+  },
+  "118": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "It's locked. But here, you can input a password!"
+  },
+  "119": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"So there must be something important inside.\nLet's try inputting a password.\""
+  },
+  "120": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "It didn't open..."
+  },
+  "121": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Maybe there's clues somewhere.\nLet's check our surroundings again."
+  },
+  "122": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Hmm... No, it's no use.\nIt just won't open.\""
+  },
+  "123": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "At this rate, we'll be here till morning.\nDo you want to give up and use my trump card?"
+  },
+  "124": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Give up:option1;Keep trying:option2"
+  },
+  "125": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...No, I want to keep trying.\""
+  },
+  "126": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You're right, maybe I should give up...\nBut wait, what do you mean by trump card...?\""
+  },
+  "127": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Heh... Heheheh... It's a 4-digit code,\nwhich means we can open it eventually if we simply try\nevery single possible combination. Okay, here I go~!!"
+  },
+  "128": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Haaaaaaaah! Behold, the Nifty-64-Finger Jutsu~!!!"
+  },
+  "129": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "*Click*..."
+  },
+  "130": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "...Huh? It opened so easily."
+  },
+  "131": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You find a book inside the locked box.\nYou obtained \"500 Trillion Ways to Save Money\"!"
+  },
+  "132": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "*Click*..."
+  },
+  "133": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "It opened! You did it, Mr. Familiar!"
+  },
+  "134": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You find a book inside the locked box.\nYou obtained \"500 Trillion Ways to Save Money\"!"
+  },
+  "135": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(That's nice and all, but I'd rather learn how to get out of here already...)"
+  },
+  "136": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "There's a suspicious mark on the bookshelf,\nand there's an unnatural space between the books..."
+  },
+  "137": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "I know what we should do... Put a book in the empty space!\nWhat a classic type of puzzle!"
+  },
+  "138": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Which book will you insert?"
+  },
+  "139": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You inserted \"{0}\" into the empty space."
+  },
+  "140": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Do you want to swap this with \"{0}\", Mr. Familiar?"
+  },
+  "141": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Swap books:option3;take book:option4;Never mind:option5"
+  },
+  "142": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Which book will you insert?"
+  },
+  "143": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You took out \"{0}\" and replaced it with \"{1}\"."
+  },
+  "144": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"No, I'll keep it like this for now.\""
+  },
+  "145": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You inserted books in all of the empty spaces. And then..."
+  },
+  "146": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "........."
+  },
+  "147": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Nothing's happening... Maybe we should move some books around?"
+  },
+  "148": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You inserted books in all of the empty spaces. And then..."
+  },
+  "149": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "...*Click*."
+  },
+  "150": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Ooh, what was that sound...?!\nLet's go look at the entrance!"
+  },
+  "151": {
+    "Personagem": "Rin",
+    "PT": "",
+    "EN": "Yay, it opened! We're free now...!"
+  },
+  "152": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Finally. By the way, are we forgetting something...?\""
+  },
+  "153": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You hear whispers from the other side of the door..."
+  },
+  "154": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "For now... I see..."
+  },
+  "155": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "There, there... Good job..."
+  },
+  "156": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "Meow... munch munch..."
+  },
+  "157": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"...Ah! The black cat! Wait, don't tell me it's outside...?!\""
+  }
+}

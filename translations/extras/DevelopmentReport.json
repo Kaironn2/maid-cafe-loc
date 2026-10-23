@@ -1,0 +1,958 @@
+{
+  "0": {
+    "PT": "",
+    "EN": "Maid Cafe on Electric Street"
+  },
+  "2": {
+    "PT": "",
+    "EN": "A HIROBUMI RYU GAME"
+  },
+  "4": {
+    "PT": "",
+    "EN": "VOICE CAST"
+  },
+  "5": {
+    "PT": "",
+    "EN": "Ikumi Hasegawa as Shiro"
+  },
+  "6": {
+    "PT": "",
+    "EN": "Ayasa Ito as Miyu"
+  },
+  "7": {
+    "PT": "",
+    "EN": "Sayumi Suzushiro as Favna"
+  },
+  "8": {
+    "PT": "",
+    "EN": "Yui Ishikawa as Honoka"
+  },
+  "12": {
+    "PT": "",
+    "EN": "Development"
+  },
+  "15": {
+    "PT": "",
+    "EN": "Producer & Director"
+  },
+  "16": {
+    "PT": "",
+    "EN": "HIROBUMI RYU"
+  },
+  "18": {
+    "PT": "",
+    "EN": "Lead Game Designer"
+  },
+  "19": {
+    "PT": "",
+    "EN": "MINGWEI LI"
+  },
+  "21": {
+    "PT": "",
+    "EN": "Assistant Game Designer"
+  },
+  "22": {
+    "PT": "",
+    "EN": "YUANCHU SUN"
+  },
+  "24": {
+    "PT": "",
+    "EN": "Lead Artist"
+  },
+  "25": {
+    "PT": "",
+    "EN": "LEI FANG"
+  },
+  "27": {
+    "PT": "",
+    "EN": "Assistant Artist"
+  },
+  "28": {
+    "PT": "",
+    "EN": "JIAYI CHEN"
+  },
+  "30": {
+    "PT": "",
+    "EN": "Lead Programmer"
+  },
+  "31": {
+    "PT": "",
+    "EN": "WENZHEN XIA"
+  },
+  "33": {
+    "PT": "",
+    "EN": "Programmer"
+  },
+  "34": {
+    "PT": "",
+    "EN": "MINGWEI LI"
+  },
+  "35": {
+    "PT": "",
+    "EN": "HAO LU"
+  },
+  "37": {
+    "PT": "",
+    "EN": "Scenario Director"
+  },
+  "38": {
+    "PT": "",
+    "EN": "HIROBUMI RYU"
+  },
+  "40": {
+    "PT": "",
+    "EN": "Scenario Writer"
+  },
+  "41": {
+    "PT": "",
+    "EN": "CI XU"
+  },
+  "42": {
+    "PT": "",
+    "EN": "MASAYA KUNINAGA"
+  },
+  "43": {
+    "PT": "",
+    "EN": "Zakurosuke"
+  },
+  "44": {
+    "PT": "",
+    "EN": "kyozy tohno"
+  },
+  "46": {
+    "PT": "",
+    "EN": "Support Team"
+  },
+  "47": {
+    "PT": "",
+    "EN": "QING SUN"
+  },
+  "48": {
+    "PT": "",
+    "EN": "XIANWEI LIAO"
+  },
+  "50": {
+    "PT": "",
+    "EN": "Sound"
+  },
+  "51": {
+    "PT": "",
+    "EN": "Salt Sound Studio"
+  },
+  "52": {
+    "PT": "",
+    "EN": "MoppySound"
+  },
+  "54": {
+    "PT": "",
+    "EN": "Font"
+  },
+  "55": {
+    "PT": "",
+    "EN": "Cubic 11/俐方体11号"
+  },
+  "58": {
+    "PT": "",
+    "EN": "Publishing"
+  },
+  "67": {
+    "PT": "",
+    "EN": "Producer"
+  },
+  "68": {
+    "PT": "",
+    "EN": "SHUNJI MIZUTANI"
+  },
+  "70": {
+    "PT": "",
+    "EN": "Assistant Producer"
+  },
+  "71": {
+    "PT": "",
+    "EN": "SYUNICHI SAKAI"
+  },
+  "72": {
+    "PT": "",
+    "EN": "ELIZA CHEANG"
+  },
+  "74": {
+    "PT": "",
+    "EN": "International Operations & Marketing"
+  },
+  "75": {
+    "PT": "",
+    "EN": "ELAINE WONG"
+  },
+  "77": {
+    "PT": "",
+    "EN": "ENGLISH LOCALIZATION"
+  },
+  "78": {
+    "PT": "",
+    "EN": "SHUMA"
+  },
+  "80": {
+    "PT": "",
+    "EN": "CHINESE LOCALIZATION"
+  },
+  "81": {
+    "PT": "",
+    "EN": "ZHENG ZHANG"
+  },
+  "83": {
+    "PT": "",
+    "EN": "Publishing Design"
+  },
+  "84": {
+    "PT": "",
+    "EN": "TAKAHIRO NOGITA"
+  },
+  "85": {
+    "PT": "",
+    "EN": "ASUKA BAILEY"
+  },
+  "87": {
+    "PT": "",
+    "EN": "Publishing Support"
+  },
+  "88": {
+    "PT": "",
+    "EN": "YASUYUKI OHARA"
+  },
+  "89": {
+    "PT": "",
+    "EN": "SAYURI MURABAYASHI"
+  },
+  "90": {
+    "PT": "",
+    "EN": "CHIAKI SHIDA"
+  },
+  "91": {
+    "PT": "",
+    "EN": "HIDEYUKI NAGAKURA"
+  },
+  "92": {
+    "PT": "",
+    "EN": "WESLEY TSEN"
+  },
+  "93": {
+    "PT": "",
+    "EN": "MICHAEL KOBAYASHI"
+  },
+  "94": {
+    "PT": "",
+    "EN": "TIFFANY ZHANG"
+  },
+  "95": {
+    "PT": "",
+    "EN": "HANWEN YIN"
+  },
+  "96": {
+    "PT": "",
+    "EN": "NANA IBA"
+  },
+  "97": {
+    "PT": "",
+    "EN": "HANA KAWAMOTO"
+  },
+  "98": {
+    "PT": "",
+    "EN": "CHIAKI HIROTA"
+  },
+  "99": {
+    "PT": "",
+    "EN": "MANAMI MAEBAYASHI"
+  },
+  "100": {
+    "PT": "",
+    "EN": "SAKI YAMADA"
+  },
+  "101": {
+    "PT": "",
+    "EN": "YOSHIO TSUJIMOTO"
+  },
+  "102": {
+    "PT": "",
+    "EN": "MARIO MAQUEO"
+  },
+  "103": {
+    "PT": "",
+    "EN": "CHRISTOPHER WILLIAM HORTON"
+  },
+  "104": {
+    "PT": "",
+    "EN": "MIMI OKAMATSU"
+  },
+  "105": {
+    "PT": "",
+    "EN": "AKITO SUDO"
+  },
+  "107": {
+    "PT": "",
+    "EN": "Executive Officer"
+  },
+  "108": {
+    "PT": "",
+    "EN": "JJ SHINJI FUTAMI"
+  },
+  "110": {
+    "PT": "",
+    "EN": "President/CEO"
+  },
+  "111": {
+    "PT": "",
+    "EN": "IBAI VINAS AMEZTOY"
+  },
+  "113": {
+    "PT": "",
+    "EN": "JAPANESE VOICE PRODUCTION"
+  },
+  "114": {
+    "PT": "",
+    "EN": "KYOA Inc."
+  },
+  "116": {
+    "PT": "",
+    "EN": "VOICE PRODUCER"
+  },
+  "117": {
+    "PT": "",
+    "EN": "SHOO HASHIMOTO"
+  },
+  "119": {
+    "PT": "",
+    "EN": "CASTING MANAGER"
+  },
+  "120": {
+    "PT": "",
+    "EN": "ERI ISOZAKI"
+  },
+  "122": {
+    "PT": "",
+    "EN": "RECORDING STUDIO"
+  },
+  "123": {
+    "PT": "",
+    "EN": "YOYOGI EKICHIKA STUDIO"
+  },
+  "125": {
+    "PT": "",
+    "EN": "VOICE DIRECTOR"
+  },
+  "126": {
+    "PT": "",
+    "EN": "HISASHI MURAMATSU (ALLY STUDIO)"
+  },
+  "127": {
+    "PT": "",
+    "EN": "NORIMITSU HIRAMATSU"
+  },
+  "129": {
+    "PT": "",
+    "EN": "VOICE RECORDING ENGINEER"
+  },
+  "130": {
+    "PT": "",
+    "EN": "TAKAFUMI TACHIBANA (ALLY STUDIO)"
+  },
+  "132": {
+    "PT": "",
+    "EN": "CASTING COOPERATION"
+  },
+  "133": {
+    "PT": "",
+    "EN": "ARTSVISION Incorporated"
+  },
+  "134": {
+    "PT": "",
+    "EN": "HiBiKi"
+  },
+  "135": {
+    "PT": "",
+    "EN": "mitt management Co.,Ltd."
+  },
+  "136": {
+    "PT": "",
+    "EN": "RaccoonDog Co.,Ltd."
+  },
+  "138": {
+    "PT": "",
+    "EN": "LQA(ACTIVE GAMING MEDIA Inc.)"
+  },
+  "139": {
+    "PT": "",
+    "EN": "NAOTO AIMÉ SHIMADA"
+  },
+  "140": {
+    "PT": "",
+    "EN": "JULIEN DESJARDIN"
+  },
+  "142": {
+    "PT": "",
+    "EN": "Debug Team(ACTIVE GAMING MEDIA Inc.)"
+  },
+  "143": {
+    "PT": "",
+    "EN": "KENJI MUROUCHI"
+  },
+  "144": {
+    "PT": "",
+    "EN": "AKIHIKO YANAGI"
+  },
+  "147": {
+    "PT": "",
+    "EN": "Collaborators"
+  },
+  "149": {
+    "PT": "",
+    "EN": "Asuka Publishing"
+  },
+  "151": {
+    "PT": "",
+    "EN": "1904/1904"
+  },
+  "153": {
+    "PT": "",
+    "EN": "1904GROUP"
+  },
+  "155": {
+    "PT": "",
+    "EN": "KARAOKE RAINBOW"
+  },
+  "158": {
+    "PT": "",
+    "EN": "くそオヤジ最後のひとふり"
+  },
+  "160": {
+    "PT": "",
+    "EN": "ゲーム探偵団"
+  },
+  "162": {
+    "PT": "",
+    "EN": "ジャングル"
+  },
+  "164": {
+    "PT": "",
+    "EN": "駿河屋"
+  },
+  "166": {
+    "PT": "",
+    "EN": "株式会社エーツー"
+  },
+  "168": {
+    "PT": "",
+    "EN": "Swallowtail"
+  },
+  "170": {
+    "PT": "",
+    "EN": "スーパーポテト"
+  },
+  "172": {
+    "PT": "",
+    "EN": "ソフマップ"
+  },
+  "174": {
+    "PT": "",
+    "EN": "TSUTENKAKU TOWER"
+  },
+  "176": {
+    "PT": "",
+    "EN": "TOGETSUYA"
+  },
+  "178": {
+    "PT": "",
+    "EN": "Osaka Nipponbashi Takoyaki Tokushin"
+  },
+  "180": {
+    "PT": "",
+    "EN": "ドラゴンスター"
+  },
+  "182": {
+    "PT": "",
+    "EN": "Nipponbashi Shopping Association"
+  },
+  "184": {
+    "PT": "",
+    "EN": "Pontab"
+  },
+  "186": {
+    "PT": "",
+    "EN": "Deci-litre Factory Inc."
+  },
+  "188": {
+    "PT": "",
+    "EN": "無限麻辣湯"
+  },
+  "191": {
+    "PT": "",
+    "EN": "めいどりーみん"
+  },
+  "196": {
+    "PT": "",
+    "EN": "Special Thanks"
+  },
+  "202": {
+    "PT": "",
+    "EN": "NIGORO"
+  },
+  "203": {
+    "PT": "",
+    "EN": "Rose & Camellia Collection"
+  },
+  "204": {
+    "PT": "",
+    "EN": "La-Mulana"
+  },
+  "205": {
+    "PT": "",
+    "EN": "La-Mulana 2"
+  },
+  "207": {
+    "PT": "",
+    "EN": "Sukeban Games"
+  },
+  "208": {
+    "PT": "",
+    "EN": "VA-11 Hall-A: Cyberpunk Bartender Action"
+  },
+  "210": {
+    "PT": "",
+    "EN": "hinyari9"
+  },
+  "211": {
+    "PT": "",
+    "EN": "Marfusha"
+  },
+  "213": {
+    "PT": "",
+    "EN": "Petit Depotto"
+  },
+  "214": {
+    "PT": "",
+    "EN": "GNOSIA"
+  },
+  "219": {
+    "PT": "",
+    "EN": "KOTAKE CREATE"
+  },
+  "220": {
+    "PT": "",
+    "EN": "The Exit 8"
+  },
+  "224": {
+    "PT": "",
+    "EN": "SHUEISHA GAMES"
+  },
+  "225": {
+    "PT": "",
+    "EN": "Hakababunko"
+  },
+  "226": {
+    "PT": "",
+    "EN": "Urban Myth Dissolution Center"
+  },
+  "229": {
+    "PT": "",
+    "EN": "Glitch Pitch"
+  },
+  "230": {
+    "PT": "",
+    "EN": "Idol Manager"
+  },
+  "233": {
+    "PT": "",
+    "EN": "Game*Spark Publishing"
+  },
+  "235": {
+    "PT": "",
+    "EN": "Wizardry: The Five Ordeals"
+  },
+  "237": {
+    "PT": "",
+    "EN": "stggc"
+  },
+  "239": {
+    "PT": "",
+    "EN": "Game*Spark"
+  },
+  "241": {
+    "PT": "",
+    "EN": "JANGEMA: JUNK GAMING MAIDEN"
+  },
+  "245": {
+    "PT": "",
+    "EN": "株式会社SNK"
+  },
+  "248": {
+    "PT": "",
+    "EN": "FATAL FURY: City of the Wolves"
+  },
+  "250": {
+    "PT": "",
+    "EN": "METAL SLUG"
+  },
+  "252": {
+    "PT": "",
+    "EN": "THE KING OF FIGHTERS '97"
+  },
+  "257": {
+    "PT": "",
+    "EN": "Special Supporters"
+  },
+  "258": {
+    "PT": "",
+    "EN": "春蕾不觉晓"
+  },
+  "259": {
+    "PT": "",
+    "EN": "51号军令"
+  },
+  "260": {
+    "PT": "",
+    "EN": "德芙"
+  },
+  "261": {
+    "PT": "",
+    "EN": "八意豆子"
+  },
+  "262": {
+    "PT": "",
+    "EN": "路丠丠"
+  },
+  "263": {
+    "PT": "",
+    "EN": "椎名百合子"
+  },
+  "264": {
+    "PT": "",
+    "EN": "ZL6"
+  },
+  "265": {
+    "PT": "",
+    "EN": "量子弱猫"
+  },
+  "266": {
+    "PT": "",
+    "EN": "deea6"
+  },
+  "267": {
+    "PT": "",
+    "EN": "Yuanr"
+  },
+  "268": {
+    "PT": "",
+    "EN": "蒼歲"
+  },
+  "269": {
+    "PT": "",
+    "EN": "玉宇云觞"
+  },
+  "270": {
+    "PT": "",
+    "EN": "欣粝"
+  },
+  "271": {
+    "PT": "",
+    "EN": "平泽唯"
+  },
+  "272": {
+    "PT": "",
+    "EN": "whatfor"
+  },
+  "273": {
+    "PT": "",
+    "EN": "拉姆特"
+  },
+  "274": {
+    "PT": "",
+    "EN": "王唯忠文"
+  },
+  "275": {
+    "PT": "",
+    "EN": "skykiseki"
+  },
+  "276": {
+    "PT": "",
+    "EN": "Milkchan~"
+  },
+  "277": {
+    "PT": "",
+    "EN": "红薯比番薯大"
+  },
+  "278": {
+    "PT": "",
+    "EN": "anlter"
+  },
+  "279": {
+    "PT": "",
+    "EN": "dc9d2"
+  },
+  "280": {
+    "PT": "",
+    "EN": "尾生抱梁"
+  },
+  "281": {
+    "PT": "",
+    "EN": "2edff"
+  },
+  "282": {
+    "PT": "",
+    "EN": "VentusRanger35"
+  },
+  "283": {
+    "PT": "",
+    "EN": "双岛"
+  },
+  "284": {
+    "PT": "",
+    "EN": "稀神幽鵺"
+  },
+  "285": {
+    "PT": "",
+    "EN": "c6ae0"
+  },
+  "286": {
+    "PT": "",
+    "EN": "该名称无法显示"
+  },
+  "287": {
+    "PT": "",
+    "EN": "深空失忆"
+  },
+  "288": {
+    "PT": "",
+    "EN": "月食朝露"
+  },
+  "289": {
+    "PT": "",
+    "EN": "百殙魍魉"
+  },
+  "290": {
+    "PT": "",
+    "EN": "黑夜里的村姑"
+  },
+  "291": {
+    "PT": "",
+    "EN": "羽木读Uki"
+  },
+  "292": {
+    "PT": "",
+    "EN": "Juustin"
+  },
+  "293": {
+    "PT": "",
+    "EN": "偏生子逍"
+  },
+  "294": {
+    "PT": "",
+    "EN": "安妮"
+  },
+  "297": {
+    "PT": "",
+    "EN": "The first players to find Adventurer's Tavern"
+  },
+  "298": {
+    "PT": "",
+    "EN": "Weiliao"
+  },
+  "299": {
+    "PT": "",
+    "EN": "Nanfeng"
+  },
+  "300": {
+    "PT": "",
+    "EN": "Y6rin"
+  },
+  "301": {
+    "PT": "",
+    "EN": "Ayanami07"
+  },
+  "302": {
+    "PT": "",
+    "EN": "WingedNightmare"
+  },
+  "303": {
+    "PT": "",
+    "EN": "Fuyuki"
+  },
+  "304": {
+    "PT": "",
+    "EN": "Stone_Candy1"
+  },
+  "305": {
+    "PT": "",
+    "EN": "XELECTRICITYX"
+  },
+  "306": {
+    "PT": "",
+    "EN": "后勤饼干人"
+  },
+  "307": {
+    "PT": "",
+    "EN": "麟の王翼"
+  },
+  "308": {
+    "PT": "",
+    "EN": "今夜年愁未到乡"
+  },
+  "309": {
+    "PT": "",
+    "EN": "JJ"
+  },
+  "310": {
+    "PT": "",
+    "EN": "MsMsk_p"
+  },
+  "311": {
+    "PT": "",
+    "EN": "白澪梦玥 "
+  },
+  "312": {
+    "PT": "",
+    "EN": "九色的奇迹"
+  },
+  "313": {
+    "PT": "",
+    "EN": "rongaiLapin"
+  },
+  "314": {
+    "PT": "",
+    "EN": "Izayoi Mikage"
+  },
+  "315": {
+    "PT": "",
+    "EN": "MONO"
+  },
+  "316": {
+    "PT": "",
+    "EN": "Amane Sakana"
+  },
+  "317": {
+    "PT": "",
+    "EN": "[Toho]traesto・♡クリスき♡"
+  },
+  "318": {
+    "PT": "",
+    "EN": "raviddog"
+  },
+  "319": {
+    "PT": "",
+    "EN": "seipan1213"
+  },
+  "320": {
+    "PT": "",
+    "EN": "Win-CL"
+  },
+  "321": {
+    "PT": "",
+    "EN": "nemukunaiya"
+  },
+  "322": {
+    "PT": "",
+    "EN": "Ken"
+  },
+  "323": {
+    "PT": "",
+    "EN": "eli666_com"
+  },
+  "324": {
+    "PT": "",
+    "EN": "QuoteCurly"
+  },
+  "325": {
+    "PT": "",
+    "EN": "TSC_goburin"
+  },
+  "326": {
+    "PT": "",
+    "EN": "Nore139"
+  },
+  "327": {
+    "PT": "",
+    "EN": "Segawa michiru"
+  },
+  "328": {
+    "PT": "",
+    "EN": "ChibiDash"
+  },
+  "329": {
+    "PT": "",
+    "EN": "c2a4b"
+  },
+  "330": {
+    "PT": "",
+    "EN": "rem"
+  },
+  "331": {
+    "PT": "",
+    "EN": "Cement(Erano)"
+  },
+  "332": {
+    "PT": "",
+    "EN": "Jimmy Le"
+  },
+  "333": {
+    "PT": "",
+    "EN": "Silkeregn"
+  },
+  "334": {
+    "PT": "",
+    "EN": "Katania"
+  },
+  "335": {
+    "PT": "",
+    "EN": "Artosha"
+  },
+  "336": {
+    "PT": "",
+    "EN": "CatTaiL Ruffian"
+  },
+  "337": {
+    "PT": "",
+    "EN": "Greile"
+  },
+  "338": {
+    "PT": "",
+    "EN": "Vending Machine"
+  },
+  "339": {
+    "PT": "",
+    "EN": "Techatticup"
+  },
+  "340": {
+    "PT": "",
+    "EN": "Crisiz"
+  },
+  "341": {
+    "PT": "",
+    "EN": "KiranIDK"
+  },
+  "342": {
+    "PT": "",
+    "EN": "Zert [New Formula]"
+  },
+  "345": {
+    "PT": "",
+    "EN": "Thanks to all who support us!"
+  },
+  "348": {
+    "PT": "",
+    "EN": "PRESENTED BY"
+  },
+  "349": {
+    "PT": "",
+    "EN": "ADVENTURER'S TAVERN INC."
+  },
+  "359": {
+    "PT": "",
+    "EN": "AND..."
+  },
+  "360": {
+    "PT": "",
+    "EN": "PLAYER"
+  },
+  "361": {
+    "PT": "",
+    "EN": "YOU"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "1": {
+    "ID": 1,
+    "Character": "system",
+    "StoryText": "还是看看再走吧",
+    "EN": "(I should take a look around first.)",
+    "JP": "ちょっと見ていこうかな。",
+    "TC": "還是看看再走吧",
+    "Portrait": "Normal",
+    "Option": "",
+    "AudioName": ""
+  },
+  "2": {
+    "ID": 2,
+    "Character": "system",
+    "StoryText": "不能就这样走掉！",
+    "EN": "(I can't just leave!)",
+    "JP": "ちょっと見ていこうかな。",
+    "TC": "不能就這樣走掉！",
+    "Portrait": "Normal",
+    "Option": "",
+    "AudioName": ""
+  },
+  "3": {
+    "ID": 3,
+    "Character": "system",
+    "StoryText": "老式的电视机，还配有盒式录像带播放器与游戏机，有仔细维护过的痕迹",
+    "EN": "It's a CRT TV, connected to a video recorder and a retro game console.\nThey're all pretty old, but they're in great condition.",
+    "JP": "ブラウン管テレビだ。ビデオデッキやレトロゲーム機が接続されている。\nどれも古いものだが、しっかりとメンテナンスが施されているようだ。",
+    "TC": "舊式的電視機，還配有盒式錄影帶播放器與遊戲機，有仔細維護過的痕跡",
+    "Portrait": "Normal",
+    "Option": "",
+    "AudioName": ""
+  },
+  "4": {
+    "ID": 4,
+    "Character": "system",
+    "StoryText": "古朴的柜子，看起相当有年代感",
+    "EN": "This cabinet must be an antique.\nThe old-fashioned design really adds to the atmosphere.",
+    "JP": "この戸棚は年代ものだな。古風なデザインが雰囲気作りに一役買っている。",
+    "TC": "古樸的櫃子，看起相當有年代感",
+    "Portrait": "Normal",
+    "Option": "",
+    "AudioName": ""
+  },
+  "5": {
+    "ID": 5,
+    "Character": "system",
+    "StoryText": "老旧的墙面，壁纸似乎有要剥落的迹象",
+    "EN": "The wallpaper is so old, it looks like it's about to peel off in places.",
+    "JP": "かなり古い壁だ。やや壁紙が剝がれている。",
+    "TC": "老舊的牆面，壁紙似乎有要剝落的跡象",
+    "Portrait": "Normal",
+    "Option": "",
+    "AudioName": ""
+  },
+  "6": {
+    "ID": 6,
+    "Character": "system",
+    "StoryText": "老旧的桌子，有刚刚擦拭过的痕迹",
+    "EN": "The tables look old, but they're clean and in good shape.",
+    "JP": "年季が入った机だ。しっかりと手入れがされている。",
+    "TC": "老舊的桌子，有剛剛擦拭過的痕跡",
+    "Portrait": "Normal",
+    "Option": "",
+    "AudioName": ""
+  },
+  "7": {
+    "ID": 7,
+    "Character": "xiaobai2",
+    "StoryText": "如果哪一天……也许哪一天店会再开门的话……请务必再来光临。",
+    "EN": "If, someday, the cafe reopens... Please come again.",
+    "JP": "もしいつか……いつかお店を開く時がきたら……是非お越しください。",
+    "TC": "如果哪一天……也許哪一天店會再開門的話……請務必再來光臨。",
+    "Portrait": "Smile",
+    "Option": "",
+    "AudioName": "2_Ensyutsu2_part2_35_xiaobai"
+  },
+  "8": {
+    "ID": 8,
+    "Character": "xiaobai",
+    "StoryText": "今天久违地营业了，一定是一个好兆头！",
+    "EN": "It's been so long since we've gotten a customer.\nThis must be a good sign!",
+    "JP": "今日は久しぶりに営業したから、きっといい事が起こるかも！",
+    "TC": "今天久違地營業了，一定是一個好兆頭！",
+    "Portrait": "normal",
+    "Option": "",
+    "AudioName": "2_Ensyutsu2_part2_98_xiaobai"
+  },
+  "9": {
+    "ID": 9,
+    "Character": "xiaobai",
+    "StoryText": "也许马上就能找到店长了也说不定……",
+    "EN": "Maybe the new manager is right around the corner...",
+    "JP": "店長がすぐに見つかる予感がする……。",
+    "TC": "也許馬上就能找到店長了也說不定……",
+    "Portrait": "reflection",
+    "Option": "",
+    "AudioName": "2_Ensyutsu2_part2_99_xiaobai"
+  },
+  "10": {
+    "ID": 10,
+    "Character": "xiaobai",
+    "StoryText": "……",
+    "EN": "......",
+    "JP": "……",
+    "TC": "……",
+    "Portrait": "normal",
+    "Option": "",
+    "AudioName": "2_Ensyutsu2_part2_100_xiaobai"
+  },
+  "11": {
+    "ID": 11,
+    "Character": "xiaobai",
+    "StoryText": "主人，你有兴趣……",
+    "EN": "Master, would you be interested in...",
+    "JP": "ご主人様……",
+    "TC": "主人，你有興趣……",
+    "Portrait": "reflection",
+    "Option": "",
+    "AudioName": "2_Ensyutsu2_part2_101_xiaobai"
+  },
+  "12": {
+    "ID": 12,
+    "Character": "xiaobai",
+    "StoryText": "啊，什么都没有，请别在意",
+    "EN": "Um, never mind. Please don't worry about it.",
+    "JP": "あ、何でもありません。気にしないでください。",
+    "TC": "啊，什麼都沒有，請別在意",
+    "Portrait": "serious",
+    "Option": "",
+    "AudioName": "2_Ensyutsu2_part2_102_xiaobai"
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "0": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "HMM?! Sorry, sir, may I see thy pendant...?"
+  },
+  "1": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "Egad! This is... the bloodstone from \"Castle Symphony\"...?! \nNever has official merchandise of it ever been created..."
+  },
+  "2": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "I had never imagined I would ever see something\nthat looks exactly like it! This is so, very, RARE...!"
+  },
+  "3": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "Ngh... I want it... I want it so badly...!!\nSir! Wouldst thou be willing to trade it with me?!"
+  },
+  "4": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "In exchange, I offer thee my family heirloom...\nA life-size figure from \"Is the Order a Little Sister\"!"
+  },
+  "5": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Aye.:option1;Nay.:option2"
+  },
+  "6": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "HUZZAHHHH! The trade has been made!\nThen may I have the pendant?"
+  },
+  "7": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You give the otaku the pendant, and he tells you\nthe life-size figure will be mailed your apartment at a later date."
+  },
+  "8": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(No, I can't do that. I have to give it back to that girl.)"
+  },
+  "9": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "ARGH! I am utterly vexed!\nIt must be an extremely important trinket!"
+  },
+  "10": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You put away the pendant and leave the shop."
+  },
+  "11": {
+    "Personagem": "Yuka",
+    "PT": "",
+    "EN": "Welcome! We have something special on sale today!"
+  },
+  "12": {
+    "Personagem": "Yuka",
+    "PT": "",
+    "EN": "It's a life-size figure from \"Is the Order a Little Sister?\"!\nNow at a special, extra-low price of 70,000 yen!"
+  },
+  "13": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(70,000 yen... That's probably much cheaper than what it usually goes for,\nbut it's still not something I can fork out willy-nilly...)"
+  },
+  "14": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Buy it:option3;Don't buy it:option4"
+  },
+  "15": {
+    "Personagem": "Yuka",
+    "PT": "",
+    "EN": "Thank you for your purchase!"
+  },
+  "16": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You purchased the life-size \"Is the Order a Little Sister\"? figure.\nIt will be mailed to your apartment at a later date."
+  },
+  "17": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I can't, I don't have enough money...)"
+  },
+  "18": {
+    "Personagem": "Yuka",
+    "PT": "",
+    "EN": "I see... This is a limited offer for today only,\nso if you want it, don't miss your chance!"
+  },
+  "19": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "Nyeheheh, the bloodstone's bewitching glimmer... How stunning...\nTo think I would come upon something so rare!"
+  },
+  "20": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(That's... the pendant I gave up!)"
+  },
+  "21": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(I gave it up even though I found it on the street.\nIt's too late to regret it, but I still feel kinda bad...)"
+  },
+  "22": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "...Hm? Dost thou want this pendant?"
+  },
+  "23": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "Nay, nay! I cannot give it to thee... Unless thou trades me\na life-size figure of Is the Order a Little Sister? for it!"
+  },
+  "24": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Aye, let us trade:option5;Nay, I will not trade:option6"
+  },
+  "25": {
+    "Personagem": "Fukuda",
+    "PT": "",
+    "EN": "HUH?! Dost thou truly have it...?!\nVery well, I am a man of my word. This pendant belongs to thee!"
+  },
+  "26": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "You give up your ownership of the life-size figure\nand trade back the pendant."
+  },
+  "27": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(...No way. I'm not buying it back for more than I sold it for!)"
+  },
+  "28": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(A life-size figure... I wonder if they have one on sale here.)"
+  },
+  "29": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Augh, all of my favorite series are attacking me from all sides...!"
+  },
+  "30": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Don't spend your lunch money on merch again, okay?\""
+  },
+  "31": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "I-I know that!"
+  },
+  "32": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Actually, I've just started an \"oshi fund.\"\nI glued a picture of my favorite maid character onto a piggy bank..."
+  },
+  "33": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "And I've written this story in my head that she's saving money\nto buy her lady—that's me—a present! It's working wonders!"
+  },
+  "34": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Why don't you try it too, Manager?"
+  },
+  "35": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "YOOOOOOOOOOOOOOOOO!!\nI finally got my hands on ancient scriptures!"
+  },
+  "36": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Wait, that's...! That's my family's secret scroll!"
+  },
+  "37": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Hmm? What's with that look?"
+  },
+  "38": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Don't tell me... Are you planning to kill and loot me for these scrolls...?!"
+  },
+  "39": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Nooo no no, nothin' of the sort.\nIt's just that... those are really important to me."
+  },
+  "40": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Huh! Well, it's hard to turn down an offer from a cute girl...\nBut I'm gonna stand my ground! I'm not giving 'em to you!"
+  },
+  "41": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "One's for keeping, and one's for reference.\nI was asked to get them as props for cosplay!"
+  },
+  "42": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Please...! They're really important!\""
+  },
+  "43": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Then at least offer something in return! No handouts here!\nI need reference photos for a Japanese-style cosplay, and STAT!"
+  },
+  "44": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "What do ya reckon we should show him in exchange?"
+  },
+  "45": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "A real katana:option7;A real shrine maiden uniform:option8;A real ghost:option9"
+  },
+  "46": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "A katana, huh... I think they're cool too,\nbut I'm afraid I don't have a real one lyin' around..."
+  },
+  "47": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(That's a shame... What else could we show him?)"
+  },
+  "48": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Ain'tcha the only one who could see the ghost, though...?"
+  },
+  "49": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(Oh, right... What else could we show him?)"
+  },
+  "50": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"You know... This person right here is actually a real life shrine maiden.\""
+  },
+  "51": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Wait, HUHHHHHH?! A REAL shrine maiden?\nIn the flesh? True story not clickbait?!?!"
+  },
+  "52": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "As long as ya promise not to put 'em on the internet,\nI don't mind ya takin' a couple pictures. C'mon, let's go to the shrine!"
+  },
+  "53": {
+    "Personagem": "Yuka",
+    "PT": "",
+    "EN": "A campaign? I'll go ask our manager,\nbut I'm pretty sure we can join."
+  },
+  "54": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "Really?! Thank you so much!"
+  },
+  "55": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Please give these to your manager!\""
+  },
+  "56": {
+    "Personagem": "Yuka",
+    "PT": "",
+    "EN": "Oh, thank you! Then I'll contact you again\nonce I've gotten the confirmation."
+  },
+  "57": {
+    "Personagem": "Shiro",
+    "PT": "",
+    "EN": "A tie-in with THE anime store of Electric Street...\nThis campaign is going to be amazing!"
+  },
+  "58": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "These days, I see merchandise of retro games more often."
+  },
+  "59": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "I respect their keen eye for the artifacts of old."
+  },
+  "60": {
+    "Personagem": "???",
+    "PT": "",
+    "EN": "...EGAD?!?!"
+  },
+  "61": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "What an immaculate and fair gothic lolita maiden!"
+  },
+  "62": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "What character might thou be cosplaying?!\nMay I take a photo...?!"
+  },
+  "63": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "S-Silence! This isn't a costume...!"
+  },
+  "64": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Save Favna:option10;Stay quiet:option12"
+  },
+  "65": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Please calm down. She's not a cosplayer.\""
+  },
+  "66": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Ohhh... My apologies.\nShe looks as if she hails from the world of Castle Symphony,\nthus I could hardly conceal my excitement."
+  },
+  "67": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "It's fine. I shall take that as a compliment."
+  },
+  "68": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Good job, my familiar.\n...Thank you for saving me."
+  },
+  "69": {
+    "Personagem": "Favna",
+    "PT": "",
+    "EN": "Ugh, what are you just standing there for?!\nLet's get out of here!"
+  },
+  "70": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "Favna grabs you by the arm\nand you hurriedly run away..."
+  },
+  "71": {
+    "Personagem": "(narração)",
+    "PT": "",
+    "EN": "Secondhand doujinshi line the shelves.\nAmong them, you spot a doujinshi by Holy Hanpen...\nwho you know better as Honoka. It goes for quite a high price."
+  },
+  "72": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Why are you a doujin artist, Honoka?\nYou don't seem like the type to get really invested in a show.\""
+  },
+  "73": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Yeah, I figured you'd think so.\nActually, there's a reason for that..."
+  },
+  "74": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "My dream is to draw for somethin' niche with a tiny fandom\nand really dig deep into somethin' niche within that niche."
+  },
+  "75": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "But whenever I make a doujinshi,\nfolks come crashin' in and livenin' up the place..."
+  },
+  "76": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Popular fandoms just feel worse to be in for some reason,\nso I move on to somethin' else, and then... it just happens all over again."
+  },
+  "77": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"Sounds to me that your art has the power\nto promote and uplift hidden gems.\""
+  },
+  "78": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "(But I understand not liking being influenced by everyone else's opinion...\nI guess being popular has its downsides too.)"
+  },
+  "79": {
+    "Personagem": "(protagonista)",
+    "PT": "",
+    "EN": "\"I hope you can find a fandom where you can create freely.\""
+  },
+  "80": {
+    "Personagem": "suinaixiang2",
+    "PT": "",
+    "EN": "Thanks. I'll keep supportin' the media I've gotten into\nover the years and try to find somethin' at my own pace."
+  },
+  "81": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "To enter the Adventurer's Tavern, thou must have a Rainbow Controller!\nIn order to acquire one, thou shall bring to me these items three!"
+  },
+  "82": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "The Sun Hard Drive, Raincloud Joystick, and Dragon Badge!"
+  },
+  "83": {
+    "Personagem": "Toshio",
+    "PT": "",
+    "EN": "Where could they possibly be... Alas!"
+  }
+}

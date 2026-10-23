@@ -1,0 +1,126 @@
+{
+  "0": {
+    "Id": 0,
+    "Image": "Step_MakeCoffee"
+  },
+  "1": {
+    "Id": 1,
+    "Image": "Step_MakeCoffee_Handdrip"
+  },
+  "2": {
+    "Id": 2,
+    "Image": "Step_Milk"
+  },
+  "3": {
+    "Id": 3,
+    "Image": "Step_MilkSpecial1"
+  },
+  "4": {
+    "Id": 4,
+    "Image": "Step_Milkspecial2"
+  },
+  "5": {
+    "Id": 5,
+    "Image": "Step_AddChocolates"
+  },
+  "6": {
+    "Id": 6,
+    "Image": "Step_Cinnamon"
+  },
+  "7": {
+    "Id": 7,
+    "Image": "Step_CinnamonSpecial"
+  },
+  "8": {
+    "Id": 8,
+    "Image": "Step_MakeCoffee_Suger"
+  },
+  "9": {
+    "Id": 9,
+    "Image": "Step_AddCaramel"
+  },
+  "10": {
+    "Id": 10,
+    "Image": "Step_AddCaramelSpecial"
+  },
+  "11": {
+    "Id": 11,
+    "Image": "Step_AddHoney"
+  },
+  "12": {
+    "Id": 12,
+    "Image": "Step_AddHoneySpecial"
+  },
+  "13": {
+    "Id": 13,
+    "Image": "Step_MakeCoffee_Cream"
+  },
+  "14": {
+    "Id": 14,
+    "Image": "Step_MakeCoffee_Rum"
+  },
+  "15": {
+    "Id": 15,
+    "Image": "Step_AddRumSpecial"
+  },
+  "16": {
+    "Id": 16,
+    "Image": "Step_MagicPotion"
+  },
+  "17": {
+    "Id": 17,
+    "Image": "Step_CondensedMilk"
+  },
+  "18": {
+    "Id": 18,
+    "Image": "Step_CondensedMilkSpecial1"
+  },
+  "19": {
+    "Id": 19,
+    "Image": "Step_CondensedMilkSpecial2"
+  },
+  "20": {
+    "Id": 20,
+    "Image": "Step_CondensedMilkSpecial3"
+  },
+  "21": {
+    "Id": 21,
+    "Image": "Step_Tea"
+  },
+  "22": {
+    "Id": 22,
+    "Image": "Step_Soymilk"
+  },
+  "23": {
+    "Id": 23,
+    "Image": "Step_SoymilkSpecial1"
+  },
+  "24": {
+    "Id": 24,
+    "Image": "Step_SoymilkSpecial2"
+  },
+  "25": {
+    "Id": 25,
+    "Image": "Step_Juice"
+  },
+  "26": {
+    "Id": 26,
+    "Image": "Step_Egg"
+  },
+  "27": {
+    "Id": 27,
+    "Image": "Step_EspressoSpecial"
+  },
+  "28": {
+    "Id": 28,
+    "Image": "Step_DripCoffeeSpecial"
+  },
+  "29": {
+    "Id": 29,
+    "Image": "Step_Icream"
+  },
+  "30": {
+    "Id": 30,
+    "Image": "Step_IcecreamSpecial"
+  }
+}

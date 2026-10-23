@@ -1,0 +1,16 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1029_Jiro_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1029_Jiro_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1029_Jiro_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1029_Jiro_Basic",
+    "Frame": "4_9"
+  }
+}

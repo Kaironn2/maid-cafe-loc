@@ -1,0 +1,3260 @@
+{
+  "0": {
+    "Id": 0,
+    "CnText": "芙哇芙哇女仆咖啡厅",
+    "JpText": "電気街の喫茶店",
+    "EnText": "Maid Cafe on Electric Street",
+    "TcText": "芙哇芙哇女僕咖啡廳",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "1": {
+    "Id": 1,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "2": {
+    "Id": 2,
+    "CnText": "刘博文导演作品",
+    "JpText": "劉博文プロデュース作品",
+    "EnText": "A HIROBUMI RYU GAME",
+    "TcText": "劉博文導演作品",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "3": {
+    "Id": 3,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "4": {
+    "Id": 4,
+    "CnText": "配音演员",
+    "JpText": "声の出演",
+    "EnText": "VOICE CAST",
+    "TcText": "配音演員",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "5": {
+    "Id": 5,
+    "CnText": "神岸白 长谷川育美",
+    "JpText": "神岸白　長谷川育美",
+    "EnText": "Ikumi Hasegawa as Shiro",
+    "TcText": "神岸白 長谷川育美",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "6": {
+    "Id": 6,
+    "CnText": "向坂心优 伊藤彩沙",
+    "JpText": "向坂心優　伊藤彩沙",
+    "EnText": "Ayasa Ito as Miyu",
+    "TcText": "向坂心優 伊藤彩沙",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "7": {
+    "Id": 7,
+    "CnText": "星见法芙娜 铃代纱弓",
+    "JpText": "星見ファフナ　鈴代紗弓",
+    "EnText": "Sayumi Suzushiro as Favna",
+    "TcText": "星見法芙娜 鈴代紗弓",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "8": {
+    "Id": 8,
+    "CnText": "石田穗乃香 石川由依",
+    "JpText": "石田ほのか　石川由依",
+    "EnText": "Yui Ishikawa as Honoka",
+    "TcText": "石田穗乃香 石川由依",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "9": {
+    "Id": 9,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "10": {
+    "Id": 10,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "11": {
+    "Id": 11,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "12": {
+    "Id": 12,
+    "CnText": "开发",
+    "JpText": "開発",
+    "EnText": "Development",
+    "TcText": "開發",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "13": {
+    "Id": 13,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "14": {
+    "Id": 14,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "15": {
+    "Id": 15,
+    "CnText": "制作人 & 导演",
+    "JpText": "プロデューサー & ディレクター",
+    "EnText": "Producer & Director",
+    "TcText": "製作人 & 導演",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "16": {
+    "Id": 16,
+    "CnText": "刘博文(龘龘)",
+    "JpText": "劉博文",
+    "EnText": "HIROBUMI RYU",
+    "TcText": "劉博文(龘龘)",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "17": {
+    "Id": 17,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "18": {
+    "Id": 18,
+    "CnText": "首席策划",
+    "JpText": "リードプランナー",
+    "EnText": "Lead Game Designer",
+    "TcText": "首席策劃",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "19": {
+    "Id": 19,
+    "CnText": "李名蔚",
+    "JpText": "李名蔚",
+    "EnText": "MINGWEI LI",
+    "TcText": "李名蔚",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "20": {
+    "Id": 20,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "21": {
+    "Id": 21,
+    "CnText": "助理策划",
+    "JpText": "アシスタントプランナー",
+    "EnText": "Assistant Game Designer",
+    "TcText": "助理策劃",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "22": {
+    "Id": 22,
+    "CnText": "孙源初",
+    "JpText": "孫源初",
+    "EnText": "YUANCHU SUN",
+    "TcText": "孫源初",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "23": {
+    "Id": 23,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "24": {
+    "Id": 24,
+    "CnText": "首席美术",
+    "JpText": "リードアーティスト",
+    "EnText": "Lead Artist",
+    "TcText": "首席美術",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "25": {
+    "Id": 25,
+    "CnText": "方磊",
+    "JpText": "方磊",
+    "EnText": "LEI FANG",
+    "TcText": "方磊",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "26": {
+    "Id": 26,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "27": {
+    "Id": 27,
+    "CnText": "助理美术",
+    "JpText": "アシスタントアーティスト",
+    "EnText": "Assistant Artist",
+    "TcText": "助理美術",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "28": {
+    "Id": 28,
+    "CnText": "陈嘉毅",
+    "JpText": "陳嘉毅",
+    "EnText": "JIAYI CHEN",
+    "TcText": "陳嘉毅",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "29": {
+    "Id": 29,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "30": {
+    "Id": 30,
+    "CnText": "首席程序",
+    "JpText": "リードプログラマー",
+    "EnText": "Lead Programmer",
+    "TcText": "首席程式",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "31": {
+    "Id": 31,
+    "CnText": "夏文阵",
+    "JpText": "夏文陣",
+    "EnText": "WENZHEN XIA",
+    "TcText": "夏文陣",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "32": {
+    "Id": 32,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "33": {
+    "Id": 33,
+    "CnText": "程序",
+    "JpText": "プログラマー",
+    "EnText": "Programmer",
+    "TcText": "程式",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "34": {
+    "Id": 34,
+    "CnText": "李名蔚",
+    "JpText": "李名蔚",
+    "EnText": "MINGWEI LI",
+    "TcText": "李名蔚",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "35": {
+    "Id": 35,
+    "CnText": "卢昊",
+    "JpText": "盧昊",
+    "EnText": "HAO LU",
+    "TcText": "盧昊",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "36": {
+    "Id": 36,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "37": {
+    "Id": 37,
+    "CnText": "剧本导演",
+    "JpText": "シナリオディレクター",
+    "EnText": "Scenario Director",
+    "TcText": "劇本導演",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "38": {
+    "Id": 38,
+    "CnText": "刘博文(龘龘)",
+    "JpText": "劉博文",
+    "EnText": "HIROBUMI RYU",
+    "TcText": "劉博文(龘龘)",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "39": {
+    "Id": 39,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "40": {
+    "Id": 40,
+    "CnText": "文案",
+    "JpText": "シナリオライター",
+    "EnText": "Scenario Writer",
+    "TcText": "文案",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "41": {
+    "Id": 41,
+    "CnText": "徐赐",
+    "JpText": "徐賜",
+    "EnText": "CI XU",
+    "TcText": "徐賜",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "42": {
+    "Id": 42,
+    "CnText": "国永昌也",
+    "JpText": "國永昌也",
+    "EnText": "MASAYA KUNINAGA",
+    "TcText": "國永昌也",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "43": {
+    "Id": 43,
+    "CnText": "Zakurosuke",
+    "JpText": "ザクロスケ",
+    "EnText": "Zakurosuke",
+    "TcText": "Zakurosuke",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "44": {
+    "Id": 44,
+    "CnText": "kyozy tohno",
+    "JpText": "トオノキョウジ",
+    "EnText": "kyozy tohno",
+    "TcText": "kyozy tohno",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "45": {
+    "Id": 45,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "46": {
+    "Id": 46,
+    "CnText": "支持团队",
+    "JpText": "サポートメンバー",
+    "EnText": "Support Team",
+    "TcText": "支援團隊",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "47": {
+    "Id": 47,
+    "CnText": "孙青",
+    "JpText": "孫青",
+    "EnText": "QING SUN",
+    "TcText": "孫青",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "48": {
+    "Id": 48,
+    "CnText": "廖贤崴",
+    "JpText": "廖賢崴",
+    "EnText": "XIANWEI LIAO",
+    "TcText": "廖賢崴",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "49": {
+    "Id": 49,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "50": {
+    "Id": 50,
+    "CnText": "音乐",
+    "JpText": "サウンド",
+    "EnText": "Sound",
+    "TcText": "音樂",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "51": {
+    "Id": 51,
+    "CnText": "Salt Sound Studio",
+    "JpText": "Salt Sound Studio",
+    "EnText": "Salt Sound Studio",
+    "TcText": "Salt Sound Studio",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "52": {
+    "Id": 52,
+    "CnText": "MoppySound",
+    "JpText": "もっぴーさうんど",
+    "EnText": "MoppySound",
+    "TcText": "MoppySound",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "53": {
+    "Id": 53,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "54": {
+    "Id": 54,
+    "CnText": "字体",
+    "JpText": "フォント",
+    "EnText": "Font",
+    "TcText": "字體",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "55": {
+    "Id": 55,
+    "CnText": "Cubic 11/俐方体11号",
+    "JpText": "Cubic 11/俐方体11号",
+    "EnText": "Cubic 11/俐方体11号",
+    "TcText": "Cubic 11/俐方體11號",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "56": {
+    "Id": 56,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "57": {
+    "Id": 57,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "58": {
+    "Id": 58,
+    "CnText": "发行",
+    "JpText": "パブリッシング",
+    "EnText": "Publishing",
+    "TcText": "發行",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "59": {
+    "Id": 59,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "60": {
+    "Id": 60,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "61": {
+    "Id": 61,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 1,
+    "LogoName": "Square_Large_Bold_"
+  },
+  "62": {
+    "Id": 62,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "63": {
+    "Id": 63,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "64": {
+    "Id": 64,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "65": {
+    "Id": 65,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "66": {
+    "Id": 66,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "67": {
+    "Id": 67,
+    "CnText": "制作人",
+    "JpText": "プロデューサー",
+    "EnText": "Producer",
+    "TcText": "製作人",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "68": {
+    "Id": 68,
+    "CnText": "水谷 俊次",
+    "JpText": "水谷 俊次",
+    "EnText": "SHUNJI MIZUTANI",
+    "TcText": "水谷 俊次",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "69": {
+    "Id": 69,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "70": {
+    "Id": 70,
+    "CnText": "助理制作人",
+    "JpText": "アシスタントプロデューサー",
+    "EnText": "Assistant Producer",
+    "TcText": "助理製作人",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "71": {
+    "Id": 71,
+    "CnText": "坂井 俊一",
+    "JpText": "坂井 俊一",
+    "EnText": "SYUNICHI SAKAI",
+    "TcText": "坂井 俊一",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "72": {
+    "Id": 72,
+    "CnText": "Eliza Cheang",
+    "JpText": "イライザ　テイ",
+    "EnText": "ELIZA CHEANG",
+    "TcText": "Eliza Cheang",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "73": {
+    "Id": 73,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "74": {
+    "Id": 74,
+    "CnText": "国际市场运营推广",
+    "JpText": "グローバルオペレーション・マーケティング",
+    "EnText": "International Operations & Marketing",
+    "TcText": "國際市場運營推廣",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "75": {
+    "Id": 75,
+    "CnText": "Elaine Wong",
+    "JpText": "イレイン ウォン",
+    "EnText": "ELAINE WONG",
+    "TcText": "Elaine Wong",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "76": {
+    "Id": 76,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "77": {
+    "Id": 77,
+    "CnText": "英文本地化",
+    "JpText": "ENGLISH LOCALIZATION",
+    "EnText": "ENGLISH LOCALIZATION",
+    "TcText": "英文在地化",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "78": {
+    "Id": 78,
+    "CnText": "Shuma",
+    "JpText": "しゅま",
+    "EnText": "SHUMA",
+    "TcText": "Shuma",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "79": {
+    "Id": 79,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "80": {
+    "Id": 80,
+    "CnText": "中文本地化",
+    "JpText": "CHINESE LOCALIZATION",
+    "EnText": "CHINESE LOCALIZATION",
+    "TcText": "中文在地化",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "81": {
+    "Id": 81,
+    "CnText": "张 政",
+    "JpText": "張 政",
+    "EnText": "ZHENG ZHANG",
+    "TcText": "張 政",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "82": {
+    "Id": 82,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "83": {
+    "Id": 83,
+    "CnText": "发行设计",
+    "JpText": "パブリッシングデザイン",
+    "EnText": "Publishing Design",
+    "TcText": "發行設計",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "84": {
+    "Id": 84,
+    "CnText": "野北 大景",
+    "JpText": "野北 大景",
+    "EnText": "TAKAHIRO NOGITA",
+    "TcText": "野北 大景",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "85": {
+    "Id": 85,
+    "CnText": "Asuka Bailey",
+    "JpText": "ベイリー アスカ",
+    "EnText": "ASUKA BAILEY",
+    "TcText": "Asuka Bailey",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "86": {
+    "Id": 86,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "87": {
+    "Id": 87,
+    "CnText": "发行支援",
+    "JpText": "パブリッシングサポート",
+    "EnText": "Publishing Support",
+    "TcText": "發行支援",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "88": {
+    "Id": 88,
+    "CnText": "大原 靖之",
+    "JpText": "大原 靖之",
+    "EnText": "YASUYUKI OHARA",
+    "TcText": "大原 靖之",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "89": {
+    "Id": 89,
+    "CnText": "村林 小百合",
+    "JpText": "村林 小百合",
+    "EnText": "SAYURI MURABAYASHI",
+    "TcText": "村林 小百合",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "90": {
+    "Id": 90,
+    "CnText": "志田 千晶",
+    "JpText": "志田 千晶",
+    "EnText": "CHIAKI SHIDA",
+    "TcText": "志田 千晶",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "91": {
+    "Id": 91,
+    "CnText": "長倉 秀幸",
+    "JpText": "長倉 秀幸",
+    "EnText": "HIDEYUKI NAGAKURA",
+    "TcText": "長倉 秀幸",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "92": {
+    "Id": 92,
+    "CnText": "Wesley Tsen",
+    "JpText": "セン ウェズリー",
+    "EnText": "WESLEY TSEN",
+    "TcText": "Wesley Tsen",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "93": {
+    "Id": 93,
+    "CnText": "小林 真行",
+    "JpText": "小林 真行",
+    "EnText": "MICHAEL KOBAYASHI",
+    "TcText": "小林 真行",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "94": {
+    "Id": 94,
+    "CnText": "Tiffany Zhang",
+    "JpText": "張 インイン",
+    "EnText": "TIFFANY ZHANG",
+    "TcText": "Tiffany Zhang",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "95": {
+    "Id": 95,
+    "CnText": "尹 瀚文",
+    "JpText": "尹 瀚文",
+    "EnText": "HANWEN YIN",
+    "TcText": "尹 瀚文",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "96": {
+    "Id": 96,
+    "CnText": "居馬 奈々",
+    "JpText": "居馬 奈々",
+    "EnText": "NANA IBA",
+    "TcText": "居馬 奈々",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "97": {
+    "Id": 97,
+    "CnText": "河本 華",
+    "JpText": "河本 華",
+    "EnText": "HANA KAWAMOTO",
+    "TcText": "河本 華",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "98": {
+    "Id": 98,
+    "CnText": "広田 千晃",
+    "JpText": "広田 千晃",
+    "EnText": "CHIAKI HIROTA",
+    "TcText": "広田 千晃",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "99": {
+    "Id": 99,
+    "CnText": "前林 眞奈美",
+    "JpText": "前林 眞奈美",
+    "EnText": "MANAMI MAEBAYASHI",
+    "TcText": "前林 眞奈美",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "100": {
+    "Id": 100,
+    "CnText": "山田 早貴",
+    "JpText": "山田 早貴",
+    "EnText": "SAKI YAMADA",
+    "TcText": "山田 早貴",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "101": {
+    "Id": 101,
+    "CnText": "辻本 義雄",
+    "JpText": "辻本 義雄",
+    "EnText": "YOSHIO TSUJIMOTO",
+    "TcText": "辻本 義雄",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "102": {
+    "Id": 102,
+    "CnText": "Mario Maqueo",
+    "JpText": "マリオ マケオ",
+    "EnText": "MARIO MAQUEO",
+    "TcText": "Mario Maqueo",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "103": {
+    "Id": 103,
+    "CnText": "Christopher William Horton",
+    "JpText": "ホートン クリストファー ウイリアム",
+    "EnText": "CHRISTOPHER WILLIAM HORTON",
+    "TcText": "Christopher William Horton",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "104": {
+    "Id": 104,
+    "CnText": "岡松 美瞳",
+    "JpText": "岡松 美瞳",
+    "EnText": "MIMI OKAMATSU",
+    "TcText": "岡松 美瞳",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "105": {
+    "Id": 105,
+    "CnText": "須藤 明人",
+    "JpText": "須藤 明人",
+    "EnText": "AKITO SUDO",
+    "TcText": "須藤 明人",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "106": {
+    "Id": 106,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "107": {
+    "Id": 107,
+    "CnText": "总监",
+    "JpText": "エグゼクティブオフィサー",
+    "EnText": "Executive Officer",
+    "TcText": "總監",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "108": {
+    "Id": 108,
+    "CnText": "二見 眞治",
+    "JpText": "二見 眞治",
+    "EnText": "JJ SHINJI FUTAMI",
+    "TcText": "二見 眞治",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "109": {
+    "Id": 109,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "110": {
+    "Id": 110,
+    "CnText": "总经理",
+    "JpText": "プレジデント",
+    "EnText": "President/CEO",
+    "TcText": "總經理",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "111": {
+    "Id": 111,
+    "CnText": "Ibai Vinas Ameztoy",
+    "JpText": "イバイ アメストイ",
+    "EnText": "IBAI VINAS AMEZTOY",
+    "TcText": "Ibai Vinas Ameztoy",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "112": {
+    "Id": 112,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "113": {
+    "Id": 113,
+    "CnText": "日语配音制作",
+    "JpText": "日本語版音声制作",
+    "EnText": "JAPANESE VOICE PRODUCTION",
+    "TcText": "日語配音製作",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "114": {
+    "Id": 114,
+    "CnText": "京亜株式会社",
+    "JpText": "京亜株式会社",
+    "EnText": "KYOA Inc.",
+    "TcText": "京亜株式会社",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "115": {
+    "Id": 115,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "116": {
+    "Id": 116,
+    "CnText": "配音制作总监",
+    "JpText": "音声制作担当",
+    "EnText": "VOICE PRODUCER",
+    "TcText": "配音製作總監",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "117": {
+    "Id": 117,
+    "CnText": "橋本 祥央",
+    "JpText": "橋本 祥央",
+    "EnText": "SHOO HASHIMOTO",
+    "TcText": "橋本 祥央",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "118": {
+    "Id": 118,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "119": {
+    "Id": 119,
+    "CnText": "选角负责人",
+    "JpText": "キャスティング・マネージャー",
+    "EnText": "CASTING MANAGER",
+    "TcText": "選角負責人",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "120": {
+    "Id": 120,
+    "CnText": "磯﨑 絵里",
+    "JpText": "磯﨑 絵里",
+    "EnText": "ERI ISOZAKI",
+    "TcText": "磯﨑 絵里",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "121": {
+    "Id": 121,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "122": {
+    "Id": 122,
+    "CnText": "录音工作室",
+    "JpText": "ボイス・レコーディングスタジオ",
+    "EnText": "RECORDING STUDIO",
+    "TcText": "錄音工作室",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "123": {
+    "Id": 123,
+    "CnText": "YOYOGI EKICHIKA STUDIO",
+    "JpText": "代々木エキチカスタジオ",
+    "EnText": "YOYOGI EKICHIKA STUDIO",
+    "TcText": "YOYOGI EKICHIKA STUDIO",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "124": {
+    "Id": 124,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "125": {
+    "Id": 125,
+    "CnText": "配音导演",
+    "JpText": "ボイスディレクター",
+    "EnText": "VOICE DIRECTOR",
+    "TcText": "配音導演",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "126": {
+    "Id": 126,
+    "CnText": "村松 久進（Allyスタジオ）",
+    "JpText": "村松 久進（Allyスタジオ）",
+    "EnText": "HISASHI MURAMATSU (ALLY STUDIO)",
+    "TcText": "村松 久進（Allyスタジオ）",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "127": {
+    "Id": 127,
+    "CnText": "平松 功光",
+    "JpText": "平松 功光",
+    "EnText": "NORIMITSU HIRAMATSU",
+    "TcText": "平松 功光",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "128": {
+    "Id": 128,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "129": {
+    "Id": 129,
+    "CnText": "录音工程师",
+    "JpText": "ボイスレコーディング・エンジニア",
+    "EnText": "VOICE RECORDING ENGINEER",
+    "TcText": "錄音工程師",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "130": {
+    "Id": 130,
+    "CnText": "橘 匠（Allyスタジオ）",
+    "JpText": "橘 匠（Allyスタジオ）",
+    "EnText": "TAKAFUMI TACHIBANA (ALLY STUDIO)",
+    "TcText": "橘 匠（Allyスタジオ）",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "131": {
+    "Id": 131,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "132": {
+    "Id": 132,
+    "CnText": "协力声优事务所",
+    "JpText": "キャスティング協力(五十音順）",
+    "EnText": "CASTING COOPERATION",
+    "TcText": "協力聲優事務所",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "133": {
+    "Id": 133,
+    "CnText": "ARTSVISION Incorporated",
+    "JpText": "株式会社アーツビジョン",
+    "EnText": "ARTSVISION Incorporated",
+    "TcText": "ARTSVISION Incorporated",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "134": {
+    "Id": 134,
+    "CnText": "HiBiKi",
+    "JpText": "響",
+    "EnText": "HiBiKi",
+    "TcText": "HiBiKi",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "135": {
+    "Id": 135,
+    "CnText": "mitt management Co.,Ltd.",
+    "JpText": "mitt management株式会社",
+    "EnText": "mitt management Co.,Ltd.",
+    "TcText": "mitt management Co.,Ltd.",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "136": {
+    "Id": 136,
+    "CnText": "RaccoonDog Co.,Ltd.",
+    "JpText": "株式会社ラクーンドッグ",
+    "EnText": "RaccoonDog Co.,Ltd.",
+    "TcText": "RaccoonDog Co.,Ltd.",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "137": {
+    "Id": 137,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "138": {
+    "Id": 138,
+    "CnText": "本地化测试(ACTIVE GAMING MEDIA Inc.)",
+    "JpText": "LQA(ACTIVE GAMING MEDIA Inc.)",
+    "EnText": "LQA(ACTIVE GAMING MEDIA Inc.)",
+    "TcText": "在地化測試(ACTIVE GAMING MEDIA Inc.)",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "139": {
+    "Id": 139,
+    "CnText": "Naoto Aimé Shimada",
+    "JpText": "ナオト エメ シマダ",
+    "EnText": "NAOTO AIMÉ SHIMADA",
+    "TcText": "Naoto Aimé Shimada",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "140": {
+    "Id": 140,
+    "CnText": "Julien Desjardin",
+    "JpText": "ジュリアン デスジャルディン",
+    "EnText": "JULIEN DESJARDIN",
+    "TcText": "Julien Desjardin",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "141": {
+    "Id": 141,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "142": {
+    "Id": 142,
+    "CnText": "游戏测试(ACTIVE GAMING MEDIA Inc.)",
+    "JpText": "デバッグ(ACTIVE GAMING MEDIA Inc.)",
+    "EnText": "Debug Team(ACTIVE GAMING MEDIA Inc.)",
+    "TcText": "遊戲測試(ACTIVE GAMING MEDIA Inc.)",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "143": {
+    "Id": 143,
+    "CnText": "室內 賢治",
+    "JpText": "室内 賢治",
+    "EnText": "KENJI MUROUCHI",
+    "TcText": "室內 賢治",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "144": {
+    "Id": 144,
+    "CnText": "柳 顯彥",
+    "JpText": "柳 顕彦",
+    "EnText": "AKIHIKO YANAGI",
+    "TcText": "柳 顕彦",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "145": {
+    "Id": 145,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "146": {
+    "Id": 146,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "147": {
+    "Id": 147,
+    "CnText": "合作企业",
+    "JpText": "協力先",
+    "EnText": "Collaborators",
+    "TcText": "合作企業",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "148": {
+    "Id": 148,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "149": {
+    "Id": 149,
+    "CnText": "飞鸟出版",
+    "JpText": "飛鳥出版",
+    "EnText": "Asuka Publishing",
+    "TcText": "飛鳥出版",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "150": {
+    "Id": 150,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "151": {
+    "Id": 151,
+    "CnText": "1904/1904",
+    "JpText": "1904/1904",
+    "EnText": "1904/1904",
+    "TcText": "1904/1904",
+    "Type": 1,
+    "LogoName": "1904_1920x1080"
+  },
+  "152": {
+    "Id": 152,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "153": {
+    "Id": 153,
+    "CnText": "1904GROUP",
+    "JpText": "1904GROUP",
+    "EnText": "1904GROUP",
+    "TcText": "1904GROUP",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "154": {
+    "Id": 154,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "155": {
+    "Id": 155,
+    "CnText": "彩虹卡拉OK",
+    "JpText": "カラオケ レインボー",
+    "EnText": "KARAOKE RAINBOW",
+    "TcText": "彩虹卡拉OK",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "156": {
+    "Id": 156,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "157": {
+    "Id": 157,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "158": {
+    "Id": 158,
+    "CnText": "くそオヤジ最後のひとふり",
+    "JpText": "くそオヤジ最後のひとふり",
+    "EnText": "くそオヤジ最後のひとふり",
+    "TcText": "くそオヤジ最後のひとふり",
+    "Type": 1,
+    "LogoName": "kusooyaji_1920x1080"
+  },
+  "159": {
+    "Id": 159,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "160": {
+    "Id": 160,
+    "CnText": "ゲーム探偵団",
+    "JpText": "ゲーム探偵団",
+    "EnText": "ゲーム探偵団",
+    "TcText": "ゲーム探偵団",
+    "Type": 1,
+    "LogoName": "gametanteidan_1920x1080"
+  },
+  "161": {
+    "Id": 161,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "162": {
+    "Id": 162,
+    "CnText": "ジャングル",
+    "JpText": "ジャングル",
+    "EnText": "ジャングル",
+    "TcText": "ジャングル",
+    "Type": 1,
+    "LogoName": "jungle_1920x1080"
+  },
+  "163": {
+    "Id": 163,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "164": {
+    "Id": 164,
+    "CnText": "駿河屋",
+    "JpText": "駿河屋",
+    "EnText": "駿河屋",
+    "TcText": "駿河屋",
+    "Type": 1,
+    "LogoName": "surugaya_1920x1080"
+  },
+  "165": {
+    "Id": 165,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "166": {
+    "Id": 166,
+    "CnText": "株式会社エーツー",
+    "JpText": "株式会社エーツー",
+    "EnText": "株式会社エーツー",
+    "TcText": "株式会社エーツー",
+    "Type": 1,
+    "LogoName": "a-Too_1920x1080"
+  },
+  "167": {
+    "Id": 167,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "168": {
+    "Id": 168,
+    "CnText": "Swallowtail",
+    "JpText": "Swallowtail",
+    "EnText": "Swallowtail",
+    "TcText": "Swallowtail",
+    "Type": 1,
+    "LogoName": "swallowtail_yellow_1920x1080"
+  },
+  "169": {
+    "Id": 169,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "170": {
+    "Id": 170,
+    "CnText": "スーパーポテト",
+    "JpText": "スーパーポテト",
+    "EnText": "スーパーポテト",
+    "TcText": "スーパーポテト",
+    "Type": 1,
+    "LogoName": "superpotato_1920x1080"
+  },
+  "171": {
+    "Id": 171,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "172": {
+    "Id": 172,
+    "CnText": "ソフマップ",
+    "JpText": "ソフマップ",
+    "EnText": "ソフマップ",
+    "TcText": "ソフマップ",
+    "Type": 1,
+    "LogoName": "sofmap_1920x1080"
+  },
+  "173": {
+    "Id": 173,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "174": {
+    "Id": 174,
+    "CnText": "通天閣",
+    "JpText": "通天閣",
+    "EnText": "TSUTENKAKU TOWER",
+    "TcText": "通天閣",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "175": {
+    "Id": 175,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "176": {
+    "Id": 176,
+    "CnText": "兔月屋书店",
+    "JpText": "兎月屋書店",
+    "EnText": "TOGETSUYA",
+    "TcText": "兔月屋書店",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "177": {
+    "Id": 177,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "178": {
+    "Id": 178,
+    "CnText": "得心章鱼烧 日本桥店",
+    "JpText": "大阪日本橋たこ焼き専門店 得心",
+    "EnText": "Osaka Nipponbashi Takoyaki Tokushin",
+    "TcText": "得心章魚燒 日本橋店",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "179": {
+    "Id": 179,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "180": {
+    "Id": 180,
+    "CnText": "ドラゴンスター",
+    "JpText": "ドラゴンスター",
+    "EnText": "ドラゴンスター",
+    "TcText": "ドラゴンスター",
+    "Type": 1,
+    "LogoName": "dragonstar_1920x1080"
+  },
+  "181": {
+    "Id": 181,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "182": {
+    "Id": 182,
+    "CnText": "日本桥商店会",
+    "JpText": "日本橋商店会",
+    "EnText": "Nipponbashi Shopping Association",
+    "TcText": "日本橋商店會",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "183": {
+    "Id": 183,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "184": {
+    "Id": 184,
+    "CnText": "Pontab",
+    "JpText": "ぽんタブ",
+    "EnText": "Pontab",
+    "TcText": "Pontab",
+    "Type": 1,
+    "LogoName": "Pontab_1920x1080"
+  },
+  "185": {
+    "Id": 185,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "186": {
+    "Id": 186,
+    "CnText": "Deci-litre Factory Inc.",
+    "JpText": "有限会社デシリットル・ファクトリー",
+    "EnText": "Deci-litre Factory Inc.",
+    "TcText": "Deci-litre Factory Inc.",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "187": {
+    "Id": 187,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "188": {
+    "Id": 188,
+    "CnText": "無限麻辣湯",
+    "JpText": "無限麻辣湯",
+    "EnText": "無限麻辣湯",
+    "TcText": "無限麻辣湯",
+    "Type": 1,
+    "LogoName": "Mugen_1920x1080"
+  },
+  "189": {
+    "Id": 189,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "190": {
+    "Id": 190,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "191": {
+    "Id": 191,
+    "CnText": "めいどりーみん",
+    "JpText": "めいどりーみん",
+    "EnText": "めいどりーみん",
+    "TcText": "めいどりーみん",
+    "Type": 1,
+    "LogoName": "maidreamin_1920x1080"
+  },
+  "192": {
+    "Id": 192,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "193": {
+    "Id": 193,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "194": {
+    "Id": 194,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "195": {
+    "Id": 195,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "196": {
+    "Id": 196,
+    "CnText": "特别鸣谢",
+    "JpText": "スペシャルサンクス",
+    "EnText": "Special Thanks",
+    "TcText": "特別鳴謝",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "197": {
+    "Id": 197,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "198": {
+    "Id": 198,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "199": {
+    "Id": 199,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "200": {
+    "Id": 200,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "201": {
+    "Id": 201,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "202": {
+    "Id": 202,
+    "CnText": "NIGORO",
+    "JpText": "NIGORO",
+    "EnText": "NIGORO",
+    "TcText": "NIGORO",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "203": {
+    "Id": 203,
+    "CnText": "《蔷薇与椿 〜豪华绚烂版〜》",
+    "JpText": "『薔薇と椿 〜お豪華絢爛版〜』",
+    "EnText": "Rose & Camellia Collection",
+    "TcText": "《薔薇與椿 〜豪華絢爛版〜》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "204": {
+    "Id": 204,
+    "CnText": "《La-Mulana》",
+    "JpText": "『La-Mulana』",
+    "EnText": "La-Mulana",
+    "TcText": "《La-Mulana》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "205": {
+    "Id": 205,
+    "CnText": "《La-Mulana 2》",
+    "JpText": "『La-Mulana 2』",
+    "EnText": "La-Mulana 2",
+    "TcText": "《La-Mulana 2》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "206": {
+    "Id": 206,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "207": {
+    "Id": 207,
+    "CnText": "Sukeban Games",
+    "JpText": "Sukeban Games",
+    "EnText": "Sukeban Games",
+    "TcText": "Sukeban Games",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "208": {
+    "Id": 208,
+    "CnText": "《VA-11 Hall-A: Cyberpunk Bartender Action》",
+    "JpText": "『VA-11 Hall-A: Cyberpunk Bartender Action』",
+    "EnText": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "TcText": "《VA-11 Hall-A: Cyberpunk Bartender Action》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "209": {
+    "Id": 209,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "210": {
+    "Id": 210,
+    "CnText": "hinyari9",
+    "JpText": "hinyari9",
+    "EnText": "hinyari9",
+    "TcText": "hinyari9",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "211": {
+    "Id": 211,
+    "CnText": "《熔铁少女》",
+    "JpText": "『溶鉄のマルフーシャ』",
+    "EnText": "Marfusha",
+    "TcText": "《熔鐵少女》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "212": {
+    "Id": 212,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "213": {
+    "Id": 213,
+    "CnText": "Petit Depotto",
+    "JpText": "Petit Depotto",
+    "EnText": "Petit Depotto",
+    "TcText": "Petit Depotto",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "214": {
+    "Id": 214,
+    "CnText": "《古诺希亚》",
+    "JpText": "『グノーシア』",
+    "EnText": "GNOSIA",
+    "TcText": "《古諾希亞》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "215": {
+    "Id": 215,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "216": {
+    "Id": 216,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "217": {
+    "Id": 217,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "218": {
+    "Id": 218,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "219": {
+    "Id": 219,
+    "CnText": "KOTAKE CREATE",
+    "JpText": "KOTAKE CREATE",
+    "EnText": "KOTAKE CREATE",
+    "TcText": "KOTAKE CREATE",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "220": {
+    "Id": 220,
+    "CnText": "《8号出口》",
+    "JpText": "『8番出口・8番のりば』",
+    "EnText": "The Exit 8",
+    "TcText": "《8號出口》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "221": {
+    "Id": 221,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "222": {
+    "Id": 222,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "223": {
+    "Id": 223,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "224": {
+    "Id": 224,
+    "CnText": "集英社游戏",
+    "JpText": "集英社ゲームズ",
+    "EnText": "SHUEISHA GAMES",
+    "TcText": "集英社遊戲",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "225": {
+    "Id": 225,
+    "CnText": "墓场文库",
+    "JpText": "墓場文庫",
+    "EnText": "Hakababunko",
+    "TcText": "墓場文庫",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "226": {
+    "Id": 226,
+    "CnText": "《都市传说解体中心》",
+    "JpText": "『都市伝説解体センター』",
+    "EnText": "Urban Myth Dissolution Center",
+    "TcText": "《都市傳說解體中心》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "227": {
+    "Id": 227,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "228": {
+    "Id": 228,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "229": {
+    "Id": 229,
+    "CnText": "Glitch Pitch",
+    "JpText": "Glitch Pitch",
+    "EnText": "Glitch Pitch",
+    "TcText": "Glitch Pitch",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "230": {
+    "Id": 230,
+    "CnText": "《Idol Manager》",
+    "JpText": "『アイドルマネージャー』",
+    "EnText": "Idol Manager",
+    "TcText": "《Idol Manager》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "231": {
+    "Id": 231,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "232": {
+    "Id": 232,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "233": {
+    "Id": 233,
+    "CnText": "Game*Spark Publishing",
+    "JpText": "Game*Spark Publishing",
+    "EnText": "Game*Spark Publishing",
+    "TcText": "Game*Spark Publishing",
+    "Type": 0,
+    "LogoName": "GameSparkPublishing_white_1920x1080"
+  },
+  "234": {
+    "Id": 234,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "235": {
+    "Id": 235,
+    "CnText": "《巫术外传:五大试炼》",
+    "JpText": "『ウィザードリィ外伝 五つの試練』",
+    "EnText": "Wizardry: The Five Ordeals",
+    "TcText": "《巫術外傳:五大試煉》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "236": {
+    "Id": 236,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "237": {
+    "Id": 237,
+    "CnText": "stggc",
+    "JpText": "stggc",
+    "EnText": "stggc",
+    "TcText": "stggc",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "238": {
+    "Id": 238,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "239": {
+    "Id": 239,
+    "CnText": "Game*Spark",
+    "JpText": "Game*Spark",
+    "EnText": "Game*Spark",
+    "TcText": "Game*Spark",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "240": {
+    "Id": 240,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "241": {
+    "Id": 241,
+    "CnText": "《 JANGEMA: JUNK GAMING MAIDEN 》 ",
+    "JpText": "『じゃんげま: JUNK GAMING MAIDEN』",
+    "EnText": "JANGEMA: JUNK GAMING MAIDEN",
+    "TcText": "《 JANGEMA: JUNK GAMING MAIDEN 》 ",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "242": {
+    "Id": 242,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "243": {
+    "Id": 243,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "244": {
+    "Id": 244,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "245": {
+    "Id": 245,
+    "CnText": "株式会社SNK",
+    "JpText": "株式会社SNK",
+    "EnText": "株式会社SNK",
+    "TcText": "株式会社SNK",
+    "Type": 1,
+    "LogoName": "SNK_1920x1080"
+  },
+  "246": {
+    "Id": 246,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "247": {
+    "Id": 247,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "248": {
+    "Id": 248,
+    "CnText": "《饿狼传说：群狼之城》",
+    "JpText": "『餓狼伝説 City of the Wolves』",
+    "EnText": "FATAL FURY: City of the Wolves",
+    "TcText": "《FATAL FURY: City of the Wolves》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "249": {
+    "Id": 249,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "250": {
+    "Id": 250,
+    "CnText": "《合金弹头》",
+    "JpText": "『METAL SLUG』",
+    "EnText": "METAL SLUG",
+    "TcText": "《METAL SLUG》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "251": {
+    "Id": 251,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "252": {
+    "Id": 252,
+    "CnText": "《拳皇 '97》",
+    "JpText": "『THE KING OF FIGHTERS '97』",
+    "EnText": "THE KING OF FIGHTERS '97",
+    "TcText": "《THE KING OF FIGHTERS '97》",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "253": {
+    "Id": 253,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "254": {
+    "Id": 254,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "255": {
+    "Id": 255,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "256": {
+    "Id": 256,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "257": {
+    "Id": 257,
+    "CnText": "特别支持者",
+    "JpText": "スペシャルサポーター",
+    "EnText": "Special Supporters",
+    "TcText": "特別支持者",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "258": {
+    "Id": 258,
+    "CnText": "春蕾不觉晓",
+    "JpText": "春蕾不觉晓",
+    "EnText": "春蕾不觉晓",
+    "TcText": "春蕾不覺曉",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "259": {
+    "Id": 259,
+    "CnText": "51号军令",
+    "JpText": "51号军令",
+    "EnText": "51号军令",
+    "TcText": "51號軍令",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "260": {
+    "Id": 260,
+    "CnText": "德芙",
+    "JpText": "德芙",
+    "EnText": "德芙",
+    "TcText": "德芙",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "261": {
+    "Id": 261,
+    "CnText": "八意豆子",
+    "JpText": "八意豆子",
+    "EnText": "八意豆子",
+    "TcText": "八意豆子",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "262": {
+    "Id": 262,
+    "CnText": "路丠丠",
+    "JpText": "路丠丠",
+    "EnText": "路丠丠",
+    "TcText": "路丠丠",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "263": {
+    "Id": 263,
+    "CnText": "椎名百合子",
+    "JpText": "椎名百合子",
+    "EnText": "椎名百合子",
+    "TcText": "椎名百合子",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "264": {
+    "Id": 264,
+    "CnText": "ZL6",
+    "JpText": "ZL6",
+    "EnText": "ZL6",
+    "TcText": "ZL6",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "265": {
+    "Id": 265,
+    "CnText": "量子弱猫",
+    "JpText": "量子弱猫",
+    "EnText": "量子弱猫",
+    "TcText": "量子弱貓",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "266": {
+    "Id": 266,
+    "CnText": "deea6",
+    "JpText": "deea6",
+    "EnText": "deea6",
+    "TcText": "deea6",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "267": {
+    "Id": 267,
+    "CnText": "Yuanr",
+    "JpText": "Yuanr",
+    "EnText": "Yuanr",
+    "TcText": "Yuanr",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "268": {
+    "Id": 268,
+    "CnText": "蒼歲",
+    "JpText": "蒼歲",
+    "EnText": "蒼歲",
+    "TcText": "蒼歲",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "269": {
+    "Id": 269,
+    "CnText": "玉宇云觞",
+    "JpText": "玉宇云觞",
+    "EnText": "玉宇云觞",
+    "TcText": "玉宇雲觴",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "270": {
+    "Id": 270,
+    "CnText": "欣粝",
+    "JpText": "欣粝",
+    "EnText": "欣粝",
+    "TcText": "欣糲",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "271": {
+    "Id": 271,
+    "CnText": "平泽唯",
+    "JpText": "平泽唯",
+    "EnText": "平泽唯",
+    "TcText": "平澤唯",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "272": {
+    "Id": 272,
+    "CnText": "whatfor",
+    "JpText": "whatfor",
+    "EnText": "whatfor",
+    "TcText": "whatfor",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "273": {
+    "Id": 273,
+    "CnText": "拉姆特",
+    "JpText": "拉姆特",
+    "EnText": "拉姆特",
+    "TcText": "拉姆特",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "274": {
+    "Id": 274,
+    "CnText": "王唯忠文",
+    "JpText": "王唯忠文",
+    "EnText": "王唯忠文",
+    "TcText": "王唯忠文",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "275": {
+    "Id": 275,
+    "CnText": "skykiseki",
+    "JpText": "skykiseki",
+    "EnText": "skykiseki",
+    "TcText": "skykiseki",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "276": {
+    "Id": 276,
+    "CnText": "Milkchan~",
+    "JpText": "Milkchan~",
+    "EnText": "Milkchan~",
+    "TcText": "Milkchan~",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "277": {
+    "Id": 277,
+    "CnText": "红薯比番薯大",
+    "JpText": "红薯比番薯大",
+    "EnText": "红薯比番薯大",
+    "TcText": "紅薯比番薯大",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "278": {
+    "Id": 278,
+    "CnText": "anlter",
+    "JpText": "anlter",
+    "EnText": "anlter",
+    "TcText": "anlter",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "279": {
+    "Id": 279,
+    "CnText": "dc9d2",
+    "JpText": "dc9d2",
+    "EnText": "dc9d2",
+    "TcText": "dc9d2",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "280": {
+    "Id": 280,
+    "CnText": "尾生抱梁",
+    "JpText": "尾生抱梁",
+    "EnText": "尾生抱梁",
+    "TcText": "尾生抱梁",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "281": {
+    "Id": 281,
+    "CnText": "2edff",
+    "JpText": "2edff",
+    "EnText": "2edff",
+    "TcText": "2edff",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "282": {
+    "Id": 282,
+    "CnText": "VentusRanger35",
+    "JpText": "VentusRanger35",
+    "EnText": "VentusRanger35",
+    "TcText": "VentusRanger35",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "283": {
+    "Id": 283,
+    "CnText": "双岛",
+    "JpText": "双岛",
+    "EnText": "双岛",
+    "TcText": "雙島",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "284": {
+    "Id": 284,
+    "CnText": "稀神幽鵺",
+    "JpText": "稀神幽鵺",
+    "EnText": "稀神幽鵺",
+    "TcText": "稀神幽鵺",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "285": {
+    "Id": 285,
+    "CnText": "c6ae0",
+    "JpText": "c6ae0",
+    "EnText": "c6ae0",
+    "TcText": "c6ae0",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "286": {
+    "Id": 286,
+    "CnText": "该名称无法显示",
+    "JpText": "该名称无法显示",
+    "EnText": "该名称无法显示",
+    "TcText": "該名稱無法顯示",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "287": {
+    "Id": 287,
+    "CnText": "深空失忆",
+    "JpText": "深空失忆",
+    "EnText": "深空失忆",
+    "TcText": "深空失憶",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "288": {
+    "Id": 288,
+    "CnText": "月食朝露",
+    "JpText": "月食朝露",
+    "EnText": "月食朝露",
+    "TcText": "月食朝露",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "289": {
+    "Id": 289,
+    "CnText": "百殙魍魉",
+    "JpText": "百殙魍魉",
+    "EnText": "百殙魍魉",
+    "TcText": "百殙魍魎",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "290": {
+    "Id": 290,
+    "CnText": "黑夜里的村姑",
+    "JpText": "黑夜里的村姑",
+    "EnText": "黑夜里的村姑",
+    "TcText": "黑夜裏的村姑",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "291": {
+    "Id": 291,
+    "CnText": "羽木读Uki",
+    "JpText": "羽木读Uki",
+    "EnText": "羽木读Uki",
+    "TcText": "羽木讀Uki",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "292": {
+    "Id": 292,
+    "CnText": "Juustin",
+    "JpText": "Juustin",
+    "EnText": "Juustin",
+    "TcText": "Juustin",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "293": {
+    "Id": 293,
+    "CnText": "偏生子逍",
+    "JpText": "偏生子逍",
+    "EnText": "偏生子逍",
+    "TcText": "偏生子逍",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "294": {
+    "Id": 294,
+    "CnText": "安妮",
+    "JpText": "安妮",
+    "EnText": "安妮",
+    "TcText": "安妮",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "295": {
+    "Id": 295,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "296": {
+    "Id": 296,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "297": {
+    "Id": 297,
+    "CnText": "最先找到冒险者酒馆的玩家",
+    "JpText": "冒険者酒館を最初に見つけたプレイヤー",
+    "EnText": "The first players to find Adventurer's Tavern",
+    "TcText": "最先找到冒險者酒館的玩家",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "298": {
+    "Id": 298,
+    "CnText": "Weiliao",
+    "JpText": "Weiliao",
+    "EnText": "Weiliao",
+    "TcText": "Weiliao",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "299": {
+    "Id": 299,
+    "CnText": "Nanfeng",
+    "JpText": "Nanfeng",
+    "EnText": "Nanfeng",
+    "TcText": "Nanfeng",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "300": {
+    "Id": 300,
+    "CnText": "Y6rin",
+    "JpText": "Y6rin",
+    "EnText": "Y6rin",
+    "TcText": "Y6rin",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "301": {
+    "Id": 301,
+    "CnText": "Ayanami07",
+    "JpText": "Ayanami07",
+    "EnText": "Ayanami07",
+    "TcText": "Ayanami07",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "302": {
+    "Id": 302,
+    "CnText": "WingedNightmare",
+    "JpText": "WingedNightmare",
+    "EnText": "WingedNightmare",
+    "TcText": "WingedNightmare",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "303": {
+    "Id": 303,
+    "CnText": "Fuyuki",
+    "JpText": "Fuyuki",
+    "EnText": "Fuyuki",
+    "TcText": "Fuyuki",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "304": {
+    "Id": 304,
+    "CnText": "Stone_Candy1",
+    "JpText": "Stone_Candy1",
+    "EnText": "Stone_Candy1",
+    "TcText": "Stone_Candy1",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "305": {
+    "Id": 305,
+    "CnText": "XELECTRICITYX",
+    "JpText": "XELECTRICITYX",
+    "EnText": "XELECTRICITYX",
+    "TcText": "XELECTRICITYX",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "306": {
+    "Id": 306,
+    "CnText": "后勤饼干人",
+    "JpText": "后勤饼干人",
+    "EnText": "后勤饼干人",
+    "TcText": "後勤餅乾人",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "307": {
+    "Id": 307,
+    "CnText": "麟の王翼",
+    "JpText": "麟の王翼",
+    "EnText": "麟の王翼",
+    "TcText": "麟の王翼",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "308": {
+    "Id": 308,
+    "CnText": "今夜年愁未到乡",
+    "JpText": "今夜年愁未到乡",
+    "EnText": "今夜年愁未到乡",
+    "TcText": "今夜年愁未到鄉",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "309": {
+    "Id": 309,
+    "CnText": "JJ",
+    "JpText": "JJ",
+    "EnText": "JJ",
+    "TcText": "JJ",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "310": {
+    "Id": 310,
+    "CnText": "MsMsk_p",
+    "JpText": "MsMsk_p",
+    "EnText": "MsMsk_p",
+    "TcText": "MsMsk_p",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "311": {
+    "Id": 311,
+    "CnText": "白澪梦玥 ",
+    "JpText": "白澪梦玥 ",
+    "EnText": "白澪梦玥 ",
+    "TcText": "白澪夢玥 ",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "312": {
+    "Id": 312,
+    "CnText": "九色的奇迹",
+    "JpText": "九色的奇迹",
+    "EnText": "九色的奇迹",
+    "TcText": "九色的奇跡",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "313": {
+    "Id": 313,
+    "CnText": "rongaiLapin",
+    "JpText": "rongaiLapin",
+    "EnText": "rongaiLapin",
+    "TcText": "rongaiLapin",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "314": {
+    "Id": 314,
+    "CnText": "Izayoi Mikage",
+    "JpText": "十六夜御影",
+    "EnText": "Izayoi Mikage",
+    "TcText": "Izayoi Mikage",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "315": {
+    "Id": 315,
+    "CnText": "MONO",
+    "JpText": "MONO",
+    "EnText": "MONO",
+    "TcText": "MONO",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "316": {
+    "Id": 316,
+    "CnText": "Amane Sakana",
+    "JpText": "雨音さかな",
+    "EnText": "Amane Sakana",
+    "TcText": "Amane Sakana",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "317": {
+    "Id": 317,
+    "CnText": "[Toho]traesto・♡クリスき♡",
+    "JpText": "[Toho]traesto・♡クリスき♡",
+    "EnText": "[Toho]traesto・♡クリスき♡",
+    "TcText": "[Toho]traesto・♡クリスき♡",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "318": {
+    "Id": 318,
+    "CnText": "raviddog",
+    "JpText": "raviddog",
+    "EnText": "raviddog",
+    "TcText": "raviddog",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "319": {
+    "Id": 319,
+    "CnText": "seipan1213",
+    "JpText": "seipan1213",
+    "EnText": "seipan1213",
+    "TcText": "seipan1213",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "320": {
+    "Id": 320,
+    "CnText": "Win-CL",
+    "JpText": "Win-CL",
+    "EnText": "Win-CL",
+    "TcText": "Win-CL",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "321": {
+    "Id": 321,
+    "CnText": "nemukunaiya",
+    "JpText": "nemukunaiya",
+    "EnText": "nemukunaiya",
+    "TcText": "nemukunaiya",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "322": {
+    "Id": 322,
+    "CnText": "Ken",
+    "JpText": "Ken",
+    "EnText": "Ken",
+    "TcText": "Ken",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "323": {
+    "Id": 323,
+    "CnText": "eli666_com",
+    "JpText": "eli666_com",
+    "EnText": "eli666_com",
+    "TcText": "eli666_com",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "324": {
+    "Id": 324,
+    "CnText": "QuoteCurly",
+    "JpText": "QuoteCurly",
+    "EnText": "QuoteCurly",
+    "TcText": "QuoteCurly",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "325": {
+    "Id": 325,
+    "CnText": "TSC_goburin",
+    "JpText": "TSC_goburin",
+    "EnText": "TSC_goburin",
+    "TcText": "TSC_goburin",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "326": {
+    "Id": 326,
+    "CnText": "Nore139",
+    "JpText": "Nore139",
+    "EnText": "Nore139",
+    "TcText": "Nore139",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "327": {
+    "Id": 327,
+    "CnText": "Segawa michiru",
+    "JpText": "勢河ミチル",
+    "EnText": "Segawa michiru",
+    "TcText": "Segawa michiru",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "328": {
+    "Id": 328,
+    "CnText": "ChibiDash",
+    "JpText": "ChibiDash",
+    "EnText": "ChibiDash",
+    "TcText": "ChibiDash",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "329": {
+    "Id": 329,
+    "CnText": "c2a4b",
+    "JpText": "c2a4b",
+    "EnText": "c2a4b",
+    "TcText": "c2a4b",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "330": {
+    "Id": 330,
+    "CnText": "rem",
+    "JpText": "rem",
+    "EnText": "rem",
+    "TcText": "rem",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "331": {
+    "Id": 331,
+    "CnText": "Cement(Erano)",
+    "JpText": "Cement(Erano)",
+    "EnText": "Cement(Erano)",
+    "TcText": "Cement(Erano)",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "332": {
+    "Id": 332,
+    "CnText": "Jimmy Le",
+    "JpText": "Jimmy Le",
+    "EnText": "Jimmy Le",
+    "TcText": "Jimmy Le",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "333": {
+    "Id": 333,
+    "CnText": "Silkeregn",
+    "JpText": "Silkeregn",
+    "EnText": "Silkeregn",
+    "TcText": "Silkeregn",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "334": {
+    "Id": 334,
+    "CnText": "Katania",
+    "JpText": "Katania",
+    "EnText": "Katania",
+    "TcText": "Katania",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "335": {
+    "Id": 335,
+    "CnText": "Artosha",
+    "JpText": "Artosha",
+    "EnText": "Artosha",
+    "TcText": "Artosha",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "336": {
+    "Id": 336,
+    "CnText": "CatTaiL Ruffian",
+    "JpText": "CatTaiL Ruffian",
+    "EnText": "CatTaiL Ruffian",
+    "TcText": "CatTaiL Ruffian",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "337": {
+    "Id": 337,
+    "CnText": "Greile",
+    "JpText": "Greile",
+    "EnText": "Greile",
+    "TcText": "Greile",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "338": {
+    "Id": 338,
+    "CnText": "Vending Machine",
+    "JpText": "Vending Machine",
+    "EnText": "Vending Machine",
+    "TcText": "Vending Machine",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "339": {
+    "Id": 339,
+    "CnText": "Techatticup",
+    "JpText": "Techatticup",
+    "EnText": "Techatticup",
+    "TcText": "Techatticup",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "340": {
+    "Id": 340,
+    "CnText": "Crisiz",
+    "JpText": "Crisiz",
+    "EnText": "Crisiz",
+    "TcText": "Crisiz",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "341": {
+    "Id": 341,
+    "CnText": "KiranIDK",
+    "JpText": "KiranIDK",
+    "EnText": "KiranIDK",
+    "TcText": "KiranIDK",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "342": {
+    "Id": 342,
+    "CnText": "Zert [New Formula]",
+    "JpText": "Zert [New Formula]",
+    "EnText": "Zert [New Formula]",
+    "TcText": "Zert [New Formula]",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "343": {
+    "Id": 343,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "344": {
+    "Id": 344,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "345": {
+    "Id": 345,
+    "CnText": "感谢所有支持我们的家人朋友们",
+    "JpText": "我々を応援して下さっている皆様に感謝を込めて",
+    "EnText": "Thanks to all who support us!",
+    "TcText": "感謝所有支持我們的家人朋友們",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "346": {
+    "Id": 346,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "347": {
+    "Id": 347,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "348": {
+    "Id": 348,
+    "CnText": "冒险者酒馆",
+    "JpText": "PRESENTED BY",
+    "EnText": "PRESENTED BY",
+    "TcText": "冒險者酒館",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "349": {
+    "Id": 349,
+    "CnText": "呈献",
+    "JpText": "冒険者酒館",
+    "EnText": "ADVENTURER'S TAVERN INC.",
+    "TcText": "呈獻",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "350": {
+    "Id": 350,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "351": {
+    "Id": 351,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 1,
+    "LogoName": "Adventurer'sTavern_Logo_Golden"
+  },
+  "352": {
+    "Id": 352,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "353": {
+    "Id": 353,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "354": {
+    "Id": 354,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "355": {
+    "Id": 355,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "356": {
+    "Id": 356,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "357": {
+    "Id": 357,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "358": {
+    "Id": 358,
+    "CnText": "",
+    "JpText": "",
+    "EnText": "",
+    "TcText": "",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "359": {
+    "Id": 359,
+    "CnText": "还有...",
+    "JpText": "AND...",
+    "EnText": "AND...",
+    "TcText": "還有...",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "360": {
+    "Id": 360,
+    "CnText": "PLAYER",
+    "JpText": "PLAYER",
+    "EnText": "PLAYER",
+    "TcText": "PLAYER",
+    "Type": 0,
+    "LogoName": ""
+  },
+  "361": {
+    "Id": 361,
+    "CnText": "YOU",
+    "JpText": "YOU",
+    "EnText": "YOU",
+    "TcText": "YOU",
+    "Type": 0,
+    "LogoName": ""
+  }
+}

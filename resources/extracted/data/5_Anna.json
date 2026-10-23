@@ -1,0 +1,170 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "5_Anna_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "5_Anna_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "5_Anna_Basic_BackSitIdle",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "10_13"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "5_Anna_Basic_WalkWithOrder",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "14_19"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "5_Anna_Basic_Welcome",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "20_27"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "5_Anna_Basic_Order",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "28_31"
+  },
+  "7": {
+    "Id": 7,
+    "Name": "5_Anna_Basic_Clean1",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "32_35"
+  },
+  "8": {
+    "Id": 8,
+    "Name": "5_Anna_Basic_Clean2",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "36_39"
+  },
+  "9": {
+    "Id": 9,
+    "Name": "5_Anna_Basic_Cook1",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "40_43"
+  },
+  "10": {
+    "Id": 10,
+    "Name": "5_Anna_Basic_Moemoekyun",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "44_69"
+  },
+  "11": {
+    "Id": 11,
+    "Name": "5_Anna_Basic_Interaction",
+    "Type": "Basic",
+    "Atlas": "5_Anna_Basic",
+    "Frame": "70_73"
+  },
+  "12": {
+    "Id": 12,
+    "Name": "5_Anna_Suit1_Idle",
+    "Type": "Suit1",
+    "Atlas": "5_Anna_Suit1",
+    "Frame": "0_3"
+  },
+  "13": {
+    "Id": 13,
+    "Name": "5_Anna_Suit1_Walk",
+    "Type": "Suit1",
+    "Atlas": "5_Anna_Suit1",
+    "Frame": "4_9"
+  },
+  "14": {
+    "Id": 14,
+    "Name": "5_Anna_Suit1_BackSitIdle",
+    "Type": "Suit1",
+    "Atlas": "5_Anna_Suit1",
+    "Frame": "10_13"
+  },
+  "15": {
+    "Id": 15,
+    "Name": "5_Anna_Suit1_Interaction",
+    "Type": "Suit1",
+    "Atlas": "5_Anna_Suit1",
+    "Frame": "14_17"
+  },
+  "16": {
+    "Id": 16,
+    "Name": "5_Anna_Maid1_Idle",
+    "Type": "Maid1",
+    "Atlas": "5_Anna_Maid1",
+    "Frame": "0_3"
+  },
+  "17": {
+    "Id": 17,
+    "Name": "5_Anna_Maid1_Walk",
+    "Type": "Maid1",
+    "Atlas": "5_Anna_Maid1",
+    "Frame": "4_9"
+  },
+  "18": {
+    "Id": 18,
+    "Name": "5_Anna_Maid1_WalkWithOrder",
+    "Type": "Maid1",
+    "Atlas": "5_Anna_Maid1",
+    "Frame": "10_15"
+  },
+  "19": {
+    "Id": 19,
+    "Name": "5_Anna_Maid1_Welcome",
+    "Type": "Maid1",
+    "Atlas": "5_Anna_Maid1",
+    "Frame": "16_23"
+  },
+  "20": {
+    "Id": 20,
+    "Name": "5_Anna_Maid1_Order",
+    "Type": "Maid1",
+    "Atlas": "5_Anna_Maid1",
+    "Frame": "24_27"
+  },
+  "21": {
+    "Id": 21,
+    "Name": "5_Anna_Maid1_Clean1",
+    "Type": "Maid1",
+    "Atlas": "5_Anna_Maid1",
+    "Frame": "28_31"
+  },
+  "22": {
+    "Id": 22,
+    "Name": "5_Anna_Maid1_Clean2",
+    "Type": "Maid1",
+    "Atlas": "5_Anna_Maid1",
+    "Frame": "32_35"
+  },
+  "23": {
+    "Id": 23,
+    "Name": "5_Anna_Maid1_Cook1",
+    "Type": "Maid1",
+    "Atlas": "5_Anna_Maid1",
+    "Frame": "36_39"
+  },
+  "24": {
+    "Id": 24,
+    "Name": "5_Anna_Maid1_Moemoekyun",
+    "Type": "Maid1",
+    "Atlas": "5_Anna_Maid1",
+    "Frame": "40_65"
+  }
+}

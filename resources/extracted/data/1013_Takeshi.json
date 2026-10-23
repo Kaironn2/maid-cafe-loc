@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "1013_Takeshi_Basic_Idle",
+    "Type": "Basic",
+    "Atlas": "1013_Takeshi_Basic",
+    "Frame": "0_3"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "1013_Takeshi_Basic_Walk",
+    "Type": "Basic",
+    "Atlas": "1013_Takeshi_Basic",
+    "Frame": "4_9"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "1013_Takeshi_Basic_SideSitIdle",
+    "Type": "Basic",
+    "Atlas": "1013_Takeshi_Basic",
+    "Frame": "10_11"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "1013_Takeshi_Basic_SideSitOrder",
+    "Type": "Basic",
+    "Atlas": "1013_Takeshi_Basic",
+    "Frame": "12_13"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "1013_Takeshi_Basic_SideSitEat",
+    "Type": "Basic",
+    "Atlas": "1013_Takeshi_Basic",
+    "Frame": "14_17"
+  },
+  "6": {
+    "Id": 6,
+    "Name": "1013_Takeshi_Basic_Interaction",
+    "Type": "Basic",
+    "Atlas": "1013_Takeshi_Basic",
+    "Frame": "18_19"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "1": {
+    "Id": 1,
+    "Sprite": "Assets/AddressableAssetsResource/Model/MiniGame/UFO/UFOItem/Bighorn.prefab",
+    "Nums": 20,
+    "GetRandom": 30,
+    "BonusItemID": 16
+  }
+}
