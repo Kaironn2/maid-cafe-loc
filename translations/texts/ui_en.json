@@ -16,7 +16,7 @@
     "EN": "Game Settings"
   },
   "ShopManagerNote": {
-    "PT": "",
+    "PT": "Gerenciar Anotações",
     "EN": "Manager Notes"
   },
   "ExitGame": {
@@ -28,543 +28,543 @@
     "EN": "Version: Gold 1.0"
   },
   "AudioSound": {
-    "PT": "",
+    "PT": "Música",
     "EN": "Music"
   },
   "SoundEffect": {
-    "PT": "",
+    "PT": "Efeitos Sonoros",
     "EN": "SFX"
   },
   "Resolution": {
-    "PT": "",
+    "PT": "Resolução",
     "EN": "Resolution"
   },
   "ShowType": {
-    "PT": "",
+    "PT": "Modo de Exibição",
     "EN": "Display Mode"
   },
   "ShowFullScreen": {
-    "PT": "",
+    "PT": "Tela Cheia",
     "EN": "Fullscreen"
   },
   "ShowBorderless": {
-    "PT": "",
+    "PT": "Tela Cheia em Janela",
     "EN": "Borderless Window"
   },
   "ShowWindow": {
-    "PT": "",
+    "PT": "Em janela",
     "EN": "Windowed"
   },
   "AutoText": {
-    "PT": "",
+    "PT": "Texto Automático",
     "EN": "Auto Text"
   },
   "OpenAutoText": {
-    "PT": "",
+    "PT": "LIGADO",
     "EN": "ON"
   },
   "CloseAutoText": {
-    "PT": "",
+    "PT": "DESLIGADO",
     "EN": "OFF"
   },
   "AutoTextSpeed": {
-    "PT": "",
+    "PT": "Velocidade do Texto",
     "EN": "Text Speed"
   },
   "TextSpeed1": {
-    "PT": "",
+    "PT": "Normal",
     "EN": "Normal"
   },
   "TextSpeed2": {
-    "PT": "",
+    "PT": "Rápida",
     "EN": "Fast"
   },
   "TextSpeed3": {
-    "PT": "",
+    "PT": "Instantânea",
     "EN": "Instant"
   },
   "Language": {
-    "PT": "",
+    "PT": "Idioma",
     "EN": "Language"
   },
   "Default": {
-    "PT": "",
+    "PT": "Padrão",
     "EN": "Default"
   },
   "Save": {
-    "PT": "",
+    "PT": "Salvar",
     "EN": "Save"
   },
   "Back": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "TestTip": {
-    "PT": "",
+    "PT": "A qualidade dessa demo não\nreflete a do produto final.",
     "EN": "The quality of this demo does not\nreflect that of the final product."
   },
   "LoadingTip": {
-    "PT": "",
+    "PT": "Rumores da Rua Elétrica",
     "EN": "Electric Street Rumors"
   },
   "LoadingText": {
-    "PT": "",
+    "PT": "Carregando...",
     "EN": "Loading..."
   },
   "ContinueGame": {
-    "PT": "",
+    "PT": "Continuar",
     "EN": "Continue"
   },
   "SaveGame": {
-    "PT": "",
+    "PT": "Salvar",
     "EN": "Save"
   },
   "Note": {
-    "PT": "",
+    "PT": "Nota",
     "EN": "Memo"
   },
   "Bag": {
-    "PT": "",
+    "PT": "Inventário",
     "EN": "Bag"
   },
   "Mobile": {
-    "PT": "",
+    "PT": "Celular",
     "EN": "Phone"
   },
   "AddDish": {
-    "PT": "",
+    "PT": "Adicionar Item",
     "EN": "Add item"
   },
   "ReduceDish": {
-    "PT": "",
+    "PT": "Remover Item",
     "EN": "Subtract item"
   },
   "CancelOrder": {
-    "PT": "",
+    "PT": "Cancelar Pedido",
     "EN": "Cancel order"
   },
   "DiningAccount": {
-    "PT": "",
+    "PT": "Pagar",
     "EN": "Pay"
   },
   "DiningAccountText1": {
-    "PT": "",
+    "PT": "Você está pronto para fazer o pedido?",
     "EN": "Are you ready to order?"
   },
   "DiningAccountText2": {
-    "PT": "",
+    "PT": "Total:",
     "EN": "Total:"
   },
   "DiningAccountConfirm": {
-    "PT": "",
+    "PT": "Confirmar",
     "EN": "Confirm"
   },
   "DiningAccountCancel": {
-    "PT": "",
+    "PT": "Cancelar",
     "EN": "Cancel"
   },
   "LastMachine": {
-    "PT": "",
+    "PT": "Máquina anterior",
     "EN": "Previous machine"
   },
   "NextMachine": {
-    "PT": "",
+    "PT": "Máquina seguinte",
     "EN": "Next machine"
   },
   "SelectMachine": {
-    "PT": "",
+    "PT": "Selecionar essa maquina",
     "EN": "Select this machine"
   },
   "ExitGashapon": {
-    "PT": "",
+    "PT": "Sair",
     "EN": "Leave"
   },
   "InsertCoin": {
-    "PT": "",
+    "PT": "Inserir moeda",
     "EN": "Insert coin"
   },
   "RotKnob": {
-    "PT": "",
+    "PT": "Girar botão",
     "EN": "Turn knob"
   },
   "GashaponTip": {
-    "PT": "",
+    "PT": "Máquina de Cápsulas",
     "EN": "Capsule Vending Machine"
   },
   "OpenGashaponTip": {
-    "PT": "",
+    "PT": "Abrir cápsula de brinquedo",
     "EN": "Open capsule toy"
   },
   "ExitGashaponMachine": {
-    "PT": "",
+    "PT": "Parar de jogar",
     "EN": "Stop playing"
   },
   "ContinueGashaponTip": {
-    "PT": "",
+    "PT": "Continuar",
     "EN": "Continue"
   },
   "StartPreOperat": {
-    "PT": "",
+    "PT": "Preparativos",
     "EN": "Preparations"
   },
   "StopOperat": {
-    "PT": "",
+    "PT": "Encerrar a Operação",
     "EN": "End Operations"
   },
   "OperatAccount": {
-    "PT": "",
+    "PT": "Resultados",
     "EN": "Results"
   },
   "MaidManage": {
-    "PT": "",
+    "PT": "Gerenciar Maids",
     "EN": "Manage Maids"
   },
   "ReModelling": {
-    "PT": "",
+    "PT": "Reformar o Café",
     "EN": "Reform Cafe"
   },
   "MenuResearch": {
-    "PT": "",
+    "PT": "Pesquisar Pratos",
     "EN": "Research Dishes"
   },
   "ExitOperatManage": {
-    "PT": "",
+    "PT": "Sair do Gerenciamento",
     "EN": "Exit Management"
   },
   "BackOperatingTip": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "OperatingState_UnOpen": {
-    "PT": "",
+    "PT": "Fechado",
     "EN": "Closed"
   },
   "OperatingState_Open": {
-    "PT": "",
+    "PT": "Aberto",
     "EN": "Open"
   },
   "OperatingState_Opened": {
-    "PT": "",
+    "PT": "Dia Encerrado",
     "EN": "Day Over"
   },
   "OperatingState_Customer": {
-    "PT": "",
+    "PT": "Clientes no café:",
     "EN": "Customers in cafe:"
   },
   "OperatingState_WaitList": {
-    "PT": "",
+    "PT": "Clientes na fila:",
     "EN": "Customers in queue:"
   },
   "ExitPreOperatTip": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "OperatConditionText": {
-    "PT": "",
+    "PT": "Situação:",
     "EN": "Status:"
   },
   "ServiceValue": {
-    "PT": "",
+    "PT": "Atendimento:",
     "EN": "Service:"
   },
   "DishesValue": {
-    "PT": "",
+    "PT": "Cardápio:",
     "EN": "Menu:"
   },
   "EnvironmentValue": {
-    "PT": "",
+    "PT": "Higiene/Ambiente:",
     "EN": "Hygiene/Environment:"
   },
   "ServiceAbility": {
-    "PT": "",
+    "PT": "Habilidades de Atendimento:",
     "EN": "Service Skills:"
   },
   "CookAbility": {
-    "PT": "",
+    "PT": "Habilidades Culinárias:",
     "EN": "Culinary Skills:"
   },
   "CleanAbility": {
-    "PT": "",
+    "PT": "Habilidades de Limpeza:",
     "EN": "Cleaning Skills:"
   },
   "Appeared": {
-    "PT": "",
+    "PT": "Em Serviço",
     "EN": "At Work"
   },
   "ServiceMaid": {
-    "PT": "",
+    "PT": "Garçonete:",
     "EN": "Waitress:"
   },
   "CookMaid": {
-    "PT": "",
+    "PT": "Chef:",
     "EN": "Chef:"
   },
   "AsServiceMaidTip": {
-    "PT": "",
+    "PT": "Garçonete",
     "EN": "Waitress"
   },
   "AsCookMaidTip": {
-    "PT": "",
+    "PT": "Chef",
     "EN": "Chef"
   },
   "MaidRestAbility": {
-    "PT": "",
+    "PT": "Descanso",
     "EN": "Rest"
   },
   "BeInRest": {
-    "PT": "",
+    "PT": "Descansando",
     "EN": "Resting"
   },
   "MaidChangeTip": {
-    "PT": "",
+    "PT": "Trocar",
     "EN": "Swap"
   },
   "AddMaidTip": {
-    "PT": "",
+    "PT": "Adicionar Maid",
     "EN": "Add Maid"
   },
   "ReplaceMaidTip": {
-    "PT": "",
+    "PT": "Trocar Maid",
     "EN": "Swap Maid"
   },
   "RestTip": {
-    "PT": "",
+    "PT": "Descansar",
     "EN": "Rest"
   },
   "SumbitTip": {
-    "PT": "",
+    "PT": "Confirmar",
     "EN": "Confirm"
   },
   "BackTip": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "OutDoorTip": {
-    "PT": "",
+    "PT": "Sair",
     "EN": "Leave"
   },
   "InDoorTip": {
-    "PT": "",
+    "PT": "Entrar",
     "EN": "Enter"
   },
   "SleepTip": {
-    "PT": "",
+    "PT": "Dormir",
     "EN": "Rest"
   },
   "OperatingManageTip": {
-    "PT": "",
+    "PT": "Gerenciamento",
     "EN": "Management"
   },
   "StartOperatingTip": {
-    "PT": "",
+    "PT": "Abrir o Café",
     "EN": "Open Cafe"
   },
   "CheckTip": {
-    "PT": "",
+    "PT": "Observar",
     "EN": "Observe"
   },
   "PropTip": {
-    "PT": "",
+    "PT": "Usar",
     "EN": "Use"
   },
   "HomeTip": {
-    "PT": "",
+    "PT": "Apartamento",
     "EN": "Apartment"
   },
   "LightSwtichTip": {
-    "PT": "",
+    "PT": "Luz",
     "EN": "Light"
   },
   "DialogueTip": {
-    "PT": "",
+    "PT": "Conversar",
     "EN": "Talk"
   },
   "SearchTip": {
-    "PT": "",
+    "PT": "Investigar",
     "EN": "Investigate"
   },
   "CollectionsTip": {
-    "PT": "",
+    "PT": "Coleção",
     "EN": "Collection"
   },
   "GashaponOpenTip": {
-    "PT": "",
+    "PT": "Abrir",
     "EN": "Open"
   },
   "DecorateTip": {
-    "PT": "",
+    "PT": "Decorar",
     "EN": "Decorate"
   },
   "UFOCatcherTip": {
-    "PT": "",
+    "PT": "Máquina de Garra",
     "EN": "Crane Game"
   },
   "OperatingOrderTip": {
-    "PT": "",
+    "PT": "Anotar o Pedido",
     "EN": "Take Order"
   },
   "OperatingTakeDishTip": {
-    "PT": "",
+    "PT": "Retirar o Pedido",
     "EN": "Pick Up Order"
   },
   "OpaertingSendDishTip": {
-    "PT": "",
+    "PT": "Servir o Pedido",
     "EN": "Serve Order"
   },
   "OperatingCashierTip": {
-    "PT": "",
+    "PT": "Receber o Pagamento",
     "EN": "Take Payment"
   },
   "CutHairTip": {
-    "PT": "",
+    "PT": "Cortar o Cabelo?",
     "EN": "Get Haircut?"
   },
   "UndergroundTip": {
-    "PT": "",
+    "PT": "Ir ao Castelo de Osaka",
     "EN": "Go to Osaka Castle"
   },
   "ChangeClothesTip": {
-    "PT": "",
+    "PT": "Trocar de Roupa",
     "EN": "Change Clothes"
   },
   "VendingMachineTip": {
-    "PT": "",
+    "PT": "Máquina de Vendas",
     "EN": "Vending Machine"
   },
   "Office_StandLeave": {
-    "PT": "",
+    "PT": "Sair",
     "EN": "Leave"
   },
   "Story_Hide": {
-    "PT": "",
+    "PT": "Ocultar",
     "EN": "Hide"
   },
   "JukeBoxTip": {
-    "PT": "",
+    "PT": "Vitrola",
     "EN": "Record Player"
   },
   "SpecialCustomerTip": {
-    "PT": "",
+    "PT": "Visitante Inesperado?",
     "EN": "Unexpected Guest?"
   },
   "LookForCustomerTip": {
-    "PT": "",
+    "PT": "Procurar Clientes",
     "EN": "Find Customers"
   },
   "UFOCatcherStartTip": {
-    "PT": "",
+    "PT": "Inserir Moeda / Começar",
     "EN": "Insert Coin / Start"
   },
   "UFOCatcherClawDownTip": {
-    "PT": "",
+    "PT": "Abaixar Garra",
     "EN": "Lower Claw"
   },
   "UFOCatcherMoveClawTip": {
-    "PT": "",
+    "PT": "Mover Garra",
     "EN": "Move Claw"
   },
   "ShoppingTitle": {
-    "PT": "",
+    "PT": "Compras",
     "EN": "Purchase"
   },
   "ShoppingBackTip": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "ShoppingBuyTip": {
-    "PT": "",
+    "PT": "Pagar",
     "EN": "Pay"
   },
   "HoldNumText": {
-    "PT": "",
+    "PT": "Estoque",
     "EN": "Stock"
   },
   "BuyNumText": {
-    "PT": "",
+    "PT": "Qtd:",
     "EN": "Amt:"
   },
   "ShoppingAccountNumTip": {
-    "PT": "",
+    "PT": "Número:",
     "EN": "Number:"
   },
   "ShoppingAccountAddReduceNumTip": {
-    "PT": "",
+    "PT": "Mudar Quantidade",
     "EN": "Change Amount"
   },
   "ShoppingClearBuyNumTip": {
-    "PT": "",
+    "PT": "Limpar Seleção",
     "EN": "Clear Selection"
   },
   "ShoppingAccountBuyTip": {
-    "PT": "",
+    "PT": "Comprar:",
     "EN": "Buy:"
   },
   "MainMission": {
-    "PT": "",
+    "PT": "Missão Principal:",
     "EN": "Main Mission:"
   },
   "ShoppingAccountTotalTip": {
-    "PT": "",
+    "PT": "Total:",
     "EN": "Total:"
   },
   "BagTitle": {
-    "PT": "",
+    "PT": "Inventário",
     "EN": "Bag"
   },
   "BagBackTip": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "BagUseTip": {
-    "PT": "",
+    "PT": "Usar",
     "EN": "Use"
   },
   "BagDropTip": {
-    "PT": "",
+    "PT": "Descartar",
     "EN": "Trash"
   },
   "BagFilterTip": {
-    "PT": "",
+    "PT": "Tudo",
     "EN": "All"
   },
   "OperatingMission": {
-    "PT": "",
+    "PT": "Missão do Café:",
     "EN": "Cafe Mission:"
   },
   "OperatingMissionSubmit": {
-    "PT": "",
+    "PT": "Entregar a Missão do Café",
     "EN": "Submit Cafe Mission"
   },
   "OpeartingAccount_Title": {
-    "PT": "",
+    "PT": "Faturamento",
     "EN": "Revenue"
   },
   "OpeartingAccount_CustomerNum": {
-    "PT": "",
+    "PT": "Clientes:",
     "EN": "Customers:"
   },
   "OpeartingAccount_DishNum": {
-    "PT": "",
+    "PT": "Pratos Vendidos:",
     "EN": "Dishes Sold:"
   },
   "OpeartingAccount_EventBonus": {
-    "PT": "",
+    "PT": "Bônus Extra:",
     "EN": "Extra Bonus:"
   },
   "OpeartingAccount_OperatMoney": {
-    "PT": "",
+    "PT": "Faturamento Total:",
     "EN": "Total Revenue:"
   },
   "OpeartingAccount_OperatMoneyAdd": {
-    "PT": "",
+    "PT": "Aumento de Orçamento:",
     "EN": "Budget Increase:"
   },
   "OpeartingAccount_PlayerMoney": {
-    "PT": "",
+    "PT": "Sua Renda:",
     "EN": "Your Income:"
   },
   "OpeartingAccount_FinishAccount": {
-    "PT": "",
+    "PT": "Confirmar",
     "EN": "Confirm"
   },
   "CGCollection": {
@@ -576,43 +576,43 @@
     "EN": "CG Gallery"
   },
   "CoffeeGameSelectTip": {
-    "PT": "",
+    "PT": "Selecionar",
     "EN": "Select"
   },
   "CoffeeGameAddTip": {
-    "PT": "",
+    "PT": "Adicionar",
     "EN": "Add"
   },
   "CoffeeGameRemoveTip": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "CoffeeGameBaseText": {
-    "PT": "",
+    "PT": "Base",
     "EN": "Base"
   },
   "CoffeeGameRedo": {
-    "PT": "",
+    "PT": "Limpar Seleção",
     "EN": "Clear Selection"
   },
   "CoffeGameConfirm": {
-    "PT": "",
+    "PT": "Confirmar",
     "EN": "Confirm"
   },
   "CoffeeGameIce": {
-    "PT": "",
+    "PT": "Gelo",
     "EN": "Ice"
   },
   "CoffeeGameDrinkComplete": {
-    "PT": "",
+    "PT": "Bebida Pronta",
     "EN": "Drink Completed"
   },
   "CoffeGameSelfDrink": {
-    "PT": "",
+    "PT": "Recomeçar",
     "EN": "Start Over"
   },
   "CoffeGameSendToCustomer": {
-    "PT": "",
+    "PT": "Servir a Bebida",
     "EN": "Serve Drink"
   },
   "ControlGuideTitle": {
@@ -620,2747 +620,2747 @@
     "EN": "Control Guide"
   },
   "ControlGuideTurnPageTip": {
-    "PT": "",
+    "PT": "Virar Página",
     "EN": "Turn Page"
   },
   "ControlGuideBackTip": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "ControlGuideKeyBoardMove": {
-    "PT": "",
+    "PT": "Mover Personagem",
     "EN": "Move Character"
   },
   "ControlGuideKeyBoardInterAct": {
-    "PT": "",
+    "PT": "Conversar / Confirmar / Interagir",
     "EN": "Talk / Confirm / Interact"
   },
   "ControlGuideKeyBoardBack": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "ControlGuideKeyBoardCancel": {
-    "PT": "",
+    "PT": "Cancelar",
     "EN": "Cancel"
   },
   "ControlGuideJoystickMove": {
-    "PT": "",
+    "PT": "Mover Personagem",
     "EN": "Move Character"
   },
   "ControlGuideJoystickInterAct": {
-    "PT": "",
+    "PT": "Conversar / Confirmar / Interagir",
     "EN": "Talk / Confirm / Interact"
   },
   "ControlGuideJoystickBack": {
-    "PT": "",
+    "PT": "Voltar",
     "EN": "Back"
   },
   "ControlGuideJoystickCancel": {
-    "PT": "",
+    "PT": "Botão de Conversa",
     "EN": "Chat Button"
   },
   "ControlGuideType1": {
-    "PT": "",
+    "PT": "Teclado",
     "EN": "Keyboard"
   },
   "ControlGuideType2": {
-    "PT": "",
+    "PT": "Controle",
     "EN": "Controller"
   },
   "OperatGuide": {
-    "PT": "",
+    "PT": "Tutorial de Gerenciamento",
     "EN": "Management Tutorial"
   },
   "CloseOperatGuide": {
-    "PT": "",
+    "PT": "Fechar",
     "EN": "Close"
   },
   "PropTip_GoWork": {
-    "PT": "",
+    "PT": "Voltar ao Trabalho",
     "EN": "Back to Work"
   },
   "CollectionsTitle": {
-    "PT": "",
+    "PT": "Coleção",
     "EN": "Collection"
   },
   "Collection_Model": {
-    "PT": "",
+    "PT": "Figuras",
     "EN": "Figures"
   },
   "Collection_GarageKit": {
-    "PT": "",
+    "PT": "Figuras",
     "EN": "Figures"
   },
   "Collection_VideoGame": {
-    "PT": "",
+    "PT": "Jogos",
     "EN": "Games"
   },
   "Collection_Toys": {
-    "PT": "",
+    "PT": "Brinquedos",
     "EN": "Toys"
   },
   "Collection_Poster": {
-    "PT": "",
+    "PT": "Pôsteres",
     "EN": "Posters"
   },
   "Collection_Gashapon": {
-    "PT": "",
+    "PT": "Brinquedos de Cápsula",
     "EN": "Capsule Toys"
   },
   "WaitForCollect": {
-    "PT": "",
+    "PT": "Ainda não coletado",
     "EN": "Not yet collected"
   },
   "AddCollectionTip": {
-    "PT": "",
+    "PT": "Adicionar item da mochila à coleção",
     "EN": "Add collection from bag"
   },
   "GetOutCollectionTip": {
-    "PT": "",
+    "PT": "Remover da coleção",
     "EN": "Remove from collection"
   },
   "SecondConfirm_ShoppingAccout": {
-    "PT": "",
+    "PT": "Confirmar a compra? Total: {0}",
     "EN": "Confirm purchase? Total: {0}"
   },
   "SecondConfirm_ShoppingAccout_Confirm": {
-    "PT": "",
+    "PT": "Confirmar",
     "EN": "Confirm"
   },
   "SecondConfirm_ShoppingAccout_Cancel": {
-    "PT": "",
+    "PT": "Cancelar",
     "EN": "Cancel"
   },
   "SecondConfirm_OverwriteSaveData": {
-    "PT": "",
+    "PT": "Sobrescrever o save?",
     "EN": "Overwrite save?"
   },
   "SecondConfirm_OverwriteSave_Confirm": {
-    "PT": "",
+    "PT": "Sim",
     "EN": "Yes"
   },
   "SecondConfirm_OverwriteSave_Cancel": {
-    "PT": "",
+    "PT": "Não",
     "EN": "No"
   },
   "SecondConfirm_DeleteSaveData": {
-    "PT": "",
+    "PT": "Excluir o save?",
     "EN": "Delete save?"
   },
   "SecondConfirm_DeleteSaveData_Confirm": {
-    "PT": "",
+    "PT": "Sim",
     "EN": "Yes"
   },
   "SecondConfirm_DeleteSaveData_Cancel": {
-    "PT": "",
+    "PT": "Não",
     "EN": "No"
   },
   "SecondConfirm_ExitGameSaveWarning": {
-    "PT": "",
+    "PT": "Sair do jogo? Todo o progresso não salvo será perdido.",
     "EN": "Quit game? All unsaved progress will be lost."
   },
   "SecondConfirm_ExitGameSaveWarning_Confirm": {
-    "PT": "",
+    "PT": "Sim",
     "EN": "Yes"
   },
   "SecondConfirm_ExitGameSaveWarning_Cancel": {
-    "PT": "",
+    "PT": "Não",
     "EN": "No"
   },
   "SecondConfirm_StartOperating": {
-    "PT": "",
+    "PT": "Começar o expediente com os turnos atuais?",
     "EN": "Start with current shift assignments?"
   },
   "SecondConfirm_StartOperating_Confirm": {
-    "PT": "",
+    "PT": "Sim",
     "EN": "Yes"
   },
   "SecondConfirm_StartOperating_Cancel": {
-    "PT": "",
+    "PT": "Não",
     "EN": "No"
   },
   "SecondConfirm_Sleep": {
-    "PT": "",
+    "PT": "Ir dormir?",
     "EN": "Go to bed?"
   },
   "SecondConfirm_Sleep_Confirm": {
-    "PT": "",
+    "PT": "Sim",
     "EN": "Yes"
   },
   "SecondConfirm_Sleep_Cancel": {
-    "PT": "",
+    "PT": "Não",
     "EN": "No"
   },
   "SecondConfirm_Karaoke": {
-    "PT": "",
+    "PT": "Cantar no karaokê? Custa 5.000 ienes por 2 horas.",
     "EN": "Sing karaoke? It costs 5,000 yen for 2 hours."
   },
   "SecondConfirm_Karaoke_Confirm": {
-    "PT": "",
+    "PT": "Certo.",
     "EN": "Okay."
   },
   "SecondConfirm_Karaoke_Cancel": {
-    "PT": "",
+    "PT": "Vou pensar.",
     "EN": "I'll think about it."
   },
   "SecondConfirm_Tokoya": {
-    "PT": "",
+    "PT": "Cortar o cabelo? Custa 2.000 ienes.",
     "EN": "Get a haircut? It costs 2,000 yen."
   },
   "SecondConfirm_Tokoya_Confirm": {
-    "PT": "",
+    "PT": "Certo.",
     "EN": "Okay."
   },
   "SecondConfirm_Tokoya_Cancel": {
-    "PT": "",
+    "PT": "Vou pensar.",
     "EN": "I'll think about it."
   },
   "SecondConfirm_Bathhouse": {
-    "PT": "",
+    "PT": "Tomar um banho? Custa 600 ienes.",
     "EN": "Take a bath? It costs 600 yen."
   },
   "SecondConfirm_Bathhouse_Confirm": {
-    "PT": "",
+    "PT": "Certo.",
     "EN": "Okay."
   },
   "SecondConfirm_Bathhouse_Cancel": {
-    "PT": "",
+    "PT": "Vou pensar.",
     "EN": "I'll think about it."
   },
   "Toast_GetItem": {
-    "PT": "",
+    "PT": "Obteve {0} x{1}",
     "EN": "Obtained {0} x{1}"
   },
   "Toast_LostItem": {
-    "PT": "",
+    "PT": "Removeu {0} x{1}",
     "EN": "Removed {0} x{1}"
   },
   "Toast_NotEnoughItem": {
-    "PT": "",
+    "PT": "Não tem {0} suficiente.",
     "EN": "Not enough {0}"
   },
   "Toast_CantSleepWithOperating": {
-    "PT": "",
+    "PT": "O café ainda está aberto!",
     "EN": "The cafe is still open!"
   },
   "Toast_CantSleepEarly": {
-    "PT": "",
+    "PT": "É muito cedo para dormir!",
     "EN": "It's too early to go to bed!"
   },
   "Toast_InsertCoinSuccess": {
-    "PT": "",
+    "PT": "Moeda inserida",
     "EN": "Coin inserted"
   },
   "Toast_NotEnoughCoin": {
-    "PT": "",
+    "PT": "Moedas insuficientes!",
     "EN": "Not enough coins!"
   },
   "Toast_AlreadyFinishOpeating": {
-    "PT": "",
+    "PT": "Você já abriu o café hoje.\nDescanse e trabalhe bastante amanhã.",
     "EN": "You've already opened the cafe today.\nRest up and work hard tomorrow."
   },
   "Toast_OpeatingMissionComplete": {
-    "PT": "",
+    "PT": "Missão concluída!",
     "EN": "Mission complete!"
   },
   "Toast_CantFinishOpeatingMission": {
-    "PT": "",
+    "PT": "Requisitos não atendidos. Missão falhou!",
     "EN": "Requirements not met. Mission failed!"
   },
   "Toast_DiningNoOrder": {
-    "PT": "",
+    "PT": "Você ainda não pediu nada!",
     "EN": "You haven't ordered anything yet!"
   },
   "Toast_DiningOrderSuccess": {
-    "PT": "",
+    "PT": "Pedido anotado!",
     "EN": "Order taken!"
   },
   "Toast_NotEnoughMoney": {
-    "PT": "",
+    "PT": "Dinheiro insuficiente!",
     "EN": "Not enough money!"
   },
   "Toast_Stroy_NoMovie": {
-    "PT": "",
+    "PT": "Esse filme não está mais em cartaz!",
     "EN": "This movie isn't playing anymore!"
   },
   "Toast_BuySuccess": {
-    "PT": "",
+    "PT": "Comprado",
     "EN": "Purchased"
   },
   "Toast_NoMatchItem": {
-    "PT": "",
+    "PT": "Você não tem o item certo.",
     "EN": "You don't have the right item."
   },
   "Toast_OperatingPrepare_MaidIsAppeared": {
-    "PT": "",
+    "PT": "Essa maid já está trabalhando!",
     "EN": "This maid is already working!"
   },
   "Toast_OperatingPrepare_NoServerMaid": {
-    "PT": "",
+    "PT": "Você precisa designar pelo menos uma maid.",
     "EN": "You must assign at least one maid."
   },
   "Toast_OperatingPrepare_NoCookMaid": {
-    "PT": "",
+    "PT": "Você precisa designar pelo menos uma maid.",
     "EN": "You must assign at least one maid."
   },
   "Toast_Operating_CantLeaveWithDish": {
-    "PT": "",
+    "PT": "Você não pode sair quando \n precisa atender um cliente!",
     "EN": "You can't go outside when you're\nsupposed to serve a customer!"
   },
   "Toast_Operating_CantLeaveInOperating": {
-    "PT": "",
+    "PT": "O café ainda está aberto!",
     "EN": "The cafe is still open!"
   },
   "Toast_Operating_CantOperat": {
-    "PT": "",
+    "PT": "Descanso insuficiente. A operação foi pausada!",
     "EN": "Not enough rest. Operations paused!"
   },
   "Toast_Operating_CantInRestRoom": {
-    "PT": "",
+    "PT": "Você não pode entrar na Sala de Descanso\nquando o café ainda está aberto!",
     "EN": "You can't go into the break room\nwhen the cafe is still open!"
   },
   "Toast_Operating_NotThisTable": {
-    "PT": "",
+    "PT": "Mesa errada!",
     "EN": "Wrong table!"
   },
   "Toast_BuyNothing": {
-    "PT": "",
+    "PT": "Você ainda não escolheu nada!",
     "EN": "You haven't chosen anything yet!"
   },
   "Toast_CantStopOperatToEarly": {
-    "PT": "",
+    "PT": "Não vamos fechar mais cedo hoje!",
     "EN": "Let's not close early today!"
   },
   "Toast_TimeForOperating": {
-    "PT": "",
+    "PT": "Não há tempo suficiente!\nVocê não vai conseguir abrir o café a tempo.",
     "EN": "There's not enough time!\nYou won't make it in time to open the cafe."
   },
   "Toast_TimeForRest": {
-    "PT": "",
+    "PT": "Não há tempo suficiente!\nVocê não vai conseguir descansar.",
     "EN": "There's not enough time!\nYou won't be able to get any rest."
   },
   "Toast_CantDo": {
-    "PT": "",
+    "PT": "Você não tem tempo para isso agora!",
     "EN": "You don't have the time for this right now!"
   },
   "Toast_StoryCantSleep": {
-    "PT": "",
+    "PT": "Há algo importante que você precisa fazer,\nvocê não pode dormir ainda!",
     "EN": "There's something important you have to do,\nyou can't go to sleep just yet!"
   },
   "Toast_CantRideBike": {
-    "PT": "",
+    "PT": "Você não pode usar a bike agora.",
     "EN": "You can't use the bike now."
   },
   "Toast_AddLikeAgreed": {
-    "PT": "",
+    "PT": "Você ficou mais próximo(a) de {0}.",
     "EN": "You grew closer to {0}."
   },
   "Toast_ReduceLikeAgreed": {
-    "PT": "",
+    "PT": "Você se afastou mais de {0}...",
     "EN": "You drifted further from {0}..."
   },
   "Toast_CantRideBikeOutOfMember": {
-    "PT": "",
+    "PT": "A bike está sobrecarregada!",
     "EN": "The bike is overloaded!"
   },
   "Toast_CinemaCantOut": {
-    "PT": "",
+    "PT": "Vamos assistir a um filme!",
     "EN": "Let's watch a movie!"
   },
   "Toast_XinYouIsWaiting": {
-    "PT": "",
+    "PT": "Miyu está esperando por você!",
     "EN": "Miyu is waiting for you!"
   },
   "Toast_OperatingLevelUp": {
-    "PT": "",
+    "PT": "O café ficou mais popular,\ne mais clientes conhecem o nome Fuwa Fuwa!",
     "EN": "The cafe has become more popular,\nand more customers know the name Fuwa Fuwa!"
   },
   "LoadingText_RandomTips1": {
-    "PT": "",
+    "PT": "Você precisa <color=blue>descansar</color> direito para abrir o café no dia seguinte.",
     "EN": "You must get proper <color=blue>rest</color> in order to open the cafe the next day."
   },
   "LoadingText_RandomTips2": {
-    "PT": "",
+    "PT": "A Taverna dos Aventureiros geralmente fica aberta à <color=blue>noite</color>.",
     "EN": "The Adventurer's Tavern is usually open at <color=blue>night</color>."
   },
   "LoadingText_RandomTips3": {
-    "PT": "",
+    "PT": "As máquinas de cápsulas em frente à <color=blue>Surugaya</color> são atualizadas com frequência.",
     "EN": "The capsule vending machines in front of <color=blue>Surugaya</color> get updated frequently."
   },
   "LoadingText_RandomTips4": {
-    "PT": "",
+    "PT": "Você pode vender itens no <color=blue>brechó</color>.",
     "EN": "You can sell items at the <color=blue>thrift store</color>."
   },
   "LoadingText_RandomTips5": {
-    "PT": "",
+    "PT": "<color=blue>Comer fora</color> alivia o cansaço, mas você pode relaxar e aliviar ainda mais o cansaço no <color=blue>banho público</color>",
     "EN": "<color=blue>Eating out</color> can relieve fatigue,but you can relax and relieve more fatigue using <color=blue>Public Bath</color>. "
   },
   "LoadingText_Stroy_StartNewLife1": {
-    "PT": "",
+    "PT": "Você perdeu seu emprego.",
     "EN": "You have lost your job."
   },
   "LoadingText_Stroy_StartNewLife2": {
-    "PT": "",
+    "PT": "Sua nova vida começou.\nFim do Capítulo 1",
     "EN": "Your new life has begun.\nChapter 1 End"
   },
   "LoadingText_Day1_5_1": {
-    "PT": "",
+    "PT": "Você limpou o café com Miyu.",
     "EN": "You cleaned the cafe with Miyu."
   },
   "LoadingText_Day2_4_1": {
-    "PT": "",
+    "PT": "Você esperou Shiro trocar de uniforme antes de sair juntos do Miracle Maid Cafe.",
     "EN": "You waited for Shiro to change out of her uniform before leaving Miracle Maid Cafe together."
   },
   "LoadingText_Day2_2": {
-    "PT": "",
+    "PT": "Miyu saiu mais cedo hoje. Você limpou o café com Shiro.",
     "EN": "Miyu left early today. You cleaned the cafe with Shiro."
   },
   "LoadingText_Stroy_StartFristOperating1": {
-    "PT": "",
+    "PT": "Você voltou para o seu quarto e dormiu profundamente.\nFim do Capítulo 2",
     "EN": "You returned to your room and slept soundly.\nChapter 2 End"
   },
   "LoadingText_Stroy_StartFristOperating2": {
-    "PT": "",
+    "PT": "Já é manhã! Hora de gerenciar o café pela primeira vez!",
     "EN": "It's morning! Time to manage the cafe for the very first time!"
   },
   "LoadingText_Opearting_OperatingFinish1": {
-    "PT": "",
+    "PT": "O dia acabou! Vocês se despediram do último cliente.",
     "EN": "The day is over! You all said goodbye to the last customer."
   },
   "LoadingText_Opearting_OperatingFinish2": {
-    "PT": "",
+    "PT": "Você não é muito bom em limpeza, então acabou gastando mais tempo do que o esperado.",
     "EN": "You're not very good at cleaning, so you ended up spending more time than expected."
   },
   "LoadingText_Opearting_OperatingFinish3": {
-    "PT": "",
+    "PT": "As habilidades de limpeza da equipe melhoraram, então você gastou menos tempo que antes.",
     "EN": "The team's cleaning skills have improved, so you spent less time than before."
   },
   "LoadingText_Opearting_OperatingFinish4": {
-    "PT": "",
+    "PT": "A equipe está ficando cada vez melhor em limpeza! Levou menos tempo que antes.",
     "EN": "The team is getting even better at cleaning! It took less time than before."
   },
   "LoadingText_Opearting_OperatingFinish5": {
-    "PT": "",
+    "PT": "A equipe é excelente em limpeza, e foi rapidinho!",
     "EN": "The team is really good at cleaning, and it took no time at all!"
   },
   "LoadingText_ForceSleep1": {
-    "PT": "",
+    "PT": "Você está cansado demais. Seu corpo está tão desgastado pelo excesso de trabalho que não aguenta ficar acordado até tarde.",
     "EN": "You're too tired. Your body is too battered from overwork for you to stay up late."
   },
   "LoadingText_ForceSleep2": {
-    "PT": "",
+    "PT": "Alguém carregou você de volta ao apartamento.",
     "EN": "Someone carried you back to the apartment."
   },
   "LoadingText_ForceSleep3": {
-    "PT": "",
+    "PT": "Sem que você percebesse, já estava deitado na cama.",
     "EN": "Before you knew it, you were already lying in bed."
   },
   "LoadingText_END1": {
-    "PT": "",
+    "PT": "Final 1 - Vender Sua Alma ao Trabalho",
     "EN": "END 1 - Sell Your Soul to the Workplace"
   },
   "LoadingText_FinshSleep1": {
-    "PT": "",
+    "PT": "Você dormiu cedo e dormiu muito bem!",
     "EN": "You went to bed early and slept very well!"
   },
   "LoadingText_FinshSleep2": {
-    "PT": "",
+    "PT": "Você dormiu no horário e dormiu profundamente.",
     "EN": "You went to bed on time and slept soundly."
   },
   "LoadingText_FinshSleep3": {
-    "PT": "",
+    "PT": "Você dormiu um pouco tarde e não conseguiu dormir muito bem.",
     "EN": "You went to bed a little late and couldn't sleep very well."
   },
   "LoadingText_FinshSleep4": {
-    "PT": "",
+    "PT": "Você dormiu tarde demais e não conseguiu dormir muito bem.",
     "EN": "You went to bed too late and couldn't sleep very well."
   },
   "LoadingText_FinshSleep5": {
-    "PT": "",
+    "PT": "Você foi dormir bem tarde demais. Agora está privado de sono.",
     "EN": "You went to bed way too late. Now you're sleep deprived."
   },
   "LoadingText_FixTable": {
-    "PT": "",
+    "PT": "Graças à sua ajuda, a mesa foi consertada um pouco mais rápido!",
     "EN": "Thanks to your help, the dining table was fixed a bit more quickly!"
   },
   "LoadingText_FixOneTable": {
-    "PT": "",
+    "PT": "Graças à sua ajuda, a mesa foi totalmente consertada e devolvida ao café!",
     "EN": "Thanks to your help, the dining table has been completely fixed and sent back to the cafe!"
   },
   "LoadingText_WeakTime": {
-    "PT": "",
+    "PT": "8h da manhã - Apartamento",
     "EN": "8 AM - Apartment"
   },
   "LoadingText_Ensyutsu2Pass": {
-    "PT": "",
+    "PT": "Você seguiu Shiro até o apartamento no segundo andar.",
     "EN": "You followed Shiro to the apartment on the second floor."
   },
   "LoadingText_Operat_SpecialCustomer_FinishCoffee": {
-    "PT": "",
+    "PT": "Você serviu a bebida ao cliente.",
     "EN": "You served the drink to the customer."
   },
   "LoadingText_Day2_4_Milakuru_code_Part1": {
-    "PT": "",
+    "PT": "Você levou Shiro de volta à estação.",
     "EN": "You walked Shiro back to the station."
   },
   "LoadingText_Day3_2_Operat_SpecialCustomer_Story_Part1": {
-    "PT": "",
+    "PT": "Você viu duas garotas do ensino médio no balcão e se aproximou para cumprimentá-las.",
     "EN": "You saw two highschool girls at the counter and went up to greet them."
   },
   "LoadingText_Day3_2_Operat_SpecialCustomer_Story_Part2_success": {
-    "PT": "",
+    "PT": "Depois de conversar mais um pouco, Anna e Misaki foram embora, aparentemente satisfeitas.",
     "EN": "After chatting for some more, Anna and Misaki left, seemingly satisfied."
   },
   "LoadingText_Day3_2_Operat_SpecialCustomer_Story_Part3_failed": {
-    "PT": "",
+    "PT": "Anna e Misaki foram embora irritadas, e você não teve coragem de pedir para ficarem.",
     "EN": "Anna and Misaki left in an angry huff, and you didn't dare ask them to stay."
   },
   "LoadingText_Day10_2_Operat_SpecialCustomer_Story_Part4": {
-    "PT": "",
+    "PT": "Suzuka veio como prometido. Você foi atrás do balcão chamar Shiro.",
     "EN": "Suzuka came as promised. You went behind the counter to get Shiro."
   },
   "LoadingText_Day10_2_Operat_SpecialCustomer_Story_Part5_success": {
-    "PT": "",
+    "PT": "As duas conversaram sobre a época em que trabalharam juntas...\nVocê ouviu em silêncio, e o tempo voou.",
     "EN": "The two of them talked about the time they spent working together...\nYou listened quietly, and time flew."
   },
   "LoadingText_Day10_2_Operat_SpecialCustomer_Story_Part6_failed": {
-    "PT": "",
+    "PT": "Você não conseguiu satisfazer Suzuka com seu café,\nmas ela e Shiro alegremente conversaram sobre os velhos tempos, e o tempo voou.",
     "EN": "You couldn't satisfy Suzuka with your coffee,\nbut she and Shiro chatted happily about old times, and time flew."
   },
   "LoadingText_Day27_3_Operat_SpecialCustomer_End": {
-    "PT": "",
+    "PT": "Naquela noite, Miyako falou sobre os velhos tempos\nenquanto saboreava uma xícara de café...",
     "EN": "That night, Miyako talked about the old days\nas she sipped a cup of coffee..."
   },
   "LoadingText_Day17_3_Operat_SpeicalCustomer_Story_Part8_Failed": {
-    "PT": "",
+    "PT": "Depois disso, Favna pareceu ficar irritada com você,\ne não falou com você pelo resto do dia.",
     "EN": "Afterwards, Favna seemed to be angry at you,\nand she didn't speak to you for the rest of the day."
   },
   "LoadingText_Day17_3_Operat_SpeicalCustomer_Story_Part9_Success": {
-    "PT": "",
+    "PT": "Depois disso, o rosto de Favna ficou todo vermelho,\ne ela não disse uma palavra pelo resto do dia.",
     "EN": "Afterwards, Favna's face was bright red,\nand she didn't say a word for the rest of the day."
   },
   "LoadingText_Day20_2_Operat_SpeicalCustomer_Story_Part9_End": {
-    "PT": "",
+    "PT": "Depois disso, todos conversaram com Honoka por um tempo\ne a acompanharam até a porta.",
     "EN": "Afterwards, everyone talked to Honoka for a while\nand walked her to the door."
   },
   "LoadingText_Day21_8_Park_Story_Part5_1": {
-    "PT": "",
+    "PT": "Você passou pelo ritual sem um arranhão!\nMas parece que a sua energia foi drenada.",
     "EN": "You made it through the ritual without a scratch!\nThough it feels like your energy has been drained."
   },
   "LoadingText_Day21_8_Park_Story_Part5_2": {
-    "PT": "",
+    "PT": "Depois de ter certeza de que as garotas chegaram bem em casa,\nvocê foi direto para casa e dormiu cedo.",
     "EN": "After making sure the girls got home safe,\nyou went straight home and slept early."
   },
   "LoadingText_Day23_3_Operat_SpecialCustomer_Story_Part18_Failed": {
-    "PT": "",
+    "PT": "Depois disso, Memi e Shiro conversaram por um tempo\nsem darem atenção nenhuma a você.",
     "EN": "Afterwards, Memi and Shiro chatted for a while\nwithout really talking to you at all."
   },
   "LoadingText_Day23_3_Operat_SpecialCustomer_Story_Part19_Success": {
-    "PT": "",
+    "PT": "Depois disso, vocês conversaram sobre os mangás que gostavam...\ne então Shiro acompanhou Memi até a porta.",
     "EN": "Afterwards, you talked about the manga you liked...\nand then Shiro walked Memi to the door."
   },
   "LoadingText_Day23_3_Operat_SpecialCustomer_Story_Part16": {
-    "PT": "",
+    "PT": "Ao ver uma gyaru estilosa sentada no balcão,\nvocê tentou cumprimentá-la, mas Shiro correu até você...",
     "EN": "Seeing a cool gyaru sitting at the counter,\nyou tried to say hi, but Shiro ran up to you..."
   },
   "LoadingText_Day24_5_Shrine_Story_Part17": {
-    "PT": "",
+    "PT": "A situação finalmente começou a melhorar.\nVocê voltou para casa cedo para descansar como merece.",
     "EN": "The situation has finally started improving.\nYou went home early to get some well-deserved rest."
   },
   "LoadingText_Day23_11_StreetFull_Story_Part32": {
-    "PT": "",
+    "PT": "Depois de se despedir, você ainda se sentiu um pouco inquieto,\nmas também mais determinado do que nunca a resolver o mistério.",
     "EN": "After saying goodbye, you still felt a little uneasy,\nbut also more determined than ever to solve the mystery."
   },
   "LoadingText_Day33_4_Operat_Lobby_Story_Part32": {
-    "PT": "",
+    "PT": "Certo tempo depois... você terminou os preparativos às pressas.",
     "EN": "After a while... you frantically finished preparations."
   },
   "LoadingText_Day35_1_Operat_SpecialCustomer_Story_Part23": {
-    "PT": "",
+    "PT": "Suzuka já estava sentada no balcão.\nEra hora de fechar, então todos foram cumprimentá-la.",
     "EN": "Suzuka was already seated at the counter.\nIt was closing time, so you all went up to say hi."
   },
   "LoadingText_Day35_2_Operat_SpecialCustomer_Story_Part24_Failed": {
-    "PT": "",
+    "PT": "Todos se divertiram muito com Suzuka,\nmas você se arrependeu de não ter aprendido mais com ela.",
     "EN": "Everyone had a great time with Suzuka,\nbut you regretted not learning more from her."
   },
   "LoadingText_Day35_3_Operat_SpecialCustomer_Story_Part25_Success": {
-    "PT": "",
+    "PT": "Todos se divertiram muito com Suzuka,\ne você entendeu por que Shiro a respeita tanto.",
     "EN": "Everyone had a great time with Suzuka,\nand you understood why Shiro respects her so much."
   },
   "LoadingText_Day34_2_Operat_SpecialCustomer_Story_Part26": {
-    "PT": "",
+    "PT": "Duas garotas do ensino médio de aparência familiar entraram no café.",
     "EN": "Two familiar-looking highschool girls entered the cafe."
   },
   "LoadingText_Day34_2_Operat_SpecialCustomer_Story_Part28_Failed": {
-    "PT": "",
+    "PT": "Você só pôde observar de longe,\nmas Miyu conversou alegremente com suas amigas.",
     "EN": "You could only watch from afar,\nbut Miyu chatted happily with her friends."
   },
   "LoadingText_Day34_2_Operat_SpecialCustomer_Story_Part29_Success": {
-    "PT": "",
+    "PT": "Depois disso, vocês quatro conversaram sobre o café\ne se divertiram muito juntos.",
     "EN": "Afterwards, the four of you chatted about the cafe\nand had a great time together."
   },
   "LoadingText_Day45_2_Operat_SpecialCustomer_Story_Part30": {
-    "PT": "",
+    "PT": "Suzuka visitou o café...",
     "EN": "Suzuka visited the cafe..."
   },
   "LoadingText_Day45_2_Operat_SpecialCustomer_Story_Part31_Failed": {
-    "PT": "",
+    "PT": "Depois disso, você conversou com ela e o clima foi ótimo,\nmas você perdeu a oportunidade de fazer perguntas.",
     "EN": "Afterwards, you talked with her and the atmosphere was great,\nbut you missed the opportunity to ask her questions."
   },
   "LoadingText_Day45_2_Operat_SpecialCustomer_Story_Part32_Success1": {
-    "PT": "",
+    "PT": "Depois, você teve uma conversa animada sobre maids.",
     "EN": "Afterwards, you had a lively conversation about maids."
   },
   "LoadingText_Day45_2_Operat_SpecialCustomer_Story_Part32_Success2": {
-    "PT": "",
+    "PT": "Mas assim que o trio saiu... o clima desabou quase na hora.",
     "EN": "But once the trio left... the mood was brought down almost at once."
   },
   "LoadingText_Day52_3_Operat_SpecialCustomer_Story_Part33": {
-    "PT": "",
+    "PT": "Naquele dia, uma garota (?) familiar visitou o café.",
     "EN": "That day, a familiar girl (?) visited the cafe."
   },
   "LoadingText_Day52_3_Operat_SpecialCustomer_Story_Part34_Failed1": {
-    "PT": "",
+    "PT": "Depois, a Rin conversou com a Favna por um tempo antes de ir embora.",
     "EN": "Afterwards, Rin talked with Favna for a while before leaving."
   },
   "LoadingText_Day52_3_Operat_SpecialCustomer_Story_Part34_Failed2": {
-    "PT": "",
+    "PT": "Você não soube dizer o porquê, mas a Rin parecia um pouco melancólica.",
     "EN": "You couldn't tell why, but Rin looked a little wistful."
   },
   "LoadingText_Day52_3_Operat_SpecialCustomer_Story_Part35_Success": {
-    "PT": "",
+    "PT": "Depois, os três conversaram por bastante tempo \n até que a Rin, a contragosto, se levantou e foi embora.",
     "EN": "Afterwards, the three of you talked for a long time\nuntil Rin reluctantly got up and left."
   },
   "LoadingText_Day54_3_UndergroundCars": {
-    "PT": "",
+    "PT": "Depois de uma viagem de trem cheia de solavancos, você chegou em...",
     "EN": "After a rocky train ride, you arrived at..."
   },
   "LoadingText_Day55_2_Operat_RestRoom_Story_Part58_End": {
-    "PT": "",
+    "PT": "Alguns instantes depois...",
     "EN": "A few moments later..."
   },
   "LoadingText_Day50_5_End": {
-    "PT": "",
+    "PT": "Cuidando para que a roupa lavada não molhasse,\ntodos vocês voltaram juntos para o Fuwa Fuwa...",
     "EN": "Taking care not to let the laundry get wet,\nyou all went back to Fuwa Fuwa together..."
   },
   "LoadingText_Day8_5_MyRoom_Story_Part9_BadEnd2_1": {
-    "PT": "",
+    "PT": "Você tentou por muito, muito tempo,\nmas o café simplesmente não dava muito movimento.",
     "EN": "You tried for a long, long time,\nbut the cafe just didn't get much business."
   },
   "LoadingText_Day8_5_MyRoom_Story_Part9_BadEnd2_2": {
-    "PT": "",
+    "PT": "Ao mesmo tempo, a compra da figura gigante \n devorava você por dentro, entre a alegria e a culpa.",
     "EN": "At the same time, your purchase of the giant figure\ntore you apart from the inside with both joy and guilt."
   },
   "LoadingText_Day8_5_MyRoom_Story_Part10_BadEnd3_1": {
-    "PT": "",
+    "PT": "Você tentou por muito, muito tempo, mas o café\nsimplesmente não dava muito movimento. Ainda assim, você deu o seu máximo.",
     "EN": "You tried for a long, long time, but the cafe\njust didn't get much business. Still, you did your utmost."
   },
   "LoadingText_Day8_5_MyRoom_Story_Part10_BadEnd3_2": {
-    "PT": "",
+    "PT": "Até que, finalmente... um dia...",
     "EN": "Until finally... one day..."
   },
   "LoadingText_Day12_2_Story_End1": {
-    "PT": "",
+    "PT": "Você e a Miyu levaram a Shiro para casa\ne se revezaram cuidando dela.",
     "EN": "You and Miyu walked Shiro home\nand took turns taking care of her."
   },
   "LoadingText_Day12_2_Story_End2": {
-    "PT": "",
+    "PT": "Quando você terminou os afazeres no café,\njá era fim de tarde.",
     "EN": "By the time you finished the odd jobs at the cafe,\nit was already evening."
   },
   "LoadingText_Day25_1_MyRoom_Story_Part21": {
-    "PT": "",
+    "PT": "Depois de enviar a mensagem convidando ela para sair,\nvocê chega na estação no horário combinado.",
     "EN": "After sending the text inviting her out,\nyou arrive at the station at the promised time."
   },
   "LoadingText_Day49_1_Bathhouse_End": {
-    "PT": "",
+    "PT": "Você mergulhou no banho quente e relaxou bastante...",
     "EN": "You soaked in the hot bath and had a relaxing time..."
   },
   "LoadingText_Day7_5_GameCenter_SecondFloor_Story_Part1": {
-    "PT": "",
+    "PT": "Depois, você conversou com a Miyu sobre Magic Angel,\ne então a acompanhou até a estação.",
     "EN": "Afterwards, you talked with Miyu about Magic Angel,\nand then you walked her to the station."
   },
   "LoadingText_Day37_2_MyRoom_Story_Part30_End": {
-    "PT": "",
+    "PT": "Mesmo trabalhando até tarde da noite,\nvocê não esqueceu de descansar direito.",
     "EN": "Even though you had work until late at night,\nyou didn't forget to get proper rest."
   },
   "LoadingText_Day41_9_Karaoke_Room_Story_Part4_End": {
-    "PT": "",
+    "PT": "E então, todos vocês foram ao karaokê depois do trabalho.",
     "EN": "And so, you all went for karaoke after work."
   },
   "LoadingText_Demo_Start1": {
-    "PT": "",
+    "PT": "Hoje, você perdeu seu emprego em um ambiente de trabalho tóxico. Sem para onde ir e apenas com a roupa do corpo, você vagou sem rumo pela Rua Elétrica...",
     "EN": "Today, you lost your job at a toxic workplace. With no place to go and only the clothes on your back, you wandered aimlessly on Electric Street..."
   },
   "LoadingText_Demo_Start2": {
-    "PT": "",
+    "PT": "Você se deparou com um café que parecia vazio, mas aberto.",
     "EN": "You happened upon a cafe that seemed to be empty but open."
   },
   "LoadingText_Demo_Start3": {
-    "PT": "",
+    "PT": "Depois, você trabalhou com a Shiro para recrutar uma nova maid, a Miyu...",
     "EN": "Afterwards, you worked with Shiro to recruit a new maid, Miyu..."
   },
   "LoadingText_Demo_Start4": {
-    "PT": "",
+    "PT": "E assim o Fuwa Fuwa finalmente reabriu, e logo no primeiro dia de folga programada...",
     "EN": "And so Fuwa Fuwa finally reopened, and on the first regular closing day..."
   },
   "LoadingText_Demo_Start5": {
-    "PT": "",
+    "PT": "...Você recebeu um convite da Miyu.",
     "EN": "...You received an invitation from Miyu."
   },
   "MainMissonTextOffice1": {
-    "PT": "",
+    "PT": "Sente-se e trabalhe",
     "EN": "Sit down and work"
   },
   "MainMissonTextOffice2": {
-    "PT": "",
+    "PT": "Saia do escritório",
     "EN": "Leave the office"
   },
   "MainMissonTextOffice3": {
-    "PT": "",
+    "PT": "Vá para a estação",
     "EN": "Go to the station"
   },
   "MainMissonTextOffice4": {
-    "PT": "",
+    "PT": "Volte ao trabalho",
     "EN": "Go back to work"
   },
   "MainMissonText1": {
-    "PT": "",
+    "PT": "Encontre um lugar para descansar e procure um novo emprego",
     "EN": "Find a place to rest and look for a new job"
   },
   "MainMissonText2": {
-    "PT": "",
+    "PT": "Tente ir para o oeste",
     "EN": "Try heading west"
   },
   "MainMissonTextDemo1": {
-    "PT": "",
+    "PT": "Dê uma olhada no café antes de sair",
     "EN": "Take a look around the cafe before leaving"
   },
   "MainMissonText3": {
-    "PT": "",
+    "PT": "Indo embora tão cedo...?",
     "EN": "Leaving so soon...?"
   },
   "MainMissonText4": {
-    "PT": "",
+    "PT": "Descanse cedo enquanto ainda pode!",
     "EN": "Get some early rest while you still can!"
   },
   "MainMissonText5": {
-    "PT": "",
+    "PT": "Vá para a Estação de Trem!",
     "EN": "Go to the train station!"
   },
   "MainMissonText6": {
-    "PT": "",
+    "PT": "Encontre o enfeite perdido da garota misteriosa",
     "EN": "Find the mysterious girl's lost trinket"
   },
   "MainMissonText7": {
-    "PT": "",
+    "PT": "Continue indo para a Estação de Trem!",
     "EN": "Keep going to the train station!"
   },
   "MainMissonText8": {
-    "PT": "",
+    "PT": "Continue procurando pela Rua Elétrica! Você pode conversar com a Shiro pelo <color=yellow>Botão de Conversa</color> (tecla V/botão Y)",
     "EN": "Continue your search on Electric Street! You can talk to Shiro with the <color=yellow>Chat button</color> (V Key/Y Button)"
   },
   "MainMissonText9": {
-    "PT": "",
+    "PT": "Siga a Garota de Cabelo Rosa",
     "EN": "Follow the pink-haired girl"
   },
   "MainMissonText9_1": {
-    "PT": "",
+    "PT": "Jogue na máquina de fliperama ao lado",
     "EN": "Play at the adjacent arcade machine"
   },
   "MainMissonText10": {
-    "PT": "",
+    "PT": "Pressione a tecla G (↓ no direcional) para abrir seu celular e ver as mensagens do LIME.\nPressione a tecla B (↑ no direcional) para ver seu inventário.\nPressione a tecla X (botão B) para fechar.",
     "EN": "Press G key (↓ on directional pad) to open your smartphone and check your LIME messages.\nPress B key (↑ on directional pad) to check your backpack.\nPress X key (B button) to close."
   },
   "MainMissonText11": {
-    "PT": "",
+    "PT": "Vá para o café",
     "EN": "Go to the cafe"
   },
   "MainMissonText12": {
-    "PT": "",
+    "PT": "Encontre a Shiro na Sala de Descanso\n<color=yellow>(De agora em diante, você pode salvar seu progresso pelo menu)</color>",
     "EN": "Find Shiro in the break room\n<color=yellow>(From now on, you can save your progress from the menu)</color>"
   },
   "MainMissonText13": {
-    "PT": "",
+    "PT": "Interaja com o quadro branco para começar o gerenciamento",
     "EN": "Interact with the whiteboard to start management"
   },
   "MainMissonText14": {
-    "PT": "",
+    "PT": "Faça o seu melhor para gerenciar o café!",
     "EN": "Do your best to manage the cafe!"
   },
   "MainMissonText15": {
-    "PT": "",
+    "PT": "Converse com a Shiro para ver o seu faturamento no menu de Gerenciamento",
     "EN": "Talk to Shiro to view your revenue from the Management menu"
   },
   "MainMissonText16": {
-    "PT": "",
+    "PT": "Limpe o salão principal com a Miyu",
     "EN": "Clean the main hall with Miyu"
   },
   "MainMissonText17": {
-    "PT": "",
+    "PT": "Acompanhe a Miyu até a Estação de Trem. Você pode conversar com ela pelo <color=yellow>Botão de Conversa</color> (tecla V/botão Y)",
     "EN": "Walk Miyu to the train station. You can talk to Miyu with the <color=yellow>Chat button</color> (V Key/Y button)"
   },
   "MainMissonText18": {
-    "PT": "",
+    "PT": "Vá para a Loja de Conveniência com a Miyu",
     "EN": "Go to the convenience store with Miyu"
   },
   "MainMissonText19": {
-    "PT": "",
+    "PT": "Faça o seu melhor, novo gerente! Não fique acordado a noite toda!",
     "EN": "Do your best, new manager! Don't stay up all night!"
   },
   "MainMissonText20": {
-    "PT": "",
+    "PT": "Vá para o Miracle Maid Cafe com a Shiro",
     "EN": "Go to Miracle Maid Cafe with Shiro"
   },
   "MainMissonText21": {
-    "PT": "",
+    "PT": "Você está cansado. Vá dormir mais cedo hoje",
     "EN": "You're tired. Go to bed earlier tonight"
   },
   "MainMissonText22": {
-    "PT": "",
+    "PT": "Um dia totalmente novo! Que os clientes continuem chegando! <color=yellow>(Dica: do lado esquerdo do café fica a Sala de Descanso, onde você pode interagir com o quadro branco para começar a planejar o dia.)</color>",
     "EN": "A brand new day! Let's keep the business coming! <color=yellow>(Hint: the leftmost side of the cafe leads to the break room, where you can interact with the whiteboard to start planning for the day.)</color>"
   },
   "MainMissonText23": {
-    "PT": "",
+    "PT": "Um dia totalmente novo! Que os clientes continuem chegando! <color=yellow>(Dica: talvez um Cliente Especial apareça hoje...)</color>",
     "EN": "A brand new day! Let's keep the business coming! <color=yellow>(Hint: You might get a special customer today...)</color>"
   },
   "Toast_SpecialCustomer": {
-    "PT": "",
+    "PT": "Um Cliente Especial chegou! Confira o balcão",
     "EN": "A special customer has arrived! Check the counter"
   },
   "MainMissonText25": {
-    "PT": "",
+    "PT": "Bom trabalho hoje! Vá logo descansar!",
     "EN": "Good job today! Hurry and get some rest!"
   },
   "MainMissonText26": {
-    "PT": "",
+    "PT": "Encontre-se com a Miyu na Associação Comercial",
     "EN": "Meet up with Miyu at the Shopping Association"
   },
   "MainMissonText27": {
-    "PT": "",
+    "PT": "Visite as lojas que a Miyu quer conhecer: <color=yellow>a butique, lojas de jogos ou restaurantes de comida picante</color>",
     "EN": "Visit the shops Miyu wants to check out: <color=yellow>the boutique, game shops, or spicy food restaurants</color>"
   },
   "MainMissonText28": {
-    "PT": "",
+    "PT": "Que tal perguntar sobre o pingente para <color=yellow>Togetsuya e o Brechó</color>?\nOu volte para casa cedo e descanse.",
     "EN": "Maybe you should ask <color=yellow>Togetsuya and Thrift Store</color> about the pendant?\nOr go home early and get some rest."
   },
   "MainMissonText29": {
-    "PT": "",
+    "PT": "Um novo dia. Hora de ir até a Sala de Descanso do Fuwa Fuwa.",
     "EN": "A new day. Time to go to the Fuwa Fuwa break room."
   },
   "MainMissonText30": {
-    "PT": "",
+    "PT": "Você ouve um miado vindo do <color=yellow>parque</color>. Dar uma olhada? <<color=yellow>(Dica: a entrada do parque fica à direita do café.)</color>",
     "EN": "You hear a cat's cry from the <color=yellow>park</color>. Take a look? <<color=yellow>(Hint: The park entrance is to the right of the cafe.)</color>"
   },
   "MainMissonTextOperat": {
-    "PT": "",
+    "PT": "Continue com o bom trabalho!",
     "EN": "Keep up the good work!"
   },
   "MainMissonTextFree": {
-    "PT": "",
+    "PT": "Tempo livre! Garanta um bom descanso!",
     "EN": "Free time! Make sure to get enough rest!"
   },
   "MainMissonTextFreeDay": {
-    "PT": "",
+    "PT": "Tempo livre",
     "EN": "Free time"
   },
   "MainMissonTextRest": {
-    "PT": "",
+    "PT": "Você tem muito trabalho amanhã, então descanse cedo",
     "EN": "You have plenty of work tomorrow, so get some early rest"
   },
   "MainMissonText11_1": {
-    "PT": "",
+    "PT": "Encontre-se com a Shiro no parque",
     "EN": "Meet up with Shiro at the park"
   },
   "MainMissonText12_1": {
-    "PT": "",
+    "PT": "Tempo livre",
     "EN": "Free time"
   },
   "MainMissonText14_1": {
-    "PT": "",
+    "PT": "Confira as mensagens do celular",
     "EN": "Check your phone messages"
   },
   "MainMissonText14_2": {
-    "PT": "",
+    "PT": "Continue gerenciando o café com a ajuda da Favna",
     "EN": "Continue managing the cafe with Favna's help"
   },
   "MainMissonText14_3": {
-    "PT": "",
+    "PT": "Vá ao santuário para selar seu pacto",
     "EN": "Go to the shrine to form your pact"
   },
   "MainMissonText15_1": {
-    "PT": "",
+    "PT": "Confira a cozinha! Você tem alguma coisa para o gato?",
     "EN": "Check the kitchen! Do you have anything for the cat?"
   },
   "MainMissonText18_1": {
-    "PT": "",
+    "PT": "Confira as mensagens do celular",
     "EN": "Check your phone messages"
   },
   "MainMissonText18_2": {
-    "PT": "",
+    "PT": "Encontre-se com a Favna no parque",
     "EN": "Meet up with Favna at the park"
   },
   "MainMissonText18_3": {
-    "PT": "",
+    "PT": "Visite as lojas que a Favna quer conhecer, como <color=yellow>a butique, a floricultura, lojas de jogos ou o sebo</color>\nDepois disso, confira <color=yellow>a terra prometida</color>",
     "EN": "Visit shops Favna wants to check out, such as <color=yellow>the boutique, the florist, game shops, or the secondhand bookshop</color>\nAtfer that, check out <color=yellow>the promised land</color>"
   },
   "MainMissonText18_4": {
-    "PT": "",
+    "PT": "Tempo livre... Que tal se encontrar com o seu Senpai?",
     "EN": "Free time... Should you meet up with your senior?"
   },
   "MainMissonText22_1_Siro": {
-    "PT": "",
+    "PT": "Distribua panfletos na Associação Comercial com a Shiro",
     "EN": "Hand out flyers at the Shopping Association with Shiro"
   },
   "MainMissonText22_1_Miyu": {
-    "PT": "",
+    "PT": "Distribua panfletos na Associação Comercial com a Miyu",
     "EN": "Hand out flyers at the Shopping Association with Miyu"
   },
   "MainMissonText22_1_Favna": {
-    "PT": "",
+    "PT": "Distribua panfletos na Associação Comercial com a Favna",
     "EN": "Hand out flyers at the Shopping Association with Favna"
   },
   "MainMissonText22_2": {
-    "PT": "",
+    "PT": "Terminou de entregar os panfletos? Pode andar um pouco mais ou voltar para a Rua Elétrica...",
     "EN": "Have you finished handing out flyers? You could walk around a bit more or return to Electric Street..."
   },
   "MainMissonText22_3": {
-    "PT": "",
+    "PT": "Esse deve ser o último! Hora de voltar para a Rua Elétrica.",
     "EN": "That should be the last one! Time to go back to Electric Street."
   },
   "MainMissonText22_4": {
-    "PT": "",
+    "PT": "Encontre-se com todos no café",
     "EN": "Meet up with everyone at the cafe"
   },
   "MainMissonText25_1_Siro": {
-    "PT": "",
+    "PT": "Visite as lojas que a Shiro gosta, como <color=yellow>Surugaya, o sebo, o karaokê, a Loja de Cartas ou lojas de jogos</color>",
     "EN": "Visit shops Shiro likes, such as <color=yellow>Surugaya, the secondhand bookshop, karaoke, the card shop, or game shops</color>"
   },
   "MainMissonText25_1_Miyu": {
-    "PT": "",
+    "PT": "Visite as lojas que a Miyu gosta: <color=yellow>restaurantes, o karaokê, a Loja de Cartas ou o Salão de Cabelo</color>",
     "EN": "Visit shops Miyu likes: <color=yellow>restaurants, karaoke, the card shop, or the hair salon</color>"
   },
   "MainMissonText25_1_Favna": {
-    "PT": "",
+    "PT": "Visite as lojas que a Favna gosta, como <color=yellow>o fliperama, o WoDonalds, a Loja de Móveis, o karaokê, lojas de jogos ou o brechó</color>",
     "EN": "Visit shops Favna likes, such as <color=yellow>the arcade, WoDonalds, the furniture store, karaoke, game shops, or the thrift store</color>"
   },
   "MainMissonText26_1": {
-    "PT": "",
+    "PT": "Vá ao santuário para ajudar a Honoka!",
     "EN": "Go to the shrine to help Honoka!"
   },
   "MainMissonText26_2": {
-    "PT": "",
+    "PT": "Procure os pergaminhos secretos no sebo",
     "EN": "Look for the secret scrolls at the secondhand bookshop"
   },
   "MainMissonText26_3": {
-    "PT": "",
+    "PT": "Encontre os pergaminhos secretos perdidos",
     "EN": "Find the lost secret scrolls"
   },
   "MainMissonText29_1": {
-    "PT": "",
+    "PT": "Pergunte sobre os eventos no cinema e no Miracle Maid Cafe",
     "EN": "Ask about events at the movie theater and Miracle Maid Cafe"
   },
   "MainMissonText32_1": {
-    "PT": "",
+    "PT": "Encontre-se com a Honoka no Fuwa Fuwa!",
     "EN": "Meet up with Honoka at Fuwa Fuwa!"
   },
   "MainMissonText32_2": {
-    "PT": "",
+    "PT": "Vá ao cinema com a Honoka",
     "EN": "Go to the theater with Honoka"
   },
   "MainMissonText32_3": {
-    "PT": "",
+    "PT": "Vá até O Melhor Golpe do Velhinho com a Honoka",
     "EN": "Go to The Old Man's Best Swing with Honoka"
   },
   "MainMissonText32_4": {
-    "PT": "",
+    "PT": "Vá até Super Potato com a Honoka",
     "EN": "Go to Super Potato with Honoka"
   },
   "MainMissonText32_5": {
-    "PT": "",
+    "PT": "Descanse no parque com a Honoka",
     "EN": "Take a break at the park with Honoka"
   },
   "MainMissonText39_Siro_0": {
-    "PT": "",
+    "PT": "Encontre-se com a Shiro na frente do café",
     "EN": "Meet Shiro out front"
   },
   "MainMissonText39_Siro_1": {
-    "PT": "",
+    "PT": "Primeiro, vá ao Armazém da Associação Comercial com a Shiro!",
     "EN": "First, go to the grocer's at the Shopping Association with Shiro!"
   },
   "MainMissonText39_Siro_2": {
-    "PT": "",
+    "PT": "Vá à peixaria com a Shiro",
     "EN": "Go to the fishmonger's with Shiro"
   },
   "MainMissonText39_Siro_3": {
-    "PT": "",
+    "PT": "Agora, a loja de tofu",
     "EN": "Next is the tofu store"
   },
   "MainMissonText39_Siro_4": {
-    "PT": "",
+    "PT": "E depois, a barraca de takoyaki",
     "EN": "And then the takoyaki stand"
   },
   "MainMissonText39_Siro_5": {
-    "PT": "",
+    "PT": "Agora é a vez de Surugaya",
     "EN": "Next up, Surugaya"
   },
   "MainMissonText39_Siro_6": {
-    "PT": "",
+    "PT": "Almoce com a Shiro",
     "EN": "Have lunch with Shiro"
   },
   "MainMissonText39_Siro_7": {
-    "PT": "",
+    "PT": "Vá ao cinema",
     "EN": "Go to the theater"
   },
   "MainMissonText39_Siro_8": {
-    "PT": "",
+    "PT": "Volte ao café para encontrar-se com os outros",
     "EN": "Meet up with the others back at the cafe"
   },
   "MainMissonText39_Miyu_0": {
-    "PT": "",
+    "PT": "Encontre-se com a Miyu na frente do café",
     "EN": "Meet Miyu out front"
   },
   "MainMissonText39_Miyu_1": {
-    "PT": "",
+    "PT": "Vá ao restaurante super picante com a Miyu",
     "EN": "Go to the super spicy restaurant with Miyu"
   },
   "MainMissonText39_Miyu_2": {
-    "PT": "",
+    "PT": "Vá à Casa de Curry",
     "EN": "Go to the curry restaurant"
   },
   "MainMissonText39_Miyu_3": {
-    "PT": "",
+    "PT": "Vá ao açougue",
     "EN": "Go to the butcher's"
   },
   "MainMissonText39_Miyu_4": {
-    "PT": "",
+    "PT": "Agora, a Loja de Conveniência",
     "EN": "Next is the convenience store"
   },
   "MainMissonText39_Miyu_5": {
-    "PT": "",
+    "PT": "Antes de ir ao fliperama, encontre um lugar para almoçar com a Miyu",
     "EN": "Before you go to the arcade, find a place to have lunch with Miyu"
   },
   "MainMissonText39_Miyu_6": {
-    "PT": "",
+    "PT": "Vá ao fliperama",
     "EN": "Go to the arcade"
   },
   "MainMissonText39_Miyu_7": {
-    "PT": "",
+    "PT": "Por último, vá ao cinema",
     "EN": "Lastly, go to the theater"
   },
   "MainMissonText39_Miyu_8": {
-    "PT": "",
+    "PT": "Escolha um filme para assistir com a Miyu",
     "EN": "Pick a movie to watch with Miyu"
   },
   "MainMissonText39_Miyu_9": {
-    "PT": "",
+    "PT": "Volte ao café para encontrar-se com os outros",
     "EN": "Meet up with the others back at the cafe"
   },
   "MainMissonText39_Favna_0": {
-    "PT": "",
+    "PT": "Encontre-se com a Favna na frente do café",
     "EN": "Meet Favna out front"
   },
   "MainMissonText39_Favna_1": {
-    "PT": "",
+    "PT": "Vá até Super Potato com a Favna",
     "EN": "Go to Super Potato with Favna"
   },
   "MainMissonText39_Favna_2": {
-    "PT": "",
+    "PT": "Vá ao Game Tanteidan com a Favna",
     "EN": "Go to Game Tanteidan with Favna"
   },
   "MainMissonText39_Favna_3": {
-    "PT": "",
+    "PT": "Vá até Togetsuya com a Favna",
     "EN": "Go to Togetsuya with Favna"
   },
   "MainMissonText39_Favna_4": {
-    "PT": "",
+    "PT": "Vá ao Sofmap com a Favna",
     "EN": "Go to Sofmap with Favna"
   },
   "MainMissonText39_Favna_5": {
-    "PT": "",
+    "PT": "Vá comer alguma coisa com a Favna",
     "EN": "Go get some food with Favna"
   },
   "MainMissonText39_Favna_6": {
-    "PT": "",
+    "PT": "Vá ao cinema",
     "EN": "Go to the theater"
   },
   "MainMissonText39_Favna_7": {
-    "PT": "",
+    "PT": "Escolha um filme para assistir com a Favna",
     "EN": "Pick a movie to watch with Favna"
   },
   "MainMissonText39_Favna_8": {
-    "PT": "",
+    "PT": "Volte ao café com a Favna para encontrar-se com os outros",
     "EN": "Go back to the cafe with Favna to meet up with the others"
   },
   "MainMissonText39_Honoka_1": {
-    "PT": "",
+    "PT": "Vá encontrar a Honoka no santuário",
     "EN": "Go meet Honoka at the shrine"
   },
   "MainMissonText39_Honoka_2": {
-    "PT": "",
+    "PT": "Vá à Loja de Kimonos com a Honoka",
     "EN": "Go to the kimono store with Honoka"
   },
   "MainMissonText39_Honoka_3": {
-    "PT": "",
+    "PT": "Vá à floricultura",
     "EN": "Go to the florist"
   },
   "MainMissonText39_Honoka_4": {
-    "PT": "",
+    "PT": "Vá ao Restaurante da Meia-Noite com a Honoka",
     "EN": "Go to the late-night diner with Honoka"
   },
   "MainMissonText39_Honoka_5": {
-    "PT": "",
+    "PT": "Encontre um lugar para almoçar com a Honoka",
     "EN": "Find a place to have lunch with Honoka"
   },
   "MainMissonText39_Honoka_6": {
-    "PT": "",
+    "PT": "Vá ao cinema",
     "EN": "Go to the theater"
   },
   "MainMissonText39_Honoka_7": {
-    "PT": "",
+    "PT": "Assista a um filme com a Honoka",
     "EN": "Watch a movie with Honoka"
   },
   "MainMissonText39_Honoka_8": {
-    "PT": "",
+    "PT": "Volte ao café com a Honoka para encontrar-se com os outros",
     "EN": "Go back to the cafe with Honoka to meet up with the others"
   },
   "MainMissonText40_1": {
-    "PT": "",
+    "PT": "Vá ao café e se prepare para a festa de degustação",
     "EN": "Go to the cafe and get ready for the taste testing party"
   },
   "MainMissonText41_1": {
-    "PT": "",
+    "PT": "Confira o celular...?",
     "EN": "Check your phone...?"
   },
   "MainMissonText41_2": {
-    "PT": "",
+    "PT": "Confira o celular??",
     "EN": "Check your phone??"
   },
   "MainMissonText41_3": {
-    "PT": "",
+    "PT": "Confira o celular???",
     "EN": "Check your phone???"
   },
   "MainMissonText41_4": {
-    "PT": "",
+    "PT": "Mate um pouco mais de tempo antes de ir ao café",
     "EN": "Kill some more time before going to the cafe"
   },
   "MainMissonText41_5": {
-    "PT": "",
+    "PT": "Já está na hora de voltar ao café",
     "EN": "It's about time to go back to the cafe"
   },
   "MainMissonText41_6": {
-    "PT": "",
+    "PT": "Vá ao Miracle Maid Cafe para devolver o mangá que a Shiro pegou emprestado",
     "EN": "Go to Miracle Maid Cafe to return the manga Shiro borrowed"
   },
   "MainMissonText41_7": {
-    "PT": "",
+    "PT": "Hora de ir ao Restaurante Chique para retirar seu pedido",
     "EN": "Time to go to the high-class restaurant and pick up your order"
   },
   "MainMissonText41_8": {
-    "PT": "",
+    "PT": "Leve o bolo de volta ao Fuwa Fuwa!",
     "EN": "Bring the cake back to Fuwa Fuwa!"
   },
   "MainMissonText42_1": {
-    "PT": "",
+    "PT": "O quê? Ração de gato e sashimi...?",
     "EN": "What? Cat food and sashimi...?"
   },
   "MainMissonText42_2": {
-    "PT": "",
+    "PT": "Carne? Uma carne cara?",
     "EN": "Beef? Expensive beef?"
   },
   "MainMissonText42_3": {
-    "PT": "",
+    "PT": "E lá se vai. Enfim, hora de dormir...",
     "EN": "And there it goes. Oh well, time for bed..."
   },
   "MainMissonText48_1": {
-    "PT": "",
+    "PT": "Aproveite a generosidade do seu Senpai e vá ao Restaurante da Meia-Noite!",
     "EN": "Enjoy your senpai's generosity and go to the late-night diner!"
   },
   "MainMissonText49_1": {
-    "PT": "",
+    "PT": "Tome um banho",
     "EN": "Take a bath"
   },
   "MainMissonText49_2": {
-    "PT": "",
+    "PT": "Vá à Loja de Móveis",
     "EN": "Go to the furniture store"
   },
   "MainMissonText49_3": {
-    "PT": "",
+    "PT": "Vá ao banho público na Associação Comercial",
     "EN": "Go to the bathhouse in the Shopping Association"
   },
   "MainMissonText50_1": {
-    "PT": "",
+    "PT": "Vá à lavanderia",
     "EN": "Go to the laundromat"
   },
   "MainMissonText52_1": {
-    "PT": "",
+    "PT": "Convide uma garota para sair com você",
     "EN": "Ask a girl to hang out with you"
   },
   "MainMissonText53_1_Siro": {
-    "PT": "",
+    "PT": "Passe um tempo com a Shiro até o anoitecer. Você pode visitar lugares como <color=yellow>restaurantes, a loja de conveniência, o armazém ou o banho público</color>",
     "EN": "Spend time with Shiro until evening. You can visit places like <color=yellow>restaurants, the general store, grocer's, or the bathhouse</color>"
   },
   "MainMissonText53_1_Miyu": {
-    "PT": "",
+    "PT": "Passe um tempo com a Miyu até o anoitecer. Você pode visitar lugares como <color=yellow>restaurantes, a loja de móveis, livrarias ou o açougue</color>",
     "EN": "Spend time with Miyu until evening. You can visit places like <color=yellow>restaurants, the furniture store, bookstores, or butcher's</color>"
   },
   "MainMissonText53_1_Favna": {
-    "PT": "",
+    "PT": "Passe um tempo com a Favna até o anoitecer. Você pode visitar lugares como <color=yellow>restaurantes, livrarias, a loja de eletrodomésticos ou a Surugaya</color>",
     "EN": "Spend time with Favna until evening. You can visit places like <color=yellow>restaurants, bookstores, the electric appliance store, or Surugaya</color>"
   },
   "MainMissonText53_1_Honoka": {
-    "PT": "",
+    "PT": "Passe um tempo com a Honoka até o anoitecer. Você pode visitar lugares como <color=yellow>restaurantes, a loja de cartas, a Surugaya ou a peixaria</color>",
     "EN": "Spend time with Honoka until evening. You can visit places like <color=yellow>restaurants, the card shop, Surugaya, or the fishmonger's</color>"
   },
   "MainMissonText53_2_Siro": {
-    "PT": "",
+    "PT": "Tempo livre... Ou será que vale comprar um presente para alguém especial?",
     "EN": "Free time... Or should you buy a present for a special someone?"
   },
   "MainMissonText53_2_Miyu": {
-    "PT": "",
+    "PT": "Tempo livre... Ou será que vale comprar um presente para alguém especial?",
     "EN": "Free time... Or should you buy a present for a special someone?"
   },
   "MainMissonText53_2_Favna": {
-    "PT": "",
+    "PT": "Tempo livre... Ou será que vale comprar um presente para alguém especial?",
     "EN": "Free time... Or should you buy a present for a special someone?"
   },
   "MainMissonText53_2_Honoka": {
-    "PT": "",
+    "PT": "Tempo livre... Ou será que vale comprar um presente para alguém especial?",
     "EN": "Free time... Or should you buy a present for a special someone?"
   },
   "MainMissonText55_1": {
-    "PT": "",
+    "PT": "Vá até a estação!",
     "EN": "Go to the station!"
   },
   "MainMissonText55_2": {
-    "PT": "",
+    "PT": "Vá de trem para o festival de verão!",
     "EN": "Take the train to the summer festival!"
   },
   "MainMissonText55_3_Siro": {
-    "PT": "",
+    "PT": "Aproveite o segundo dia do festival com a Shiro!",
     "EN": "Enjoy the second day of the festival with Shiro!"
   },
   "MainMissonText55_3_Miyu": {
-    "PT": "",
+    "PT": "Aproveite o segundo dia do festival com a Miyu!",
     "EN": "Enjoy the second day of the festival with Miyu!"
   },
   "MainMissonText55_3_Favna": {
-    "PT": "",
+    "PT": "Aproveite o segundo dia do festival com a Favna!",
     "EN": "Enjoy the second day of the festival with Favna!"
   },
   "MainMissonText55_3_Honoka": {
-    "PT": "",
+    "PT": "Aproveite o segundo dia do festival com a Honoka!",
     "EN": "Enjoy the second day of the festival with Honoka!"
   },
   "MainMissonText55_4": {
-    "PT": "",
+    "PT": "Vá até a barraca de sorvete do presidente!",
     "EN": "Go to the chairman's ice cream stall!"
   },
   "MainMissonText56_1": {
-    "PT": "",
+    "PT": "Trabalhe duro como sempre!",
     "EN": "Work as hard as always!"
   },
   "MainMissonText56_2": {
-    "PT": "",
+    "PT": "Vá ao festival de novo! Hoje, você vai...",
     "EN": "Go to the festival again! Today, you'll..."
   },
   "MainMissonText56_3_Siro": {
-    "PT": "",
+    "PT": "Aproveite o último dia do festival com a Shiro",
     "EN": "Enjoy the last day of the festival with Shiro"
   },
   "MainMissonText56_3_Miyu": {
-    "PT": "",
+    "PT": "Aproveite o último dia do festival com a Miyu",
     "EN": "Enjoy the last day of the festival with Miyu"
   },
   "MainMissonText56_3_Favna": {
-    "PT": "",
+    "PT": "Aproveite o último dia do festival com a Favna",
     "EN": "Enjoy the last day of the festival with Favna"
   },
   "MainMissonText56_3_Honoka": {
-    "PT": "",
+    "PT": "Aproveite o último dia do festival com a Honoka",
     "EN": "Enjoy the last day of the festival with Honoka"
   },
   "MainMissonSideQuestRin_1": {
-    "PT": "",
+    "PT": "Capture a Rin e o gato preto\nQuando o gato ficar desconfiado, tente virar as costas!",
     "EN": "凜と黒貓を捕まえる\n貓の警戒心が高まったら背を向けてみよう！"
   },
   "MainMissonSideQuestRin_2": {
-    "PT": "",
+    "PT": "Investigar a porta dos fundos",
     "EN": "裏口を調べる"
   },
   "MainMissonSideQuestRin_3": {
-    "PT": "",
+    "PT": "Resolver o quebra-cabeça",
     "EN": "パズルを解く"
   },
   "MessageContent1": {
-    "PT": "",
+    "PT": "Obrigada por hoje!",
     "EN": "Thank you for today"
   },
   "MessageContent2": {
-    "PT": "",
+    "PT": "Até amanhã!",
     "EN": "See you tomorrow"
   },
   "MessageContent10000": {
-    "PT": "",
+    "PT": "Então, te vejo amanhã",
     "EN": "I'll see you tomorrow, then"
   },
   "MessageContent100000": {
-    "PT": "",
+    "PT": "(Não responder)",
     "EN": "(Don't reply)"
   },
   "MessageContent3": {
-    "PT": "",
+    "PT": "sou eu! miyu kousaka ☆",
     "EN": "it's-a-me! miyu kousaka ☆"
   },
   "MessageContent4": {
-    "PT": "",
+    "PT": "vamos ser amigos, gerente!",
     "EN": "let's be friends, manager!"
   },
   "MessageContent10003": {
-    "PT": "",
+    "PT": "Bora",
     "EN": "Yeah, let's"
   },
   "MessageContent5": {
-    "PT": "",
+    "PT": "Bom dia (o゜▽゜)o",
     "EN": "Good morning (o゜▽゜)o"
   },
   "MessageContent6": {
-    "PT": "",
+    "PT": "Você dormiu bem na noite passada?",
     "EN": "Did you sleep well last night?"
   },
   "MessageContent7": {
-    "PT": "",
+    "PT": "Miyu e eu estamos no santuário.",
     "EN": "Miyu and I are at the shrine."
   },
   "MessageContent8": {
-    "PT": "",
+    "PT": "Vem também!",
     "EN": "Please come too!"
   },
   "MessageContent10001": {
-    "PT": "",
+    "PT": "Ok",
     "EN": "Ok"
   },
   "MessageContent10002": {
-    "PT": "",
+    "PT": "Nem",
     "EN": "Nah"
   },
   "MessageContent9": {
-    "PT": "",
+    "PT": "Bom di",
     "EN": "Goodmo"
   },
   "MessageContent10": {
-    "PT": "",
+    "PT": "Bom dia",
     "EN": "Good morning"
   },
   "MessageContent11": {
-    "PT": "",
+    "PT": "Você poderia vir ao café, gerente?",
     "EN": "Could you come down to the cafe, manager?"
   },
   "MessageContent12": {
-    "PT": "",
+    "PT": "Bom dia!",
     "EN": "Good morning!"
   },
   "MessageContent13": {
-    "PT": "",
+    "PT": "Vamos dar o nosso melhor t",
     "EN": "Let's work hard together t"
   },
   "MessageContent14": {
-    "PT": "",
+    "PT": "hoje!*",
     "EN": "today!*"
   },
   "MessageContent15": {
-    "PT": "",
+    "PT": "bom diaaa v(≧∇≦*)",
     "EN": "goooood morning v(≧∇≦*)"
   },
   "MessageContent16": {
-    "PT": "",
+    "PT": "ouvi dizer que a shiro tava mandando mensagens de bom dia, então copiei ela rsrs (ﾉ≧ڡ≦)",
     "EN": "i heard shiro was sending good morning messages so i copied her lol (ﾉ≧ڡ≦)"
   },
   "MessageContent17": {
-    "PT": "",
+    "PT": "Ainda estou meio cambaleante, mas estou melhorando.",
     "EN": "I'm still a little unsteady on my feet, but I'm getting better."
   },
   "MessageContent18": {
-    "PT": "",
+    "PT": "Não sei se vou conseguir ir trabalhar amanhã... Desculpe.",
     "EN": "I don't know if I'll be able to go to work tomorrow, though... I'm sorry."
   },
   "MessageContent19": {
-    "PT": "",
+    "PT": "Acho que amanhã estarei completamente bem!",
     "EN": "I think I'll be completely fine tomorrow!"
   },
   "MessageContent20": {
-    "PT": "",
+    "PT": "Estou um pouco preocupada, então queria passar no café para ver como está, se você não se importar.",
     "EN": "I'm a bit worried, so I'd like to go check on the cafe if that's okay?"
   },
   "MessageContent21": {
-    "PT": "",
+    "PT": "Bom dai",
     "EN": "Good mornign"
   },
   "MessageContent22": {
-    "PT": "",
+    "PT": "se divirta, tá? ☆",
     "EN": "have fun, ok? ☆"
   },
   "MessageContent23": {
-    "PT": "",
+    "PT": "A Catástrofe está próxima...",
     "EN": "The Catastrophe is near..."
   },
   "MessageContent24": {
-    "PT": "",
+    "PT": "Já estou indo!!!1!",
     "EN": "I'm coming!!!1!"
   },
   "MessageContent25": {
-    "PT": "",
+    "PT": "Eu invoco o nosso Pacto para te Comandar. responda à minha Invocação.",
     "EN": "I invoke our Pact to Command you. answer my Summon."
   },
   "MessageContent26": {
-    "PT": "",
+    "PT": "Aguardo-te no Jardim das Travessuras Gnômicas.",
     "EN": "I await thee at the Garden of Gnomish Gambol."
   },
   "MessageContent27": {
-    "PT": "",
+    "PT": "acorda logo",
     "EN": "wake up already"
   },
   "MessageContent28": {
-    "PT": "",
+    "PT": "to quase chegando na associação comercial",
     "EN": "im almost at the shopping association"
   },
   "MessageContent29": {
-    "PT": "",
+    "PT": "e vc?",
     "EN": "what about u?"
   },
   "MessageContent10030": {
-    "PT": "",
+    "PT": "vc tá livre amanhã?",
     "EN": "are you free tomorrow?"
   },
   "MessageContent31": {
-    "PT": "",
+    "PT": "claro!",
     "EN": "of course!"
   },
   "MessageContent32": {
-    "PT": "",
+    "PT": "Estou tão feliz que você me convidou!",
     "EN": "I'm so happy you're inviting me!"
   },
   "MessageContent10033": {
-    "PT": "",
+    "PT": "vc tá livre amanhã?",
     "EN": "are you free tomorrow?"
   },
   "MessageContent34": {
-    "PT": "",
+    "PT": "eu ia perguntar isso pra vc!",
     "EN": "i was gonna ask u!"
   },
   "MessageContent35": {
-    "PT": "",
+    "PT": "então vamos nos encontrar na estação☆",
     "EN": "then lets meet up at the station☆"
   },
   "MessageContent10036": {
-    "PT": "",
+    "PT": "vc tá livre amanhã?",
     "EN": "are you free tomorrow?"
   },
   "MessageContent37": {
-    "PT": "",
+    "PT": "Um lamento solitário do meu Familiar...",
     "EN": "A lonely cry from my Familiar..."
   },
   "MessageContent38": {
-    "PT": "",
+    "PT": "Eu simplesmente preciso atendê-lo.",
     "EN": "I simply must answer it."
   },
   "MessageContent39": {
-    "PT": "",
+    "PT": "me ajuda, sr. gerente",
     "EN": "help me, mr. manager"
   },
   "MessageContent40": {
-    "PT": "",
+    "PT": "bom dia! acabei de chegar",
     "EN": "good mornin! i just arrived"
   },
   "MessageContent41": {
-    "PT": "",
+    "PT": "vou ficar de boa no café, então pode ir se aprontar",
     "EN": "i'll be chillin in the cafe, so you can go get ready"
   },
   "MessageContent42": {
-    "PT": "",
+    "PT": "Bom dia, gerente!",
     "EN": "Good morning, manager!"
   },
   "MessageContent43": {
-    "PT": "",
+    "PT": "Nós vamos fazer os preparativos de hoje, então você pode relaxar até a hora de abrir!",
     "EN": "We'll do the prep work for today, so you can relax until it's time to open!"
   },
   "MessageContent44": {
-    "PT": "",
+    "PT": "Não se apresse, de jeito nenhum! Você esteve ocupado demais esse tempo todo!",
     "EN": "Don't rush, no matter what! You've been so busy this whole time!"
   },
   "MessageContent45": {
-    "PT": "",
+    "PT": "bom dia gerente! vc pode vir ao café mais tarde hoje, a shiro vai treinar cozinhar ou algo assim",
     "EN": "good morning manager! u can come to the cafe later today, shiros gonna practice cooking or sth like that"
   },
   "MessageContent46": {
-    "PT": "",
+    "PT": "Saudações. As minhas cartas dizem que o sol amaldiçoado vai torrar a sua alma até virar crosta hoje.",
     "EN": "Greetings. My cards say that the accursed sun will fry your soul to a crisp today."
   },
   "MessageContent47": {
-    "PT": "",
+    "PT": "Você deve descansar até a hora de abrir as portas do Elysium.",
     "EN": "You should rest until it is time to open the gates of the Elysium."
   },
   "MessageContent48": {
-    "PT": "",
+    "PT": "bom dia. vamos tirar as medidas umas das outras para ajustar os uniformes e tals, então nem ouse espiar! isso NÃO é um convite, tá?",
     "EN": "good mornin. we're gonna be measurin each other to revise our uniform and such, so don't dare come peek! this is NOT an invitation, ok?"
   },
   "MessageContent49": {
-    "PT": "",
+    "PT": "vc tá livre amanhã?",
     "EN": "are you free tomorrow?"
   },
   "MessageContent50": {
-    "PT": "",
+    "PT": "s",
     "EN": "y"
   },
   "MessageContent51": {
-    "PT": "",
+    "PT": "Sim! Estou tão feliz que você me convidou de novo!",
     "EN": "Yes! I'm so happy you're inviting me again!"
   },
   "MessageContent52": {
-    "PT": "",
+    "PT": "vc tem planos pra amanhã?",
     "EN": "do you have any plans tomorrow?"
   },
   "MessageContent53": {
-    "PT": "",
+    "PT": "to livre amanha! vamos sair! ヽ(*ﾟ▽ﾟ)ﾉ",
     "EN": "im free tmr! lets hang out! ヽ(*ﾟ▽ﾟ)ﾉ"
   },
   "MessageContent54": {
-    "PT": "",
+    "PT": "Você atenderá à minha humilde Invocação mais uma vez?",
     "EN": "will you answer my humble summon once more?"
   },
   "MessageContent55": {
-    "PT": "",
+    "PT": "Atenderei. Amanhã, o Anjo das Trevas aparecerá diante de você.",
     "EN": "I shall. Tomorrow, the Angel of Darkness shall appear before you."
   },
   "MessageContent56": {
-    "PT": "",
+    "PT": "vc tá ocupada amanhã? se não, quer sair?",
     "EN": "are you busy tomorrow? if not, do you want to hang out?"
   },
   "MessageContent57": {
-    "PT": "",
+    "PT": "com certeza! minha parte nos preparativos do festival já tá pronta.",
     "EN": "sure! i'm already done with my part for festival prep."
   },
   "MessageContent58": {
-    "PT": "",
+    "PT": "vc tá livre hoje? quer ir fazer umas compras?",
     "EN": "are you free today? would you like to go shopping?"
   },
   "MessageContent59": {
-    "PT": "",
+    "PT": "Sim! Vamos nos encontrar na estação!",
     "EN": "Yes! Let's meet at the station!"
   },
   "MessageContent60": {
-    "PT": "",
+    "PT": "Você está livre agora? Quer sair para almoçar e fazer compras?",
     "EN": "Are you free right now? Want to go out for lunch and shopping?"
   },
   "MessageContent61": {
-    "PT": "",
+    "PT": "sry! to com a anna e a misaki hoje (ﾉ≧ڡ≦)",
     "EN": "sry! im hanging w anna and misaki today (ﾉ≧ڡ≦)"
   },
   "MessageContent62": {
-    "PT": "",
+    "PT": "Você atenderá à minha Invocação hoje?",
     "EN": "will you answer my summon today?"
   },
   "MessageContent63": {
-    "PT": "",
+    "PT": "Não. Tenho um encontro com a Alice do Reino das Rosas.",
     "EN": "Nay. I have an appointment with Alice of the Kingdom of Roses."
   },
   "MessageContent64": {
-    "PT": "",
+    "PT": "vc tem planos pra hoje? se não, quer ir fazer umas compras?",
     "EN": "do you have plans for today? if not, would you like to go shopping?"
   },
   "MessageContent65": {
-    "PT": "",
+    "PT": "preciso ajudar nos preparativos do festival, desculpa! fica pra próxima!",
     "EN": "i gotta help prepare for the festival, sorry! maybe next time!"
   },
   "MessageContent66": {
-    "PT": "",
+    "PT": "Gerente, você gostaria de ir ao festival comigo?",
     "EN": "Manager, would you like to go to the festival with me?"
   },
   "MessageContent67": {
-    "PT": "",
+    "PT": "vc pode ir ao festival comigo? por faaaavor（*’∀’人）",
     "EN": "could u go to the festival w me? pleeease（*’∀’人）"
   },
   "MessageContent68": {
-    "PT": "",
+    "PT": "Testemunhemos juntos a Contagem Regressiva para o Fim do Verão.",
     "EN": "Let us witness the Countdown to the End of Summer together."
   },
   "MessageContent69": {
-    "PT": "",
+    "PT": "vc se importaria de ir ao festival comigo?",
     "EN": "would ya mind goin to the festival with me?"
   },
   "MessageContent70": {
-    "PT": "",
+    "PT": "sim, vamos juntos!",
     "EN": "yeah, let's go together!"
   },
   "MessageContent71": {
-    "PT": "",
+    "PT": "Obrigadiyu!",
     "EN": "Thankoyu!"
   },
   "MessageContent72": {
-    "PT": "",
+    "PT": "Obrigada! Então te espero na estação.",
     "EN": "Thank you! I'll be waiting at the station, then."
   },
   "MessageContent73": {
-    "PT": "",
+    "PT": "claro, vamos juntos!",
     "EN": "of course, let's go together!"
   },
   "MessageContent74": {
-    "PT": "",
+    "PT": "yaaay（/ω＼）me encontra na estação! ♪",
     "EN": "yaaay（/ω＼）find me at the station! ♪"
   },
   "MessageContent75": {
-    "PT": "",
+    "PT": "Atenderei à sua Invocação, Mestre!",
     "EN": "I will answer your summon, master!"
   },
   "MessageContent76": {
-    "PT": "",
+    "PT": "Tem a minha gratidão. Nos vemos no Trem Infinito Rumo ao Céu.",
     "EN": "You have my thanks. Let us meet at the Heaven-Bound Train of Infinity."
   },
   "MessageContent77": {
-    "PT": "",
+    "PT": "se você não se importar, vamos juntos!",
     "EN": "if you don't mind, let's go together!"
   },
   "MessageContent78": {
-    "PT": "",
+    "PT": "valeu. então vamos nos encontrar na estação!",
     "EN": "thanks. then let's meet at the station!"
   },
   "MessageContent79": {
-    "PT": "",
+    "PT": "...... Vou te dar uma dica: .......",
     "EN": "...... I'll give you a hint: ......."
   },
   "MessageContent80": {
-    "PT": "",
+    "PT": "Na China antiga, existia um conceito chamado \"Bagua\". ......",
     "EN": "In ancient China, there was a concept called \"Bagua\". ......"
   },
   "MessageContent81": {
-    "PT": "",
+    "PT": "Vou te dar uma resposta certa. ......",
     "EN": "I'll give you one correct answer. ......"
   },
   "MessageContent82": {
-    "PT": "",
+    "PT": "O símbolo no canto superior esquerdo do bilhete significa \"XX ...... O resto fica por conta de você. ......",
     "EN": "The symbol in the upper left corner of the note means \"XX ...... The rest is up to you. ......"
   },
   "OperatingGuideText1": {
-    "PT": "",
+    "PT": "O medidor no topo mostra as horas de expediente (máx. 8 horas).\nQuando o medidor se esgotar por completo, o dia está encerrado.\nAtenda bem os seus clientes para ganhar mais!",
     "EN": "The gauge at the top shows the opening hours (max. 8 hours).\nWhen the gauge is fully depleted, the day is over.\nServe your customers well to earn more!"
   },
   "OperatingGuideText2": {
-    "PT": "",
+    "PT": "Os clientes aparecem ao longo do dia. Assim que se sentam, ícones aparecem sobre a cabeça deles:\nprontos para pedir, esperando o pedido ou esperando para pagar. Você e as maids podem atender os clientes.\n(Ainda assim, alguns clientes impacientes só podem ser atendidos pelas maids!)",
     "EN": "Customers will show up over the day. Once they're seated, icons will appear above their heads:\nready to order, waiting for the order, or waiting to pay. Both you and the maids can serve customers.\n(Some frustrated customers can only be served by maids though!)"
   },
   "OperatingGuideText3": {
-    "PT": "",
+    "PT": "As maids no turno de garçonete anotam os pedidos, servem e recebem o pagamento,\nenquanto as maids no turno de chef cozinham assim que recebem os pedidos.\nVocê pode ajudar interagindo com as mesas ou com o balcão da cozinha com a tecla Z/botão A.\n(Claro que, se estiver com preguiça, pode deixar tudo por conta das maids.)",
     "EN": "Maids on waitress duty will take orders, serve, and take payment,\nwhile maids on chef duty will cook once they receive orders.\nYou can help out by interacting with tables or the kitchen counter with the Z key/A button.\n(Of course, you could leave it all to the maids if you're feeling lazy.)"
   },
   "Day1_1GoConvinienceStore": {
-    "PT": "",
+    "PT": "Parece que a Miyu quer ir à loja de conveniência...",
     "EN": "Miyu seems to want to go to the convenience store..."
   },
   "Xuzhang_MCCantOut": {
-    "PT": "",
+    "PT": "Coma alguma coisa antes de sair.",
     "EN": "You should grab a bite before leaving."
   },
   "Xuzhang_CinemaCantOut": {
-    "PT": "",
+    "PT": "Talvez seja melhor assistir aquele filme com a Shiro.",
     "EN": "Maybe you should watch that movie with Shiro."
   },
   "Day4_1CantOut": {
-    "PT": "",
+    "PT": "Talvez seja melhor ir primeiro à loja que a Miyu quer visitar.",
     "EN": "Maybe you should go to the shop Miyu wants to visit first."
   },
   "TGS_LanguageSetting": {
-    "PT": "",
+    "PT": "Por favor, selecione o idioma do jogo",
     "EN": "Please select game language"
   },
   "ShopOption_Buy": {
-    "PT": "",
+    "PT": "Comprar",
     "EN": "Buy"
   },
   "ShopOption_Talk": {
-    "PT": "",
+    "PT": "Conversar",
     "EN": "Talk"
   },
   "ShopOption_Leave": {
-    "PT": "",
+    "PT": "Sair",
     "EN": "Leave"
   },
   "ShopOption_Eat": {
-    "PT": "",
+    "PT": "Fazer Pedido",
     "EN": "Order food"
   },
   "ShopOption_BuyTicket": {
-    "PT": "",
+    "PT": "Comprar Ingresso",
     "EN": "Buy ticket"
   },
   "ShopOption_FixTable": {
-    "PT": "",
+    "PT": "Ajudar a Consertar a Mesa",
     "EN": "Help repair the table"
   },
   "GirlOption_Talk": {
-    "PT": "",
+    "PT": "Conversar",
     "EN": "Chat"
   },
   "GirlOption_GiveGift": {
-    "PT": "",
+    "PT": "Presente",
     "EN": "Gift"
   },
   "GirlOption_Invite": {
-    "PT": "",
+    "PT": "Convidar",
     "EN": "Invite"
   },
   "GirlOption_Leave": {
-    "PT": "",
+    "PT": "Sair",
     "EN": "Leave"
   },
   "EndTestThanks": {
-    "PT": "",
+    "PT": "Obrigado por jogar a demo!\nSiga a Taverna dos Aventureiros (@dreambaseinc) no X (antigo Twitter)!",
     "EN": "Thank you for playing the demo!\nPlease follow Adventurer's Tavern (@dreambaseinc) on X (formerly Twitter)!"
   },
   "PickItemTitle": {
-    "PT": "",
+    "PT": "Selecionar Item",
     "EN": "Select item"
   },
   "NameInputTitle": {
-    "PT": "",
+    "PT": "Meu nome é...",
     "EN": "My name is..."
   },
   "NameInputText": {
-    "PT": "",
+    "PT": "Herói, diga o seu nome\nO momento da invocação chegou\nHerói, diga o seu nome\nO momento da invocação chegou\nHerói, diga o seu nome\nO momento da invocação chegou",
     "EN": "勇 者 啊 請 說 出 你 的 名 字 吧\n接 受 召 喚 之 時 已 經 到 來 了\n勇 者 啊 請 說 出 你 的 名 字 吧\n接 受 召 喚 之 時 已 經 到 來 了\n勇 者 啊 請 說 出 你 的 名 字 吧\n接 受 召 喚 之 時 已 經 到 來 了"
   },
   "Level1NameKey": {
-    "PT": "",
+    "PT": "Desconhecido",
     "EN": "Unknown"
   },
   "Level2NameKey": {
-    "PT": "",
+    "PT": "Joia Escondida",
     "EN": "Hidden Gem"
   },
   "Level3NameKey": {
-    "PT": "",
+    "PT": "Boca a Boca",
     "EN": "Word of Mouth"
   },
   "Level4NameKey": {
-    "PT": "",
+    "PT": "Assunto da Cidade",
     "EN": "Talk of the Town"
   },
   "Level5NameKey": {
-    "PT": "",
+    "PT": "Bastante Popular",
     "EN": "Pretty Popular"
   },
   "Level6NameKey": {
-    "PT": "",
+    "PT": "Imperdível da Rua Elétrica",
     "EN": "Electric Street Must-Visit"
   },
   "Level7NameKey": {
-    "PT": "",
+    "PT": "Imperdível de Nipponbashi",
     "EN": "Nipponbashi Must-Visit"
   },
   "Level8NameKey": {
-    "PT": "",
+    "PT": "Imperdível de Naniwa",
     "EN": "Naniwa Must-Visit"
   },
   "Level9NameKey": {
-    "PT": "",
+    "PT": "Imperdível de Osaka",
     "EN": "Osaka Must-Visit"
   },
   "Level10NameKey": {
-    "PT": "",
+    "PT": "Melhor Café de Osaka",
     "EN": "Best Cafe in Osaka"
   },
   "Level11NameKey": {
-    "PT": "",
+    "PT": "Fama Mundial",
     "EN": "Mr. Worldwide"
   },
   "Phone_Line_MessageButton": {
-    "PT": "",
+    "PT": "Mensagens",
     "EN": "Messages"
   },
   "Phone_Line_FriendButton": {
-    "PT": "",
+    "PT": "Amigos",
     "EN": "Friends"
   },
   "Phone_Line_MeButton": {
-    "PT": "",
+    "PT": "Perfil",
     "EN": "Profile"
   },
   "Phone_Line_ChatHistoryButton": {
-    "PT": "",
+    "PT": "Histórico de Conversas",
     "EN": "Chat Log"
   },
   "Phone_Line_DateButton": {
-    "PT": "",
+    "PT": "Convidar para Sair",
     "EN": "Invite on Date"
   },
   "RoomMake_Area1": {
-    "PT": "",
+    "PT": "Porta",
     "EN": "Door"
   },
   "RoomMake_Area2": {
-    "PT": "",
+    "PT": "Vitrine",
     "EN": "Display Case"
   },
   "RoomMake_Area3": {
-    "PT": "",
+    "PT": "Parede",
     "EN": "Wall"
   },
   "RoomMake_LastPosTip": {
-    "PT": "",
+    "PT": "Área Anterior",
     "EN": "Previous Area"
   },
   "RoomMake_NextPosTip": {
-    "PT": "",
+    "PT": "Área Seguinte",
     "EN": "Next Area"
   },
   "RoomMake_SelectPosTip": {
-    "PT": "",
+    "PT": "Escolher Posição",
     "EN": "Select Placement"
   },
   "RoomMake_ConfirmTip": {
-    "PT": "",
+    "PT": "Confirmar",
     "EN": "Confirm"
   },
   "RoomMake_ExitTip": {
-    "PT": "",
+    "PT": "Concluir",
     "EN": "Finish"
   },
   "RoomMake_CanUseCollection": {
-    "PT": "",
+    "PT": "Itens Utilizáveis",
     "EN": "Useable Items"
   },
   "RoomMake_SelectCollectionTip": {
-    "PT": "",
+    "PT": "Selecionar",
     "EN": "Select"
   },
   "RoomMake_PutInOrChangeTip": {
-    "PT": "",
+    "PT": "Exibir/Trocar",
     "EN": "Display/Swap"
   },
   "RoomMake_TakeOutTip": {
-    "PT": "",
+    "PT": "Remover",
     "EN": "Remove"
   },
   "CoffeeGameLoad": {
-    "PT": "",
+    "PT": "Carregar",
     "EN": "Load"
   },
   "CoffeeGameDel": {
-    "PT": "",
+    "PT": "Excluir",
     "EN": "Delete"
   },
   "SoundVoice": {
-    "PT": "",
+    "PT": "Voz",
     "EN": "Voiceover"
   },
   "LoadingText_Day43_End": {
-    "PT": "",
+    "PT": "Numa daquelas noites raramente frescas, você dormiu profundamente...",
     "EN": "On a rare cool night, you slept really soundly..."
   },
   "MainMissonText46_1": {
-    "PT": "",
+    "PT": "Convide uma garota para sair com você",
     "EN": "Ask a girl to hang out with you"
   },
   "MainMissonText46_2": {
-    "PT": "",
+    "PT": "Encontre-se com a Shiro na estação",
     "EN": "Meet up with Shiro at the station"
   },
   "MainMissonText46_3": {
-    "PT": "",
+    "PT": "Vá à loja de conveniência com a Shiro",
     "EN": "Go to the convenience store with Shiro"
   },
   "MainMissonText46_4": {
-    "PT": "",
+    "PT": "Vá à floricultura com a Shiro",
     "EN": "Go to the florist with Shiro"
   },
   "MainMissonText46_5": {
-    "PT": "",
+    "PT": "Volte ao Fuwa Fuwa",
     "EN": "Go back to Fuwa Fuwa"
   },
   "LoadingText_Day46_9_End1": {
-    "PT": "",
+    "PT": "Depois, você apreciou um chá da tarde com a turma.",
     "EN": "Afterwards, you enjoyed afternoon tea with the others."
   },
   "LoadingText_Day46_9_End2": {
-    "PT": "",
+    "PT": "Você limpou o café mais uma vez para se preparar para a operação de amanhã.",
     "EN": "You cleaned the cafe once more to prepare for operations tomorrow."
   },
   "Toast_Day49_1": {
-    "PT": "",
+    "PT": "Primeiro, vá à loja de móveis",
     "EN": "First, go to the furniture store"
   },
   "MainMissonText49_11": {
-    "PT": "",
+    "PT": "Está quebrado? Leve o gato preto com você.",
     "EN": "It's broken? Bring the black cat with you."
   },
   "StoryDayText": {
-    "PT": "",
+    "PT": "Dia {0} desde a reabertura do Fuwa Fuwa",
     "EN": "Day {0} since Fuwa Fuwa's reopening"
   },
   "MainMissonText54_1": {
-    "PT": "",
+    "PT": "Encontre-se com todos na estação",
     "EN": "Meet up with everyone at the station"
   },
   "MainMissonText54_2": {
-    "PT": "",
+    "PT": "Destino: Parque do Castelo de Osaka!",
     "EN": "Destination: Osaka Castle Park!"
   },
   "MainMissonText54_3": {
-    "PT": "",
+    "PT": "Aproveite o festival",
     "EN": "Enjoy the festival"
   },
   "MainMissonText54_4": {
-    "PT": "",
+    "PT": "Hora de voltar para casa",
     "EN": "Time to go home"
   },
   "LoadingText_Day54_2": {
-    "PT": "",
+    "PT": "Você também arrumou as suas coisas e saiu do café.",
     "EN": "You also packed your things and left the cafe."
   },
   "LoadingText_Day54_5": {
-    "PT": "",
+    "PT": "Você aproveitou o festival enquanto também\naprendia com os outros comércios...",
     "EN": "You enjoyed the festival while also\nlearning from the other businesses..."
   },
   "LoadingText_Day54_6_1": {
-    "PT": "",
+    "PT": "Você desceu do trem e se despediu da turma.",
     "EN": "You got off the train and said goodbye to the others."
   },
   "LoadingText_Day54_6_2": {
-    "PT": "",
+    "PT": "Depois de uma noite muito agitada,\nvocê adormeceu assim que chegou em casa.",
     "EN": "Tired from the very eventful night,\nyou fell asleep soon after you arrived home."
   },
   "Toast_Day54CantDo": {
-    "PT": "",
+    "PT": "Vá primeiro ao festival",
     "EN": "Go to the festival"
   },
   "Toast_OsakaCantLeava": {
-    "PT": "",
+    "PT": "Divirta-se no festival!",
     "EN": "Have fun at the festival!"
   },
   "MainMissonText55_01": {
-    "PT": "",
+    "PT": "Você recebeu uma nova mensagem!",
     "EN": "You got a new message!"
   },
   "MainMissonText55_02Siro": {
-    "PT": "",
+    "PT": "Responda à Shiro",
     "EN": "Reply to Shiro"
   },
   "MainMissonText55_02Miyu": {
-    "PT": "",
+    "PT": "Responda à Miyu",
     "EN": "Reply to Miyu"
   },
   "MainMissonText55_02Favana": {
-    "PT": "",
+    "PT": "Responda à Favna",
     "EN": "Reply to Favna"
   },
   "MainMissonText55_02Honoka": {
-    "PT": "",
+    "PT": "Responda à Honoka",
     "EN": "Reply to Honoka"
   },
   "LoadingText_Day55_2_1": {
-    "PT": "",
+    "PT": "Assim que você terminou de limpar, todos saíram às pressas...",
     "EN": "Once you finished cleaning, everyone left in a hurry..."
   },
   "LoadingText_Day55_2_2": {
-    "PT": "",
+    "PT": "Você entendeu, sem precisar de palavras...",
     "EN": "You understood implicitly..."
   },
   "LoadingText_Day56_1": {
-    "PT": "",
+    "PT": "Você voltou ao café, onde todas as maids\nque te ajudaram até aqui estavam reunidas.",
     "EN": "You returned to the cafe, where all the maids\nwho've been helping you have gathered."
   },
   "MainMissonText56_0": {
-    "PT": "",
+    "PT": "Converse com todos no café",
     "EN": "Talk to everyone in the cafe"
   },
   "Time": {
-    "PT": "",
+    "PT": "horas",
     "EN": "o'clock"
   },
   "Toast_Day41_4": {
-    "PT": "",
+    "PT": "Devolva o mangá para a Suzuka!",
     "EN": "Return the manga to Suzuka!"
   },
   "MainMissonText8_1": {
-    "PT": "",
+    "PT": "Encontre o gato preto",
     "EN": "Find the black cat"
   },
   "MainMissonText8_2": {
-    "PT": "",
+    "PT": "Compre comida para o gato\n(Nessa rua tem uma peixaria...)",
     "EN": "Buy food for the cat\n(There's a fishmonger's on this street...)"
   },
   "MainMissonText8_3": {
-    "PT": "",
+    "PT": "Compre comida para o gato\n(Talvez a loja de conveniência tenha alguma coisa para ele?)",
     "EN": "Buy food for the cat\n(Maybe the convenience store has something for it?)"
   },
   "MainMissonText41_9": {
-    "PT": "",
+    "PT": "Vá para casa... mesmo que pareça um pouco solitário.",
     "EN": "Go home... even though it feels a little lonely."
   },
   "MainMissonText56_3": {
-    "PT": "",
+    "PT": "Encontre-se com os outros",
     "EN": "Meet the others"
   },
   "MainMissonText30_1": {
-    "PT": "",
+    "PT": "Vá ao açougue da Associação Comercial",
     "EN": "Go to the butcher's at the Shopping Association"
   },
   "LoadingText_Day31_2": {
-    "PT": "",
+    "PT": "Depois, você foi direto para casa...",
     "EN": "Afterwards, you went straight home..."
   },
   "LoadingText_Day39_42": {
-    "PT": "",
+    "PT": "Depois, todos vocês voltaram para a sala de descanso.",
     "EN": "Afterwards, you all went back to the break room."
   },
   "MainMissonText53_2": {
-    "PT": "",
+    "PT": "O verão está acabando. Talvez seja bom comprar\nalguma coisa para as garotas, como agradecimento?",
     "EN": "Summer is ending. Maybe you should buy\nsomething for the girls to show your appreciation?"
   },
   "PlayerHealthState_Tired": {
-    "PT": "",
+    "PT": "Cansado",
     "EN": "Tired"
   },
   "PlayerHealthState_Normal": {
-    "PT": "",
+    "PT": "Normal",
     "EN": "Normal"
   },
   "PlayerHealthState_Energetic": {
-    "PT": "",
+    "PT": "Cheio de Energia",
     "EN": "Healthy"
   },
   "MainMissonText18_41": {
-    "PT": "",
+    "PT": "A próxima é a butique!",
     "EN": "Next is the boutique!"
   },
   "MainMissonText21_1": {
-    "PT": "",
+    "PT": "Vá até a Estante da Sombra Lunar da Sabedoria Herdada",
     "EN": "Go to the Moonshadow Bookshelf of Inherited Wisdom"
   },
   "MainMissonText23_1": {
-    "PT": "",
+    "PT": "Pergunte ao dono do armazém sobre o fantasma",
     "EN": "Ask the general store owner about the ghost"
   },
   "MainMissonText23_2": {
-    "PT": "",
+    "PT": "Saia do armazém",
     "EN": "Leave the general store"
   },
   "MainMissonText23_3": {
-    "PT": "",
+    "PT": "Encontre-se com os outros",
     "EN": "Meet up with the others"
   },
   "SettlementTitle": {
-    "PT": "",
+    "PT": "Querido Gerente,\n\nMuito obrigada por transformar o Fuwa Fuwa em um lugar tão maravilhoso. Mesmo começando do fundo do poço, conseguimos receber de volta muitos Mestres e Damas e colocar sorrisos em seus rostos. Também reunimos um grupo adorável de maids que trouxeram de volta a animação ao café. Tudo isso é graças ao seu esforço.\nPor mais divertido que tenha sido, também passamos por muitas dificuldades no caminho, não é? Mas, a cada vez, você mostrou o quanto se importa com o café e com todas nós, e isso nos deu o empurrão a mais de que precisávamos para seguir em frente. Não teríamos conseguido nada disso sem você. Obrigada por cuidar do Fuwa Fuwa, e esperamos que continue cuidando de nós também daqui para frente.\nComo Gerente do Fuwa Fuwa, você conquistou o seguinte...",
     "EN": "Dear Manager,\n\nThank you very much for turning Fuwa Fuwa into such a wonderful place. Even though we started from rock bottom, we were able to welcome so many masters and ladies back home and put smiles on their faces. We also gathered such a lovely group of maids that have made the cafe a lively place again. All of this is thanks to your hard work.\nAlthough it's been a lot of fun, we've also run into a lot of difficulties along the way, haven't we? But every time, you've shown how much you care for the cafe and all of us, and that gave us the extra push we needed to pull through. We couldn't have done it without you. Thank you for looking after Fuwa Fuwa, and I hope you'll continue to take care of us from now on as well.\nAs Manager of Fuwa Fuwa, you've made the following accomplishments..."
   },
   "SettlementEnd": {
-    "PT": "",
+    "PT": "Das Maids do Fuwa Fuwa",
     "EN": "From the Maids of Fuwa Fuwa"
   },
   "cumulativeTurnover": {
-    "PT": "",
+    "PT": "Vendas Totais:",
     "EN": "Total sales:"
   },
   "cumulativeCostumer": {
-    "PT": "",
+    "PT": "Total de Clientes:",
     "EN": "Total no. of customers:"
   },
   "nowOperatingLevel": {
-    "PT": "",
+    "PT": "Reputação:",
     "EN": "Reputation:"
   },
   "cumulativeSpecialCostumer": {
-    "PT": "",
+    "PT": "Clientes Especiais:",
     "EN": "Special customers:"
   },
   "MainMissonText8_4": {
-    "PT": "",
+    "PT": "Alimente o gato!",
     "EN": "Feed it to the cat!"
   },
   "MainMissonText7_4": {
-    "PT": "",
+    "PT": "Tempo livre... Aparentemente hoje tem um item especial à venda na Surugaya.",
     "EN": "Free time... Apparently there's a special item being sold at Surugaya today."
   },
   "MainMissonText13_7": {
-    "PT": "",
+    "PT": "Vá ao armazém",
     "EN": "Go to the corner store"
   },
   "LoadingText_Day50_5": {
-    "PT": "",
+    "PT": "Vocês voltaram juntos para o Fuwa Fuwa, com cuidado para não molhar a roupa lavada de novo...",
     "EN": "You went back to Fuwa Fuwa together, carefully so as to not get the laundry wet again..."
   },
   "MainMissonText56_4": {
-    "PT": "",
+    "PT": "Pressione a tecla Z ou o botão A no ritmo para dançar!",
     "EN": "Press Z key/A button to the rhythm to dance!"
   },
   "MainMissonText19_1": {
-    "PT": "",
+    "PT": "Visite as lojas por perto",
     "EN": "Go visit the nearby stores"
   },
   "MainMissonText19_2": {
-    "PT": "",
+    "PT": "O que é aquilo na frente do santuário...?",
     "EN": "What's that in front of the shrine...?"
   },
   "MainMissonText11_2": {
-    "PT": "",
+    "PT": "Vá à Associação Comercial com a Shiro",
     "EN": "Go to the Shopping Association with Shiro"
   },
   "MainMissonText11_3": {
-    "PT": "",
+    "PT": "Visite as lojas da Associação Comercial",
     "EN": "Visit the shops in the Shopping Association"
   },
   "MainMissonText11_4": {
-    "PT": "",
+    "PT": "Aquilo era uma criança chorando?",
     "EN": "Was that a crying child?"
   },
   "MainMissonText11_5": {
-    "PT": "",
+    "PT": "Procure a mãe da criança. Ela tem cabelo comprido e veste roupas azuis e um chapéu branco...",
     "EN": "Look for the child's mother. She has long hair and is wearing blue clothes and a white hat..."
   },
   "MainMissonText11_0": {
-    "PT": "",
+    "PT": "A Shiro ainda não chegou... mas seu celular acabou de vibrar com uma mensagem",
     "EN": "Shiro hasn't come yet... but your phone just buzzed with a message"
   },
   "Toast_Day25_2": {
-    "PT": "",
+    "PT": "Consiga um para a Favna!",
     "EN": "Get it for Favna!"
   },
   "Collection_Badge": {
-    "PT": "",
+    "PT": "Pins",
     "EN": "Badges"
   },
   "Collection_Card": {
-    "PT": "",
+    "PT": "Cartas Colecionáveis",
     "EN": "Trading Cards"
   },
   "Collection_Record": {
-    "PT": "",
+    "PT": "Vitrola",
     "EN": "Record Player"
   },
   "Toast_SeeMovieToday": {
-    "PT": "",
+    "PT": "Você já assistiu a um filme hoje.",
     "EN": "You've already watched a movie today."
   },
   "Toast_GiveGiftToady": {
-    "PT": "",
+    "PT": "Você já deu um presente hoje.",
     "EN": "You've already given a present today."
   },
   "CatOption_Talk": {
-    "PT": "",
+    "PT": "Cariciar / Conversar",
     "EN": "Pet / Talk"
   },
   "CatOption_FeedCat": {
-    "PT": "",
+    "PT": "Alimentar",
     "EN": "Feed"
   },
   "CatOption_PlayWithCat": {
-    "PT": "",
+    "PT": "Brincar",
     "EN": "Play"
   },
   "CatOption_Leave": {
-    "PT": "",
+    "PT": "Sair",
     "EN": "Leave"
   },
   "Toast_FeedCatToady": {
-    "PT": "",
+    "PT": "Você já alimentou o gato hoje.",
     "EN": "You've already fed the cat today."
   },
   "Toast_PlayWithCatToady": {
-    "PT": "",
+    "PT": "Você já brincou com o gato hoje.",
     "EN": "You've already played with the cat today."
   },
   "LoadingText_PlayWithCat": {
-    "PT": "",
+    "PT": "Você brincou com o gato.",
     "EN": "You played with the cat."
   },
   "UseSkill": {
-    "PT": "",
+    "PT": "Tecla V (botão Y):",
     "EN": "V key (Y button):"
   },
   "UsingSkill": {
-    "PT": "",
+    "PT": "Ativando...",
     "EN": "Activating..."
   },
   "ShopOption_Work": {
-    "PT": "",
+    "PT": "Bicos",
     "EN": "Part Time Jobs"
   },
   "Toast_CantWork": {
-    "PT": "",
+    "PT": "Você está cansado demais hoje... Talvez outro dia, quando estiver com mais energia!",
     "EN": "You're too tired today... Maybe another day when you have the energy!"
   },
   "SecondConfirm_Work": {
-    "PT": "",
+    "PT": "Trabalhar aqui? Cada turno dura 4 horas.",
     "EN": "Work here? One shift lasts 4 hours."
   },
   "SecondConfirm_Work_Confirm": {
-    "PT": "",
+    "PT": "Começar o turno!",
     "EN": "Start shift!"
   },
   "SecondConfirm_Work_Cancel": {
-    "PT": "",
+    "PT": "Melhor não...",
     "EN": "Maybe not..."
   },
   "LoadingText_WorkFinish": {
-    "PT": "",
+    "PT": "Você se esforçou ao máximo no turno e recebeu seu pagamento!",
     "EN": "You gave it your all on your shift and got paid!"
   },
   "Toast_SoldNothing": {
-    "PT": "",
+    "PT": "Você não selecionou nenhum item para vender.",
     "EN": "You haven't selected any items to sell."
   },
   "SecondConfirm_SoldAccout": {
-    "PT": "",
+    "PT": "Vender os itens selecionados? Total: {0} ienes",
     "EN": "Sell selected items? Total: {0} yen"
   },
   "SecondConfirm_SoldAccout_Confirm": {
-    "PT": "",
+    "PT": "Confirmar",
     "EN": "Confirm"
   },
   "SecondConfirm_SoldAccout_Cancel": {
-    "PT": "",
+    "PT": "Cancelar",
     "EN": "Cancel"
   },
   "ShopOption_Sold": {
-    "PT": "",
+    "PT": "Vender",
     "EN": "Sell"
   },
   "Toast_CantGoBathThisWeek": {
-    "PT": "",
+    "PT": "Você já entrou esta semana. Até semana que vem!",
     "EN": "You've already gone in this week. See you next week!"
   },
   "Toast_CantGoBathGirlSide": {
-    "PT": "",
+    "PT": "Não! Você não pode entrar aí!",
     "EN": "No! You can't go in there!"
   },
   "Toast_CantGoBathWithTicket": {
-    "PT": "",
+    "PT": "Compre um ingresso primeiro!",
     "EN": "Buy a ticket first!"
   },
   "GoBathTip": {
-    "PT": "",
+    "PT": "Banhar-se",
     "EN": "Bathe"
   },
   "MakeCoffeeTip": {
-    "PT": "",
+    "PT": "Fazer Café",
     "EN": "Make coffee"
   },
   "LoadingText_GoBath": {
-    "PT": "",
+    "PT": "Você se deitou na banheira quente e se sentiu completamente relaxado!",
     "EN": "You soaked in the hot bath and felt completely relaxed!"
   },
   "CoffeGameSelfDrink_2": {
-    "PT": "",
+    "PT": "Beber Você Mesmo",
     "EN": "Drink it yourself"
   },
   "Collection_ConsoleGame": {
-    "PT": "",
+    "PT": "Jogos de Console",
     "EN": "Console Games"
   },
   "LoadingText_BadEnd1": {
-    "PT": "",
+    "PT": "Final Ruim 1",
     "EN": "Bad End 1"
   },
   "LoadingText_BadEnd2": {
-    "PT": "",
+    "PT": "Final Ruim 2",
     "EN": "Bad End 2"
   },
   "LoadingText_BadEnd3": {
-    "PT": "",
+    "PT": "Final Ruim 3",
     "EN": "Bad End 3"
   },
   "LoadingText_BadEnd4": {
-    "PT": "",
+    "PT": "Final Ruim 4",
     "EN": "Bad End 4"
   },
   "LoadingText_BadEnd5": {
-    "PT": "",
+    "PT": "Final Ruim 5",
     "EN": "Bad End 5"
   },
   "Toast_MaidAdd": {
-    "PT": "",
+    "PT": "{0} entrou para a sua equipe!",
     "EN": "{0} joined your staff!"
   },
   "Collection_Records": {
-    "PT": "",
+    "PT": "Discos",
     "EN": "Records"
   },
   "FreeStepTip": {
-    "PT": "",
+    "PT": "Digite a senha!",
     "EN": "Enter the password!"
   },
   "OpeartingAccount_MaidBonus": {
-    "PT": "",
+    "PT": "Bônus das Maids do Fuwa Fuwa:",
     "EN": "Fuwa Fuwa Maid Buff:"
   },
   "LoadingText_Day42_LostCat": {
-    "PT": "",
+    "PT": "Talvez vocês não sejam próximos o suficiente...",
     "EN": "Maybe you're not close enough..."
   },
   "Toast_SideQuest_2": {
-    "PT": "",
+    "PT": "Talvez seja melhor dar uma força para Anna e Misaki...",
     "EN": "Maybe you should help Anna and Misaki out..."
   },
   "LoadingText_Day9_Help": {
-    "PT": "",
+    "PT": "Você trabalhou com a Shiro até tarde da noite...",
     "EN": "You worked with Shiro until late at night..."
   },
   "OperatingLevelUp": {
-    "PT": "",
+    "PT": "Nível do Café",
     "EN": "Cafe Level Up"
   },
   "SecondConfirm_OperatingLevelUp": {
-    "PT": "",
+    "PT": "Gastar {0} ienes do orçamento do café para subir o nível do café?",
     "EN": "Spend {0} yen from the cafe budget to level up the cafe?"
   },
   "SecondConfirm_OperatingLevelUp_Confirm": {
-    "PT": "",
+    "PT": "Confirmar",
     "EN": "Confirm"
   },
   "SecondConfirm_OperatingLevelUp_Cancel": {
-    "PT": "",
+    "PT": "Cancelar",
     "EN": "Cancel"
   },
   "Toast_NotEnoughOperatingExp": {
-    "PT": "",
+    "PT": "O café ainda não é influente o suficiente.",
     "EN": "The cafe isn't influential enough yet."
   },
   "Toast_NotEnoughOperatingMoney": {
-    "PT": "",
+    "PT": "Você não tem orçamento suficiente.",
     "EN": "You don't have enough budget."
   },
   "Toast_FullOperatingLevel": {
-    "PT": "",
+    "PT": "O café já está no nível máximo!",
     "EN": "The cafe is already at max level!"
   },
   "Collection_GentlemanGame": {
-    "PT": "",
+    "PT": "Jogos de Cavaleiro",
     "EN": "Cultured Games"
   },
   "Collection_RetroGame": {
-    "PT": "",
+    "PT": "Jogos Retrô",
     "EN": "Retro Games"
   },
   "MainMissonText13_1": {
-    "PT": "",
+    "PT": "Encontre o pingente",
     "EN": "Find the pendant"
   },
   "MainMissonText13_2": {
-    "PT": "",
+    "PT": "Recupere o pingente pegando uma ferramenta emprestada com a Honoka",
     "EN": "Retrieve the pendant by borrowing a tool from Honoka"
   },
   "MainMissonText13_3": {
-    "PT": "",
+    "PT": "Use outra ferramenta para recuperar o pingente",
     "EN": "Use another tool to retrieve the pendant"
   },
   "OpenCardPackage": {
-    "PT": "",
+    "PT": "Abrir Pacote",
     "EN": "Open Pack"
   },
   "ContinueCardPackage": {
-    "PT": "",
+    "PT": "Continuar",
     "EN": "Continue"
   },
   "LoadingText_RandomTips6": {
-    "PT": "",
+    "PT": "Compre <color=blue>receitas</color> para desbloquear ingredientes do café.",
     "EN": "Buy <color=blue>recipes</color> to unlock coffee ingredients."
   },
   "LoadingText_RandomTips7": {
-    "PT": "",
+    "PT": "Ajude na <color=blue>loja de móveis</color> para que suas mesas sejam consertadas mais rápido.",
     "EN": "Help out at the <color=blue>furniture store</color> so that your tables can be repaired more quickly."
   },
   "LoadingText_RandomTips8": {
-    "PT": "",
+    "PT": "Fazer <color=blue>bicos</color> em restaurantes é um jeito de ganhar um dinheiro extra.",
     "EN": "Doing <color=blue>part time jobs</color> at restaurants is a way to earn some more pocket money."
   },
   "LoadingText_RandomTips9": {
-    "PT": "",
+    "PT": "Algo de bom pode acontecer se você fizer amizade com o <color=blue>gato preto</color>...",
     "EN": "Something good might happen if you befriend the <color=blue>black cat</color>..."
   },
   "LoadingText_RandomTips10": {
-    "PT": "",
+    "PT": "Arrumar o <color=blue>cabelo</color> pode te deixar um colírio para os olhos e aliviar um pouco da fadiga da sua equipe.",
     "EN": "Fixing up your <color=blue>hairstyle</color> might make you a sight for sore eyes and relieve some of your staff's fatigue."
   },
   "LoadingText_Chapter0End": {
-    "PT": "",
+    "PT": "Capítulo 1\nFim",
     "EN": "Chapter 1\nEnd"
   },
   "LoadingText_Chapter1End": {
-    "PT": "",
+    "PT": "Capítulo 2\nFim",
     "EN": "Chapter 2\nEnd"
   },
   "LoadingText_Chapter2End": {
-    "PT": "",
+    "PT": "Capítulo 3\nFim",
     "EN": "Chapter 3\nEnd"
   },
   "LoadingText_Chapter3End": {
-    "PT": "",
+    "PT": "Capítulo 4\nFim",
     "EN": "Chapter 4\nEnd"
   },
   "LoadingText_Chapter4End": {
-    "PT": "",
+    "PT": "Capítulo 5\nFim",
     "EN": "Chapter 5\nEnd"
   },
   "SecondConfirm_EndToSave": {
-    "PT": "",
+    "PT": "Deseja salvar o progresso atual do jogo?",
     "EN": "Do you want to save the current game progress?"
   },
   "SecondConfirm_EndToSave_Confirm": {
-    "PT": "",
+    "PT": "Sim",
     "EN": "Yes"
   },
   "SecondConfirm_EndToSave_Cancel": {
-    "PT": "",
+    "PT": "Não",
     "EN": "No"
   },
   "MainMissonTextOperatChanllenge": {
-    "PT": "",
+    "PT": "Vamos atrás da meta de vendas! Vendas Totais atuais: {0}/180000",
     "EN": "Let's aim for the sales goal! Current total sales: {0}/180000"
   },
   "MainMissonTextOperatChanllengeFree": {
-    "PT": "",
+    "PT": "Tempo livre. Não se esqueça de descansar mais cedo! Vendas Totais atuais: {0}/180000",
     "EN": "Free time. Don't forget to get some early rest! Current total sales: {0}/180000"
   },
   "LoadingText_SiroEnd": {
-    "PT": "",
+    "PT": "Fim da Rota da Shiro",
     "EN": "Shiro Route End"
   },
   "LoadingText_MiyuEnd": {
-    "PT": "",
+    "PT": "Fim da Rota da Miyu",
     "EN": "Miyu Route End"
   },
   "LoadingText_FavnaEnd": {
-    "PT": "",
+    "PT": "Fim da Rota da Favna",
     "EN": "Favna Route End"
   },
   "LoadingText_HonokaEnd": {
-    "PT": "",
+    "PT": "Fim da Rota da Honoka",
     "EN": "Honoka Route End"
   },
   "LoadingText_TrueEnd": {
-    "PT": "",
+    "PT": "Final Verdadeiro",
     "EN": "True End"
   },
   "MainMissonText28_isDemo": {
-    "PT": "",
+    "PT": "Tempo livre! Vai ao cinema, tentar a sorte com os brinquedos de cápsula na frente da Surugaya ou ir para casa dormir? <color=yellow>(Dica: sua casa fica no andar de cima do Fuwa Fuwa, no lado oeste da Rua Elétrica.)</color>",
     "EN": "Free time! Will you go to the movies, try your luck with the capsule toys in front of Surugaya, or go home and sleep? <color=yellow>(Hint: Your home is upstairs in Fuwa Fuwa on the west side of Electric Street.)</color>"
   },
   "LoadingText_NormalEnd": {
-    "PT": "",
+    "PT": "Final Normal\nVida Nova Pacífica",
     "EN": "Normal End\nPeaceful New Life"
   },
   "Toast_PlayerFatigueReduceSmallReduce": {
-    "PT": "",
+    "PT": "Você se sente um pouco menos cansado.",
     "EN": "You feel slightly less tired."
   },
   "Toast_PlayerFatigueReduceBigReduce": {
-    "PT": "",
+    "PT": "Você se sente muito menos cansado.",
     "EN": "You feel a lot less tired."
   },
   "SecondConfirm_GameEndToSave": {
-    "PT": "",
+    "PT": "Salvar os dados do jogo concluído?\nCarregar os dados do jogo concluído vai começar um novo jogo\nno seu primeiro dia como gerente.\n(O dinheiro e os itens guardados serão transferidos.)",
     "EN": "Save completed game data?\nLoading the completed game data will start a new game\nfrom your first day as a manager.\n(Held money and items will carry over.)"
   },
   "SecondConfirm_GameEndToSave_Confirm": {
-    "PT": "",
+    "PT": "Sim",
     "EN": "Yes"
   },
   "SecondConfirm_GameEndToSave_Cancel": {
-    "PT": "",
+    "PT": "Não",
     "EN": "No"
   },
   "GameRound": {
-    "PT": "",
+    "PT": "Jogada {0}",
     "EN": "Playthrough {0}"
   },
   "Toast_CantSitChair": {
-    "PT": "",
+    "PT": "Não é hora de sentar numa cadeira!",
     "EN": "Now isn't the time to sit in a chair!"
   },
   "ShopOption_JiuHui": {
-    "PT": "",
+    "PT": "Participar da Rodada de Bebidas",
     "EN": "Join the local drinking party"
   },
   "LoadingText_JiuHui": {
-    "PT": "",
+    "PT": "Quando todos já tinham bebido à vontade, cada um foi para casa com um sorriso satisfeito no rosto.",
     "EN": "Once everyone had their fill of drinks, they all went home with satisfied smiles on their faces."
   },
   "OperatMoney": {
-    "PT": "",
+    "PT": "Orçamento da Loja:",
     "EN": "Store Budget:"
   },
   "ShrineDivineTip": {
-    "PT": "",
+    "PT": "Fortuna do Amor",
     "EN": "Love Fortune"
   },
   "ShrineDivine_Question": {
-    "PT": "",
+    "PT": "A placa diz: \"Conheça a sua fortuna do amor por 500 ienes!\"\nGostaria de comprar um omikuji?",
     "EN": "The sign says \"Get your love fortune for 500 yen!\"\nWould you like to buy an omikuji?"
   },
   "BackToTitle": {
-    "PT": "",
+    "PT": "Voltar ao Menu Principal",
     "EN": "Back to Main Menu"
   },
   "ShrineDivine_Text": {
-    "PT": "",
+    "PT": "Quem é a sua pessoa especial?",
     "EN": "Who's your special someone?"
   },
   "ShoppingClearSoldNumTip": {
-    "PT": "",
+    "PT": "Limpar Seleção",
     "EN": "Clear Selection"
   },
   "UFOTip": {
-    "PT": "",
+    "PT": "500 ienes para jogar",
     "EN": "500 yen to play"
   },
   "RecipeNotes": {
-    "PT": "",
+    "PT": "Receitas",
     "EN": "Recipes"
   },
   "DeveloperMessage": {
-    "PT": "",
+    "PT": "Este é um jogo de aventura tranquilo em que você vivencia o dia a dia do Fuwa Fuwa Cafe.\n\nPrepare um cafezinho, relaxe e aproveite uma história que aquece o coração! ♪",
     "EN": "This is a leisurely adventure game where you can experience everyday life at Fuwa Fuwa Cafe.\n\nMake yourself a cup of coffee, relax, and enjoy a heartwarming story! ♪"
   },
   "Toast_FixedTable": {
-    "PT": "",
+    "PT": "A mesa de jantar foi mandada de volta para o café!",
     "EN": "The dining table has been sent back to the cafe!"
   },
   "OperatingGuideText4": {
-    "PT": "",
+    "PT": "A habilidade de gerenciamento \"Mágica de Atendimento Especial\" aumenta temporariamente o valor do pagamento recebido dos seus Mestres e Damas.\nPara ativar a habilidade, você e suas maids precisam se esforçar para encher o medidor de habilidade, que fica abaixo do medidor de tempo.\nAtive a habilidade nos horários de pico para melhores resultados!",
     "EN": "The management skill \"Special Service Magic\" temporarily raises the amount of payment received from your masters and ladies.\nTo activate the skill, you and your maids must work hard to fill up the skill gauge under the time gauge.\nActivate the skill during peak hours for the best results!"
   },
   "OperatingGuideText5": {
-    "PT": "",
+    "PT": "Três das mesas de jantar do café estão bem danificadas.\nO rapaz da loja de móveis ao lado prometeu ajudar a consertá-las no tempo livre dele, mas pode demorar...\nSe você puder ir ajudar na loja de móveis, talvez consiga que as mesas fiquem prontas mais rápido.",
     "EN": "Three of the cafe's dining tables have been badly damaged.\nThe guy at the furniture store next door has promised to help fix them in his spare time, but it might take a while...\nIf you can go and help out at the furniture store, you might be able to get the tables repaired faster."
   },
   "Toast_CantInR18": {
-    "PT": "",
+    "PT": "Você não pode entrar aí agora!",
     "EN": "You can't go in there right now!"
   },
   "Demo": {
-    "PT": "",
+    "PT": "Demo",
     "EN": "Demo"
   },
   "MainMissonText39_Siro_7_1": {
-    "PT": "",
+    "PT": "Escolha um filme para assistir com a Shiro",
     "EN": "Pick a movie to watch with Shiro"
   },
   "NoSaveData": {
-    "PT": "",
+    "PT": "Nenhum jogo salvo encontrado",
     "EN": "No saved game found"
   },
   "SecondConfirm_Rest": {
-    "PT": "",
+    "PT": "Deseja descansar e esperar uma hora?",
     "EN": "Do you want to rest and wait for an hour?"
   },
   "SecondConfirm_Rest_Confirm": {
-    "PT": "",
+    "PT": "Sim",
     "EN": "Yes"
   },
   "SecondConfirm_Rest_Cancel": {
-    "PT": "",
+    "PT": "Não",
     "EN": "No"
   },
   "ControlGuideType3": {
-    "PT": "",
+    "PT": "Teclado Tipo 2",
     "EN": "Keyboard Type 2"
   },
   "FastMode": {
-    "PT": "",
+    "PT": "Modo Rápido",
     "EN": "Fast Mode"
   },
   "FastModeOn": {
-    "PT": "",
+    "PT": "LIGADO",
     "EN": "On"
   },
   "FastModeOff": {
-    "PT": "",
+    "PT": "DESLIGADO",
     "EN": "Off"
   },
   "FastModeWaring": {
-    "PT": "",
+    "PT": "O modo rápido permite jogar em uma velocidade maior\n<color=red>Aviso: isso pode causar problemas inesperados no jogo, especialmente ao usar uma CPU AMD</color>",
     "EN": "Fast mode allows players to play at a faster rate\n<color=red>Warning: This may cause unknown gaming issues especially when using AMD CPU</color>"
   },
   "SearchPoint1Tip": {
-    "PT": "",
+    "PT": "Bilhete na Porta",
     "EN": "Note on the Door"
   },
   "SearchPoint2Tip": {
-    "PT": "",
+    "PT": "Estante Estranha",
     "EN": "Strange Bookshelf"
   },
   "SearchPoint3Tip": {
-    "PT": "",
+    "PT": "Peça Estranha na Prateleira C",
     "EN": "Strange Part on the Shelf C"
   },
   "SearchPoint4Tip": {
-    "PT": "",
+    "PT": "Seção de Livros de Consulta",
     "EN": "Reference Book Section"
   },
   "SearchPoint5Tip": {
-    "PT": "",
+    "PT": "Pilha de Livros",
     "EN": "Stack of Books"
   },
   "SearchPoint6Tip": {
-    "PT": "",
+    "PT": "Peça Estranha na Prateleira B",
     "EN": "Strange Part on the Shelf B"
   },
   "SearchPoint7Tip": {
-    "PT": "",
+    "PT": "Livros no Chão",
     "EN": "Books on the Floor"
   },
   "SearchPoint8Tip": {
-    "PT": "",
+    "PT": "Livros no Balcão",
     "EN": "Books on the Counter"
   },
   "SearchPoint9Tip": {
-    "PT": "",
+    "PT": "Estante de Revistas",
     "EN": "Magazine Rack"
   },
   "SearchPoint10Tip": {
-    "PT": "",
+    "PT": "Canto +18",
     "EN": "M-Rated Corner"
   },
   "SearchPoint11Tip": {
-    "PT": "",
+    "PT": "Pilha de Kits de Montagem",
     "EN": "Pile of Plastic Model"
   },
   "SearchPoint12Tip": {
-    "PT": "",
+    "PT": "Ponto Estranho no Canto",
     "EN": "Strange Spot at the Corner"
   },
   "SearchPoint13Tip": {
-    "PT": "",
+    "PT": "Peça Estranha na Prateleira A",
     "EN": "Strange Part on the Shelf A"
   },
   "SearchPoint14Tip": {
-    "PT": "",
+    "PT": "Pequena Estante de Livros",
     "EN": "Small Bookshelf"
   },
   "SearchPoint15Tip": {
-    "PT": "",
+    "PT": "Caixa Trancada",
     "EN": "Locked Box"
   },
   "NumberPickerSelectTip": {
-    "PT": "",
+    "PT": "Selecionar/Mudar Número",
     "EN": "Select/Change Number"
   },
   "NumberPickerUnlockTip": {
-    "PT": "",
+    "PT": "Destravar",
     "EN": "Unlock"
   },
   "SearchPoint16Tip": {
-    "PT": "",
+    "PT": "Bilhete na Porta",
     "EN": "Note on the Door"
   },
   "SearchPoint17Tip": {
-    "PT": "",
+    "PT": "Violino?",
     "EN": "Violin?"
   },
   "SearchPoint18Tip": {
-    "PT": "",
+    "PT": "Guqin",
     "EN": "Guqin"
   },
   "SearchPoint19Tip": {
-    "PT": "",
+    "PT": "Fonógrafo",
     "EN": "Phonograph"
   },
   "SearchPoint20Tip": {
-    "PT": "",
+    "PT": "Caixinha de Música Antiga",
     "EN": "Old Music Box"
   },
   "SearchPoint21Tip": {
-    "PT": "",
+    "PT": "Bilhete na Porta",
     "EN": "Note on the Door"
   },
   "SearchPoint22Tip": {
-    "PT": "",
+    "PT": "Páginas no Chão",
     "EN": "Pages on the Floor"
   },
   "SearchPoint23Tip": {
-    "PT": "",
+    "PT": "Caixa",
     "EN": "Cashier"
   },
   "SearchPoint24Tip": {
-    "PT": "",
+    "PT": "Gaveta",
     "EN": "Drawer"
   },
   "SearchPoint25Tip": {
-    "PT": "",
+    "PT": "Compartimento de Armazenamento",
     "EN": "Storage Compartment"
   },
   "SearchPoint26Tip": {
-    "PT": "",
+    "PT": "Arara de Roupas Dupla 1",
     "EN": "Double Rail Clothes Rack 1"
   },
   "SearchPoint27Tip": {
-    "PT": "",
+    "PT": "Arara de Roupas Dupla 3",
     "EN": "Double Rail Clothes Rack 3"
   },
   "SearchPoint28Tip": {
-    "PT": "",
+    "PT": "Expositor de Roupas 3",
     "EN": "Clothes Display 3"
   },
   "SearchPoint29Tip": {
-    "PT": "",
+    "PT": "Pôster",
     "EN": "Poster"
   },
   "SearchPoint30Tip": {
-    "PT": "",
+    "PT": "Arara de Roupas Dupla 2",
     "EN": "Double Rail Clothes Rack 2"
   },
   "SearchPoint31Tip": {
-    "PT": "",
+    "PT": "Expositor de Roupas 1",
     "EN": "Clothes Display 1"
   },
   "SearchPoint32Tip": {
-    "PT": "",
+    "PT": "Expositor de Roupas 2",
     "EN": "Clothes Display 2"
   },
   "SearchPoint33Tip": {
-    "PT": "",
+    "PT": "Arara de Roupas Simples",
     "EN": "Single Rail Clothes Rack"
   },
   "SearchPoint34Tip": {
-    "PT": "",
+    "PT": "Cabeça de Manequim 3",
     "EN": "Mannequin Head 3"
   },
   "SearchPoint35Tip": {
-    "PT": "",
+    "PT": "Cabeça de Manequim 2",
     "EN": "Mannequin Head 2"
   },
   "SearchPoint36Tip": {
-    "PT": "",
+    "PT": "Cabeça de Manequim 1",
     "EN": "Mannequin Head 1"
   },
   "SearchPoint37Tip": {
-    "PT": "",
+    "PT": "Provador",
     "EN": "Fitting Room"
   },
   "SearchPoint38Tip": {
-    "PT": "",
+    "PT": "Canto das Araras de Roupas",
     "EN": "Clothes Rack Corner"
   },
   "SearchPoint39Tip": {
-    "PT": "",
+    "PT": "Botão Misterioso",
     "EN": "Mysterious Button"
   },
   "SearchPoint40Tip": {
-    "PT": "",
+    "PT": "Manequim de Palco",
     "EN": "Stage Mannequin"
   },
   "SearchPoint41Tip": {
-    "PT": "",
+    "PT": "Cabeça de Manequim de Palco",
     "EN": "Stage Mannequin Head"
   },
   "SearchPoint42Tip": {
-    "PT": "",
+    "PT": "Corpo de Manequim de Palco",
     "EN": "Stage Mannequin Body"
   },
   "SearchPoint43Tip": {
-    "PT": "",
+    "PT": "Pescoço de Manequim de Palco",
     "EN": "Stage Mannequin Neck"
   },
   "DialogueHistoryTip": {
-    "PT": "",
+    "PT": "Histórico",
     "EN": "Backlog"
   },
   "ExtraStory": {
@@ -3368,75 +3368,75 @@
     "EN": "Side Story: Rin and the Mysterious Challenge"
   },
   "MainMissonTextSideQuest4_1": {
-    "PT": "",
+    "PT": "Pegue o gato preto com a Rin!",
     "EN": "Catch the black cat with Rin!"
   },
   "MainMissonTextSideQuest4_2": {
-    "PT": "",
+    "PT": "Verifique a porta dos fundos",
     "EN": "Check the backdoor"
   },
   "MainMissonTextSideQuest4_3": {
-    "PT": "",
+    "PT": "Investigue dentro da loja",
     "EN": "Investigate inside the store"
   },
   "SecondConfirm_MenuResearch": {
-    "PT": "",
+    "PT": "Parece que você pode gastar toda a sua Inspiração Culinária para tentar melhorar sua habilidade culinária. Quer tentar?\n(A Inspiração Culinária é ganha comendo. Quanto mais você tem, maior a chance de sucesso.)",
     "EN": "Looks like you can spend all your Cooking Inspiration to try to improve your culinary skill. Do you want to give it a go?\n(Cooking Inspiration is gained through eating. The more you have, the higher the success rate.)"
   },
   "SecondConfirm_MenuResearch_Confirm": {
-    "PT": "",
+    "PT": "Confirmar",
     "EN": "Confirm"
   },
   "SecondConfirm_MenuResearch_Cancel": {
-    "PT": "",
+    "PT": "Cancelar",
     "EN": "Cancel"
   },
   "Toast_FullMenuResearchLevel": {
-    "PT": "",
+    "PT": "Você não pode subir mais essa habilidade!",
     "EN": "You can't raise this skill any higher!"
   },
   "Toast_NotCookingIdeaPoint": {
-    "PT": "",
+    "PT": "Sem Inspiração...",
     "EN": "Out of Inspiration..."
   },
   "Toast_MenuResearchSuccess": {
-    "PT": "",
+    "PT": "Sua habilidade culinária melhorou!",
     "EN": "Cooking skill improved!"
   },
   "Toast_MenuResearchFailed": {
-    "PT": "",
+    "PT": "Falhou em melhorar a habilidade culinária...",
     "EN": "Failed to improve cooking skill..."
   },
   "MainMissonTextSideQuest4_4": {
-    "PT": "",
+    "PT": "Encontre uma saída da loja",
     "EN": "Find a way out of the store"
   },
   "GuQinSelectTip": {
-    "PT": "",
+    "PT": "Selecionar Cordas",
     "EN": "Select strings"
   },
   "GuQinPlayTip": {
-    "PT": "",
+    "PT": "Tocar",
     "EN": "Play"
   },
   "ControlGuideItem": {
-    "PT": "",
+    "PT": "Inventário",
     "EN": "ItemBag"
   },
   "ControlGuideBike": {
-    "PT": "",
+    "PT": "Bicicleta (Quando Tiver)",
     "EN": "Bike(When Get)"
   },
   "ControlGuideCollection": {
-    "PT": "",
+    "PT": "Coleção",
     "EN": "Collection"
   },
   "ControlGuidePhone": {
-    "PT": "",
+    "PT": "Celular",
     "EN": "Phone"
   },
   "ControlGuideSystemMenu": {
-    "PT": "",
+    "PT": "Menu de Sistema",
     "EN": "SystemMenu"
   }
 }
