@@ -1,6 +1,6 @@
 # Glossário Oficial PT-BR — "Maid Cafe on Electric Street"
 
-Glossário de referência da tradução não oficial para português do Brasil. Use junto com as regras em `translations/_work/RULES.md`.
+Glossário de referência da tradução não oficial para português do Brasil. Use junto com as regras em `tools/translation-rules.md`.
 
 ## Como usar
 
