@@ -1,114 +1,114 @@
 {
   "boss": {
-    "PT": "",
+    "PT": "BOSS",
     "EN": "BOSS"
   },
   "youshu": {
-    "PT": "",
+    "PT": "Senpai",
     "EN": "Senpai"
   },
   "colleague1": {
-    "PT": "",
+    "PT": "Funcionário 997",
     "EN": "No.997"
   },
   "colleague2": {
-    "PT": "",
+    "PT": "Funcionário 985",
     "EN": "No.985"
   },
   "colleague3": {
-    "PT": "",
+    "PT": "Funcionário 404",
     "EN": "No.404"
   },
   "colleague4": {
-    "PT": "",
+    "PT": "Funcionário 811648",
     "EN": "No.811648"
   },
   "colleague5": {
-    "PT": "",
+    "PT": "Funcionário 807",
     "EN": "No.807"
   },
   "colleague6": {
-    "PT": "",
+    "PT": "Funcionário 711",
     "EN": "No.711"
   },
   "colleague7": {
-    "PT": "",
+    "PT": "Kohai",
     "EN": "Kohai"
   },
   "maid1": {
-    "PT": "",
+    "PT": "Maid",
     "EN": "Maid"
   },
   "maid2": {
-    "PT": "",
+    "PT": "Maid",
     "EN": "Maid"
   },
   "xiaobai": {
-    "PT": "",
+    "PT": "Shiro",
     "EN": "Shiro"
   },
   "xiaobai1": {
-    "PT": "",
+    "PT": "Shiro",
     "EN": "Shiro"
   },
   "xiaobai???": {
-    "PT": "",
+    "PT": "???",
     "EN": "???"
   },
   "fafuna": {
-    "PT": "",
+    "PT": "Favna",
     "EN": "Favna"
   },
   "xinyou": {
-    "PT": "",
+    "PT": "Miyu",
     "EN": "Miyu"
   },
   "xinyou1": {
-    "PT": "",
+    "PT": "Miyu",
     "EN": "Miyu"
   },
   "dianyuan1": {
-    "PT": "",
+    "PT": "Atendente",
     "EN": "Clerk"
   },
   "dianyuan3": {
-    "PT": "",
+    "PT": "Atendente",
     "EN": "Clerk"
   },
   "dianyuan-cinema": {
-    "PT": "",
+    "PT": "Atendente",
     "EN": "Clerk"
   },
   "anna": {
-    "PT": "",
+    "PT": "Anna",
     "EN": "Anna"
   },
   "meixiao": {
-    "PT": "",
+    "PT": "Misaki",
     "EN": "Misaki"
   },
   "pangzhai": {
-    "PT": "",
+    "PT": "Grandão",
     "EN": "Big guy"
   },
   "shouzhai": {
-    "PT": "",
+    "PT": "Magricelo",
     "EN": "Thin guy"
   },
   "Animate_Clerk": {
-    "PT": "",
+    "PT": "Atendente",
     "EN": "Clerk"
   },
   "fenfa": {
-    "PT": "",
+    "PT": "Garota de Cabelo Rosa",
     "EN": "Pink Hair Girl"
   },
   "hongfa": {
-    "PT": "",
+    "PT": "Garota de Cabelo Vermelho",
     "EN": "Red Hair Girl"
   },
   "wanzitou": {
-    "PT": "",
+    "PT": "Garota de Coque Duplo",
     "EN": "Bun Hair Girl"
   }
 }

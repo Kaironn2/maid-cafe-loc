@@ -130,7 +130,8 @@ How the patch works:
 - ✅ Extraction, mapping, sync and patch work and are tested. An empty patch reproduces the original file byte for byte. A patch with translations changes only the translated texts.
 - ✅ UI fully translated (`texts/ui_en.json`, 860/860) and tested in game.
 - ✅ Accented characters (ã õ ç á é í ó ú â ê ô) render correctly in game.
-- ⏳ Next: `texts/textdata_en.json`, `texts/dialogue_en.json`, then `scenes/` and `extras/`.
+- ✅ Item and character names, character profiles and short NPC lines translated (`texts/textdata_en.json` 1,131, `texts/dialogue_en.json` 973, `texts/charactername_en.json` 28). Not yet tested in game.
+- ⏳ Next: `scenes/` and `extras/`.
 
 ### How it works
 
@@ -259,7 +260,8 @@ Como o patch funciona:
 - ✅ Extração, mapeamento, sincronização e patch funcionando e testados. Patch vazio = arquivo original byte a byte. Patch com traduções = só os textos traduzidos mudam.
 - ✅ Interface traduzida por completo (`texts/ui_en.json`, 860/860) e testada no jogo.
 - ✅ Acentos (ã õ ç á é í ó ú â ê ô) aparecem corretamente no jogo.
-- ⏳ Próximos: `texts/textdata_en.json`, `texts/dialogue_en.json`, depois `scenes/` e `extras/`.
+- ✅ Nomes de itens e personagens, fichas de personagens e falas curtas de NPC traduzidos (`texts/textdata_en.json` 1.131, `texts/dialogue_en.json` 973, `texts/charactername_en.json` 28). Ainda não testados no jogo.
+- ⏳ Próximos: `scenes/` e `extras/`.
 
 ### Como funciona por dentro
 
