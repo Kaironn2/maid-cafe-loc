@@ -131,7 +131,8 @@ How the patch works:
 - ✅ UI fully translated (`texts/ui_en.json`, 860/860) and tested in game.
 - ✅ Accented characters (ã õ ç á é í ó ú â ê ô) render correctly in game.
 - ✅ Item and character names, character profiles and short NPC lines translated (`texts/textdata_en.json` 1,131, `texts/dialogue_en.json` 973, `texts/charactername_en.json` 28). Not yet tested in game.
-- ⏳ Next: `scenes/` and `extras/`.
+- ✅ Story scenes (`scenes/`, 49 files, 7,394 lines) and extras (`extras/`: random NPC lines, CG gallery names, credits; 592) translated. Not yet tested in game.
+- ⏳ Next: test everything in game and review.
 
 ### How it works
 
@@ -261,7 +262,8 @@ Como o patch funciona:
 - ✅ Interface traduzida por completo (`texts/ui_en.json`, 860/860) e testada no jogo.
 - ✅ Acentos (ã õ ç á é í ó ú â ê ô) aparecem corretamente no jogo.
 - ✅ Nomes de itens e personagens, fichas de personagens e falas curtas de NPC traduzidos (`texts/textdata_en.json` 1.131, `texts/dialogue_en.json` 973, `texts/charactername_en.json` 28). Ainda não testados no jogo.
-- ⏳ Próximos: `scenes/` e `extras/`.
+- ✅ Cenas da história (`scenes/`, 49 arquivos, 7.394 falas) e extras (`extras/`: falas aleatórias, nomes das CGs da galeria, créditos; 592) traduzidos. Ainda não testados no jogo.
+- ⏳ Próximos: testar tudo no jogo e revisar.
 
 ### Como funciona por dentro
 

@@ -534,3 +534,54 @@ Locais recorrentes das missões (fixados): Theater → cinema ("Vá ao cinema");
 | Play | Brincar | com o gato; "Play" no guqin = "Tocar" |
 | phone / smartphone | celular | UNIFICADO; nunca "telefone" |
 | maid (minúscula) | maid | quando fala da função/equipe; "Maid" maiúsculo nos títulos e cargos |
+
+## 11. Termos das cenas (scenes/ e extras/)
+
+### Vozes
+
+| Personagem | Como fala em PT | observação |
+| --- | --- | --- |
+| (protagonista) | Gerente; pensamentos entre parênteses, falas entre aspas como no EN | manter os parênteses e aspas do EN |
+| Honoka (`suinaixiang*`, `4_Honoka_*`) | calorosa e informal: "viu", "né", "tô", "pra", diminutivos | sotaque de Kansai no EN; sem regionalismos fortes nem apóstrofos |
+| Miyu | animada, alonga vogais ("Eiii", "Paaara"), "~", ☆ e ♪ | |
+| Favna | pomposa e teatral; "esta que vos fala", "A grande Favna", "donzelas" | dá nomes grandiosos a lugares e coisas (abaixo) |
+| Shiro | gentil e educada, sem gírias pesadas | |
+
+### Termos fixos
+
+| EN | PT | observação |
+| --- | --- | --- |
+| Manager | Gerente | como as maids chamam o protagonista |
+| Welcome home, Master | Bem-vindo de volta, Mestre | dono |
+| Welcome back, my lady | Bem-vinda de volta, minha dama | |
+| Angel of Darkness / Maid Angel of Darkness | Anjo das Trevas / Anjo Maid das Trevas | |
+| Be consumed by the darkness! | Seja consumido pelas trevas! | cumprimento da Favna |
+| Favna-Speak Dictionary | Dicionário de Favanês | |
+| Slayer of the False God | Matadora do Deus Falso | título da Favna |
+| Queen of the Kingdom of Darkness | Rainha do Reino das Trevas | |
+| Guardian of All Dreams | Guardiã de Todos os Sonhos | |
+| Chef Rouge de Magie | Chef Rouge de Magie | manter; título da Favna para a Shiro |
+| Apostle of White | Apóstola Branca | dono |
+| Holy Map of the Great Scripture | Mapa Sagrado da Grande Escritura | a Sofmap, na voz da Favna |
+| Late Summer Banquet | Banquete do Fim do Verão | o festival de verão, na voz da Favna |
+| Traditional Bathrobes of Relaxation | Vestes de Banho Tradicionais do Repouso | o yukata, na voz da Favna |
+| Heavenly Convention | Convenção Celestial | |
+| Wavering / Wandering Elysium of the Underworld | Elysium Vacilante / Errante do Submundo | o EN usa as duas formas |
+| stamp rally / stamp card | rally de carimbos / cartão de carimbo | |
+| yo-yo fishing / water balloon yo-yo | pescaria de ioiô / ioiô de balão de água | |
+| shaved ice | raspadinha | |
+| corndog | salsicha no palito | |
+| mincemeat cutlet | menchi-katsu | |
+| butler outfit | traje de mordomo | |
+| offertory box / offering | caixa de oferendas / oferenda | |
+| hokora | pequeno altar | |
+| hitogata | hitogata | manter; "figura de papel" quando o EN explica |
+| Kondou Tofu Shop | Loja de Tofu Kondou | dono |
+| Sun Hard Drive / Dragon Badge | Sun Hard Drive / Pin de Dragão | iguais ao inventário (dono) |
+| Magical Cannon Girls | Garotas Canhão Mágica | dono |
+| Potluck-Vengers | Bufê-Vengers | |
+| Moe moe~ / Miracle~ | Moe moe~ / Miracle~ | manter; encantamento do Miracle Maid Cafe |
+| Fuwa fuwa kyun | Fuwa fuwa kyun | manter; bordão das maids |
+| Opções `Texto:optionN;Texto:optionN` | traduzir só o texto | manter `:optionN` e `;` exatamente, inclusive typos do EN (`:optoin54`) |
+| GameCG (EN em chinês) | títulos curtos em PT | traduzidos do chinês |
+| DevelopmentReport (nomes em chinês) | manter | nomes e handles de pessoas e lojas não se traduzem; só cargos |
