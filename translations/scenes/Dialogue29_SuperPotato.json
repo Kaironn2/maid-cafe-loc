@@ -1,157 +1,157 @@
 {
   "0": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Parece ser mais uma loja de jogos retrô.\nA Rua Elétrica realmente tem um montão de lojas nichadas uma ao lado da outra.",
     "EN": "This appears to be another retro game shop.\nElectric Street really has a lot of niche shops right next to each other."
   },
   "1": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Este aqui é o PC Engine, e aquela máquina é um antigo computador de jogos.\nNaquela época, se fazia uma porção de jogos para computador.",
     "EN": "This is the PC Engine, and that machine is an old gaming computer.\nThere were many games developed for gaming computers back then."
   },
   "2": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E o computador tinha mais armazenamento do que os consoles de videogame da época,\nentão seus jogos podiam ter animações detalhadas e falas de voz.",
     "EN": "It had more storage than video game consoles at the time,\nso games for it could have detailed animations and voice lines."
   },
   "3": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Castle Rondo foi feito originalmente para o PC Engine,\ne havia um jogo de aventura cyberpunk chamado Swatcher\nque parecia praticamente um filme, de tanto detalhe...",
     "EN": "Castle Rondo was originally made for the PC Engine,\nand there was a cyberpunk adventure game called Swatcher\nthat practically looked like a movie with how detailed it was..."
   },
   "4": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Uau, isso parece demais! Agora fiquei com vontade de jogar.\"",
     "EN": "\"Wow, that sounds really cool! Now I want to play it.\""
   },
   "5": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Isssoo, é isso que eu queria ver!\nUma pilha gigantesca de cartuchos de jogos!",
     "EN": "Yesss, this is what I wanted to see!\nA giant stack of game cartridges!"
   },
   "6": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Quero algo que dê pra gente jogar juntos,\ntipo \"Waterfall City Heist\", mas nada muito agitado.",
     "EN": "I want somethin' we can play together,\nlike \"Waterfall City Heist\", but nothin' too rowdy."
   },
   "7": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "A gente podia se revezar em algo como \"Super Morioh\",\nmas isso não é coop... Nossa, escolher um jogo é mais difícil do que eu pensei.",
     "EN": "We could take turns playin' somethin' like \"Super Morioh\",\nbut that's not co-op... Huh, it's harder to pick a game than I thought."
   },
   "8": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Você conhece algum jogo retrô com coop pra dois, Gerente?",
     "EN": "Do you know any retro games with two-player co-op, Manager?"
   },
   "9": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Que tal o \"TwinBrie\"?:option1;Que tal o \"Snow Climbers\"?:option1",
     "EN": "How about \"TwinBrie\"?:option1;How about \"Snow Climbers\"?:option1"
   },
   "10": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Parece fácil de pegar e jogar!\nOs personagens são fofos também! Bom gosto, Gerente!",
     "EN": "That sounds pretty easy to pick up 'n' play!\nThe characters are cute too! Good taste, manager!"
   },
   "11": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ei, e tal a gente jogar um pouco aqui?\nDisseram que podemos jogar qualquer um dos cartuchos!",
     "EN": "Hey, why don't we play for a bit here?\nThey said we can play with any of the cartridges!"
   },
   "12": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Eu nunca tive muitas oportunidades de jogar\nvideogame com outra pessoa, então... Vamos!",
     "EN": "I've never really had the chance to play\nvideo games with anyone else, so... C'mon!"
   },
   "13": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "Seja bem-vindo... Oh, Dama Favna! Como vai neste belíssimo dia?",
     "EN": "Welcome... Oh, Lady Favna! How are you on this fine day?"
   },
   "14": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(DAMA Favna?!)",
     "EN": "(LADY Favna?!)"
   },
   "15": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Faz eras, Guardião dos Campos Abundantes.\nFico contente ao ver que sua alma segue brilhante como sempre.",
     "EN": "It's been a while, Guardian of the Abundant Fields.\nI am glad to see your soul is as bright as ever."
   },
   "16": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "Oh, que gentileza, Dama Favna!\nSua aura divina está ainda mais deslumbrante!",
     "EN": "Oh, you flatter me, Lady Favna!\nYour divine aura has become even more stunning!"
   },
   "17": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Esse sujeito parece ter muita prática com\no jeito de falar da Favna. Vou deixá-los aí...)",
     "EN": "(This guy seems to have a lot of experience with\nFavna-speak. I'll leave them to it...)"
   },
   "18": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Muito bem, poderia aguardar nosso próximo evangelho?",
     "EN": "...Well then, could I ask you to wait for our next gospel?"
   },
   "19": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "Sim, claro! Tenha uma boa viagem de volta!",
     "EN": "Yes, of course! Have a safe trip back!"
   },
   "20": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Partiremos rumo a outro lugar que preside artefatos sagrados ancestrais—\no Salão dos Investigadores de Jogos Eletrônicos.",
     "EN": "We shall visit another place that presides over ancient holy artifacts—\nthe Hall of Electronic Game Investigators."
   },
   "21": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Investigadores... como detetives? Isso é o Game Tanteidan!\"",
     "EN": "\"Investigators... Like detectives? That's Game Tanteidan!\""
   },
   "22": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "Há um bar escondido no fliperama,\nmas é preciso uma senha e itens específicos para entrar.",
     "EN": "There's a hidden bar in the arcade,\nbut you need a password and specific items to go inside."
   },
   "23": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "Depois de conseguir todos os itens,\nvolte ao Super Potato!",
     "EN": "Once you've gotten all of the items,\ncome back to Super Potato!"
   },
   "24": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "Esses itens...!",
     "EN": "Those items...!"
   },
   "25": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "O Sun Hard Drive, o Joystick Nuvem de Chuva e o Pin de Dragão!",
     "EN": "The Sun Hard Drive, Raincloud Joystick, and Dragon Badge!"
   },
   "26": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "E pensar que finalmente alguém colecionaria os três...!",
     "EN": "To think someone would finally collect all three...!"
   },
   "27": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "Por favor, me diga o seu nome!",
     "EN": "Please, tell me your name!"
   },
   "28": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "Obrigado!",
     "EN": "Thank you!"
   },
   "29": {
     "Personagem": "Kazuto",
-    "PT": "",
+    "PT": "Para comemorar a sua paixão por videogames,\nfarei a honra de lhe confiar isto!",
     "EN": "To commemorate your passion for video games,\nI'll entrust you with this!"
   },
   "30": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "{0} obteve o Controle Arco-Íris!",
     "EN": "{0} obtained the Rainbow Controller!"
   }
 }

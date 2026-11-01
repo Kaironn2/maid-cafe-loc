@@ -1,82 +1,82 @@
 {
   "0": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Que raro te ver numa livraria.\nO que você está procurando?\"",
     "EN": "\"It's rare to see you at a bookstore.\nWhat are you looking for?\""
   },
   "1": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Hmn, estou procurando uns livros de estudo!\nAs aulas recomeçam no outono, afinal.",
     "EN": "Mmn, I'm looking for reference books!\nSchool starts again in the fall, after all."
   },
   "2": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Então você também está se esforçando nos estudos? Que bom ouvir isso.\"",
     "EN": "\"So you're studying hard too? That's great to hear.\""
   },
   "3": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ehee...",
     "EN": "Ehehe..."
   },
   "4": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "...Meu Deus, o volume mais recente da novelização de Magic Angel já tá à venda!",
     "EN": "...Oh my god, the newest volume of the Magic Angel novelization is out!"
   },
   "5": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Vou comprar este para ler nas pausas do estudo~♪",
     "EN": "I'm buying this to read in between studying~♪"
   },
   "6": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Não na Togetsuya? Então o que você está comprando aqui?\"",
     "EN": "\"Not Togetsuya? What are you buying?\""
   },
   "7": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Esta loja tem uma seleção bem maior de Grimórios de Palavras Mágicas.",
     "EN": "This store has a wider selection of Grimoires of Magic Words."
   },
   "8": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Favna escolhe um livro grosso da estante.\nParece ser um dicionário.",
     "EN": "Favna picks out a thick book from the shelf.\nIt appears to be a dictionary."
   },
   "9": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Uia. Na escola eu quase nem olhei para um dicionário.\"",
     "EN": "\"Wow. I hardly ever even looked at a dictionary back in school.\""
   },
   "10": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Recitar diferentes encantamentos todos os dias\nexige um estudo rigoroso, entende?",
     "EN": "Performing various incantations every day\nrequires rigorous study, you see."
   },
   "11": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Ela é mais esforçada do que aparenta...\nGanhei um respeito novo por ela.)",
     "EN": "(She's surprisingly hardworking...\nI have newfound respect for her.)"
   },
   "12": {
     "Personagem": "Mayu",
-    "PT": "",
+    "PT": "Se está procurando um presente para uma dama, recomendamos estes.",
     "EN": "If you're looking for gifts for a lady, we recommend these."
   },
   "13": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Canetas de vidro! São lindas...!\"",
     "EN": "\"Glass pens! They're beautiful...!\""
   },
   "14": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Essa caneta na cor de glicínia cai bem com a Honoka. Vou levar esta!)",
     "EN": "(This wisteria-colored pen would suit Honoka. I'll get this!)"
   },
   "15": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Vou dar para a Honoka da próxima vez em que nos vermos.\nEspero que ela goste...)",
     "EN": "(I'll give it to Honoka next time we meet.\nI hope she likes it...)"
   }
 }

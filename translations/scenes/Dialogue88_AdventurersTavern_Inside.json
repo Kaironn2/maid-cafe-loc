@@ -1,47 +1,47 @@
 {
   "0": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "DIGITE A SENHA",
     "EN": "PLEASE ENTER PASSWORD"
   },
   "1": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "SENHA INCORRETA",
     "EN": "INCORRECT PASSWORD"
   },
   "2": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "SENHA CORRETA\nBEM-VINDO À TAVERNA DOS AVENTUREIROS!",
     "EN": "CORRECT PASSWORD\nWELCOME TO ADVENTURER'S TAVERN!"
   },
   "3": {
     "Personagem": "Hiro Ryu",
-    "PT": "",
+    "PT": "Nihao! Obrigado por jogar Maid Cafe on Electric Street!",
     "EN": "Nihao! Thank you for playing Maid Cafe on Electric Street!"
   },
   "4": {
     "Personagem": "Hiro Ryu",
-    "PT": "",
+    "PT": "Este jogo foi feito com amor por Osaka, Nipponbashi,\na cultura otaku e, claro, pelos cafés de maids!",
     "EN": "This game was made with love for Osaka, Nipponbashi,\notaku culture, and, of course, maid cafes!"
   },
   "5": {
     "Personagem": "Hiro Ryu",
-    "PT": "",
+    "PT": "Adventurer's Tavern é o nome do nosso estúdio de desenvolvimento.\nComo mimo especial, deixe-me mostrar algumas coisas dos bastidores!",
     "EN": "Adventurer's Tavern is the name of our development studio.\nLet me show you some behind the scenes stuff as a special treat!"
   },
   "6": {
     "Personagem": "Hiro Ryu",
-    "PT": "",
+    "PT": "A gente caprichou muito na pixel art!\nEmbora eu também tenha vendido minha casa para bancar mais o desenvolvimento... Haha...",
     "EN": "We put a lot of effort in the pixel art!\nThough I also sold my house to get more funds for development... Haha..."
   },
   "7": {
     "Personagem": "Hiro Ryu",
-    "PT": "",
+    "PT": "Espero que a experiência de passear pela nossa versão da Rua Elétrica\ntenha se tornado algo especial no coração de vocês.",
     "EN": "I hope this experience of walking around our version of Electric Street\nhas become something special in your hearts."
   },
   "8": {
     "Personagem": "Hiro Ryu",
-    "PT": "",
+    "PT": "E o próximo jogo será ainda melhor! Fiquem de olho!",
     "EN": "And I'll make an even better game next! Keep an eye out for that!"
   }
 }

@@ -1,2722 +1,2722 @@
 {
   "0": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Pera aí, não pode ser... Isso é...\nO filme do \"Kamen Writer BLANK\"...?!",
     "EN": "Wait, no way... Is this...\nTh-The \"Kamen Writer BLANK\" movie...?!"
   },
   "1": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Desde que foi exibido na TV como parte da Maratona de Filmes da Higashi-A,\naté hoje ele nunca ganhou um lançamento físico, apesar do seu status lendário...!\nEu nunca imaginei que teria a chance de ver uma reexibição aqui...!",
     "EN": "Ever since it aired on TV as a part of the Higashi-A Movie Marathon,\nto this day, it's never gotten a physical release despite its legendary status...!\nI never thought I'd have the chance to watch a rerun here...!"
   },
   "2": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Como seria de esperar, ele tem golpes especiais e vilões criados só para o filme.\nEles até convidaram o autor original da época, Koutarou Miginomori, para fazer\numa participação! Disseram que é um filme delicioso e divertido!",
     "EN": "As you'd expect, it features super moves and fiends specifically created for the movie.\nThey even invited the original author at the time, Koutarou Miginomori, to make a\nguest appearance! I've heard it's a whimsical and fun film!"
   },
   "3": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "G-Gerente... Eu poderia...\nEu poderia assistir o filme com você...?",
     "EN": "M-Manager... Could I...\nCould I please watch the movie with you...?"
   },
   "4": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "É claro!:option1;IMPERDOÁVEL!:option2",
     "EN": "Of course!:option1;UNFORGIVABLE!:option2"
   },
   "5": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Uhuu! Obrigada mesmo!\nBora, bora! Zuum!",
     "EN": "Yay! Thank you so much!\nLet's go, let's go! Whoooosh!"
   },
   "6": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Uaaaah! Você soou igualzinho ao Netarou-san!\nEu não sabia que você era fã também, Gerente! Bora!",
     "EN": "Waaah! That sounded just like Netarou-san!\nI didn't know you were a fan too, Manager! Let's go!"
   },
   "7": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Aaah... O Netarou-san era tão legal.\nEsse tipo de atuação apaixonada só se vê\nnos tokusatsu dessa era!",
     "EN": "Whew... Netarou-san was so cool.\nThat sort of passionate acting is something\nyou only see in the tokusatsu of that era!"
   },
   "8": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "E o fato de serem destinados a lutar um contra o outro, sejam ex-amigos e tal...\nÉ o tipo de drama de personagens que nunca se torna velho...",
     "EN": "And the fact that he's destined to fight against his former friend...\nIt's the type of character drama that just never gets old..."
   },
   "9": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Mas eu estava pensando...\nSe eu fosse transformada no maligno Kamen Writer, Shadow Noon...",
     "EN": "But I was thinking...\nIf I got turned into the evil Kamen Writer, Shadow Noon..."
   },
   "10": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "E então atacasse você... O que você faria?",
     "EN": "And then I attacked you... What would you do?"
   },
   "11": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Eu usaria minhas palavras para te convencer a parar!:option3;Eu te agarraria num abraço para te deter!:option4",
     "EN": "I'll use my words to convince you to stop!:option3;I'll wrap you up in my arms to stop you!:option4"
   },
   "12": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Isso, claro! Você acreditaria que suas palavras me alcançariam,\nque ainda estaria eu adormecida dentro do coração do Escritor do Mal,\ne me chamaria até o fim!",
     "EN": "Yes, of course! You'd believe that your words could reach me,\nthat I would be still lying dormant in the evil Writer's heart,\nand call out to me until the very end!"
   },
   "13": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eu sabia que você saberia como essa história vai, Gerente!\nQuando começar a próxima temporada de Kamen Writer, devemos assistir juntos!",
     "EN": "I knew you would know how it goes, Manager!\nWhen the next Kamen Writer season starts, we should watch it together!"
   },
   "14": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eeeh?! N-Não, você não pode fazer isso! De jeito nenhum!",
     "EN": "Hweh?! N-No, you can't do that! Absolutely not!"
   },
   "15": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "De acordo com o perfil oficial, os socos do Shadow Noon são\nmuito, MUITO mais fortes que os do BLANK! Você acabaria gravemente ferido!",
     "EN": "According to his official profile, Shadow Noon's punches are\nmuch, MUCH stronger than BLANK's! You'd get fatally wounded!"
   },
   "16": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "A-Além do mais, eu não...! Isso é só... Não!\nIsso é... IMPERDOÁVEL!",
     "EN": "B-Besides, I wouldn't...! That's just... No!\nIt's... UNFORGIVABLE!"
   },
   "17": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Nossa, é o Kamen Writer?\nOooh, eu não sabia que tinha um filme.",
     "EN": "Oh, hey, is that Kamen Writer?\nOooh, I didn't know they had a movie."
   },
   "18": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Hã?! Você assiste esse tipo de filme, Gerente?\nEntendi... Eu sequer assisti algo assim antes...",
     "EN": "Huh?! You watch this kinda movie, Manager?\nI see... I've never actually watched anything like this before..."
   },
   "19": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "É preciso, tipo, terminar a série da TV primeiro\nantes de assistir o filme, nesse tipo de coisa?",
     "EN": "Do you need to like, finish the TV series first\nbefore watching the movie for this kinda thing?"
   },
   "20": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Não precisa.:option5;IMPERDOÁVEL!:option6",
     "EN": "You don't have to.:option5;UNFORGIVABLE!:option6"
   },
   "21": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Aaah, tá. Acho que posso arriscar, então. Vamos assistir!",
     "EN": "Ohh, okay. Then I guess I could give it a shot. Let's watch it!"
   },
   "22": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Hã?! Pular a série original é TÃO grave assim?!\n...Ah, é uma fala do seriado? Argh, você me assustou~!",
     "EN": "Huh?! Is it THAT bad to skip the original?!\n...Oh, it's a line from the show? Geez, you scared me there~!"
   },
   "23": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Então você gostou mesmo desse seriado, né~? Isso faz com que\nqueira assistir com você ainda mais! Vamos, bora!",
     "EN": "So you really like this show then, huh~? That just makes me\nwanna watch it with you even more! C'mon, let's go!"
   },
   "24": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Uau, me empolguei bem mais do que eu achava...\nFoi até melhor do que eu esperava!",
     "EN": "Wow, I got way more into it than I thought I would...\nIt was even better than I expected!"
   },
   "25": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Mas os vilões eram, tipo, MUITO malignos...\nEles sequestravam crianças e as transformavam em monstros...",
     "EN": "But the bad guys were, like, REALLY evil...\nThey kidnapped children and turned them into monsters..."
   },
   "26": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Histórias assim te assustavam quando você era criança, Gerente?",
     "EN": "Did stories like this scare you when you were a kid, manager?"
   },
   "27": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Agora que você fala, era bem assustador...:option7;N-Não, nada!:option8",
     "EN": "Now that you mention it, it was pretty scary...:option7;N-Not at all!:option8"
   },
   "28": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Né mesmo? Eu me assustei, tipo, super uma vez\ncom um programa qualquer que estava na TV~!",
     "EN": "I know, right? I got, like, super scared once\nby a random show that just happened to be on TV~!"
   },
   "29": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ah, mas talvez agora que estou mais velha, não seja tão assustador.\nVou tentar achar o programa, então assiste comigo na próxima!",
     "EN": "Oh, but maybe now that I'm older, it won't be as scary.\nI'll try to find the show, so watch it with me next time!"
   },
   "30": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Encéé~? Não precisa fingir que é durão,\nque é só coisa do passado de qualquer jeito!",
     "EN": "Reeeally~? There's no need to act all tough,\nit's all in the past, anyway!"
   },
   "31": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Aposto que você não era fofo de criança, diferente de agora.\n...Hã? É, hoje você até que é um gatinho, e daí?",
     "EN": "I bet you weren't very cute as a kid, unlike now.\n...Hm? Yeah, you're pretty cute now, what about it?"
   },
   "32": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "E o que em você é fofo?\n...Hehe, isso obviamente é segredo! ☆",
     "EN": "What about you is cute?\n...Hehe, that's obviously a secret! ☆"
   },
   "33": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Entendo... então você aprecia épicos contos de heróis que se transformam...",
     "EN": "I see... so you enjoy epic tales of transforming heroes..."
   },
   "34": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Claro, não é como se eu os afastasse, eu mesma.\nHá algo nos design e nos golpes que evoca\nimagens de deuses e demônios e que ressoa com a minha alma.",
     "EN": "Of course, I don't dislike them, myself.\nThere's something about the designs and moves that evoke\nimagery of gods and demons that resonates with my soul."
   },
   "35": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "É sua intenção assistir isso agora?\nMuito bem... Se é o que deseja, eu vos acompanharei.",
     "EN": "Are you planning on watching this now?\nVery well then... If you insist, then I will accompany you."
   },
   "36": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Sim, por favor!:option9;IMPERDOÁVEL!:option10",
     "EN": "Yes, please do!:option9;UNFORGIVABLE!:option10"
   },
   "37": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Então, por favor, guie-me aos nossos assentos. Tome cuidado para que os demônios\nque habitam a escuridão não agarrem seus calcanhares, meu familiar.\n...Fufu... um encontro no cinema...",
     "EN": "Then please, lead me to our seats. Take care not to let the demons\nthat reside in the darkness take ahold of your ankles, familiar.\n...Fufu... a movie date..."
   },
   "38": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Aquilo é... uma fala dita por algum herói no seriado?\nEvidentemente, está gravada fundo em sua alma...",
     "EN": "Is that... a quote said by one of the heroes in the show?\nEvidently, it's been engraved deeply in your soul..."
   },
   "39": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Se é algo que você gosta tanto assim, então, como sua mestra,\ndevo conhecer mais sobre isso também. Muito bem, me guiará o caminho?",
     "EN": "If it's something you like that much, then as your master,\nI should learn more about it as well. Well then, will you lead the way?"
   },
   "40": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Fufu...O chute vermelho brilhante que perfurou o último demônio...\nEu senti as ondas de choque na minha própria alma...!",
     "EN": "Fufu... The glowing red kick that pierced the last fiend...\nI felt the shockwaves from it in my very soul...!"
   },
   "41": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Heróis que se transformam... Mais uma das muitas possibilidades\ntecidas no destino da grande Favna...",
     "EN": "Transforming heroes... Yet another one of many possibilities\nwoven into the fate of the great Favna..."
   },
   "42": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Ah! Será que você, secretamente,\nseria capaz de se transformar num Kamen Writer?!",
     "EN": "...Gasp! Could it be that you are secretly\ncapable of transforming into a Kamen Writer?!"
   },
   "43": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Como você descobriu...?!:option11;Infelizmente, não...:option12",
     "EN": "How did you know...?!:option11;Unfortunately, no...:option12"
   },
   "44": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "A-Adivinhei! O salvador guiado a mim pelo próprio destino\nnão era apenas meu familiar, mas também um herói...",
     "EN": "I-I knew it! The savior who was led to me by fate herself\nwas not only my familiar, but also a hero..."
   },
   "45": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Então vou aguardar ansiosa...\nPelo dia em que me mostrar—e apenas a mim—a sua verdadeira forma...",
     "EN": "I shall look forward to it, then...\nTo the day you show me—and only me—your true form..."
   },
   "46": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Fufu, eu sei. Cidadãos comuns, desprovidos de poderes, nos observam,\npor isso você não pode dizer a verdade, por mais que queira...",
     "EN": "Fufu, I know. Regular, powerless citizens are watching us,\nso you cannot speak the truth, no matter how much you want to..."
   },
   "47": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Mas aguardo ansiosa...\nPelo dia em que me mostrar—e apenas a mim—a sua verdadeira forma...",
     "EN": "But I shall look forward to it...\nTo the day you show me—and only me—your true form..."
   },
   "48": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, o Kamen Writer me dá nostalgia.\nEu não sabia que eles ainda existiam.",
     "EN": "Ohh, Kamen Writer really takes me back.\nI didn't know they were still around."
   },
   "49": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Eu sei que garotos amam esse tipo de coisa, né, Gerente?\nNa verdade, até curto eles, então se você quiser assistir, bora!",
     "EN": "I know boys love this sorta thing, right, Manager?\nI kinda like 'em too, actually, so if you wanna watch it, let's go in!"
   },
   "50": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Não conheço o original, mas tokusatsu é sobre a ação maneirona, né?\nVou aproveitar bem mesmo sem entender a história!",
     "EN": "I dunno the original, but tokusatsu's all about the cool action, right?\nI should enjoy it just fine even if I can't understand the story!"
   },
   "51": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "É, vai ser divertido!:option13;IMPERDOÁVEL!:option14",
     "EN": "Yeah, it'll be fun!:option13;UNFORGIVABLE!:option14"
   },
   "52": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "O importante é você se divertir, viu?\nVamos logo, o que você tá esperando?",
     "EN": "As long as ya have fun, y'know?\nC'mon then, what're ya waitin' for?"
   },
   "53": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Haaaa...? Quer dizer que eu deveria levar a sério e assistir a série antes?\nIxe, os fãs de tokusatsu são sempre tão insistentes...",
     "EN": "Huhhh...? Ya mean I should take it seriously and watch the show first?\nSheesh, tokusatsu fans are always so insistent..."
   },
   "54": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Então, que tal me contar tudiiiinho depois do filme?\nTá? Tá! Bora, então!",
     "EN": "Then how 'bout you tell me aaall about it after the movie?\nOkay? Okay! C'mon then!"
   },
   "55": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Uau, ficou melhor até do que eu esperava...\nDeu pra sentir a paixão e o esforço que foi fazer isso.",
     "EN": "Wow, that was even better than I was expectin'...\nI could feel the passion and hard work that must've went into it."
   },
   "56": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Mas a melhor parte de todas...\nfoi a sua cara, com os olhos grudados na tela!",
     "EN": "But the best part of it all...\nwas your face when your eyes were totally glued to the screen!"
   },
   "57": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Quando o Kamen Writer estava em apuros, deu até pra ouvir você engolir seco de expectativa!\nO seu amor pelo seriado apareceu ali mesmo.",
     "EN": "When Kamen Writer was in danger, I could even hear ya gulp in anticipation!\nYour love for the show really showed there."
   },
   "58": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "I-Isso dá uma vergonha...:option15;A-assista o filme, não a mim!:option16",
     "EN": "Th-That's embarrassing...:option15;W-Watch the movie, not me!:option16"
   },
   "59": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ahaha! Não deve nada a ninguém.\nFoi divertido demais de ver!",
     "EN": "Ahaha! There's nothin' to be embarrassed about.\nIt was really fun to watch!"
   },
   "60": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "A partir de agora, você me conta mais sobre\nas coisas que você gosta? Por favor?",
     "EN": "Could ya tell me more about the things ya like\nfrom here on out? Please?"
   },
   "61": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "É, é, entendi você. Claro que eu assisti o filme!\nEle foi um banquete de verdade pra vista!",
     "EN": "Yeah, yeah, I hear ya. Of course I watched the movie!\nIt was a real feast for the eyes!"
   },
   "62": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Mal posso esperar pra ver sua cara quando você assistir outros filmes! Hehe!",
     "EN": "I can't wait to see how ya look when ya watch other movies! Hehe!"
   },
   "63": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ah! Não é aquele filme que passa sempre na TV?\nO do carro maneiro e da máquina do tempo!",
     "EN": "Oh! Don't they show this movie on TV all the time?\nIt's the one with the cool car and time machine!"
   },
   "64": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ehehe... Sabe, eu nunca de fato assisti ele do começo ao fim...\nAchava que seria difícil de entender, por ser sobre viagem no tempo...",
     "EN": "Ehehe... You know, I've never actually watched it all the way through...\nI thought it'd be hard to understand, since it's about time travel and all..."
   },
   "65": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Mas é um dos filmes mais conhecidos de todos os tempos, então deve ser bom...\nSerá que alguém que não entende nada de ficção científica consegue curtir?",
     "EN": "But it's one of the most well-known movies ever, so it must be good...\nI wonder if someone who doesn't know anything about sci-fi can still enjoy it?"
   },
   "66": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Claro, é um filme bem leve!:option17;Não parece, mas pesa!:option18",
     "EN": "Of course, it's a lighthearted movie!:option17;It may not look like it, but it's heavy!:option18"
   },
   "67": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "É mesmo? Então, já que estamos aqui,\nque tal aproveitar pra assisti-lo direito!",
     "EN": "Really? Then since we're already here,\nmaybe I'll take the chance to watch it properly!"
   },
   "68": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ué, sério? Então você me explica depois, por favor?",
     "EN": "Wait, really? Then could you please explain it to me afterwards?"
   },
   "69": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Uuuuaaa... Que filme bom demais!",
     "EN": "Whooooa... That was such a good movie!"
   },
   "70": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Na hora em que o relâmpago bateu JUSTO quando eles recuperavam os dados...\nEu fiquei na pontinha do assento até o fim!",
     "EN": "When the lightning struck JUST as they recovered the data...\nI was on the edge of my seat until the end!"
   },
   "71": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Mas no final, o Murphy e o Dog puderam sair na máquina do tempo consertada...",
     "EN": "But at the end, both Murphy and Dog left in the repaired time machine..."
   },
   "72": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Gerente, se máquinas do tempo existissem de verdade,\nvocê iria pro passado ou pro futuro?",
     "EN": "Manager, if time machines were real,\nwould you go to the past or the future?"
   },
   "73": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Pro futuro, óbvio.:option19;Pro passado, óbvio.:option20",
     "EN": "The future, of course.:option19;The past, of course.:option20"
   },
   "74": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eu, também! Ia tentar descobrir se aquele anime ou filme ganharia continuação,\nou o final daquele mangá... ou se aquele programa um dia sai de verdade...!",
     "EN": "Yes, me too! I'd try to find out if that anime or movie gets a sequel,\nor the ending to that manga... or if that show really comes out some day...!"
   },
   "75": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Se você um dia for pro futuro, me conta\ntudo sobre os animes que virão! Em segredo!",
     "EN": "If you ever go to the future, please tell me\nall about the anime to come! In secret!"
   },
   "76": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Esse aí também parece ótimo! Mangás que ficaram esgotados,\nmerch que não dá pra achar mais... Eu amaria colecionar tudo!",
     "EN": "That sounds great too! Manga that's gone out of print,\nmerch that's become unavailable... I'd love to collect them all!"
   },
   "77": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "T-Tem uma merch de edição limitada que perdi há muito tempo...\nSe você um dia conseguir ir pro passado, me leve com você!",
     "EN": "Th-There's a piece of limited edition merch I missed a long time ago...\nIf you ever get to go to the past, please take me with you!"
   },
   "78": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ah, esse filme é ótimo~! Ele sempre me segura\nassistindo até o final quando passa na TV!",
     "EN": "Oh, this is a great movie~! I always end up\nwatching until the end whenever it airs on TV!"
   },
   "79": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "É incrível como alguns filmes são tão bons que a gente não consegue\nparar de assistir, mesmo já sabendo o enredo!\nSei lá, talvez o ritmo seja bom demais ou algo assim...",
     "EN": "It's amazing how some movies are so good that you can't help\nbut keep watching, even if you already know the plot!\nI dunno, maybe the pacing is just that good or something..."
   },
   "80": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ué, você já viu esse filme, Gerente?",
     "EN": "Wait, have you watched this movie before, Manager?"
   },
   "81": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Sim, claro!:option21;Na verdade, não...:option22",
     "EN": "Of course I have!:option21;Actually, I haven't...:option22"
   },
   "82": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Já imaginei~! Ah, mas eu nunca assisti num cinema antes...\nEntão, bora assistir juntos!",
     "EN": "Yeah, I figured~! Oh, but I've never watched it in a theater before...\nAll right then, let's go watch it together!"
   },
   "83": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "A parte final da torre do relógio deve ficar uma locura na tela grande!\nMeu DEUS, já estou muito animada, e eu sei exatamente o que acontece!",
     "EN": "The last part with the clock tower must be so cool to watch on the big screen!\nOMG, I'm already getting so excited even though I know exactly what happens!"
   },
   "84": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ué, sério?! Então você é sortudão! Nem acredito que\nvocê vai assistir esse pela primeira vez num cinema!\nTô de taaaanta inveja!",
     "EN": "Wait, seriously?! Then you're SO lucky! I can't believe\nyou'll be watching this for the first time in a theater!\nI'm soooo jealous!"
   },
   "85": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Vamos assistir juntos! Ahhh não, preciso tomar cuidado\npra não dar spoiler... Vou tentar ficar quieta, prometo! Bora!",
     "EN": "Let's watch it together! Ohhh nooo, I gotta be careful\nnot to spoil you... I'll try to stay quiet, I prommy! C'mon!"
   },
   "86": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Uau! Ele é absurdamente bom, não importa quantas vezes eu veja!\nA cena da torre do relógio sempre me deixa ansiosa!",
     "EN": "Wow! It's really such a good movie, no matter how many times I see it!\nThe clock tower scene always gets me so anxious!"
   },
   "87": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Aliás, você trabalhou num lugar bem tóxico antes de\nchegar no Fuwa Fuwa, né? Se você, tipo, tivesse a chance de voltar pro passado...",
     "EN": "By the way, didn't you use to work in a super toxic workplace before\ncoming to Fuwa Fuwa? If you, like, got the chance to go back to the past..."
   },
   "88": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Você acha que contaria pro seu eu do passado,\n\"Faça o que fizer, NÃO se candidate àquela empresa!\"\nalgo como isso?",
     "EN": "Do you think you'd tell your past self,\n\"No matter what you do, do NOT apply to that company!\"\nor something like that?"
   },
   "89": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Se interferir no passado, o futuro muda e resulta num paradoxo temporal!:option;Na verdade, talvez eu conte...:option24",
     "EN": "If I interfere with the past, the future would change, causing a time paradox!:option;Actually, I might...:option24"
   },
   "90": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "É, esse é o problema do paradoxo, né?\nNão seria justo se a gente pudesse recomeçar!",
     "EN": "Yeah, that's the problem, huh?\nIt wouldn't be fair if you could start over!"
   },
   "91": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Aliás, se você mudasse o passado, talvez acabarasse\ndando jeito de nunca nos encontrarmos! Então é melhor não fazer isso!",
     "EN": "Besides, if you changed the past, you might end up making it\nso we never meet or something! So you'd better not do that!"
   },
   "92": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Nossa... O seu antigo trabalho devia ser horrível mesmo... Coitadinho...",
     "EN": "Wow... Your old workplace must've really sucked... There, there..."
   },
   "93": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Mas é, esse passado foi o que te trouxe até o nosso café, né?\nAntes de mudar, vale pensar bem duas vezes!",
     "EN": "But hey, that's the past that led you to our cafe, right?\nYou might wanna think twice about changing it!"
   },
   "94": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Hmm... Uma aventura de viajar ao passado para alterar o futuro...\nSempre tive curiosidade com esse aqui.",
     "EN": "Hmm... An adventure about travelling to the past to alter the future...\nI've always been curious about this one."
   },
   "95": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Como conseguirão manejar o poder da manipulação do tempo,\nalgo geralmente vedado e além do alcance humano...?\nFufu, que intrigante.",
     "EN": "How will they utilize the power of time manipulation,\nsomething normally forbidden and beyond human reach...?\nFufu, how intriguing."
   },
   "96": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Ah, mas ele é bem famoso, então... talvez você já tenha assistido?\nSe assim for, então... talvez seja tedioso assisti-lo de novo...",
     "EN": "Oh, but it's quite well-known, so... maybe you've already watched it?\nIf you have, then... maybe you would be bored if you watch it again..."
   },
   "97": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "É um filme divertido de ver em todas as vezes!:option25;Seria a minha primeira vez assistindo com outra pessoa.:option26;",
     "EN": "It's a movie that's fun every time!:option25;It'd be my first time watching with someone else.:option26;"
   },
   "98": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Hmm, que elogio tão grande... Mas creio que o fato de ser exibido\nrepetidamente é prova de sua qualidade exuberante, até nas reexibições.",
     "EN": "Hmm, that's quite the high praise... But I suppose the fact that it's being shown\nagain and again is proof of its excellent quality, even upon repeated viewings."
   },
   "99": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Nesse caso, a grande Favna descobrirá a fonte de\nseu poder de cativar as massas... Guie o caminho, meu familiar!",
     "EN": "If so, then the great Favna shall find out the source of\nits power to captivate the masses... Lead the way, my familiar!"
   },
   "100": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "A-Ah, é mesmo?! E-Então isso também é obra do destino.\nConcedo-lhe a honra de me acompanhar na minha primeira exibição desta lenda!",
     "EN": "O-Oh, is that so?! Th-Then this, too, must be fate.\nI will allow you to accompany me on my first viewing of this legendary tale!"
   },
   "101": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "A grande Favna será a juíza, e examinará o peso\ndo pecado da manipulação do tempo! Agora, meu familiar, guie o caminho!\n...Eheheh.",
     "EN": "The great Favna will be the judge, and examine the weight\nof the sin of time manipulation! Now, my familiar, lead the way!\n...Eheheh."
   },
   "102": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Uau... Que emocionante...!\nAh, não, digo... Percebi... Que história aterrorizante.",
     "EN": "Wow... That was so exciting...!\nAh, no, I mean... I see... What a frightening tale."
   },
   "103": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Mudando os próprios destinos com as próprias ações...\nA amizade dos dois bravos aventureiros foi bastante comovente.",
     "EN": "Changing their own fates with their own actions...\nThe friendship between the two brave adventurers was quite compelling."
   },
   "104": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "A propósito... Q-Que acha?\nAcha que até um destino gravado em pedra pode ser mudado?",
     "EN": "By the way... Wh-What do you think?\nDo you think even fate that's set in stone can be changed?"
   },
   "105": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Acho que o destino pode ser mudado.:option27;Acho que há coisas que nunca podem mudar.:option28",
     "EN": "I think fate can be changed.:option27;I think there are things that can never be changed.:option28"
   },
   "106": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "S-Sim, talvez seja. Talvez seja possível girar as engrenagens do destino\ncom determinação suficiente, exatamente como os aventureiros do filme...",
     "EN": "Y-Yes, maybe so. Perhaps it is possible to turn the gears of fate\nwith enough determination, just like the adventurers in the movie..."
   },
   "107": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Contudo, não se esqueça de que existem coisas que você não mexeria...\nNão... que existem coisas que meros humanos jamais conseguem mudar de verdade...",
     "EN": "However, don't forget that there are things that you wouldn't want to change...\nNo, that there are things mere humans can never change in a way that matters..."
   },
   "108": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "S-Sim, isso mesmo! O fato de você estar destinado a\nse tornar meu familiar jamais mudará, não importa o que aconteça!",
     "EN": "Y-Yes, that's right! The fact that you're destined to\nbecome my familiar will never change, no matter what!"
   },
   "109": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Enquanto você tiver a prova do nosso pacto,\npor mais tempo que passe, nós com certeza... Fufu...",
     "EN": "As long as you have the proof of our pact,\nno matter how much time passes, we will surely... Fufu..."
   },
   "110": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, é o BFF. Tão passando uma reprise aqui?\nDevia ser bem divertido ver na tela grande!",
     "EN": "Oh hey, it's BFF. They're doin' a rerun here?\nIt'd be fun to watch that on the big screen!"
   },
   "111": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Você já sabia? O BFF tem uma trama e uma estrutura tão fortes que dizem\nque é uma das melhores formas de aprender a construir um mangá!",
     "EN": "Did ya know? BFF has such a strong plot and structure that they\nsay it's one of the best ways to learn manga storytelling!"
   },
   "112": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E é verdade! Quando assisti na TV, tinha cenas que me faziam pensar,\n\"Aah! Não vi isso vindo!\" O que você acha, Gerente?",
     "EN": "And it's true! When I watched it on TV, there were scenes that made me go,\n\"Ohh! I didn't see that comin'!\" What do ya think, Manager?"
   },
   "113": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Acho que ele é, na real, muito bem-feito.:option29;Na verdade, nunca assisti...:option30",
     "EN": "I think it's really well-made.:option29;I've actually never watched it before...:option30"
   },
   "114": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Nisso você tem razão. Ele tem o equilíbrio perfeito entre comédia e drama...\nSeria uma ótima referência pro mangá que estou desenvolvendo.",
     "EN": "You're right about that. It's got the perfect balance between comedy and drama...\nIt'd be a great reference for the manga I've been comin' up with."
   },
   "115": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Beleza então! Vamos assistir juntos!\nE depois quero que você participe de um brainstorm comigo!",
     "EN": "All right then! Let's watch it together!\nAnd then I'll have ya brainstorm with me afterwards!"
   },
   "116": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Hãaaa?! Jura? Não achava que existisse gente que NUNCA tivesse\nassistido... Ah, mas ele É bem antigo, e nem todo mundo curte filmes, então...",
     "EN": "Huhhhh?! Really? I didn't think there'd be anyone who'd NEVER watched it\nbefore... Oh, but it IS pretty old, and not everyone likes movies, so..."
   },
   "117": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Beleza, então, depois te explico todinho se precisar! Vamos entrar!",
     "EN": "All right then, I'll explain everythin' to ya afterwards if you need it! Let's go in!"
   },
   "118": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Hoo, ficou ótimo~! Mesmo sabendo o que ia acontecer,\nver na tela grande é bem diferente, e tudo fica super impressionante.",
     "EN": "Hoo, that was great~! Even though I already knew what would happen,\nseein' it on the big screen feels so different, and everythin' looks so impressive."
   },
   "119": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Também foi a primeira vez que assisti com outra pessoa...\nAh, e aí, imagina uma coisinha, Gerente.",
     "EN": "It was the first time I watched it with someone else too...\nOh right, imagine this for a minute, Manager."
   },
   "120": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Se você voltasse no tempo e se apaixonasse por\numa garota fofa do passado... O que você faria?",
     "EN": "If ya went back in time and fell in love with\na cute girl from the past... What would you do?"
   },
   "121": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Você ficaria no passado pra ficar com ela,\nou acharia um jeito de voltar pro seu próprio tempo?",
     "EN": "Would ya stay in the past to be with her,\nor find a way to go back to your own time?"
   },
   "122": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Eu ficaria no passado pra ficar com ela.:option31;Eu acharia um jeito de voltar pro meu próprio tempo.",
     "EN": "I'd stay in the past to be with her.:option31;I'd find a way to go back to my own time."
   },
   "123": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ooooh, sério? Você jogaria sua vida moderninha fora,\nsó pela garota dos seus sonhos...? Que romântico!",
     "EN": "Ohhh, really? You'd throw away your modern life\njust for the girl of your dreams...? How romantic!"
   },
   "124": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, mas se você fizer isso... Eu e as outras garotas ficaríamos tristes com a sua ausência,\npor isso ficaríamos felizes se você encerrasse o caso depois de um tempo... Brincadeira.",
     "EN": "Oh, but if ya do that... I and the other girls would be sad that you're gone,\nso we'd be happy if ya could cut her off after a while... Just kiddin'."
   },
   "125": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "É-É, foi assim que imaginei!\nAfinal, o Fuwa Fuwa acabou de voltar aos trilhos!",
     "EN": "Y-Yeah, that's what I thought!\nFuwa Fuwa's just gotten back on track, after all!"
   },
   "126": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah! Mas se essa garota for FOFA demais, você poderia trazê-la\ne deixar ela voltar a trabalhar de maid no nosso café... Hihi! Que pegador!",
     "EN": "Oh! But if that girl is REALLY cute, ya could bring her back\nand let her be a maid at our cafe too... Hoo hoo! What a ladykiller!"
   },
   "127": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "A hora finalmente chegou! O maior blockbuster de monstro gigante de todos,\ndirigido pelo célebre Annouji e cheio de amor e respeito\npelo gênero tokusatsu!",
     "EN": "It's finally here! The biggest kaijuu blockbuster ever,\ndirected by THE Annouji and filled with love and respect\ntowards the tokusatsu genre!"
   },
   "128": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eu não lembro muito da série original,\nsó de meu pai alugando as fitas dela\npara assistir comigo quando eu era pequena...",
     "EN": "I don't remember much about the original series\nother than how my dad used to rent tapes of it\nand watch them with me when I was little..."
   },
   "129": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "E você, Gerente? Gosta de filmes de monstro gigante?",
     "EN": "How about you, Manager? Do you like kaijuu movies?"
   },
   "130": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Monstros gigantes são demais!:option33;Não assisto muito, parecem dar medo...:option34",
     "EN": "Giant monsters are the coolest!:option33;I haven't watched much, they look scary...:option34"
   },
   "131": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Né? E ver como nós humanos, pequenos e insignificantes, tentamos enfrentá-los...\nTentando descobrir se são aliados ou inimigos... é o melhor de tudo!",
     "EN": "I know, right? And seeing how we small, insignificant humans try to\nfight against them... Trying to figure out if they're friend or foe... it's the coolest!"
   },
   "132": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Vamos logo, enfrente o Gojida enquanto ele causa o caos na tela grande!",
     "EN": "Come on, let's fight Gojida as it wreaks havoc on the big screen!"
   },
   "133": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "A-Agora que você mencionou, várias das versões internacionais\nsão filmes de desastre ou de terror...",
     "EN": "N-Now that you mention it, a lot of the overseas versions\nare disaster or horror films..."
   },
   "134": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "M-Mas esse aqui é 100% feito no Japão!\nEntão pode deixar que dá tudo certo! B-Bora...!",
     "EN": "B-But this one is made in Japan through and through!\nSo it should be fine! L-Let's gooo...!"
   },
   "135": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Uau... Bem quando você acha que o governo jogou tudo\nque tinha contra o Gojida e finalmente o derrotou, aquele final... Aquele final...!",
     "EN": "Whoa... Just when you think the government threw everything\nthey had at Gojida and finally defeated it, that ending... That ending...!"
   },
   "136": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Isso pode significar que vem aí uma continuação, Gerente!",
     "EN": "This might mean a sequel is coming, Manager!"
   },
   "137": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Então vamos assistir juntos quando ela sair.:optoin35;Não, esse diretor adora anunciar sequências e não fazer...!:option36",
     "EN": "Let's watch that together when it comes out then.:optoin35;No, that director loves teasing sequels and not making them...!:option36"
   },
   "138": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Sim, claro!",
     "EN": "Yes, of course!"
   },
   "139": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "E se vamos fazer isso, devemos assistir\naos filmes originais do Gojida também antes da continuação!",
     "EN": "And if we're going to do that, we should watch\nthe original Gojida movies too before the sequel!"
   },
   "140": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Entendi... Talvez tenha deixado em aberto de propósito...\nIsso também soa possível!",
     "EN": "I see... Maybe he left it open to interpretation on purpose...\nThat sounds possible, too!"
   },
   "141": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eu amaria saber como você interpreta aquele final, Gerente!\nAh, mas podemos assistir só mais uma vez antes?!",
     "EN": "I'd love to know how you interpret that ending, Manager!\nOh, but could we watch it one more time first?!"
   },
   "142": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ah, é o Gojida! Esse é dos antigos ou dos mais novos?",
     "EN": "Oh hey, it's Gojida! Is this one of the old ones or a newer one?"
   },
   "143": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Hã?! Esse acabou de SAIR? Oooh... Ele parece um pouco,\nsei lá, mais intimidador do que os fantasminhas de borracha de antigamente!",
     "EN": "Huh?! This JUST came out? Oooh... It looks a little,\nI dunno, more intimidating than the suits did back then!"
   },
   "144": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Quero assistir também! É, tipo, um filme de desastre, né?\nPreciso saber algo dos filmes antigos pra assistir esse?",
     "EN": "I wanna watch it toooo! It's, like, a disaster film, right?\nDo I need to know anything about the old movies to watch this?"
   },
   "145": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Não, vai dar tudo certo!:option37;Mas esse é um filme do Annouji, tá combinado?:option38",
     "EN": "No, you'll be fine!:option37;But this is an Annouji movie, is that okay?:option38"
   },
   "146": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Já imaginei~! Então vou comprar pipoca e bebidas.\nEsse parece ser o filme perfeito pra isso!",
     "EN": "Yeah, I figured~! Then I'll go buy some popcorn and drinks.\nThis looks like the perfect movie for that!"
   },
   "147": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Uai, quem? É um diretor famoso?\n...Aaah, lembrei! Ele é o cara de Nevergelion!",
     "EN": "Wait, who? Is he a famous director?\n...Ohh, I remember! He's the Nevergelion guy!"
   },
   "148": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Aquele filme era super misterioso e cheio de suspense.\nE agora ele fez um filme de monstro gigante? Como seria isso...?\n...Agora fiquei ainda mais curiosa. Vamos assistir!",
     "EN": "That movie was real mysterious and full of suspense.\nAnd now he's made a kaijuu flick? What would that look like...?\n...Now I'm even more curious. Let's watch it!"
   },
   "149": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Uau... Consegui me manter focada durante o filme inteiro...\nEu não sabia que filmes de monstro gigante eram tão bons!",
     "EN": "Wow... I managed to stay focused throughout the entire movie...\nI didn't know kaijuu movies were so good!"
   },
   "150": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Sabe quando o Gojida veio pro continente, e pisou justamente no pedaço da cidade\nonde fica o Fuwa Fuwa e destruiu tudo? Peguei a mim mesma procurando o café!",
     "EN": "You know when Gojida came ashore, and he stepped on the part of town\nFuwa Fuwa's in and totally wrecked it? I caught myself looking for the cafe!"
   },
   "151": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Mas o que você faria se acontecesse algo assim, Gerente?\nSe mandassem você deixar o café para trás e fugir do Gojida...",
     "EN": "But what would you do if that happened, Manager?\nIf you were told to leave the cafe behind and hide from Gojida..."
   },
   "152": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Eu morreria junto com o café...!:option39;Eu usaria o Canhão Secreto da Rua Elétrica para parar o Gojida!:option40",
     "EN": "I'll die alongside the cafe...!:option39;I'll use the secret Electric Street Cannon to stop Gojida!:option40"
   },
   "153": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Nãooooo, você não pode fazer isso! Você tem que fugir com a gente!\nEu vou ficar brava se você jogar sua vida fora desse jeito!",
     "EN": "Nooooo, you can't do that! You have to run away with us!\nI'll get mad if you throw your life away like that!"
   },
   "154": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Se todos nós sobrevivermos, podemos construir tudo de novo em outro lugar!\nNum momento desses, sua vida vale mais que tudo!\n...C-Claro que estou falando, tipo, de forma hipotética! É só uma história!",
     "EN": "As long as we all survive, we could start over somewhere else!\nYou should put your life above everything else at a time like this!\n...O-Of course I'm just talking like, hypothetically! It's just a story!"
   },
   "155": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ahaha! Caramba, isso soou até que crível por algum motivo!\nAs lojas daqui de perto com certeza têm alguma arma secreta!",
     "EN": "Ahahaha! OMG, that sounds so plausible for some reason!\nThe shops around here definitely have some kinda secret weapon!"
   },
   "156": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Mas é, daria divertido lutar de volta ao lado de todo mundo!\nVamos assistir mais um filme de monstro gigante juntos quando sair outro!",
     "EN": "But yeah, it'd be fun to fight back with everyone else!\nLet's watch another kaijuu movie together when one comes out!"
   },
   "157": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "V-Você deseja ver este filme...?\nO Dragão da Destruição do Fim do Mundo, que esmaga a humanidade...?",
     "EN": "Y-You wish to watch this movie...?\nThe Doomsday Dragon of Destruction who tramples upon mankind...?"
   },
   "158": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E-Eu vi o dragão uma vez, quando eu era só uma criança,\nna T—hum, na Caixa Fantasmagórica... E era uma coisa aterrorizante de se ver...",
     "EN": "I-I have seen the dragon once, when I was but a young child,\non the T—uh, the Phantasmic Box... And it was a terrifying thing to behold..."
   },
   "159": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E-Eu preferia não presenciar a morte de incontáveis pessoas...\nPrecisamos, ahn, assistir isso juntos mesmo...?",
     "EN": "I-I would prefer not to witness the deaths of countless people...\nDo we, um, have to watch this together...?"
   },
   "160": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Não vai ser tão assustador se assistirmos juntos.:opton41;Então talvez eu deva entrar sozinho.:option42",
     "EN": "It won't be so scary if we watch together.:opton41;Then maybe I should go in by myself.:option42"
   },
   "161": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "V-Você tem certeza...? Muito bem, se esse for nosso destino,\na grande Favna o acompanhará nesta missão...!",
     "EN": "A-Are you sure...? Well then, if this is our fate,\nthe great Favna shall accompany you on this quest...!"
   },
   "162": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "M-Mas eu agradeceria se você pudesse... hum...\nSe pudesse, talvez, quem sabe, segurar a minha mão...\nquando ficar assustador...? Por favor...?",
     "EN": "B-But I would appreciate if you could... um...\nIf you could maybe possibly hold my hand...\nwhen it gets scary...? Please...?"
   },
   "163": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "I-Isso é ainda pior...! É seu dever, como\nmeu familiar, ficar ao meu lado a todo momento...!",
     "EN": "Th-That's even worse...! It is your duty as\nmy familiar to stay by my side at all times...!"
   },
   "164": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Suponho que não me restou escolha senão acompanhá-lo, só esta vez...\nMas na próxima, você vai seguir A MINHA escolha. Entendido...?",
     "EN": "I suppose I have no choice but to accompany you, just this once...\nBut next time, you will adhere to MY choice. Understood...?"
   },
   "165": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Acabou... Aqueles mortaizinhos enfrentaram sua ruína\ncom todo o conhecimento humano... Comovente...!",
     "EN": "...It's over... Those puny mortals stood up to their doom\nwith the full extent of human knowledge... How moving...!"
   },
   "166": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Ah, hum... Aquela cena em que o terrível feixe de luz do dragão\narrasou uma cidade até o chão... foi horroroso de assistir...",
     "EN": "Oh, um... That scene where the dragon's terrible beam of light\nrazed a town to the ground... It was truly horrifying to watch..."
   },
   "167": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...E então acho que eu... acho que apertei\na sua mão bem forte... D-Doeu...?",
     "EN": "...And so I think I... I probably gripped\nyour hand very tightly... D-Did it hurt...?"
   },
   "168": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Fico feliz só de saber que pude deixar você menos assustada.:option43;Vamos segurar as mãos de novo no próximo filme de monstro gigante.:option44",
     "EN": "I'm just glad I could help you feel less scared.:option43;Let's hold hands again next time we watch a kaijuu movie.:option44"
   },
   "169": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "S-Sim... Foi graças a você... que pude assistir\naté o fim sem chorar... O-Obrigada...",
     "EN": "Y-Yes... It was thanks to you... that I could watch\nuntil the end without crying... Th-Thank you..."
   },
   "170": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Na próxima...? C-Certo! É claro!\nFicarei bem, contanto que esteja comigo meu familiar.",
     "EN": "Next time...? R-Right! Of course!\nI will be fine as long as I have my familiar by my side."
   },
   "171": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "M-Mas acho... que seria melhor... se pudermos\nassistir algo... que não seja tão assustador na próxima...",
     "EN": "B-But I think... it would be better... if we could\nwatch something that's... not so scary next time..."
   },
   "172": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Iiii, é o Gojida. Ele anda com uma carona bem dura hoje, né...",
     "EN": "Ooh, Gojida. He's got a real mean look nowadays, huh..."
   },
   "173": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Vai dar pra assistir este, Gerente? Não me incomoda, mas...\nFufu, só não crie muita expectativa, tá bom?",
     "EN": "Are we watchin' this, Manager? I don't mind, but...\nFufu, just don't get ya hopes up, all right?"
   },
   "174": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Aposto que você tá mais empolgado pra me ver levar susto e gritar\n\"Kyaaaa!\" agarrando a sua mão do que no próprio filme, né não?",
     "EN": "I bet you're lookin' forward to me gettin' scared and going \"Kyaaaa!\"\nwhile grippin' your hand more than the actual movie, ain'tcha?"
   },
   "175": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Opss, azar o seu! Não me assusto nem um pouquinho quando é ficção!\nDesculpa te decepcionar!",
     "EN": "Well, too bad! I'm not scared one bit as long as it's fictional!\nSorry to disappointed ya!"
   },
   "176": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Que decepção...:option45;Podia até ser que seja eu quem segure a sua mão...:option46",
     "EN": "I'm so disappointed...:option45;I might actually be the one gripping your hand...:option46"
   },
   "177": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ahaha! Uff, não fica com essa cara triste.\nVamos só aproveitar o filme!",
     "EN": "Ahaha! Aw, don't look so sad.\nLet's just enjoy the movie!"
   },
   "178": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Já faz um baita tempo que não vejo um filme de monstro, e é... a minha\nprimeira vez assistindo com outra pessoa. Isso é meio empolgante!",
     "EN": "I haven't watched a kaijuu movie in a looong time, and it's... my\nfirst time watchin' with someone else. This is kinda excitin'!"
   },
   "179": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Hã?! E o que eu faria se você\nse transformasse numa donzela indefesa diante de mim?!",
     "EN": "Huh?! What am I supposed to do if ya\ngo all helpless maiden on me?!"
   },
   "180": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "V-Vai, assiste o filme normalmente, você já é crescido o suficiente pra isso...\nEu não saberia o que fazer...! E-Enfim, vá!",
     "EN": "J-Just watch the movie normally, you're grown-up enough to do that...\nI wouldn't know what to do...! A-Anyway, let's go!"
   },
   "181": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ufa, isso foi legal!",
     "EN": "Whew, that was cool!"
   },
   "182": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Os filmes antigos eram mais assim... \"Um homem e uma mulher,\nnuma cidade sob o ataque do monstro!\" e tal,\nmas curti como esse aqui foi uma briga total e direta contra o Gojida, sem enrolação.",
     "EN": "The old movies were more like... \"A man and woman,\ntrapped in a town under the kaijuu's attack!\" and stuff,\nbut I liked how this one was an all-out, no-nonsense fight against Gojida."
   },
   "183": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, mas o que você acha, Gerente?\nVocê curte filmes mais se tiver romance neles?",
     "EN": "Oh, but what do ya think, Manager?\nDo ya like movies more if they have romantic stuff in 'em?"
   },
   "184": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Na verdade, me deixa um pouco constrangido...:option47;Bora de cenas quentes!:option48",
     "EN": "It makes me feel a little uncomfortable, actually...:option47;Bring on the steamy scenes!:option48"
   },
   "185": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, é, eu também... Fico com o coração acelerado\ne aí não consigo focar na história real.",
     "EN": "Oh, yeah, me too... It makes my heart race\nand then I can't focus on the actual story."
   },
   "186": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Principalmente com você sentado bem ao meu lado, começo a me projetar nos\npersonagens e— Aii, espera, não, não é por AÍ...",
     "EN": "Especially when you're sittin' right next to me, I start projectin'\nonto the characters and— Uhh, wait, no, it's not like THAT..."
   },
   "187": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Uau, nenhum pingo de vergonha.\nT-Tá, talvez seja assim que são os homens...\nNão é como se você conseguisse evitar esse interesse...",
     "EN": "Whoa, no shame at all.\nW-Well, maybe that's just how men are...\nIt's not like ya can help bein' interested..."
   },
   "188": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Mas, hum... Você poderia escolher algo mais levinho se for assistir comigo?\n...Não quero que meu coraçãozinho entre em overdrive...!",
     "EN": "But, um... Could ya pick somethin' milder if you're watchin' with me?\n...I don't want my poor heart to go into overdrive...!"
   },
   "189": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ah, você acompanha essa série, Gerente?",
     "EN": "Oh, do you follow this series, Manager?"
   },
   "190": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Sempre me interessei pelo Cast Iron Skillet Man,\nporque o figurino é maneiro e o ator também é bem estiloso...",
     "EN": "I've always been a little interested in Cast Iron Skillet Man,\nsince the suit looks cool and his actor's also pretty dapper..."
   },
   "191": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Mas a série tem tantas entradas diferentes\nque não faço ideia qual é qual... Ainda dá pra curtir esse filme\nmesmo sem saber nada da série como um todo...?",
     "EN": "But there's just so many different entries in the series,\nI have no idea which is which... Can I still enjoy this movie\nif I don't know anything about the series as a whole...?"
   },
   "192": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Vai pela regra do cool!:option49;Você provavelmente curtiria mais assim.:option50",
     "EN": "Just go by the rule of cool!:option49;You'd probably enjoy it more if you did.:option50"
   },
   "193": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "S-Isso! Não há nada de errado em conhecer a série\ncomeçando pela ação legal e pelos efeitos digitais!",
     "EN": "R-Right! There's nothing wrong with getting into the series\nstarting with the cool action and CGI!"
   },
   "194": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Bom, então eu quero assistir esse também, Gerente!\nUau... Espero que o Cast Iron Skillet Man tenha várias cenas de luta legais...!",
     "EN": "Well then, I want to watch this too, Manager!\nWhoa... I hope Cast Iron Skillet Man has a lot of cool fight scenes...!"
   },
   "195": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Entendo. Então... vou ver esse como uma espécie de preparação para o resto da série!\nPode ser que eu nem entenda o que está acontecendo, mas sempre dá pra assistir de novo!",
     "EN": "I see. Then... I'll watch this as a kind of prep work for the rest of the series!\nI might not know what's going on at all, but I could always watch it again!"
   },
   "196": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Quero acompanhar a série com você, Gerente,\ne prometo assistir todos os outros também, então vamos!",
     "EN": "I want to follow the series with you, Manager,\nand I promise I'll watch all the others too, so let's go!"
   },
   "197": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ooooh, como era mesmo esse nome?\nAquela série com o Cast Iron Skillet Man e aquele\ncara gigante verde, e uma penca de outros também!",
     "EN": "Oooh, what was this called again?\nThat series with Cast Iron Skillet Man and that\nhuge green guy, and a bunch of other guys too!"
   },
   "198": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Já vi o Cast Iron Skillet Man na TV,\nmas não conheço nenhum dos outros.\nO que é que eles enfrentam, afinal?",
     "EN": "I've seen Cast Iron Skillet Man on TV before,\nbut I don't know any of the others.\nWhat are they even fighting?"
   },
   "199": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Alienígenas planejando dominar o mundo e afins.:option51;Eu também não sei bem...:option52",
     "EN": "Aliens planning to take over the world and such.:option51;I don't really know, either...:option52"
   },
   "200": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Hã? Ei, isso na verdade soa bem simples.\nPosso assistir junto com você se quiser!",
     "EN": "Huh? Wait, that sounds pretty simple, actually.\nI could watch it with you if you want!"
   },
   "201": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "E pelo visto o Cast Iron Skillet Man é o protagonista,\nentão acho que vou me divertir. Vamos, bora assistir!",
     "EN": "And it looks like Cast Iron Skillet Man is the main character,\nso I'll probably have fun. C'mon, let's watch it!"
   },
   "202": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ahaha! Então você veio assistir nem sabendo\no que acontece nele, né?\nAí eu posso curtir de boa, imagino!",
     "EN": "Ahaha! So you came to watch it even though\nyou have no idea what happens either?\nThen I guess I'll enjoy it no problem!"
   },
   "203": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "É um filme de ação americano, então posso simplesmente desligar\no cérebro e aproveitar o espetáculo, imagino! Vamos entrar!",
     "EN": "It's an American action movie, so I can just shut off\nmy brain and enjoy the show, probably! Let's go in!"
   },
   "204": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Hum... Estes são heróis que se transformam e têm origem\nnas terras do outro lado do mar. Salvadores que se unem\nao chamado de um grande poder... deve ser algo assim.",
     "EN": "Hmm... These are transforming heroes that originate\nfrom the lands across the sea. Saviors that assemble\nat the call of a great power... it must be something like that."
   },
   "205": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Já os vi de vez em quando na Caixa Fantasmagórica,\nmas meu conhecimento sobre eles é limitado...",
     "EN": "I have occasionally seen them on the phantasmic box,\nbut I have limited knowledge of them..."
   },
   "206": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E... Eu sei que você aprecia épicos contos de heróis que se transformam...\nmas assistindo comigo, não seria menos divertido?",
     "EN": "I... I know you are fond of epic tales of transforming heroes...\nbut would it not be less enjoyable if you watched them with me?"
   },
   "207": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Nem um pouco. Vamos assistir juntos.:option53;Então, acho que eu também não assistirei.:option54",
     "EN": "Not at all. Let's watch together.:option53;Then I guess I won't watch it either.:option54"
   },
   "208": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "V-Você tem certeza? Nesse caso,\neu o acompanharei...!",
     "EN": "A-Are you sure? In that case,\nI shall accompany you...!"
   },
   "209": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Um primeiro encontro é sempre determinado pelo destino,\nseja ele qual for... Se é algo que você gosta,\ndevo conseguir apreciar também. Fufu...",
     "EN": "One's first encounter is always determined by fate,\nno matter what it may be... If it's something you like,\nI should be able to enjoy it as well. Fufu..."
   },
   "210": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "N-Não é preciso reprimir seus desejos!\nPrefiro muito mais acompanhá-lo do que deixá-lo ir sozinho...",
     "EN": "Y-You need not suppress your desires!\nI would rather accompany you than have you go alone..."
   },
   "211": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Contudo, há a chance de a história\nacabar difícil demais para eu me conectar... Se isso acontecer...\nseria bom se você pudesse, ah... me ensinar mais depois...",
     "EN": "However, there is a chance that the story ends up to be\ntoo difficult for me to resonate with... So if that happens...\nit would be nice if you could, ah... teach me more afterwards..."
   },
   "212": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ixe! Hollyooze hoje em dia também tem muitos heróis tokusatsu.\nEu só conheço aquele filme lá de um baita tempo atrás...\nComo era mesmo o nome... Robocup?",
     "EN": "Whoa! Hollyooze has so many tokusatsu heroes too nowadays.\nI only know that one movie from a looong time ago...\nWhat was it called... Robocup?"
   },
   "213": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Parece coisa que você gostaria, de tão cheio de ação.\nEu também gosto de assistir espetáculos na telona.",
     "EN": "It looks like somethin' you'd like, since it's so action-packed.\nI do like watchin' a spectacle on the silver screen too."
   },
   "214": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E, sinceramente, quando o assunto é filme, às vezes já basta\nque tenham porrada do início ao fim com um monte de ação vistosa,\ne nada mais importa muito. Imagino que vale pra esse também, né?",
     "EN": "And honestly, when it comes to movies, sometimes it's enough\nif they just go at it and show off some flashy action the whole time,\nand nothin' else matters much. I reckon that applies to this one too?"
   },
   "215": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Totalmente OK!:option55;Na real, é daqueles que arrancam o choro.:option56",
     "EN": "That's totally fine!:option55;It's actually a real tearjerker.:option56"
   },
   "216": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Né? Enquanto eles trocarem porrada na tela grande, sigo satisfeita.",
     "EN": "Right? As long as they're dukin' it out on the big screen, I'm satisfied."
   },
   "217": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E ficaria ainda melhor se você der susto,\nassim posso ver suas reações! Vamos, bora!",
     "EN": "And it'd be even better if ya get scared\nso I get to see your reactions! C'mon, let's go!"
   },
   "218": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ixe, então hoje em dia eles são assim? Que máximo!\nDeve ser bem emocionante, pra você ter chorado. Estou ansiosa!",
     "EN": "Ooh, so they're like that nowadays? Sounds great!\nIt must be pretty emotional if it made ya cry. I'm excited!"
   },
   "219": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Vamos entrar logo! Mal posso esperar para te ver\ncom os olhos vermelhos e inchados depois do filme...\nAh, tenho um lenço comigo, então se precisar chorar, chorar à vontade!",
     "EN": "C'mon, let's go in already! I can't wait to see ya\nwith your eyes all red and puffy after the show...\nOh, I have a hanky with me, so if you gotta cry, let it all out!"
   },
   "220": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Aaargh, isso foi demais... Me emocionei só de ver\nação ardente e sangue na veia, e uma quantidade imensa de cool...\nNunca tinha me acontecido antes...",
     "EN": "Ough, that was amazing... I teared up from just\nthe hot-blooded action and sheer amount of cool...\nThat's never happened to me before..."
   },
   "221": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Quando o Capitão continuou lutando mesmo sendo o último de pé,\ne depois os amigos dele se levantaram pra ajudá-lo... foi estiloso demais!",
     "EN": "When the Captain kept fighting even though he was the only one left,\nand then his friends got back on their feet to help him... that was so cool!"
   },
   "222": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Se todo mundo do Fuwa Fuwa fosse os Bufê-Vengers,\nacho que você seria o Cast Iron Skillet Man, Gerente!",
     "EN": "If everyone at Fuwa Fuwa were the Potluck-Vengers,\nI think you would be Cast Iron Skillet Man, Manager!"
   },
   "223": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Não sei se sou estiloso suficientemente...:option57;Não sei se sou galante o suficiente...:option58",
     "EN": "I don't know if I'm cool enough...:option57;I don't know if I'm enough of a womanizer...:option58"
   },
   "224": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Você é sim! Você pode parecer um pouco misterioso por ser tão quieto,\nmas é um herói que sempre nos empurra pra frente!",
     "EN": "Yes you are! You can be a little mysterious since you're so quiet,\nbut you're a hero who always pushes us forward!"
   },
   "225": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "E provavelmente até atiraria lasers pelas mãos,\nquando as coisas de fato apertassem!",
     "EN": "You could probably shoot lasers from your hands\nwhen it really comes down to it, too!"
   },
   "226": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Hã? O Cast Iron Skillet Man é pegador?!\nN-Não! Q-Quis dizer outra coisa...!",
     "EN": "Huh? Is Cast Iron Skillet Man a womanizer?!\nN-Nooo! Th-That's not what I meant...!"
   },
   "227": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ah, mas e se todo mundo do Fuwa Fuwa se apaixonasse por você...\nPera, o que estou dizendo? Não é isso que eu...!",
     "EN": "Oh, but what if everyone at Fuwa Fuwa fell in love with you...\nWait, what am I saying? That's not what I...!"
   },
   "228": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Uau! Nem entendi muita coisa, mas foi maneiro demais!\nFicaram usando todo tipo de termo técnico que eu não conheço, mesmo assim!",
     "EN": "Wow! I didn't really get all of it, but it was really cool!\nThey kept using all those technical words I don't know, but still!"
   },
   "229": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "O Cast Iron Skillet Man e o Scorpiender e aqueles outros caras\ncheios de superpoderes eram ótimos e tal, mas você viu aquele\ncara normal que deu o seu máximo usando arco e flecha? Ele era demais!",
     "EN": "Cast Iron Skillet Man and Scorpiender and all those other guys\nwith superpowers were great and all, but y'know that one\nnormal guy who did his best with a bow and arrows? He was so cool!"
   },
   "230": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Isso vale pros jogos que eu jogo também, mas curto quando os personagens são,\ntipo, super confiáveis e sustentam o time todo das sombras...\nÉ, meio que admiro esse tipo de personagem!",
     "EN": "This goes for the games I play too, but I like when characters are,\nlike, super reliable and support the whole team from the sidelines...\nYeah, I kinda look up to that kinda character!"
   },
   "231": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Você também é um suporte confiável, Miyu.:option59;Eu sou o suporte, você é a protagonista!:option60",
     "EN": "You're a reliable supporter too, Miyu.:option59;I'm the supporting character, you're the main character!:option60"
   },
   "232": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Espera, jura? Você acha isso mesmo? Ehe, isso me deixa tão feliz!\nÉ que fica legal demais quando os personagens são bons em uma coisa só,\nigual aquele cara do arco e flecha, né?",
     "EN": "Wait, really? Do you really think so? Ehe, that actually makes me so happy!\nIt's just really cool when characters are really good at one thing\nlike that guy with the bow and arrow, y'know?"
   },
   "233": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Quero que você e os outros possam contar comigo sempre que precisarem...\nentão posso me sair ainda melhor!",
     "EN": "I want you and the others to be able to count on me\nwhenever you need... so I'll try to do even better!"
   },
   "234": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Cé—hã?! E-Eu não sou nada disso! Opa, a ficha caiu\nde que você é o cara normal do arco e flecha...",
     "EN": "Wh—huh?! I-I'm nothing like that! Okay, I kinda get the idea\nthat you're the normal guy with the bow and arrows..."
   },
   "235": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Mas pensando bem, o Fuwa Fuwa não iria tão bem assim\nse faltasse até só um de nós, então... Acho que todo mundo é\nprotagonista, igual de importante quanto o Cast Iron Skillet Man!",
     "EN": "But when you think about it, Fuwa Fuwa wouldn't do as well\nif even just one of us were missing, so... I guess everyone is\na main character, just as important as Cast Iron Skillet Man!"
   },
   "236": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "*suspiro*... Um grupo de salvadores encarando o iminente destino da perdição...\nAcho que entendo por que os mortais se envolvem tanto com a história deles...",
     "EN": "*sigh*... An ensemble of saviors facing their mighty fate of certain doom...\nI think I understand why mortals are so invested in their story..."
   },
   "237": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E entre eles estava a solitária Bruxa do Borscht...\nChorando a perda do irmão mais novo, ela se lançou de cabeça na luta,\nlevando um passado dolorido nas costas... Que personagem linda...!",
     "EN": "And among them was the lone Borscht Witch...\nGrieving the loss of her younger brother, she threw herself into the fray,\ncarrying her painful past on her shoulders... What a beautiful character...!"
   },
   "238": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Fico feliz de ter achado um personagem que você curte.:option61;Ela me lembrou você.:option62",
     "EN": "I'm glad you found a character you like.:option61;She reminded me of you.:option62"
   },
   "239": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Sim... Este encontro foi possível graças à orientação do destino...\nEssa alegria recém-descoberta é graças ao contato com seus gostos...",
     "EN": "Yes... This was an encounter made possible by the guidance of fate...\nThis newfound joy is thanks to this interaction with your interests..."
   },
   "240": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Hum, e... Eu gostaria muito de, hum, a partir de agora...\npoder desfrutar ainda mais histórias com você...",
     "EN": "Um, I... I would really like it if, uh, from now on...\nI could experience even more stories with you..."
   },
   "241": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Eeeh?! I-Isso...! Embora Borscht SEJA uma detentora de\npoder imenso, igual a mim, nossos destinos divergem muito...!",
     "EN": "Hweh?! Th-That's...! Although Borscht IS a wielder of\nimmense power just like I am, our fates differ greatly...!"
   },
   "242": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Contudo, e apenas porque tenho interesse em saber o que\nfoge até do destino... C-Poderia me dizer...\no que exatamente nela te lembrou de mim...? Em detalhes, por favor...?",
     "EN": "But, and only because I am interested in gaining knowledge in\nwhat lies unknown to fate herself... C-Could you tell me...\nwhat exactly about her reminded you of me...? In detail, please...?"
   },
   "243": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Aaargh... Isso foi tão... Q-Quando o irmãozinho da Borscht\nse sacrificou pra salvar as crianças e os amigos dele...\nQualquer um dava pra ver que a Borscht estava devastada...",
     "EN": "Ough... That was so... Wh-When Borscht's li'l bro\nsacrificed himself to save the kids and his friends...\nAnyone could tell that Borscht was devastated..."
   },
   "244": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Mas... *sniff* Mesmo assim... ela é forte demais. Mesmo com a dor,\nela lutou o máximo que podia até o finalzinho... Mas nem assim...\no irmão dela voltou... Arghhh, essa mágoa é prazerosa demais...",
     "EN": "But... *sniff* But still... she's so strong. Even through the pain,\nshe fought the best she could until the very end... But even then...\nher brother never came back... Arghhh, it hurts so good..."
   },
   "245": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E-E o que você faria, Gerente?\nSe você um dia se visse numa situação em que morreria\npara salvar alguém, mas tivesse que salvar mesmo assim...?",
     "EN": "Wh-What would ya have done, Manager?\nIf ya ever found yourself in a situation where you'd die\nif you saved someone, but you have to save them...?"
   },
   "246": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Eu salvaria sem pensar duas vezes.:option63;Se salvasse você, não me importaria de morrer.:option64",
     "EN": "I would save them without a second thought.:option63;If it would save you, I wouldn't mind dying.:option64"
   },
   "247": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Entendi... você é estiloso demais...\nMas é, consigo te ver fazendo isso.",
     "EN": "I see... you're so cool...\nBut yeah, I can see ya doin' that."
   },
   "248": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Afinal, você topou ser o novo gerente de um café que\nse mantinha de pé por um fio! Você é um molezão de nível Hollyooze!\nMas é bom contar com a gente também, pra você não morrer de tanto trabalho, tá?",
     "EN": "After all, ya agreed to be the new manager for a cafe when\nit was hangin' on by a thread! You're a Hollyooze-level softie!\nYa better rely on us too so ya don't die from overwork though, got it?"
   },
   "249": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Hã?! P-Por que você enquadrou isso como salvar EU?!\nNão perguntei isso! Eu me referia a alguém tipo\nque você acaba de conhecer na rua, como no filme...!",
     "EN": "Hweh?! Wh-Why did ya turn it into savin' ME?!\nThat's not what I asked! I meant like someone\nyou just met on the street, like in the movie...!"
   },
   "250": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "M-Mas, hum... obrigada... Fico feliz em ouvir isso...\nE-Eu fico feliz, mas... você também precisa cuidar de você mesmo...\nOu vai deixar muita gente triste...",
     "EN": "B-But, uh... thanks... I'm happy to hear that...\nI-I'm happy, but... ya should take care of yourself too...\nOr you'd make a lot of people sad..."
   },
   "251": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Chegou finalmente a hora... do \"Wall Purger's Winter\".",
     "EN": "It's finally time... for \"Wall Purger's Winter.\""
   },
   "252": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Tive a sorte—ou azar—de assistir ao terceiro episódio\nna TV, ao vivo na estreia, e aquela morte me abalou até—\nAaah! Peraí, não devia soltar spoiler desse jeito! Me desculpe!",
     "EN": "I was fortunate—or unfortunate—enough to watch the third episode\non live TV when it first aired, and that death really shook me to—\nAaah! Wait, I shouldn't spoil you like that! I'm sorry!"
   },
   "253": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Muito bem, Gerente... está pronto para fazer um contrato\ncomigo e se tornar uma Garota Canhão Mágica?",
     "EN": "Well then, Manager... are you ready to make a contract\nwith me and become a Magical Cannon Girl?"
   },
   "254": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Claro que estou.:option65;Simplesmente não entendo.:option66",
     "EN": "Of course I am.:option65;I just don't get it.:option66"
   },
   "255": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ótimo! Não importa o que de chocante ou aterrorizante aconteça...\npor favor, fique comigo até o fim, Gerente!",
     "EN": "Great! No matter what shocking or horrifying things happen...\nplease stick with me until the very end, Manager!"
   },
   "256": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Milagres e canhões existem! Bora!",
     "EN": "Miracles and cannons do exist! Let's go!"
   },
   "257": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "O que significa que você já assinou\no contrato com o Tobey... Devia ter imaginado!",
     "EN": "Which means you've already signed\nthe contract with Tobey... I should've known!"
   },
   "258": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Não estou mais sozinha... Bora!",
     "EN": "I'm not alone anymore... Let's go!"
   },
   "259": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ah, é o Meguca. Nem sabia que já estava em cartaz!",
     "EN": "Oh hey, it's Meguca. I didn't know it was already in theaters!"
   },
   "260": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "A Shiro bombou sobre ele comigo no vestiário no outro dia.\nEla falou algo sobre... quem era mesmo? Honohono?\nE sobre o quão incrível é essa personagem.",
     "EN": "Shiro gushed to me about it in the locker room the other day.\nShe said something about... who was it? Honohono?\nAnd how incredible of a character she is."
   },
   "261": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Tem uma vibe parecida com a Magic Angel, e a Shiro parece\ngostar muito dele, então fiquei meio curiosa. Vamos assistir!",
     "EN": "It's got a similar vibe to Magic Angel, and Shiro seems\nto like it a lot, so I've been a little curious. Let's watch it!"
   },
   "262": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "G-Garotas Canhão Mágica...! T-Tem de ser uma história\nque eu estava destinada a conhecer... Consigo vê-lo escrito nas cartas!",
     "EN": "M-Magical Cannon Girls...! Th-This must be a story\nI was destined to encounter... I can see it written in the cards!"
   },
   "263": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Magia além do entendimento humano, fusões pecaminosas de maquinaria...\nE pensar que alcançam um poder tão aterrorizante abandonando a própria alma mortal...!",
     "EN": "Magic beyond human understanding, sinful fusions of machinery...\nTo think they achieve such terrifying power by giving up their mortal soul...!"
   },
   "264": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "A Apóstola Branca falou dele com tanta paixão no outro dia,\nquando estávamos no vestiário... Seria divertido\nconversar com ela sobre esse filme de Meguca, não seria...",
     "EN": "The Apostle of White spoke so passionately about it the other day\nwhen we were in the locker room... It would be enjoyable\nto talk to her about this Meguca movie, wouldn't it..."
   },
   "265": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...E-Então vamos, meu familiar!\nEu sei que esta história vai entrelaçar com o meu destino\ne vai despertar um poder maior da razão!",
     "EN": "...W-Well then, let us proceed, my familiar!\nI know that this story will intertwine with my destiny\nand shall call forth a greater power of reason!"
   },
   "266": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Garotas Canhão Mágica... Você é otaku de cabo a rabo, viu.\nVocê gosta desse tipo de anime em que todas são garotas fofas?",
     "EN": "Magical Cannon Girls... Ya really are an otaku through 'n' through.\nYa like this kinda anime where all of 'em are cute girls?"
   },
   "267": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, não me incomodo, claro. Não seja tímido, podemos assistir juntos.\nE não acho que esse aí exatamente seja sexy ou nada, né?",
     "EN": "Oh, I don't mind, of course. Don't be shy, we can watch together.\nAnd I don't think this one is exactly sexy or anythin', right?"
   },
   "268": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Não é!:option67;Pode ser!:option68",
     "EN": "It's not!:option67;It might be!:option68"
   },
   "269": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Você não precisa negar com essa força toda, entendi!\nMeninos amam esse tipo de coisa. Vamos, bora entrar!",
     "EN": "Ya don't gotta deny it that strongly, I understand!\nBoys love this kinda stuff. C'mon, let's go in!"
   },
   "270": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Hã? Todas elas parecem tão fofas e inocentes,\nmas acha que pode ter coisa sexy lá dentro? Ohhh...",
     "EN": "Huh? They all look so cute and innocent,\nbut ya think there might be sexy stuff in there? Ohhh..."
   },
   "271": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Bem, por mim tá tudo bem. Se acabar sendo picante,\neu ganho a chance de te zoar a respeito depois do filme! Vamos entrar!",
     "EN": "Well, that's fine with me. If it does turn out to be cheeky,\nI'd get the chance to tease ya about it after the movie! Let's go in!"
   },
   "272": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Aaargh... Honohono... A Honohono é tão boa que não dá pra não ser fã...\nO coração dói só de pensar nela... Na tela grande a história foi\naté mais devastadora do que na TV...",
     "EN": "Augh... Honohono... Honohono is just so good I can't help but stan...\nMy heart hurts just thinking about her... The story was even\nmore devastating on the big screen compared to the TV..."
   },
   "273": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Mas que destino cruel... Para realizar o desejo de alguém querido,\nas garotas precisam virar Garotas Canhão Mágica mecânicas\ne lutar até os seus últimos instantes...",
     "EN": "But it's such a cruel fate... In order to grant the wish of someone\ndear to them, the girls have to turn into mechanical\nMagical Cannon Girls and fight until their very last moments..."
   },
   "274": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Gerente, se um dia o Tobey me pedisse para virar uma Garota Canhão Mágica\ne eu começasse a ponderar para realizar um desejo... O que você faria?",
     "EN": "Manager, if one day Tobey asked me to become a Magical Cannon Girl\nand I started considering it to grant a wish... What would you do?"
   },
   "275": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Se for um desejo importante, eu não te impeço.:option69;Esse desejo eu mesmo realizo no seu lugar.:option70",
     "EN": "If it's an important wish, I won't stop you.:option69;I'll grant that wish for you instead.:option70"
   },
   "276": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "A-Ah, ai ai, é...\nSeria algo importante, sim, mas...",
     "EN": "O-Oh, oh no, um...\nIt would be something important, yes, but..."
   },
   "277": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Se eu não tomar cuidado, posso acabar virando uma Garota Canhão Mágica\ncom um desejo fútil tipo, \"Desejo um box de edição limitada!\"\nou algo assim... Ahaha...",
     "EN": "If I'm not careful, I might end up becoming a Magical Cannon Girl\nwith a frivolous wish like, \"I wish for a limited edition box set!\"\nor something... Ahaha..."
   },
   "278": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "M-Me desculpe, Gerente. Se você me flagrar prestes\na fazer um desejo e assinar o contrato com o Tobey,\ntenha certeza de me impedir... por favor.",
     "EN": "I-I'm so sorry, Manager. If you catch me about\nto make a wish and sign the contract with Tobey,\nmake sure to stop me... please."
   },
   "279": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eeeh?! E-É o mesmo... É o mesmo que a Honohono sentiu ao\nquerer proteger a Madomi... Q-Quer dizer...",
     "EN": "Hwehhh?! Th-That's the same... That's the same as how\nHonohono wanted to protect Madomi... Wh-Which means..."
   },
   "280": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "N-Não, Gerente, isso está MUITO perto de um... de um...\np-pe-pedido de casamento!\nVocê não pode simplesmente dizer isso! Não pode!",
     "EN": "N-No, Manager, that sounds too much like a... a...\nm-m-m-marriage proposal!\nYou can't just say that! You just can't!"
   },
   "281": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Nossa, isso foi, tipo, bem envolvente!\nO lance da viagem no tempo era meio complicado,\nentão não entendi tudo direitinho, ah...",
     "EN": "Oooh, that was, like, really gripping!\nThe time travel stuff was kinda complicated,\nso I didn't really get all of it, though."
   },
   "282": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Quando a An-chan entrou correndo pra parar a Sayako-chan fora de si...\nMe deu uma vontade danada de chorar. Agora entendo por que a Shiro curte tanto... Oh!",
     "EN": "When An-chan rushed in to stop the berserk Sayako-chan...\nIt made me wanna cry so bad. I get why Shiro's so into it now... Oh!"
   },
   "283": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "A gente deveria fazer um grupo de cosplay de Meguca com a equipe do Fuwa Fuwa!\nVamos fazer um evento temático, tipo uma collab de café! E, é claro, você seria...?",
     "EN": "We should do a Meguca cosplay group with the Fuwa Fuwa team!\nLet's do some kinda collab cafe themed thing! And of course, you'd be...?"
   },
   "284": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Faça um contrato comigo e vire uma Garota Canhão Mágica!:option71;Não conte nada para as nossas colegas de classe!:option72",
     "EN": "Make a contract with me and become a Magical Cannon Girl!:option71;Don't tell any of our classmates!:option72"
   },
   "285": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ahahaha! Isso, é isso, é total isso!\nSabia que você ia pegar!",
     "EN": "Ahahaha! Yep, that's it, that's totally it!\nI knew you'd get it!"
   },
   "286": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Provavelmente não daria pra fazer de fato o cosplay das personagens,\npor copyright e afins... mas dá pra, tipo,\nrecriar o clima. Acho que seria muito divertido!",
     "EN": "We probably wouldn't be able to actually cosplay the characters,\nwhat with copyright and whatnot, but we could try to, like,\nrecreate the vibe. I think it'd be a lot of fun!"
   },
   "287": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ueeeh?! Você vai fazer o cosplay da Madomi?!\nAhaha! Mas peraí, acho que até ia ficar bonita, né? Ahahaha!",
     "EN": "Huhhhh?! You're gonna cosplay Madomi?!\nAhaha! Wait, maybe you'd look pretty good, though? Ahahaha!"
   },
   "288": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ah, mas talvez uma certa demografia fique super empolgada com isso.\nVamos pensar a respeito com o resto da equipe, um dia!",
     "EN": "Oh, but maybe a certain demographic would be super excited about it.\nLet's think about it with the rest of the team someday!"
   },
   "289": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "*suspiro*... Que história tenebrosa...\nEntão é verdade que grande poder exige grande sacrifício...",
     "EN": "*sigh*... What a terrifying tale...\nSo it is true that great power requires great sacrifice..."
   },
   "290": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Mas as Garotas Canhão Mágica formando laços fortes\ne lutando contra o próprio destino... Era uma visão tão bela,\nque ressoou profundamente com a minha alma.",
     "EN": "But the Magical Cannon Girls forming strong bonds\nand fighting against their fate... It was such a beautiful sight,\nit resonated deeply with my soul."
   },
   "291": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Familiar... Será que eu, ahem...\nseria capaz de fazer amizades\nconectadas pelo destino, como as garotas da história...?",
     "EN": "Familiar... Do you think I would, um...\nI would be able to make friends\nconnected by fate like the girls in the story...?"
   },
   "292": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Você tem todo mundo do Fuwa Fuwa.:option73;Você tem a mim.:option74",
     "EN": "You have everyone at Fuwa Fuwa.:option73;You have me.:option74"
   },
   "293": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "É-É verdade! A Apóstola Branca e a Chef Rouge de Magie...\nSão elas as minhas companheiras de destino!",
     "EN": "Th-That's right! The Apostle of White and Chef Rouge de Magie...\nThey are my companions in fate!"
   },
   "294": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Adoraria... virar Garotas Canhão Mágica do Fuwa Fuwa com elas...",
     "EN": "...I would love... to become Fuwa Fuwa Magical Cannon Girls with them..."
   },
   "295": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Hã?! Não, v-você é o meu familiar, não o meu amigo,\ne o homem do meu desti—pera, não era isso que eu queria dizer...!",
     "EN": "Huh?! No, y-you are my familiar, not my friend,\nand the man of my destin—wait, that's not what I meant...!"
   },
   "296": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "O que quero dizer é: você é o Tobey da minha Garota Canhão Mágica!\nOu seja, nós dois nos acompanhamos no ciclo do destino!\nV-Você não é só um amigo...!",
     "EN": "What I'm trying to say is, you are the Tobey to my Magical Cannon Girl!\nWhich means, you and I accompany each other in the cycle of fate!\nY-You're not just a friend...!"
   },
   "297": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Uau... Não tinha nem um pinguinho de coisa sensual...\nmas foi um filme tão incrível...!",
     "EN": "Wow... That wasn't even the tiniest bit sexy...\nbut it was such an amazing movie...!"
   },
   "298": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Amei como, quando os desejos eram realizados e elas viravam\nGarotas Canhão Mágica, cada uma lembrava uma arma diferente.\nDetalhes assim me deixam doida.",
     "EN": "I liked how when they had their wishes granted and turned into\nMagical Cannon Girls, each of them resembled a different weapon.\nI go crazy for those kinds of details."
   },
   "299": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Que arma você acha que daria a sua cara\nse você fosse uma Garota Canhão Mágica? Ignora a parte de garota!",
     "EN": "What kinda weapon do ya think you'd look like\nif ya were a Magical Cannon Girl? Disregard the girl part!"
   },
   "300": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Uma metralhadora que dispara troco infinito:option75;Um lança-chamas que cozinha qualquer coisa em qualquer lugar:option76",
     "EN": "A Gatling gun that shoots infinite spare change:option75;A flamethrower than can cook anything, anywhere:option76"
   },
   "301": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Uau, tá, isso seria bem prático da sua parte.\nAh, mas com isso você seria perfeito para\ndar oferendas no nosso santuário! Que ótimo!",
     "EN": "Wow, okay, that's real practical of ya.\nOh, but that mean you'd be perfect for\ngivin' offerings at our shrine! That sounds great!"
   },
   "302": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E o Fuwa Fuwa teria um orçamento sem fim!\nEi, talvez você devesse caçar o Tobey pra ele\nfazer de você uma Garota Canhão Mágica, logo já! Ahaha!",
     "EN": "And Fuwa Fuwa would have a bottomless budget!\nHey, maybe ya should go look for Tobey and get him\nto make ya a Magical Cannon Girl, and quick! Ahaha!"
   },
   "303": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Hmm, essa não é daquelas armas que parecem úteis,\nmas têm usos incrivelmente limitados?\nSendo só fogo e nada mais, quase não se cozinha!",
     "EN": "Hmm, ain't that the sorta weapon that looks useful,\nbut has a surprisingly limited range of uses?\nYa can't even cook much with just fire and nothin' else!"
   },
   "304": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Nesse caso, eu podia te acompanhar e virar uma Garota Canhão Mágica\ncapaz de criar todo tipo de utensílio de cozinha...\nMas, ei, a comida continuaria perdida! Essa é difícil... hehe.",
     "EN": "In that case, I could join ya and turn into a Magical Cannon Girl\nwho can create all sorts of cookin' utensils...\nBut hey, we still wouldn't have food! This is hard... hehe."
   },
   "305": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ah... Então finalmente chegou a hora de assistir a esse filme...\nVocê trouxe um lenço, Gerente?",
     "EN": "Oh... So it's finally time to watch this movie...\nDo you have a handkerchief ready, Manager?"
   },
   "306": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Para dizer a verdade... Eu venho evitando essa série de propósito,\nporque, bem... Eu sabia que ela faria\nde tudo para me arrancar lágrimas...",
     "EN": "To tell the truth... I've actually been avoiding this series\non purpose, because, um... I could tell that it would\ndo everything it could to make me cry..."
   },
   "307": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Então, eu... eu posso muito bem acabar soluçando feito uma criança...\nV-Você tem realmente certeza de que está tudo bem com isso...?",
     "EN": "So, I... I might actually end up bawling my eyes out...\nA-Are you really okay with that...?"
   },
   "308": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Trouxe uma toalha, então tá tudo bem.:option77;Escolhi essa camisa justamente para você chorar nela, então relaxa.:option78",
     "EN": "I brought a towel, so it'll be fine.:option77;I picked this shirt for you to cry on, so don't worry.:option78"
   },
   "309": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "T-Trouxe? Você é tão bem preparado, Gerente!",
     "EN": "Y-You did? You're so well-prepared, Manager!"
   },
   "310": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "E-Então talvez eu pegue emprestado se a coisa apertar...\nAh, mas se você também for chorar, use você primeiro!",
     "EN": "Th-Then I might just borrow it if things get hairy...\nOh, but if you're going to cry too, you should use it first!"
   },
   "311": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Uaaaah?! O-O que você está dizendo, Gerente?!\nE-Eu não... não me agarraria em você para chorar na sua camisa...!",
     "EN": "Hwaaah?! Wh-What are you saying, Manager?!\nI-I wouldn't cling onto you and cry into your shirt...!"
   },
   "312": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ah, mas, bem, as lágrimas podem chegar até você mesmo assim...\nE-Eu vou me esforçar para não chorar DEMASIADO...!",
     "EN": "Oh but, um, the tears might get on you anyways...\nI-I'll try my best not to cry TOO hard...!"
   },
   "313": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ah... G-Gerente, a gente vai assistir a esse?\nAi ai...",
     "EN": "Oh... M-Manager, are we watching this?\nOhhh boy..."
   },
   "314": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "N-Na verdade, eu já li a light novel original,\ne chorei um monte quando li sozinha lá no meu quarto.",
     "EN": "A-Actually, I've read the original light novel,\nand I cried so much when I read it alone in my room."
   },
   "315": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "E-Então, bem... Se isso vier com animações tão lindas,\nmúsica, dublagem e afins, é fim da picada...\nT-Tem certeza de que quer me ver tão cringe assim?",
     "EN": "S-So, um... If that gets paired with such pretty animations,\nmusic, voice acting, and stuff, I'd be done for...\nA-Are you sure you wanna see me being that cringe?"
   },
   "316": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Não me importaria em nada, relaxa.:option79;Ao contrário, o medo é você me achar cringe.:option80",
     "EN": "I wouldn't mind at all, don't worry.:option79;If anything, I'm worried you'd find me cringe.:option80"
   },
   "317": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "D-De verdade? Tem certeza mesmo?\nSó um detalhe: tenho CERTEZA de que vou explodir em chororô.",
     "EN": "R-Really? Are you really sure?\nI'm positive I'm gonna straight up bawl, though."
   },
   "318": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Beleza... Nesse caso, vou chorar tanto que a maquiagem inteira derrete do rosto.\nDepois do filme, me arruma uma toalha e um drink, Gerente!",
     "EN": "Okay... In that case, I'm gonna cry so hard, all my makeup melts off my face.\nJust get me a towel and a drink after the show, Manager!"
   },
   "319": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ah, você também chora fácil, Gerente!\nÓtimo, então não tenho com que me preocupar!",
     "EN": "Oh, do you cry easily too, Manager!\nGreat, then I won't have to worry!"
   },
   "320": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Precisa de um lenço? Tenho dois!\nVamos abrir as comportas de vez!\nÉ, tipo, um detox pros seus ductos lacrimais!",
     "EN": "Do you need a hankie? I have two!\nLet's really open those floodgates!\nIt's, like, a detox for your tear ducts!"
   },
   "321": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E-Esse é um filme que alguém tão, ah...\ninexperiente quanto eu pode assistir?",
     "EN": "I-Is this a movie someone as, ah...\ninexperienced as I can watch?"
   },
   "322": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E-Está escrito \"eu te amo\" aqui, então deve ser, bem,\numa história romântica do amor entre dois mortais...\nE-Eu nunca assisti mesmo a esse tipo de coisa...",
     "EN": "I-It says \"I love you\" here, so it must be, um,\na romantic story of the love between two mortals...\nI-I've never really watched this sort of thing before..."
   },
   "323": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Dá um clima meio, bem, embaraçoso...\nE-Especialmente porque... estou com você... agora mesmo...",
     "EN": "It feels a little, um, embarrassing...\nE-Especially since... I'm with you... right now..."
   },
   "324": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Talvez você fique mais madura depois de assistir.:option81;Na verdade, fica meio embaraçoso para mim também...:option82",
     "EN": "Maybe you'll become more mature after watching this.:option81;It's actually a little embarrassing for me too...:option82"
   },
   "325": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E-Entendo... Muito bem, então. O fato de eu e você\nestarmos aqui neste dia deve ser também vontade do destino.",
     "EN": "I-I see... Very well, then. The fact that you and I\nare here on this day might also be the will of fate."
   },
   "326": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "A grande Favna vive e morre pelo seu pacto, então jamais tive disposição\npara coisas tão fúteis quanto o amor... m-mas veremos. Vamos prosseguir!",
     "EN": "The Great Favna lives and dies by her pact, so I have never had the use\nfor such frivolous things as love... b-but we shall see. Let us proceed!"
   },
   "327": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "É-É mesmo. Se até o meu mais experiente familiar pensa assim...\nentão suponho que a hesitação que sinto não seja sem fundamento.",
     "EN": "I-Is that so. If even my more experienced familiar thinks so...\nthen I suppose the hesitation I feel is not misdirected."
   },
   "328": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Todavia... Se desperdiçar essa chance, talvez eu\nperca para sempre a capacidade de transmitir de fato o meu amor...\nM-Muito bem, então. Vamos prosseguir!",
     "EN": "However... If I miss this chance, then I may\nforever lose the ability to truly convey my love...\nV-Very well, then. Let us proceed!"
   },
   "329": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, G-Gerente... Bem...\nÉ embaraçoso de dizer, mas...",
     "EN": "Oh, M-Manager... Um...\nThis is embarrassin' to say, but..."
   },
   "330": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Na verdade, eu... queria muito assistir a esse...\nVocê se importaria... de assistir comigo...?",
     "EN": "I actually... really wanted to watch this...\nWould ya mind... watchin' it with me...?"
   },
   "331": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Q-Quer dizer! Sei que esse tipo de história de amor açucarada,\nplena de momentos que puxam as lágrimas, não é a minha cara...\nmas assistir sozinha também é... meio embaraçoso...",
     "EN": "I-I mean! I know this kinda sweet sappy love story\nwith obvious heartstring-tuggin' moments doesn't\nsuit me... but it's also... kinda embarrassin' to watch alone..."
   },
   "332": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Claro, vamos assistir juntos.:option83;Assim você não fica embaraçada se eu assistir com você?:option84",
     "EN": "Of course, let's watch it together.:option83;So you won't be embarrassed if I watch it with you?:option84"
   },
   "333": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "O-Obrigada! Ufa, mas estive prestes a desistir\nde ver isso nos cinemas... Que bom.",
     "EN": "Th-Thanks! Phew, I was about to give up\non watchin' this in theaters... Thank goodness."
   },
   "334": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E-Eu não acho que sou o tipo de pessoa com quem você\ndeve assistir a esse tipo de filme... M-Mas fico feliz...\nDe qualquer forma, vamos entrar!",
     "EN": "I-I'm not the kinda person ya should be watchin' this\nkinda movie with, I don't think... B-But I'm glad...\nAnyway, let's go in!"
   },
   "335": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "...!! N-Na verdade, pensando bem...\nEsse é O tipo de filme que se assiste em encontros, não é...",
     "EN": "...!! A-Actually, now that I think about it...\nThis is THE kinda movie ya watch on dates, ain't it..."
   },
   "336": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "M-Mas, se é com você, então... tudo bem. Vamos.\nV-Vamos logo... me leva pra lá de uma vez...",
     "EN": "B-But if it's you, then... it's okay. Let's go.\nC-C'mon now... take me in there with ya already..."
   },
   "337": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Aaargh... *sniff*... hic... Ugh...\nFoi... tão bom... tão... booooom...",
     "EN": "Ough... *sniff*... hic... Eugh...\nThat was... so good... so... gooood..."
   },
   "338": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "D-Desculpe... E-Estou chorando tanto... augh...\nque não c-consigo... falar direito... hgh...",
     "EN": "S-Sorry... I-I'm crying so hard... ough...\nthat I c-can't... speak properly... hgh..."
   },
   "339": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Vamos sentar aqui até você se acalmar.:option85;Vamos achar um lugar para sentar até você se acalmar.:option86",
     "EN": "Let's sit down here until you calm down.:option85;Let's go find a place to sit down until you calm down.:option86"
   },
   "340": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Hic... S-Sim... A Violetta-chan... e o C-Coronel...\nAaargh, estou tão feliz por eles...!",
     "EN": "Hic... Y-Yes... Violetta-chan... and th-the colonel...\nOugh, I'm so happy for them...!"
   },
   "341": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Bem, você poderia... *sniff* Você poderia ficar comigo...\naté que eu m-me acalme... augh... uuu...",
     "EN": "Um, could you... *sniff* Could you be with me...\nuntil I c-calm down... augh... uuuu..."
   },
   "342": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "N-Não! ...Não posso mostrar *sniff* Não posso mostrar\na minha cara estando... estando assim... Eugh...",
     "EN": "N-Nooo! ...I-I can't show *sniff* I can't show\nmy face when I look like... like this... Eugh..."
   },
   "343": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "D-Desculpe... V-Você pode po... poderia esperar por...\n*suspiro*... Ah, estou t-tão feliz por eles.. hgh...",
     "EN": "I-I'm... sorry... C-Could... could you w-wait for...\n*sigh*... Ohh I'm s-so happy for them.. hgh..."
   },
   "344": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Hooh... Chorei tanto... tãããoo tanto...\nVioletta-chan... você deu o seu melhor...",
     "EN": "Hooh... I cried so much... sooo much...\nVioletta-chan... you did your best..."
   },
   "345": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Faz um tempo que li a original...\nmas até lá isso... É muito difícil\nde por em palavras, mas, tipo...",
     "EN": "It's been a while since I read the original...\nbut even back then, it... It's really hard\nto put into words, but, like..."
   },
   "346": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Gerente... O que é o amor, afinal...?",
     "EN": "Manager... What is love, anyway...?"
   },
   "347": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Eu também ainda não sei.:option87;Acho que um dia a gente descobre, você e eu.:option88",
     "EN": "I don't know yet, either.:option87;I think we'll find out someday, you and me.:option88"
   },
   "348": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "...Entendi, então você também não sabe...\nHehe, nossa, estamos combinando, então...",
     "EN": "...I see, so you don't know either...\nHehe, wow, we're matchies..."
   },
   "349": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Também é difícil de por em palavras, mas...\nÉ só aquela sensação de que está... ali, sacou...?\nVocê não sente? Hehe...",
     "EN": "This is hard to put into words too, but...\nIt just feels like it's definitely... there, y'know...?\nDon't you feel it? Hehe..."
   },
   "350": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Hã, o quê... Ei, paaaaaaaaara!\nFalar assim não, isso soa tão errado!",
     "EN": "Huh, wha... Hey, stoppp!\nDon't say it like that, that sounds so wrong!"
   },
   "351": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Mas, ehehe... Talvez você tenha razão. Espero que consigamos\nachar as palavras certas para isso, um dia.",
     "EN": "But, ehehe... Maybe you're right. I hope we'll\nbe able to find the right words for it someday."
   },
   "352": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...*sniff*... hic... T-Ter de reencontrar... o seu par predestinado...\ncom aquele... que divide a alma com você... *sniff*...",
     "EN": "...*sniff*... hic... T-To be reunited... with your destined other...\nthe one... you share your soul with... *sniff*..."
   },
   "353": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "A-Acho que... hic... acho que entendo.\nAo me imaginar... você de repente... desaparecendo...",
     "EN": "I-I think... hic... I think I understand.\nWhen I imagine... you suddenly... disappearing..."
   },
   "354": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "V-Você é bem maduro, familiar... então, bem...\nPor acaso você sabe... o que é o a-amor...?",
     "EN": "Y-You're very mature, familiar... so, um...\nDo you know... what l-love is...?"
   },
   "355": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Acho que sim, um pouco.:option89;Não, nem um pouco.:option90",
     "EN": "I think I do, somewhat.:option89;No, not at all.:option90"
   },
   "356": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "De verdade...? P-Pois é, do meu familiar eu esperava isso mesmo.\nTalvez essa sabedoria e essa compaixão tenham guiado\no meu caminho também.",
     "EN": "Really...? W-Well, I expect no less from my familiar.\nPerhaps that wisdom and compassion...\nhave guided my path as well."
   },
   "357": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Até eu sinto como se tivesse isso gravado no meu corpo,\natravés daquela caixa chamada Violetta.\nO que... é \"eu te amo\"?",
     "EN": "Even I feel like I've had it engraved into my very body,\nthrough the vessel of the girl named Violetta.\nWhat... is \"I love you\"?"
   },
   "358": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "É mesmo... Fufu, aparentemente nem o meu familiar\nsabe absolutamente tudo o que há de saber.",
     "EN": "Is that so... Fufu, it appears not even my familiar\nknows everything there is to know."
   },
   "359": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Mas eu adoraria que... fôssemos aprender isso juntos, aos pouquinhos.",
     "EN": "But I would like if... we could learn together, little by little."
   },
   "360": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ufa... foi bom demais, fico tããããão feliz de ter visto\nisso na telona... Valeu, Gerente...",
     "EN": "Phew... that was so good, I'm soooooooooo glad\nI got to see it on the silver screen... Thanks, Manager..."
   },
   "361": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "M-Mas, bem... O que você acha, Gerente...?",
     "EN": "B-But, um... What do ya think, Manager...?"
   },
   "362": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Aposto que você preferia assistir isso com alguém tipo, sei lá...\numa garota pura e ingênua como a Shiro... ou pelo menos alguém REALMENTE fofa...?",
     "EN": "I bet you'd prefer to watch it with someone like, I dunno... a pure,\ninnocent girl like Shiro... or at least someone who's actually cute...?"
   },
   "363": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Que bom que pude assistir com você, Honoka.:option91;Desculpe, chorei o filme inteiro, então...:option92",
     "EN": "I'm glad I got to watch it with you, Honoka.:option91;Sorry, I cried through the whole thing, so...:option92"
   },
   "364": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Hwah... G-Gerente! Você é bem mais pegador do que eu imaginava!\nPara com isso, que vergonha...",
     "EN": "Hwah... M-Manager! You're more of a playboy than I thought!\nStop it, that's embarrassin'..."
   },
   "365": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "M-Mas... eu também fiquei feliz por ter assistido com você... De verdade.",
     "EN": "B-But... I'm also happy that I got to watch it with you... Really."
   },
   "366": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Fufu, é verdade. Em toda vez que espiava você,\nos seus olhos estavam todos inchados e vermelhos.",
     "EN": "Fufu, that's true. Whenever I snuck a peek at ya,\nyour eyes were all puffy and red."
   },
   "367": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E agora estamos iguais. Fiquei mesmo muito feliz por me trazer aqui hoje. Obrigada!",
     "EN": "And now we match. I'm really glad you brought me here today. Thanks a lot!"
   },
   "368": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Essa é a série!\n...Eu pergunto a você. Você é o Mestre do Fuwa Fuwa?",
     "EN": "This is the series!\n...I ask of you. Are you Fuwa Fuwa's master?"
   },
   "369": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "A série lendária que falava direto com a adolescente edgy dentro do meu coração,\nagora totalmente animada com a tecnologia mais impressionante que existe...\nQue época tão maravilhosa em que vivemos!",
     "EN": "The legendary series that spoke directly to the edgy teen in my heart,\nnow fully animated with the newest most impressive technology...\nWhat a wonderful time we live in!"
   },
   "370": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Gerente... não, Mestre! Vamos.\nSeremos nós os vencedores da Chave Sagrada!",
     "EN": "Manager... no, Master! Let's go.\nWe'll be the ones who win the Holy Key!"
   },
   "371": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ahah, é mais um filme de Wait/Stay!\nNão sabia que esse já estava nos cinemas!",
     "EN": "Ooh, it's another Wait/Stay movie!\nI didn't know this one was already in theaters!"
   },
   "372": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Heheh. Eu sou, tipo, uma gamer girl, então\nsobre essa série eu sei uma coisa ou outra, e mais do que\nde outros animes, até, principalmente por conhecer o jogo original.",
     "EN": "Heheh. I'm what you might call a gamer girl, so I\nknow a thing or two about this series compared to\nother anime, especially since I'm familiar with the original game."
   },
   "373": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "A gente vai assistir a esse, Gerente? Tem certeza~?\nNão tem medo de se empolgar demais, baixar\no game de celular e arruinar a sua vida com o gacha~?",
     "EN": "Are we watching this, Manager? Are you sure~?\nAren't you afraid of getting too into it, downloading\nthe mobile game and then ruining your life with the gacha~?"
   },
   "374": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Se for bom o suficiente, talvez eu...!:option93;Na real, eu já gastei uma boa grana...:option94",
     "EN": "If it's good enough, I might...!:option93;I've actually already spent a lot...:option94"
   },
   "375": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "É! Isso, entendeu, né! Quando o jogo é bom daquele jeito,\ne quando você se apega às personagens, é impossível\ndeixar de jorrar dinheiro lá dentro!",
     "EN": "Yeah! Yeah, you get it! When the game's just that good,\nand when you get attached to the characters, you just\ncan't help but pour your money into it!"
   },
   "376": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "E se esta é, tipo, a ORIGINAL do jogo com\nbaleias de todo lado, então tem que ser muito, MUITO bom...\nAgora sim, Gerente! Hora de conferir o que é todo esse alvoroço!",
     "EN": "And if this is, like, the ORIGINAL of the game with\nso many whales, then it must be really, REALLY good...\nOkay, Manager! It's time to see what the fuss is all about!"
   },
   "377": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Uhh, saquei... Mas entendo.\nMelhor nem pensar em quanto gastei\ncom Magic Angel—peraí, não, não dá pra pensar assim!",
     "EN": "Oof, I see... I get it, though.\nI don't wanna think about how much I've spent\non Magic Angel—Wait, no, that's not right!"
   },
   "378": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "É natural gastar dinheiro com os momentos felizes que um jogo nos dá!\nEntão vamos, aproveita esse filme para ver o seu dinheiro valendo!",
     "EN": "It's only natural to spend money on the fun times you spend with a game!\nAll right then, let's enjoy this movie to get your money's worth!"
   },
   "379": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Uau... uma batalha entre magos que formam pactos com cavaleiros ancestrais...\nSinto o chamado do destino, mais forte do que nunca...!",
     "EN": "Wow... a battle between mages who form pacts with knights of eld...\nI feel the call of fate, stronger than ever before...!"
   },
   "380": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Eles usam Habilidades de Chave para comandar os cavaleiros,\ne participam de uma guerra atroz para realizar os seus desejos...",
     "EN": "They use Key Skills to make the knights do their bidding,\nand participate in a harrowing war in order to grant their wishes..."
   },
   "381": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Isso não tem toda a cara de uma história feita só para você e para mim...?!",
     "EN": "Does this not sound like a story created just for you and me...?!"
   },
   "382": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Eu sabia que você ia gostar, Favna.:option95;Minha alma insistia comigo que eu deveria assistir...:option96",
     "EN": "I knew you'd like it, Favna.:option95;My soul cried out to me that I should watch it...:option96"
   },
   "383": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Sim! A minha alma ressoa com este filme e me diz\nque essa história é inevitável no caminho predestinado.",
     "EN": "Yes! My soul resonates with this movie, and it tells me\nthat this story is unavoidable on my destined path."
   },
   "384": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Venha! Que testemunhemos... juntos! Que batalhas incríveis se desenrolarão!",
     "EN": "Come! Let us witness what incredible battles will unfold... together!"
   },
   "385": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Sim, você atendeu bem ao chamado da sua alma.\nDo meu leal familiar eu não esperava menos!",
     "EN": "Yes, you have listened to the call of your soul well.\nI expected nothing less from my loyal familiar!"
   },
   "386": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Venha! Que testemunhemos... juntos! Que batalhas incríveis se desenrolarão!",
     "EN": "Come! Let us witness what incredible battles will unfold... together!"
   },
   "387": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ahah, esse! Essa série sempre me deu tanta curiosidade.\nÉ sobre invocar heróis lendários e figuras históricas\ne fazê-los lutar no seu nome ou algo assim, né?",
     "EN": "Ooh, this one! I've always been sooo curious about this series.\nIt's about summonin' legendary heroes and historical figures\nand makin' them fight in your name or somethin', right?"
   },
   "388": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Seria como se um padre ou uma miko se juntasse\ncom o seu kami guardião pra lutar? Falo desconsiderando\nse isso seria blasfemo ou não.",
     "EN": "That's as if a priest or a shrine maiden teamed up\nwith their guardian kami to fight? I mean, disregardin'\nwhether that would be blasphemous or not."
   },
   "389": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Se esse tipo de coisa é popular, você acha que visitar santuários\ne dar oferendas viraria a nova moda?\nUma batalha até a morte entre duplas de miko e kami!",
     "EN": "If this kinda stuff is popular, do ya think visitin' shrines\nand makin' offerings would become a trend?\nA battle to the death between shrine maiden and kami tag-teams!"
   },
   "390": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "A gente devia transformar isso em mangá agora mesmo!:option97;Mas se eles perderem, eles e o santuário desaparecem...:option98",
     "EN": "We should turn that into a manga right now!:option97;But if they lose, they and their shrine disappear...:option98"
   },
   "391": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Boa ideia! Mas o papai provavelmente ia me dar um filão de bronca...\nPosso fazer de um jeito que ninguém perceba que é baseado no nosso santuário!",
     "EN": "Great idea! Though Daddy would prolly yell at me...\nI could make it hard to tell that it's based on our shrine, though!"
   },
   "392": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Então vamos assistir a esse filme como um estudo!\nFique de olho, Gerente!",
     "EN": "Then let's go watch this movie as a learning opportunity!\nKeep your eyes peeled, Manager!"
   },
   "393": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Agora essa parte é assustadora... Mas aquele suspense extra e a ameaça séria\ntambém podiam deixar tudo ainda mais interessante...",
     "EN": "Now that's terrifyin'... But that extra thrill and serious threat\ncould make it even more interestin' too..."
   },
   "394": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Então vamos assistir a esse filme como um estudo!\nFique de olho, Gerente!",
     "EN": "Then let's go watch this movie as a learning opportunity!\nKeep your eyes peeled, Manager!"
   },
   "395": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Foi tão triste... *sniff* Estou inconsolável...\nO modo como o Mestre e a Server-chan se apaixonaram\ndurante a guerra, mas tiveram que se separar e nunca mais se ver...",
     "EN": "That was so sad... *sniff* I'm inconsolable...\nThe way Master and Server-chan found love in each other\nduring the war, but had to part ways and could never meet again..."
   },
   "396": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Mestre... ah, quer dizer, Gerente... O que você faria?\nSe vencesse a guerra, e ganhasse a amaldiçoada Chave Sagrada...",
     "EN": "Master... um, I mean Manager... What would you do?\nIf you'd won the war, and got the cursed Holy Key..."
   },
   "397": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Realizaria o seu desejo, mesmo que pudesse deixar alguém infeliz?\nOu destruiria a Chave, para que ninguém ficasse infeliz?",
     "EN": "Would you grant your wish, even if it would make someone unhappy?\nOr would you destroy the Key, so that no one would be unhappy?"
   },
   "398": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Eu provavelmente realizaria o meu próprio desejo.:option99;Eu provavelmente destruiria a Chave.:option100",
     "EN": "I would probably grant my own wish.:option99;I would probably destroy the Key.:option100"
   },
   "399": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Entendi... N-Não, tudo bem! Como alguém responsável por um café,\nna real é até melhor que você saiba ser frio quando precisar.",
     "EN": "I see... N-No, it's fine! As someone in charge of a cafe,\nit might actually be better that you can be cold when you need to."
   },
   "400": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Um cavaleiro é aquele que carrega as feridas... Quem evita a batalha\npor medo de se machucar é uma afronta ao próprio Mestre!",
     "EN": "A knight is one who bears wounds... One who avoids battle\nbecause they're afraid of getting hurt would be an affront to their Master!"
   },
   "401": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Não é? Mesmo que obtenha o meu desejo, se isso significa sacrificar alguém...\nprovavelmente não ficaria nada feliz com isso!",
     "EN": "Right? Even if I get my wish, if it means sacrificing someone...\nI probably wouldn't be very happy about it!"
   },
   "402": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eu sabia que você era um Mestre de verdade, Gerente.\nPara o Fuwa Fuwa, você é o nosso ali da justiça!",
     "EN": "I knew you were a true Master, Manager.\nTo Fuwa Fuwa, you're our ally of justice!"
   },
   "403": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "*sniff*... Isso foi loucura... Lutaram até o fim com todas as forças,\nmas a Server-chan teve que ir para sempre... Como puderam fazer isso com ela...?!",
     "EN": "*sniff*... That was crazy... They fought so hard until the very end,\nbut Server-chan had to leave forever... How could they do that to her...?!"
   },
   "404": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Então é disso que a história se trata... E vem muita coisa por aí, né?\nAgora entendi por que a galera não para de tirar no gacha...!",
     "EN": "So that's what the story's about... And there's a bunch more, right?\nI get why people keep pulling in the gacha now...!"
   },
   "405": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "É isso, vou jogar o jogo!\nVou conseguir a Server-chan de qualquer jeito!",
     "EN": "That's it, I'm gonna play the game!\nI'm gonna pull Server-chan no matter what!"
   },
   "406": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Entendo o seu sentimento, mas calma!:option101;Quem conseguir ela primeiro, vence!:option102",
     "EN": "I get how you feel, but calm down!:option101;Whoever pulls her first wins!:option102"
   },
   "407": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Hã?! Ah, é sim. Vou reduzir um pouquinho a marcha.\nInspira... Expira...",
     "EN": "Huh?! Oh, right. I'll slow down for a sec.\nInhale... Exhale..."
   },
   "408": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Puxa, quase que eu gasto o meu orçamento mensal de Magic Angel nisso...\nValeu por me segurar, nem sei o que teria feito sem você...",
     "EN": "Phew, I was almost about to spend my monthly Magic Angel budget on it...\nThanks for holding me back, I dunno what I'd have done without you..."
   },
   "409": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ueeeh?! E-Espera, para tudo isso aí!\nIsso não devia ser uma corrida, né?!",
     "EN": "Huhhh?! W-Wait, hold it right there!\nThis isn't supposed to be a race, right?!"
   },
   "410": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Por que não vamos jogar \"Magic Angel\" no lugar? Vamos?\nVai te fazer chorar ainda mais do que Wait/Stay, tá?",
     "EN": "Why don't we go play \"Magic Angel\" instead? Please?\nIt'll make you cry even harder than Wait/Stay, okay?"
   },
   "411": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Augh... *sniff*... Que destino de separação... cruel... e ao mesmo tempo nobre...\nO vínculo supremo, acima dos pactos e do amor que sentiam um pelo outro...!",
     "EN": "Ough... *sniff*... What a cruel... yet noble fate of separation...\nThe ultimate bond, beyond their pacts and love for each other...!"
   },
   "412": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Sim... Mesmo que os dois estivessem conectados pelo destino...\ne, sobretudo, se o discípulo traz um espírito puro e gentil...",
     "EN": "Yes... Even though the two were connected by fate...\nand especially if the follower has an untainted, kind spirit..."
   },
   "413": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Diga... Se aquela hora chegar...\nVocê me a... a abandonaria para sempre...?",
     "EN": "Say... If the time were to come...\nWill you... l-leave me forever...?"
   },
   "414": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Ninguém sabe aonde o destino nos levará.:option103;Nunca mais deixarei você.:option104",
     "EN": "No one knows where fate will lead us.:option103;I will never leave you again.:option104"
   },
   "415": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...*sniff*... É verdade... Me perdoe,\nminha alma estava, ah, levemente tomada de reverência...",
     "EN": "...*sniff*... You're right... I'm sorry,\nmy soul was, ah, slightly awestricken..."
   },
   "416": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E mesmo assim... que história linda...\nEram Mestre e familiar, e ainda assim,\nbem... eram... muito queridos...",
     "EN": "And yet... what a beautiful tale...\nThey were master and familiar, and yet,\num... they were... very nice..."
   },
   "417": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...*sniff*...D-De verdade...?\nVocê realmente não vai me deixar...?",
     "EN": "...*sniff*...R-Really...?\nYou really won't leave me...?"
   },
   "418": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Ehehe... Então jure que vai dedicar a sua vida\nà grande Favna para cumprir o seu destino!\nEu sou a sua Mestre!",
     "EN": "Ehehe... Then swear that you will devote your life\nto the Great Favna in order to fulfill your destiny!\nI am your Master!"
   },
   "419": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Aaargh... Não consigo... Eu... Será que na realidade\neu sou uma tremenda preguiçosa de miko...?",
     "EN": "Ough... I can't... I... Could it be that I'm actually\na huge slacker as a shrine maiden...?"
   },
   "420": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "A Server-chan sabia que ficaria separada para sempre,\nmas mesmo assim lutou tanto... E o que eu já fiz pelo meu kami...?",
     "EN": "Server-chan knew that they were goin' to be separated forever,\nbut she still fought so hard... What have I ever done for my kami...?"
   },
   "421": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "A gente também não recebe muitas oferendas... Preciso me esforçar\ncomo você fez para reerguer o negócio do Fuwa Fuwa...",
     "EN": "We don't get many offerings either... I should work hard\nlike ya did to rebuild Fuwa Fuwa's business..."
   },
   "422": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Você está indo muito bem como miko.:option105;Pelo contrário, você deveria pedir mais favores ao kami.:option106",
     "EN": "You're doing great as a shrine maiden.:option105;If anything, you should get the kami to do more for you.:option106"
   },
   "423": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Tem certeza...? Digo, faço tudo o que posso...\nHm. Se é isso que você realmente pensa, então talvez\neu deva confiar um pouquinho mais em mim.",
     "EN": "Are ya sure...? I mean, I'm doin' everythin' I can...\nMhm. If that's what ya really think, then maybe\nI should put a li'l more faith in myself."
   },
   "424": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "É verdade. Ainda precisamos que os clientes do Fuwa Fuwa\nreconheçam o Santuário Ishida primeiro, e vou tentar arrumar\nalguma coisa para o mangá de ação da miko! Obrigada!",
     "EN": "That's true. We still need Fuwa Fuwa's customers\nto recognize Ishida Shrine first, and I'll try to come up\nwith somethin' for the shrine maiden action manga! Thanks!"
   },
   "425": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ueeeh?! Então quer dizer que eu devo fazer o oposto?\nPedir ao kami mais bênçãos e nos conseguir\nmais visitantes? Isso é o que eu chamo de blasfêmia!",
     "EN": "Huhhh?! Then you mean I should do the opposite?\nAsk the kami to give us more blessings and get us\nmore visitors? Now that's what I call blasphemous!"
   },
   "426": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E além disso, já recebi um monte de bênçãos\ndo nosso kami! Caso contrário, não estaria aqui\ncom você num encont—quer dizer, nada! Não falei nada!",
     "EN": "Besides, I've already received plenty of blessings\nfrom our kami! Otherwise, I wouldn't be here\nwith you on a d—I mean, nothin'! I said nothin'!"
   },
   "427": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "G-Gerente? A gente v-vai mesmo assistir a esse...?",
     "EN": "M-Manager? Are we r-really watching this...?"
   },
   "428": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eu, bem... E-Eu realmente queria m-muito a-assistir com você,\nmas, ah... E-Eu não, não sou experiente com...\ne-esse tipo de coisa, então, eu não, bem...",
     "EN": "I, um... I-I would really l-l-love to w-watch with you,\nbut, uh... I-I'm not, I'm not really experienced in...\nth-this kind of thing, so, I don't, um..."
   },
   "429": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "...Acho que vou... fazer uma, bem, retirada tática,\ncomo se diz... Com a sua licença... Glup!",
     "EN": "...I think I'll... make a, um, tactical retreat,\nas they say... If you'll excuse me... Ack!"
   },
   "430": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Você não precisa assistir a esse se não quiser.:option107;Mas tenho medo demais de assistir sozinho...:option108",
     "EN": "You don't have to watch this if you don't want to.:option107;I'm too scared to watch it alone, though...:option108"
   },
   "431": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "M-Me desculpe... É que... Esse tipo de coisa realmente me apavora...\nP-Pode ser que eu não consiga dormir de noite depois...",
     "EN": "I-I'm so sorry... I just... I really can't handle this kind of thing...\nI m-might not be able to sleep at night afterwards..."
   },
   "432": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ah, espera, não! E se algo acontecer com você\nenquanto assistia sozinho? Eu me arrependeria demais...\nVou assistir! Arrisco até a minha vida para assistir com você!",
     "EN": "Ahhh wait no! What if something happens to you\nwhile you were watching alone? I would regret it so much...\nI'll watch it! I'll put my life at stake to watch it with you!"
   },
   "433": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Hã... N-Nãooooo... Uu...",
     "EN": "Huh... N-Noooo... Uuu..."
   },
   "434": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "T-Tudo bem, tá... Vou com você...\nP-Por favor, não fique bravo comigo nem se eu gritar, tá...?",
     "EN": "O-Okay, fine... I'll go with you...\nP-Please don't get mad at me even if I scream, okay...?"
   },
   "435": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Opa, olha só, não é o filme com o comercial\nde TV super macabro? Como você aguenta esse tipo de coisa, Gerente?",
     "EN": "Whoa there, isn't this the movie with the super creepy\nTV commercial? How well do you take this kinda stuff, Manager?"
   },
   "436": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Para ser sincera, eu sou super ruim com horror...\nPasso a maioria das noites sozinha em casa, então sempre que lembro de algo macabro,\nfico tão assustada que nem tomo banho tranquila.",
     "EN": "To be honest, I'm actually super bad with horror...\nI'm alone at home most nights, so whenever I remember something creepy,\nI get so scared that I can't even take a bath in peace."
   },
   "437": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "E-Eu assisto com você, se você insistir de verdade...\nMas podia pular esse, não podia...?",
     "EN": "I-I'll watch with you if you really insist...\nBut could I pass this one up...?"
   },
   "438": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Não vou te obrigar a assistir se você não quiser...:option109;T-Talvez não seja assustador se a gente assistir junto...:option110",
     "EN": "I won't make you watch it if you don't want to...:option109;I-It might not be scary if we watch it together...:option110"
   },
   "439": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "...Aaaargh! Esquece, eu também vou assistir!\nProvavelmente seria ainda mais assustador se você me deixasse\nsozinha aqui depois de tudo aquilo!",
     "EN": "...Aaaargh! Scratch that, I'm watching it too!\nIt'd probably be even scarier if you left me\nalone here after all that!"
   },
   "440": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Mas, hmm... Talvez eu, tipo, grite e chore\ne coisa e tal, então... Desculpa desde já...?",
     "EN": "But, uhhh... I might, like, scream and cry\nand stuff, so... Sorry in advance...?"
   },
   "441": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Hmm... T-Tem certeza de que dá pra fazer isso?\nPeraí, hm. Quer dizer que você também está com medo? Então...",
     "EN": "Uhhh... A-Are you sure that's a thing?\nWait, huh. Does that mean you're scared too? Then..."
   },
   "442": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Então, se algo assustador acontecer, só olho pra você\ne presto atenção na sua reação assustada no lugar... Beleza, vamos...",
     "EN": "Then if something scary happens, I'll just look at you\nand watch your scared reaction instead... Okay then, let's do this..."
   },
   "443": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E-Essa é... uma história de ódio maligno puro,\numa que se desviou do ciclo do renascimento...",
     "EN": "Th-This is... a story of pure evil hatred,\none that has strayed from the cycle of rebirth..."
   },
   "444": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Um ressentimento desse peso... P-Pode ser perigoso\naté mesmo aproximar-se, já que poderia profanar uma alma humana\nse chegar perto demais...",
     "EN": "Resentment of such weight... I-It might be dangerous\nto even approach it, as it could defile a human soul\nif you get too close..."
   },
   "445": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Mas... v-vamos realmente assistir a isso...?",
     "EN": "But... a-are we really watching this...?"
   },
   "446": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Vou ver do que se trata por conta própria.:option111;Se você for comigo, podemos proteger as almas um do outro.:option112",
     "EN": "I'll see what it's about by myself.:option111;If you go with me, we could protect each other's souls.:option112"
   },
   "447": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Nem pensar, e-eu não posso d-deixar você entrar l-lá sozinho!",
     "EN": "...Nay, I-I cannot l-let you go i-in there alone!"
   },
   "448": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "N-Não é que eu tenho medo de ficar sozinha ou coisa assim...\nBem... Isso! Sou a única capaz de proteger\na sua alma de espíritos hediondos, então... vamos... vamos... uuuu...",
     "EN": "I-It's not that I'm scared of being left alone or anything...\nUm... right! I'm the only one who can protect your soul\nfrom foul spirits, so... let's... let's go... uuuu..."
   },
   "449": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "D-De verdade...? S-Sim, é claro.\nSe essa é a sua escolha, então deve\nter sido o meu destino testemunhar isso também...",
     "EN": "R-Really...? Y-Yes, right.\nIf this is your choice, then it must\nbe my fate to witness it as well..."
   },
   "450": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "E-Entretanto... Se eu realmente não aguentar até o fim...\nV-Você se importaria se... abandonasse a sessão?",
     "EN": "H-However... If I really cannot endure it until the end...\nW-Would you mind if I... stopped watching?"
   },
   "451": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, vi o comercial macabro desse na TV.\nHã, vamos assistir a esse? Você vai ficar bem?",
     "EN": "Oh, I saw the creepy commercial for this on TV.\nHuh, we're gonna watch this? Will ya be okay?"
   },
   "452": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Já eu fico super tranquila contanto que saiba logo no começo\nque é só uma história. Tipo uma montanha-russa.",
     "EN": "As for me, I'm totally fine as long as I know from the start\nthat it's all just a story. It's kinda like a roller coaster ride."
   },
   "453": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E como você já sabe... A gente já viveu algo\ndaquele tipo antes... Então fantasmas, maldições e afins\nnão assustam mais tanto.",
     "EN": "And as ya already know... We've already seen somethin'\nlike that before... So ghosts and curses and the like\naren't all that scary anymore."
   },
   "454": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Se você quer saber, a minha expectativa são as\nreações divertidas que você vai mostrar! Ehehe~ Vamos!",
     "EN": "If ya ask me, I'm more excited for the entertainin'\nreactions you're bound to show me! Ehehe~ C'mon, let's go!"
   },
   "455": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Hgh... *hic*... A-Acabou... Aaahh...\nAs luzes daqui são tão mornas...",
     "EN": "Hgh... *hic*... I-It's over... Ahhh...\nThe lights here are so warm..."
   },
   "456": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Desculpa... Acho que fiz m-muitos barulhos estranhos...\nV-Você se assustou, Gerente...?",
     "EN": "I'm sorry... I think I m-made a lot of weird noises...\nD-Did you get scared, Manager...?"
   },
   "457": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Eu levei um susto quando você agarrou o meu braço.:option113;Tive tanto medo que acho que desmaiei na metade...:option114",
     "EN": "I was startled when you grabbed my arm.:option113;I was so scared, I think I passed out halfway...:option114"
   },
   "458": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "É-Que é, acho injusto aquela coisa se esgueirando e olhando pra gente\npor DENTRO do cobertor, onde era pra ficar totalmente segura!",
     "EN": "I-It's just, I think it's unfair that it snuck in and looked at us\nfrom INSIDE the covers, where it should be completely safe!"
   },
   "459": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Hoooh... Acho que nunca vou melhorar nisso, nem que\nassista a um monte de filmes de terror... A paz sempre\né a melhor opção, tanto na vida real quanto nos filmes...",
     "EN": "Hooooh... I don't think I'll get better at this no matter\nhow many horror movies I watch... Peace is always\nthe better option, both in real life and in movies..."
   },
   "460": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "O quê?! V-Você está bem? Teve um infarto?!\nVocê vai morrer de choque?!",
     "EN": "What?! A-Are you okay? Did you have a heart attack?!\nAre you going to die from shock?!"
   },
   "461": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Gerente... não precisa se assustar de propósito, assim...\nNa próxima vez, a gente assiste a algo mais tranquilo. Tá? Por favor?",
     "EN": "Manager... you don't have to scare yourself on purpose like that...\nWe should watch something more peaceful next time. Okay? Please?"
   },
   "462": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ai, meu Deus, que tãããão assustadoroo!\nQuem foi que disse que seria menos assustador assistindo juntos? Augh...",
     "EN": "Ohhhhhhh my god that was sooo scaryyy!\nWho said it'd be less scary if we watched it together? Ough..."
   },
   "463": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Chorei tanto que a maquiagem ficou um desastre... Isso é horrível...\nNunca vou te perdoaaaar... Augh...",
     "EN": "I cried so much my makeup is a mess... This is horrible...\nI'll never forgive youuu... Augh..."
   },
   "464": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Vou te pagar qualquer comida que você quiser, só me perdoa!:option115;Vou te comprar qualquer coisa que você quiser, só me perdoa!:option116",
     "EN": "I'll treat you to any food you want, so please forgive me!:option115;I'll buy you anything you want, so please forgive me!:option116"
   },
   "465": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "*sniff*... Sério...? Tá...\nQualquer coisa que eu quiser, foi assim que você disse... Então...",
     "EN": "*sniff*... Really...? Okay...\nAnything I want, you say... Well then..."
   },
   "466": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Quero ir no Mugen Malatang! E você vai ter que comer as opções mais picantes!\nE depois vou de parfait! E mais um sorvete! E então a gente janta\ne você fica lá até eu ficar satisfeita de verdade! Entendeu?!",
     "EN": "I wanna go to Mugen Malatang! And you have to eat the spiciest options!\nAnd then I'm getting a parfait! And another ice cream! And then we'll\ngo for dinner and you'll have to be there until I'm totally satisfied! Got it?!"
   },
   "467": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Augh... Só que não tem muita coisa que eu queira comprar...\nAh, então que tal assim?",
     "EN": "Ough... There's not much I wanna buy, though...\nOh, then how's this?"
   },
   "468": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Vamos ao fliperama, e você vai farmar Magic Angel comigo\naté chegar no mesmo rank que eu! Então vamos comprar bebidas\nno Famistop e começar a missão!",
     "EN": "We're going to the arcade, and you're gonna grind Magic Angel with me\nuntil you're the same rank as me! All right then, let's buy some drinks\nfrom Famistop and start the mission!"
   },
   "469": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Uu... hic... E-Esso foi... simplesmente... ultrajante... *sniff*...",
     "EN": "Uu... hic... Th-This is... simply... outrageous... *sniff*..."
   },
   "470": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Um ódio chamando o outro... uma espiral de desespero sem fim...\nPor quê... como... Aquilo foi... Uu...",
     "EN": "One malice calling another... a never-ending spiral of despair...\nWhy... how... That's... Uuu..."
   },
   "471": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "F-Foi tão assustador que talvez eu... talvez eu não\nconsiga dormir hoje à noite... Seu valentão...\nE agora o que eu devo fazer...?!",
     "EN": "Th-That was so scary, I might... I might not\nbe able to sleep tonight... You bully...\nNow what am I supposed to do...?!"
   },
   "472": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Vamos trocar as memórias ruins por divertidas.:option117;Vamos trocar as memórias ruins por saborosas.:option118",
     "EN": "Let's replace the bad memories with fun ones.:option117;Let's replace the bad memories with tasty ones.:option118"
   },
   "473": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "N-Nesse caso... Leve-me ao tesouro transmitido pela lenda\ncontendo jogos eletrônicos raros e ancestrais... Super Potato!",
     "EN": "I-In that case... Take me to the treasure trove of rare and ancient\nelectronic games spoken of in legends... Super Potato!"
   },
   "474": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Jogaremos jogos retrô à vontade...\ne protegeremos o sono com lembranças de diversão.\nPartamos de imediato!",
     "EN": "We shall play retro games to our heart's content...\nand protect our slumber with memories of entertainment.\nLet us depart at once!"
   },
   "475": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "N-Nesse caso... Traga-me como oferenda\numa Torre de Carne Escura e Fantasia... ou seja,\na oferenda que o seu povo chama de \"hambúrguer\"!",
     "EN": "I-In that case... Make me an offering of\na Stack of Dark Meat and Fantasy... in other words,\nthe offering that your people call a \"hamburger\"!"
   },
   "476": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Comerei o maior que existir e saciarei a minha alma\nantes de afundar no sono. É claro que também tomarei\nLâminas de Sementes de Terra Ardente e Bolhas Tagarelas Enegrecidas!",
     "EN": "I shall eat the biggest one they have and satiate my soul\nbefore I fall into slumber. Of course, I will also have\nBlades of Scorching Terra Seeds and Blackened Babbling Bubbles!"
   },
   "477": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "...Sabe, já sabia disso, mas...\na coisa mais assustadora por aí é, na verdade, a loucura humana...",
     "EN": "...Y'know, I already knew this, but...\nthe scariest thing out there is actually human insanity..."
   },
   "478": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Digo, se me acusassem de trair e me expulsassem da minha própria casa,\nme fazendo perder a festa de aniversário da criança... Eu virava fantasma\ne assombrava ela também... Peraí, mas isso não é muito miko da minha parte.",
     "EN": "I mean, if I got accused of cheatin' and got kicked outta my own house,\nmakin' me miss my own kid's birthday party... I'd turn into a ghost\nand haunt 'em too... Wait, that's not very shrine maiden-like of me."
   },
   "479": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E com você, Gerente? Se morresse agora de repente,\nteria algum arrependimento que o fizesse voltar como fantasma?",
     "EN": "How about you, Manager? If ya suddenly died now,\ndo ya have any regrets that would make ya come back as a ghost?"
   },
   "480": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Talvez eu assombrasse o Fuwa Fuwa e não conseguisse sair...:option119;Talvez eu assombrasse e possuísse você...:option120",
     "EN": "I might haunt Fuwa Fuwa and be unable to leave...:option119;I might haunt and possess you...:option120"
   },
   "481": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "\"Consigo ver o jovem fantasma de um gerente de café no seu auge...\"\nIsso não é um café de maids, é um café sobrenatural!\nConceito aterrorizante para se fundar um café, na minha opinião!",
     "EN": "\"I can see the young ghost of a cafe manager in his prime...\"\nThat's not a maid cafe, that's a supernatural cafe!\nTerrifyin' concept to base a cafe on, in my opinion!"
   },
   "482": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Mas isso só significa que temos que viver a vida ao máximo\npara que não sobre nenhum arrependimento e não acabe daquele jeito...\nPeraí, por que estou ficando toda filosófica? Hehe.",
     "EN": "But that just means we've gotta live life to the fullest\nso we don't have any regrets and end up like that...\nWait, why am I gettin' all philosophical? Hehe."
   },
   "483": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Com licença?! Você poderia pelo menos ter a decência de\nNÃO espionar a vida particular de uma pobre jovem como eu~?!",
     "EN": "Excuse me?! Could ya at least have the tact\nto NOT spy on the private life of a poor young girl like me~?!"
   },
   "484": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, mas talvez eu não me importasse tanto se fosse você...\nEu te apresentaria ao papai e contaria que você é inofensivo\npara que ele não te exorcize. Assim você fica seguro. Hehe.",
     "EN": "Oh, but maybe I wouldn't mind that much if it were you...\nI'd introduce you to Daddy and tell him you're harmless\nso that he doesn't exorcise ya. That'll keep ya safe. Hehe."
   },
   "485": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Você também quer assistir a \"Is the Order a Little Sister? The Movie\", Gerente?!",
     "EN": "Do you want to watch \"Is the Order a Little Sister? The Movie\" too, Manager?!"
   },
   "486": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Está entre os top 5 filmes obrigatórios para quem gosta de irmãzinhas!\nNão acredito que tenho a chance de vê-lo na tela grande de novo...!",
     "EN": "It's among the top 5 must-watch movies for anyone who likes little sisters!\nI can't believe I have the chance to watch it on the big screen again...!"
   },
   "487": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Vamos assistir! Agora mesmo! Recarregar com o poder sagrado das imouto!",
     "EN": "Let's watch it! Right now! Let's recharge with the holy power of imoutos!"
   },
   "488": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Nhaaaa... Tããão fofo... Irmãzinhas são tããão fofas...\nEspecialmente a Kirina-chan, com o jeito que ela fica inexpressiva\nperto do irmão... Uma fofura desse tamanho devia ser ilegal..!",
     "EN": "Ohhhh... Sooo cute... Little sisters are sooo cute...\nEspecially Kirina-chan, with how she can't express herself well\naround her brother... This much cuteness should be illegal..!"
   },
   "489": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Tsundere... De longe o arquétipo mais abençoado entre os arquétipos...",
     "EN": "Tsundere... Truly the most blessed trope among tropes..."
   },
   "490": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "A Coco-chan é bem fofa também... Ela é muuuuito legaaal,\ne não sai do lado do irmão quando ele está triste...\nEla é um anjo...!",
     "EN": "Coco-chan is really cute too... She's sooo so nice,\nand she won't leave her brother's side when he's sad...\nShe's such an angel...!"
   },
   "491": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Suspiro... Se eu pudesse ficar cercada de imoutos fofas assim...\nEhehehe... Ops, não posso começar a babar aqui!",
     "EN": "Sigh... If only I could be surrounded by cute imoutos like that...\nEhehehe... Whoops, I can't start drooling here!"
   },
   "492": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Gerente... Por que eu não posso ter uma irmãzinha...\nAcho que os deuses deviam dar uma a cada pessoa. Era só justo...",
     "EN": "Manager... Why can't I have a little sister...\nI think the gods should give every single person a little sister. It's only fair..."
   },
   "493": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ah... Espero que a nossa nova maid... seja tão fofa quanto uma irmãzinha... Hehehe...",
     "EN": "Ah... I hope our new maid... will be as cute as a little sister... Hehehe..."
   },
   "494": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Is the Order... A Little Sister...? Aposto que a Shiro ama isso.",
     "EN": "Is the Order... A Little Sister...? I bet Shiro loves this."
   },
   "495": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Eu não tenho uma irmãzinha, mas acho mesmo que seria legal ter\numa irmãzinha fofa que curte o que eu curto, tal como a Shiro.",
     "EN": "I don't have a little sister, but I do think it'd be nice if I could\nhave a cute little sister who shares my interests, just like Shiro."
   },
   "496": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Gerente, você tem... espere, hã?! A gente vai ver esse?!",
     "EN": "Manager, do you have... wait, huh?! We're watching this one?!"
   },
   "497": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Saquei... Então você é mais uma vítima do conceito de irmãzinhas...\nBeleza então, vamos conferir!",
     "EN": "I see... So you're another victim of the concept of little sisters...\nAll right then, let's check it out!"
   },
   "498": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Suspiro... Subestimei esse filme...\nNunca pensei que ele me faria querer uma irmãzinha...",
     "EN": "Sigh... I underestimated the movie...\nI never thought it'd make me want a little sister..."
   },
   "499": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Tanto a Kirina quanto a Coco-chan eram garotas tão legais...\nE ainda se cuidavam uma da outra, que nem irmãs de verdade.",
     "EN": "Both Kirina and Coco-chan were such nice girls...\nThey cared for each other too, just like real sisters."
   },
   "500": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ei, ei, se tivesse que escolher entre a Shiro e a mim,\nquem você preferia que fosse sua irmãzinha?",
     "EN": "Hey, hey, if you had to choose between me and Shiro,\nwho would you want to be your little sister?"
   },
   "501": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Num golpe de olhos, a Shiro provavelmente passa a impressão da garota \"irmãzinha\" clássica,\nmas no fim das contas quem seria mais a irmãzinha manhosa sou eu,\npois a Shiro provavelmente cuidaria de você super bem!",
     "EN": "At a glance, Shiro probably feels more like a classic \"little sister\" kinda girl,\nbut ultimately I'm the one who'd be more like a spoiled little sister,\nsince Shiro would probably take care of you really well!"
   },
   "502": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Com qual você preferia ficar de irmãzinha?\nA Shiro? Ou será que comigo~?",
     "EN": "Who would you like more as a little sister?\nShiro? Or maybe me~?"
   },
   "503": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Um pedido para uma irmãzinha... Bem que isso poderia ser...\numa história sobre invocar os próprios parentes pela magia negra?",
     "EN": "An order for a little sister... Could this be...\nA story about summoning one's kin with black magic?"
   },
   "504": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Hã? Vamos ver esse?\nBem, não me incomodo particularmente...",
     "EN": "Huh? We're watching this?\nWell, I don't particularly mind..."
   },
   "505": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Mas você... quer uma irmãzinha, familiar?\nQuer...? Então deveria ver isso para aprender mais...",
     "EN": "But do you... want a little sister, familiar?\nYou do...? Then I should watch this to learn more..."
   },
   "506": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "P-Para deixar claro, não é que eu queira virar sua irmãzinha!\nÉ apenas o meu dever como sua Mestre e deusa realizar os seus desejos!",
     "EN": "J-Just to be clear, it's not that I want to become your little sister!\nIt's just my duty as your master and goddess to grant your wishes!"
   },
   "507": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Mudei de ideia. Familiar.\nA partir de hoje, você será minha irmãzinha.",
     "EN": "...I've changed my mind. Familiar.\nFrom today onwards, you shall be my little sister."
   },
   "508": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Irei ouvir todos os seus percalços como a sua irmã mais velha.",
     "EN": "I will listen to all your troubles as your older sister."
   },
   "509": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Realizarei todos os seus desejos e te apoiarei no que fizer.\nMas fala o seu desejo mais egoísta... não, seja manhoso o quanto quiser.",
     "EN": "I will grant your every wish and support you whatever you do.\nTell me your most selfish wish... no, act as spoiled as you'd like."
   },
   "510": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Mas você... não é fofa o bastante para que eu\npossa realmente te ver como uma irmãzinha... Suspiro...",
     "EN": "But you're... not cute enough for me to\ntruly see you as a little sister... Sigh..."
   },
   "511": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Então talvez a Apóstola Branca... Vou dizer a ela que\no seu destino será tornar-se a irmãzinha da grande Favna\na partir de amanhã... Sim, devo tentar isso...",
     "EN": "Then perhaps the Apostle of White... I shall tell her that\nit is her fate to become the great Favna's little sister\nfrom tomorrow... Yes, I should try that..."
   },
   "512": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Is the Order a Li'l Sister? Pela minha experiência,\né mais \"quais são as ordens da caçula desta vez?\"",
     "EN": "Is the Order a Li'l Sister? In my experience,\nit's more like \"what's the li'l sister's orders this time?\""
   },
   "513": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Basta eu levá-las para um passeio de compras,\nque vem uma nevasca de \"Eu quero provar isso!\" e \"Podemos comprar este?\"\nCaçulas de verdade não dão trabalho fácil, viu...",
     "EN": "If I so much as take 'em out on a shoppin' trip,\nit's a neverendin' barrage of \"I wanna try that!\" and \"Can we buy this?\"\nReal-life li'l sisters are a real handful, I'm tellin' ya..."
   },
   "514": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, mas talvez eu só pense assim por ser irmã mais velha.\nTalvez o irmão mais velho adoraria mimar a caçula dele.",
     "EN": "Oh, but maybe I only feel that way 'cause I'm an older sister.\nMaybe an older brother would be happy to spoil his li'l sisters."
   },
   "515": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Então vamos conferir. Espero que você consiga ver\na caçula fofa ideal que está procurando!",
     "EN": "Let's check it out then. I hope ya get to see\nthe ideal cute li'l sister you're lookin' for!"
   },
   "516": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "*sniff*... Desculpa... é que...\nMe empolguei mais do que pensava...",
     "EN": "*sniff*... I'm sorry, I just...\nI got more invested than I thought I would..."
   },
   "517": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Fiquei pensando em como as minhas caçulas vão sair de casa quando crescerem...\nE isso começou a me dar uma baita solidão...",
     "EN": "I thought of how my sisters will prolly leave home when they grow up...\nAnd that made me start to feel so lonely..."
   },
   "518": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Mistério... Elas não vão mais me importunar com amor quando crescerem.\nSe de repente começarem a fingir que não me conhecem, posso até chorar...",
     "EN": "Sigh... They ain't gonna annoy me with love when they're all grown up.\nIf they suddenly start pretendin' not to know me, I might just cry..."
   },
   "519": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Se pensar bem, caçulas um pouco mimadas são bem fofas...\nAposto que você pensa o mesmo sobre as suas quatro caçulas!",
     "EN": "When ya think about it, slightly spoiled li'l sisters are pretty cute...\nI bet ya think the same way about your four li'l sisters!"
   },
   "520": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Vamos comprar algo doce no caminho de volta\npara as três caçulas esperando por nós! Vááááamos, onii-chan?",
     "EN": "Let's buy somethin' sweet on the way back\nfor the three li'l sisters waitin' for us! Pleeease, onii-chan?"
   },
   "521": {
     "Personagem": "Mio",
-    "PT": "",
+    "PT": "Você quer saber que campanhas estamos fazendo?",
     "EN": "You want to know what campaigns we have going on?"
   },
   "522": {
     "Personagem": "Mio",
-    "PT": "",
+    "PT": "A cada cinco visitas que você fizer,\na sexta visita recebe um desconto.",
     "EN": "For every five times you visit,\nyou get a discount for your sixth visit."
   },
   "523": {
     "Personagem": "Mio",
-    "PT": "",
+    "PT": "Mas isso se aplica apenas a quem tem cadastro online,\nentão confira o site oficial para mais detalhes.",
     "EN": "But this only applies to people with an online membership,\nso please check the official website for more details."
   },
   "524": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "(Ingressos de cortesia ou um desconto pra quem tem cadastro online...\nNada disso dá pra fazer logo logo.)",
     "EN": "(Free trial tickets or an online membership discount...\nNeither of these are something we can do right away.)"
   },
   "525": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "(O ideal seria conversar sobre isso com as outras amanhã.)",
     "EN": "(I should talk to the others about this tomorrow.)"
   },
   "526": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Hehe, chegamos. Os salões com meia-luz\ne o cheirinho bom da pipoca... Já estou ficando empolgada!",
     "EN": "Hehe, here we are. The dimly lit rooms\nand the nice smell of popcorn... I'm gettin' excited!"
   },
   "527": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Na real, eu assisto a praticamente qualquer coisa,\nentão deixo a escolha por sua conta.\nMal posso esperar para ver que filme você vai escolher!",
     "EN": "I can watch pretty much anythin', really,\nso I'll leave the choice up to ya.\nI can't wait to see what movie ya pick!"
   },
   "528": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Conseguimos, Gerente! O cinema\nvai participar do rally de carimbos também!",
     "EN": "We did it, Manager! The movie theater\nis going to join the stamp rally too!"
   },
   "529": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Deve ter sido difícil convencer uma grande rede de cinemas...\nEsta generosidade é algo que a gente consegue de verdade com o comércio local!",
     "EN": "It might have been difficult to convince a big theater chain...\nThis generosity is something you can really get from local businesses!"
   },
   "530": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Já que estamos aqui mesmo, que tal assistirmos a um filme?\"",
     "EN": "\"Since we're already here, why don't we watch a movie?\""
   },
   "531": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Hã, dá pra fazer isso?! Mas sim, você está certo,\na gente ainda tem tempo...!",
     "EN": "Huh, can we?! But yes, you're right,\nwe do still have the time...!"
   },
   "532": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Então, deixo a escolha do filme com você, Gerente.\nMal posso esperar para ver o que vamos assistir!",
     "EN": "Then, I'll let you choose the movie, Manager.\nI can't wait to see what we're going to watch!"
   },
   "533": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ei, Gerente~! Aceitaram!\nObrigada por lembrar do cinema!",
     "EN": "Hey, Manager~! They said okay!\nThanks for remembering the theater!"
   },
   "534": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Não acho que nenhuma das outras tenha voltado,\nentão, que tal assistir a algo antes de irmos?\nVocê escolhe o filme que quiser!",
     "EN": "I don't think any of the others are back yet,\nso why don't we watch something before we go?\nYou can pick whatever movie you want!"
   },
   "535": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Desculpe a demora. Aceitaram.\"",
     "EN": "\"Sorry I took a while. They said okay.\""
   },
   "536": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Eu sabia que você conseguiria, meu familiar. Trabalho excelente!",
     "EN": "I knew you could do it, my familiar. Excellent job!"
   },
   "537": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Mas, hmm... É cedo demais para nós retornarmos ao Elysium, não?",
     "EN": "But, hmm... Isn't it a bit early for us to return to the Elysium?"
   },
   "538": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Já que estamos aqui mesmo, que tal assistirmos a um filme?\"",
     "EN": "\"Since we're already here, why don't we watch a movie?\""
   },
   "539": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Espera, podemos? Isso!\n...Quer dizer, ahem!",
     "EN": "Wait, can we? Yay!\n...I mean, ahem!"
   },
   "540": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "B-Bem, creio que não temos nada melhor a fazer.\nAproveitemos este breve momento de descanso antes\ndo nosso retorno ao Elysium.",
     "EN": "W-Well, I suppose we have nothing better to do.\nLet us enjoy this brief moment of respite before\nwe return to the Elysium."
   },
   "541": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Gerente, aceitaram.\nUfa, que bom que viemos!",
     "EN": "Manager, they said okay.\nWhew, I'm glad we came!"
   },
   "542": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, aliás, como duvido que alguma das outras\nainda tenha voltado... quer assistir a um filme?",
     "EN": "Oh, by the way, since I doubt any of the others\nare back yet... do ya wanna watch a movie?"
   },
   "543": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Me diverti demais assistindo com você na semana passada,\nentão te deixo a escolha. Traga algo bom!",
     "EN": "I had loads of fun watchin' with ya last week,\nso I'll leave it to ya. Pick somethin' good!"
   }
 }

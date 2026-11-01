@@ -1,142 +1,142 @@
 {
   "1": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ooh, você tem tanta sorte, Gerente! Deixa eu tentar!",
     "EN": "Ooh, you're so lucky, Manager! Let me try!"
   },
   "2": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "*Click* *clac*... *clanc!*",
     "EN": "*Click* *clatter*... *clank!*"
   },
   "3": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ah! Eu tirei o mesmo que você, Gerente! Que coincidência!",
     "EN": "Oh! I got the same one as you, Manager! What a coincidence!"
   },
   "4": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ooh, eu tirei [{0}]! Você quer trocar?",
     "EN": "Ooh, I got [{0}]! Do you want to trade?"
   },
   "5": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Trocar:option1;Não trocar:option2",
     "EN": "Trade:option1;Don't trade:option2"
   },
   "6": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Tudo bem. Então você gosta daquele personagem, Gerente?",
     "EN": "Okay. So you like that character, Manager?"
   },
   "7": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eu queria este! Muito obrigada!",
     "EN": "I wanted this one! Thank you very much!"
   },
   "8": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Uau, que fofo! Deixa eu tentar também!",
     "EN": "Wow, that's so cute! Lemme try too!"
   },
   "9": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "*Click* *clac*... *clanc!*",
     "EN": "*Click* *clatter*... *clank!*"
   },
   "10": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Eu tirei o mesmo que você! Ehehe, agora a gente combina! ♪",
     "EN": "I got the same one you did! Ehehe, now we match! ♪"
   },
   "11": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Aaah! Eu tirei [{0}]! Ei Gerente, quer trocar?",
     "EN": "Aaah! I got [{0}]! Hey Manager, wanna trade?"
   },
   "12": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Trocar:option1;Não trocar:option2",
     "EN": "Trade:option1;Don't trade:option2"
   },
   "13": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ah, você gosta tanto assim do seu? Então eu fico com este!",
     "EN": "Oh, you like yours that much? Then I'll keep this!"
   },
   "14": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Obrigadaaa! Vou colocar no meu quarto!",
     "EN": "Thank youuu! I'll put this in my room!"
   },
   "15": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Ah, girar as engrenagens do destino... e o Fantasma Nobre das Esferas Transparentes.\nMuito bem, eu também talharei o meu próprio destino!",
     "EN": "Ah, to turn the wheels of fate... and the Noble Phantasm of Clear Orbs.\nVery well, I shall carve my own fate as well!"
   },
   "16": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "*Click* *clac*... *clanc!*",
     "EN": "*Click* *clatter*... *clank!*"
   },
   "17": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Oh, este é o mesmo que você tem...\nQue reviravolta do destino.",
     "EN": "Oh, this is the same one you have...\nWhat a twist of fate."
   },
   "18": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Entendo... Este é [{0}]. O que me diz?\nPosso trocar o meu Fantasma Nobre pelo seu.",
     "EN": "I see... This is [{0}]. What do you say?\nI can trade my Noble Phantasm for yours."
   },
   "19": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Trocar:option1;Não trocar:option2",
     "EN": "Trade:option1;Don't trade:option2"
   },
   "20": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Isto, também, é destino. Cuide bem disto.",
     "EN": "This, too, is fate. Take good care of it."
   },
   "21": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Ao trocar Fantasmas Nobres, também trocamos mana.\nNossa relação de mestre e familiar se fortaleceu!",
     "EN": "By exchanging Noble Phantasms, we also exchange mana.\nOur relationship as master and familiar has strengthened!"
   },
   "22": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Brinquedos de cápsula! Ótimo jeito de testar a sorte, né? Eu também vou tentar!",
     "EN": "Capsule toys! Great way to test your luck, ain't it? I'll give it a go too!"
   },
   "23": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "*Click* *clac*... *clanc!*",
     "EN": "*Click* *clatter*... *clank!*"
   },
   "24": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Deixa eu ver... Ah, que coincidência!\nÉ o mesmo que você tirou!",
     "EN": "Let's see... Oh, what a coincidence!\nIt's the same one as the one ya got!"
   },
   "25": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Parece que este é [{0}]...\nMas eu meio que gosto mais do que você tirou.\nA gente podia trocar?",
     "EN": "Looks like this is [{0}]...\nI kinda like the one ya got more, though.\nCould we trade?"
   },
   "26": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Trocar:option1;Não trocar:option2",
     "EN": "Trade:option1;Don't trade:option2"
   },
   "27": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, sem problema. Quanto mais eu olho, mais fofo fica!",
     "EN": "Oh, that's fine. The more I look at it, the cuter it gets!"
   },
   "28": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Valeu! Vou cuidar bem dele~!",
     "EN": "Thanks! I'll take good care of it~!"
   }
 }
