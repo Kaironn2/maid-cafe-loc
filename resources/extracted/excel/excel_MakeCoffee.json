@@ -1,0 +1,122 @@
+{
+  "0": {
+    "Character": "xiaobai2",
+    "StoryText": "我看看……",
+    "JP": "Let's see...",
+    "EN": "えっと……",
+    "TC": "我看看……",
+    "Col6": "0",
+    "Col7": "reflection",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": "2_MakeCoffee_part1_0_xiaobai"
+  },
+  "1": {
+    "Character": "xiaobai2",
+    "StoryText": "根据店长留下来的配方，【芙哇芙哇特调咖啡】的基底是浓缩咖啡。",
+    "JP": "According to the owner's recipe,\nthe base for a Fuwa Fuwa Special is an espresso.",
+    "EN": "オーナーが残したレシピによると、「ふわふわスペシャル」のベースはエスプレッソ。",
+    "TC": "根據店長留下來的配方，【芙哇芙哇特調咖啡】的基底是濃縮咖啡。",
+    "Col6": "0",
+    "Col7": "reflection",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": "2_MakeCoffee_part1_1_xiaobai"
+  },
+  "2": {
+    "Character": "xiaobai2",
+    "StoryText": "再加入适量的牛奶，最后使用肉桂粉增加风味就完成了。",
+    "JP": "And then you add some milk and cinnamon to taste, and you're done.",
+    "EN": "牛乳を適量加え、仕上げにシナモンを使って風味をつけたら完成です。",
+    "TC": "再加入適量的牛奶，最後使用肉桂粉增加風味就完成了。",
+    "Col6": "0",
+    "Col7": "reflection",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": "2_MakeCoffee_part1_2_xiaobai"
+  },
+  "3": {
+    "Character": "xiaobai2",
+    "StoryText": "咖啡粉和肉桂是现成的，牛奶我来的时候正好买了一盒。",
+    "JP": "We have ground coffee and cinnamon,\nand I just bought a carton of milk today.",
+    "EN": "コーヒー粉とシナモンはありますし、牛乳は先ほど買いました。",
+    "TC": "咖啡粉和肉桂是現成的，牛奶我來的時候正好買了一盒。",
+    "Col6": "0",
+    "Col7": "normal",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": "2_MakeCoffee_part1_3_xiaobai"
+  },
+  "4": {
+    "Character": "zhujue",
+    "StoryText": "（先选择基底……）",
+    "JP": "(Choose the base first...)",
+    "EN": "(ベースから選んで……)",
+    "TC": "（先選擇基底……）",
+    "Col6": "0",
+    "Col7": "",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": ""
+  },
+  "5": {
+    "Character": "zhujue",
+    "StoryText": "（接着加入适量的牛奶,点缀一点肉桂就行了吧。）",
+    "JP": "(Then add some milk and a dash of cinnamon, and it's done.)",
+    "EN": "(次に牛乳を適量加える そこにシナモンを加えれば完成だ。)",
+    "TC": "（接著加入適量的牛奶,點綴一點肉桂就行了吧。）",
+    "Col6": "0",
+    "Col7": "",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": ""
+  },
+  "6": {
+    "Character": "xiaobai2",
+    "StoryText": "哇！完全看不出来是第一次做，主人您很有天赋呀！",
+    "JP": "Wow! Is this really your first time?\nYou're so talented, Master!",
+    "EN": "わあ！初めてとは思えません！ご主人様には才能があるんですね。",
+    "TC": "哇！完全看不出來是第一次做，主人您很有天賦呀！",
+    "Col6": "0",
+    "Col7": "laugh",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": "2_MakeCoffee_part1_6_xiaobai"
+  },
+  "7": {
+    "Character": "xiaobai2",
+    "StoryText": "对了，如果发现调错了配方，在送给客人之前可以重新调制。",
+    "JP": "Oh, right, if you made a mistake making the drink,\nyou can always make a new cup before serving it up to the customers.",
+    "EN": "ちなみにドリンクは、お客様にお出しする前なら何度でも作り直せます。レシピを間違えた際に思い出してくださいね。",
+    "TC": "對了，如果發現調錯了配方，在送給客人之前可以重新調製。",
+    "Col6": "0",
+    "Col7": "normal",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": "2_MakeCoffee_part1_7_xiaobai"
+  },
+  "8": {
+    "Character": "xiaobai2",
+    "StoryText": "诶呀，抱歉，明明您才是客人，我下意识就……",
+    "JP": "Oh, wait, sorry, you're the customer...\nYou're the one who should be served...",
+    "EN": "ごめんなさい。ご主人様のお仕事じゃないのに……。",
+    "TC": "哎呀，抱歉，明明您才是客人，我下意識就……",
+    "Col6": "0",
+    "Col7": "shyness",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": "2_MakeCoffee_part1_8_xiaobai"
+  },
+  "9": {
+    "Character": "xiaobai2",
+    "StoryText": "那就请您先回座位吧，我马上给您端过来。",
+    "JP": "Please take a seat, Master,\nand I'll bring the coffee to you right away.",
+    "EN": "では、ご主人様、お席にお戻りください。",
+    "TC": "那就請您先回座位吧，我馬上給您端過來。",
+    "Col6": "0",
+    "Col7": "smile",
+    "Col8": "part1",
+    "Col9": "",
+    "Col10": "2_MakeCoffee_part1_9_xiaobai"
+  }
+}

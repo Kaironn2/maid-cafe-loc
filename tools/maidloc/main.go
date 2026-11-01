@@ -66,6 +66,7 @@ func main() {
 type gameData struct {
 	assets *AssetFile
 	texts  []TextAsset
+	sheets []ExcelSheet
 	docs   map[string]any
 }
 
@@ -94,7 +95,15 @@ func loadGame(dataDir string) (*gameData, error) {
 		}
 		g.docs[t.Name] = doc
 	}
-	fmt.Printf("Lido: %s (%d assets JSON)\n", path, len(g.docs))
+	nJSON := len(g.docs)
+	g.sheets = a.ExcelSheets()
+	for name, doc := range ExcelDocs(g.sheets) {
+		if _, dup := g.docs[name]; dup {
+			return nil, fmt.Errorf("planilha %s tem o mesmo nome de um asset JSON", name)
+		}
+		g.docs[name] = doc
+	}
+	fmt.Printf("Lido: %s (%d assets JSON, %d planilhas)\n", path, nJSON, len(g.docs)-nJSON)
 	return g, nil
 }
 
@@ -130,8 +139,8 @@ func cmdExtract(args []string) error {
 	for _, u := range units {
 		byCat[u.Category]++
 	}
-	fmt.Printf("\n%d assets -> %s (languages: %d, scenes: %d, data: %d)\n", len(units), *out,
-		byCat["languages"], byCat["scenes"], byCat["data"])
+	fmt.Printf("\n%d assets -> %s (languages: %d, scenes: %d, excel: %d, data: %d)\n", len(units), *out,
+		byCat["languages"], byCat["scenes"], byCat["excel"], byCat["data"])
 	fmt.Printf("Mapa -> %s\n\nAssets com texto traduzível:\n", *mapFile)
 	total, chars := 0, 0
 	for _, u := range units {
@@ -396,7 +405,7 @@ func cmdPatch(args []string) error {
 	if err != nil {
 		return err
 	}
-	payloads := map[string][]byte{}
+	patched := map[string]bool{}
 	totalPT, warnings := 0, 0
 	for _, u := range MapAssets(g.docs) {
 		if u.File == "" {
@@ -440,13 +449,24 @@ func cmdPatch(args []string) error {
 			continue
 		}
 		ApplyPT(u, g.docs[u.Asset], pt)
-		payloads[u.Asset] = EncodeJSON(g.docs[u.Asset], false)
+		patched[u.Asset] = true
 		totalPT += len(pt)
 		fmt.Printf("  %-40s %5d/%-5d traduzidos\n", u.Asset, len(pt), u.Texts)
 	}
 
-	result := g.assets.Patched(g.texts, payloads)
-	fmt.Printf("\n%d textos em %d assets; arquivo final: %d bytes", totalPT, len(payloads), len(result))
+	objects := map[int][]byte{}
+	for _, t := range g.texts {
+		if patched[t.Name] {
+			objects[t.TableAt] = TextAssetObject(t.Name, EncodeJSON(g.docs[t.Name], false))
+		}
+	}
+	for _, s := range g.sheets {
+		if patched[excelPrefix+s.Name] {
+			objects[s.TableAt] = s.Encode(g.docs[excelPrefix+s.Name].(*Object))
+		}
+	}
+	result := g.assets.Patched(objects)
+	fmt.Printf("\n%d textos em %d assets; arquivo final: %d bytes", totalPT, len(patched), len(result))
 	if warnings > 0 {
 		fmt.Printf("; %d avisos", warnings)
 	}

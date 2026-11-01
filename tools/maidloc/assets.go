@@ -60,11 +60,8 @@ func (a *AssetFile) TextAssets() []TextAsset {
 	seen := map[string]bool{}
 	var out []TextAsset
 	for e := 0; e < a.Count; e++ {
-		at := a.TableStart + e*24
-		off := int(binary.LittleEndian.Uint64(raw[at : at+8]))
-		size := int(binary.LittleEndian.Uint32(raw[at+8 : at+12]))
-		obj := off + a.DataOffset
-		if obj < 0 || obj+8 > len(raw) || obj+size > len(raw) {
+		at, obj, size, ok := a.object(e)
+		if !ok {
 			continue
 		}
 		nameLen := int(int32(binary.LittleEndian.Uint32(raw[obj : obj+4])))
@@ -92,51 +89,60 @@ func (a *AssetFile) TextAssets() []TextAsset {
 	return out
 }
 
-// Patched devolve uma cópia do arquivo com os payloads substituídos (por nome de asset).
-func (a *AssetFile) Patched(assets []TextAsset, payloads map[string][]byte) []byte {
-	byName := map[string]TextAsset{}
-	for _, t := range assets {
-		byName[t.Name] = t
+// object devolve a posição da entrada e o início e o tamanho do objeto e na object table.
+func (a *AssetFile) object(e int) (at, obj, size int, ok bool) {
+	at = a.TableStart + e*24
+	off := int(binary.LittleEndian.Uint64(a.Raw[at : at+8]))
+	size = int(binary.LittleEndian.Uint32(a.Raw[at+8 : at+12]))
+	obj = off + a.DataOffset
+	ok = obj >= 0 && obj+8 <= len(a.Raw) && obj+size <= len(a.Raw)
+	return
+}
+
+// TextAssetObject monta os bytes de um TextAsset com o payload novo.
+func TextAssetObject(name string, payload []byte) []byte {
+	var buf []byte
+	buf = binary.LittleEndian.AppendUint32(buf, uint32(len(name)))
+	buf = append(buf, name...)
+	for len(buf)%4 != 0 {
+		buf = append(buf, 0)
 	}
-	names := make([]string, 0, len(payloads))
-	for n := range payloads {
-		names = append(names, n)
+	buf = binary.LittleEndian.AppendUint32(buf, uint32(len(payload)))
+	buf = append(buf, payload...)
+	for len(buf)%4 != 0 {
+		buf = append(buf, 0)
 	}
-	sort.Strings(names)
+	return buf
+}
+
+// Patched devolve uma cópia do arquivo com objetos substituídos
+// (posição da entrada na object table -> bytes novos do objeto).
+func (a *AssetFile) Patched(objects map[int][]byte) []byte {
+	ats := make([]int, 0, len(objects))
+	for at := range objects {
+		ats = append(ats, at)
+	}
+	sort.Ints(ats)
 
 	size := a.FileSize
 	if size > len(a.Raw) {
 		size = len(a.Raw)
 	}
 	extra := 0
-	for _, n := range names {
-		extra += 16 + 8 + alignUp(len(n), 4) + alignUp(len(payloads[n]), 4)
+	for _, at := range ats {
+		extra += 16 + len(objects[at])
 	}
 	buf := make([]byte, size, size+extra)
 	copy(buf, a.Raw[:size])
 
-	for _, n := range names {
-		t, ok := byName[n]
-		if !ok {
-			continue
-		}
-		payload := payloads[n]
+	for _, at := range ats {
 		for len(buf)%16 != 0 {
 			buf = append(buf, 0)
 		}
 		objAt := len(buf)
-		buf = binary.LittleEndian.AppendUint32(buf, uint32(len(n)))
-		buf = append(buf, n...)
-		for len(buf)%4 != 0 {
-			buf = append(buf, 0)
-		}
-		buf = binary.LittleEndian.AppendUint32(buf, uint32(len(payload)))
-		buf = append(buf, payload...)
-		for len(buf)%4 != 0 {
-			buf = append(buf, 0)
-		}
-		binary.LittleEndian.PutUint64(buf[t.TableAt:t.TableAt+8], uint64(objAt-a.DataOffset))
-		binary.LittleEndian.PutUint32(buf[t.TableAt+8:t.TableAt+12], uint32(len(buf)-objAt))
+		buf = append(buf, objects[at]...)
+		binary.LittleEndian.PutUint64(buf[at:at+8], uint64(objAt-a.DataOffset))
+		binary.LittleEndian.PutUint32(buf[at+8:at+12], uint32(len(buf)-objAt))
 	}
 	binary.BigEndian.PutUint32(buf[28:32], uint32(len(buf)))
 	return buf
