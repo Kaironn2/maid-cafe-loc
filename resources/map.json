@@ -1,5 +1,18 @@
 [
   {
+    "asset": "code_literals",
+    "category": "code",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "en"
+    ],
+    "keys": 64,
+    "translatable": 64,
+    "en_chars": 2646,
+    "translation_file": "code/literals.json"
+  },
+  {
     "asset": "031104_FemaleB",
     "category": "data",
     "keys": 1

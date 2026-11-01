@@ -3,7 +3,7 @@
 //	go run ./tools/maidloc extract   jogo -> resources/extracted + resources/map.json
 //	go run ./tools/maidloc sync      resources/extracted -> translations/ (preserva o PT já feito)
 //	go run ./tools/maidloc status    progresso da tradução
-//	go run ./tools/maidloc patch     translations/ (campo PT) -> resources.assets do jogo
+//	go run ./tools/maidloc patch     translations/ (campo PT) -> resources.assets e global-metadata.dat do jogo
 package main
 
 import (
@@ -27,7 +27,7 @@ Comandos:
   extract   lê o jogo e grava resources/extracted/ e resources/map.json
   sync      gera/atualiza os arquivos de tradução em translations/ (não apaga o PT já feito)
   status    mostra o progresso da tradução
-  patch     grava o campo PT de translations/ no resources.assets do jogo (-apply para gravar)
+  patch     grava o campo PT de translations/ no resources.assets e no global-metadata.dat (-apply para gravar)
 
 Use "maidloc <comando> -h" para ver as opções.
 `
@@ -67,21 +67,21 @@ type gameData struct {
 	assets *AssetFile
 	texts  []TextAsset
 	sheets []ExcelSheet
+	meta   *Metadata
 	docs   map[string]any
 }
 
-// originalAssets devolve o resources.assets original: o .bak, se existir (o
-// arquivo principal pode já estar com patch), senão o próprio resources.assets.
-func originalAssets(dataDir string) string {
-	main := filepath.Join(dataDir, "resources.assets")
-	if _, err := os.Stat(main + ".bak"); err == nil {
-		return main + ".bak"
+// original devolve o arquivo original do jogo: o .bak, se existir (o arquivo
+// principal pode já estar com patch), senão o próprio arquivo.
+func original(path string) string {
+	if _, err := os.Stat(path + ".bak"); err == nil {
+		return path + ".bak"
 	}
-	return main
+	return path
 }
 
 func loadGame(dataDir string) (*gameData, error) {
-	path := originalAssets(dataDir)
+	path := original(filepath.Join(dataDir, "resources.assets"))
 	a, err := OpenAssets(path)
 	if err != nil {
 		return nil, err
@@ -104,6 +104,17 @@ func loadGame(dataDir string) (*gameData, error) {
 		g.docs[name] = doc
 	}
 	fmt.Printf("Lido: %s (%d assets JSON, %d planilhas)\n", path, nJSON, len(g.docs)-nJSON)
+
+	metaPath := original(metadataPath(dataDir))
+	if g.meta, err = OpenMetadata(metaPath); err != nil {
+		return nil, err
+	}
+	doc, err := g.meta.LiteralsDoc()
+	if err != nil {
+		return nil, err
+	}
+	g.docs[literalsAsset] = doc
+	fmt.Printf("Lido: %s (%d literais, %d traduzíveis)\n", metaPath, g.meta.Count, len(doc.Pairs))
 	return g, nil
 }
 
@@ -139,8 +150,8 @@ func cmdExtract(args []string) error {
 	for _, u := range units {
 		byCat[u.Category]++
 	}
-	fmt.Printf("\n%d assets -> %s (languages: %d, scenes: %d, excel: %d, data: %d)\n", len(units), *out,
-		byCat["languages"], byCat["scenes"], byCat["excel"], byCat["data"])
+	fmt.Printf("\n%d assets -> %s (languages: %d, scenes: %d, excel: %d, code: %d, data: %d)\n", len(units), *out,
+		byCat["languages"], byCat["scenes"], byCat["excel"], byCat["code"], byCat["data"])
 	fmt.Printf("Mapa -> %s\n\nAssets com texto traduzível:\n", *mapFile)
 	total, chars := 0, 0
 	for _, u := range units {
@@ -399,6 +410,7 @@ func cmdPatch(args []string) error {
 	dir := fl.String("dir", "translations", "pasta dos arquivos de tradução")
 	apply := fl.Bool("apply", false, "grava no jogo (sem isso é só um teste)")
 	out := fl.String("out", "", "gravar em outro arquivo em vez do resources.assets do jogo")
+	metaOut := fl.String("meta-out", "", "gravar em outro arquivo em vez do global-metadata.dat do jogo")
 	fl.Parse(args)
 
 	g, err := loadGame(*dataDir)
@@ -466,7 +478,8 @@ func cmdPatch(args []string) error {
 		}
 	}
 	result := g.assets.Patched(objects)
-	fmt.Printf("\n%d textos em %d assets; arquivo final: %d bytes", totalPT, len(patched), len(result))
+	meta, nLiterals := g.meta.Patched(g.docs[literalsAsset].(*Object))
+	fmt.Printf("\n%d textos em %d assets; arquivo final: %d bytes; %d literais do código", totalPT, len(patched), len(result), nLiterals)
 	if warnings > 0 {
 		fmt.Printf("; %d avisos", warnings)
 	}
@@ -476,19 +489,32 @@ func cmdPatch(args []string) error {
 		return nil
 	}
 
-	target := *out
+	if err := writeGameFile(*out, filepath.Join(*dataDir, "resources.assets"), g.assets.Raw, result); err != nil {
+		return err
+	}
+	if *out != "" && *metaOut == "" {
+		fmt.Println("global-metadata.dat não gravado (use -meta-out junto com -out)")
+		return nil
+	}
+	return writeGameFile(*metaOut, metadataPath(*dataDir), g.meta.Raw, meta)
+}
+
+// writeGameFile grava data em out ou, sem out, no arquivo do jogo, guardando antes o
+// original em .bak (só na primeira vez: depois o .bak já é o original).
+func writeGameFile(out, gameFile string, originalData, data []byte) error {
+	target := out
 	if target == "" {
-		target = filepath.Join(*dataDir, "resources.assets")
+		target = gameFile
 		backup := target + ".bak"
 		if _, err := os.Stat(backup); os.IsNotExist(err) {
-			// sem .bak, o original foi lido do próprio resources.assets
-			if err := os.WriteFile(backup, g.assets.Raw, 0o644); err != nil {
+			// sem .bak, o original foi lido do próprio arquivo do jogo
+			if err := os.WriteFile(backup, originalData, 0o644); err != nil {
 				return fmt.Errorf("falha no backup: %v", err)
 			}
 			fmt.Println("backup do original: " + backup)
 		}
 	}
-	if err := os.WriteFile(target, result, 0o644); err != nil {
+	if err := os.WriteFile(target, data, 0o644); err != nil {
 		return err
 	}
 	fmt.Println("Gravado: " + target)

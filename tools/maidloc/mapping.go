@@ -65,6 +65,9 @@ func MapAssets(docs map[string]any) []Unit {
 			if isSheet {
 				u.Category = "excel"
 			}
+			if name == literalsAsset {
+				u.Category = "code"
+			}
 			if fam := rowFamily(obj); fam >= 0 {
 				u.Kind = KindRows
 				u.Field = rowLangFields[fam][2]
@@ -75,6 +78,8 @@ func MapAssets(docs map[string]any) []Unit {
 				}
 				if isSheet {
 					u.File = "excel/" + sheet + ".json"
+				} else if name == literalsAsset {
+					u.File = "code/literals.json"
 				} else if u.Category == "scenes" {
 					u.File = "scenes/" + name + ".json"
 				} else {
