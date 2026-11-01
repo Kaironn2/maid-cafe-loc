@@ -1,62 +1,62 @@
 {
   "0": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Chegamos. Obrigada por carregar algumas para mim.",
     "EN": "Here we are. Thank you for carrying some of them for me."
   },
   "1": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "As toalhas de mesa foram lavadas e secas. Estão como novas.",
     "EN": "The tablecloths have been washed and dried. They look good as new."
   },
   "2": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eba! Estão até mais limpas do que antes!",
     "EN": "Yay! They look even cleaner than before!"
   },
   "3": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Então vamos colocá-las de volta e ir embora cedo hoje.\"",
     "EN": "\"Then let's put them back and go home early today.\""
   },
   "4": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Eeee começa! Agora é só esperar!",
     "EN": "Aaand start! Now all we have to do is wait!"
   },
   "5": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "...Ah, está começando a chover...",
     "EN": "...Oh, it's starting to rain..."
   },
   "6": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Essas foram todas~! Vamos matar o tempo até a roupa ficar pronta.",
     "EN": "That's all of them~! Let's kill some time until the laundry's done."
   },
   "7": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "...Hã? Ai, está chovendo!",
     "EN": "...Huh? Aw, it's raining!"
   },
   "8": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Ó grande redemoinho, livrai estes tecidos da imundície!\n...Agora aguardamos a conclusão do ritual de purificação.",
     "EN": "Oh great whirlpool, rid these fabrics of their filth!\n...Now we wait for the purification ritual to conclude."
   },
   "9": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Ah. O céu parece estar chorando...",
     "EN": "...Ah. The sky appears to be crying..."
   },
   "10": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Bip bop!\n...Então, vamos esperar a roupa ficar pronta.",
     "EN": "Beep boop!\n...Now then, let's wait for the laundry to be done."
   },
   "11": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "...Ai, nossa, tá chovendo...",
     "EN": "...Oh dear, it's rainin'..."
   }
 }

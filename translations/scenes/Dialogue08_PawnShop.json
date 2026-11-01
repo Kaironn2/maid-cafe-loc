@@ -1,367 +1,367 @@
 {
   "0": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Este é o brechó.\nAqui você pode perguntar o que eles compram de você.",
     "EN": "This is the thrift store.\nYou could ask them what they're willing to buy from you."
   },
   "1": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Bem-vindo. Eu posso te livrar de tudo aquilo que você não quiser mais.",
     "EN": "Welcome. I could take whatever you don't want off your hands."
   },
   "2": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Ah, é, está rolando uma campanha em que compramos itens de prata\npor um preço acima do normal. Você aí tem acessórios de prata ou algo parecido?",
     "EN": "Oh yeah, we've got a campaign going on where we buy silver items\nfor more than usual. Do you have any silver accessories or something similar?"
   },
   "3": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Acessórios de prata...\nAh, aquele pingente era de prata, não era...?)",
     "EN": "(Silver accessories...\nOh, that pendant was silver, wasn't it...?)"
   },
   "4": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Mostrar o pingente:option1;Não tirar o pingente:option2",
     "EN": "Show her the pendant:option1;Don't take out the pendant:option2"
   },
   "5": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Oooh...! Este é muito bonito. E, como a campanha está valendo,\neu te dou 50.000 ienes por ele. O que me diz?",
     "EN": "Oooh...! This is really nice. And since the campaign's going on,\nI'll give you 50,000 yen for it. How's that sound?"
   },
   "6": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Vender de verdade:option3;Guardar de volta:option2",
     "EN": "Sell it for real:option3;Take it back:option2"
   },
   "7": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Obrigada! Uau, que bela aquisição!",
     "EN": "Thanks! Wow, what a great find!"
   },
   "8": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Você vende o pingente por 50.000 ienes.",
     "EN": "You sell the pendant for 50,000 yen."
   },
   "9": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Não posso simplesmente vender algo que encontrei na rua...)",
     "EN": "(I can't just sell something I found on the street...)"
   },
   "10": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Ah, não quer vender para mim?\n...Achei que ia ver a feiura da ganância humana.",
     "EN": "Aw, you won't sell it to me?\n...I thought I'd get to see some ugly human greed."
   },
   "11": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Você guarda o pingente e sai da loja.",
     "EN": "You put away the pendant and leave the shop."
   },
   "12": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Você olha ao redor do brechó. A maioria das coisas aqui\nparece de ótima qualidade apesar de serem de segunda mão.\nO avaliador parece ter um bom olhar para qualidade.",
     "EN": "You look around the thrift store. Most of the things here\nlook very high-quality despite being secondhand.\nIt seems that the appraiser has a good eye for quality."
   },
   "13": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Às vezes eu venho aqui comprar cristais de cura.",
     "EN": "I visit this place to buy healing crystals sometimes."
   },
   "14": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Eu... não tenho necessidade imediata de acessórios glamourosos.\nAfinal, tenho a prova do nosso pacto.",
     "EN": "I... have no immediate need for glamorous accessories.\nI have the proof of our pact, after all."
   },
   "15": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Se um dia eu pudesse comprar algo assim pra ela,\nacho que ela ficaria muito feliz... talvez.)",
     "EN": "(If I could buy her something like that one day,\nI bet she'd be overjoyed... maybe.)"
   },
   "16": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Um pergaminho antigo? Ah, é, eu comprei um.\nInfelizmente, não valia muita coisa.",
     "EN": "An ancient scroll? Oh yeah, I bought one.\nUnfortunately, it wasn't worth all that much."
   },
   "17": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "...Na verdade, é um pergaminho importante passado de geração em geração na minha família.",
     "EN": "...Actually, it's an important scroll passed down in my family."
   },
   "18": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Sério? Me desculpe. Então você veio pegá-lo de volta, né?",
     "EN": "Really? I'm sorry. So you're here to get it back, I take it?"
   },
   "19": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Pode levar de volta! Que tal 5.000 ienes?",
     "EN": "You can have it! How's 5,000 yen sound?"
   },
   "20": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Você ainda vai me cobrar por isso?!\"",
     "EN": "\"You're still going to ask for money?!\""
   },
   "21": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Quer dizer? Eu também paguei por isto!",
     "EN": "What? I paid for this too!"
   },
   "22": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Pagar 5.000 ienes:option4;Implorar para a Honoka pagar:option5",
     "EN": "Pay 5,000 yen:option4;Beg Honoka to pay:option5"
   },
   "23": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Fechado!",
     "EN": "Deal!"
   },
   "24": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Obteve: Pergaminho de Canalização de Espíritos, Volume 2",
     "EN": "Obtained: Scroll of Spirit Channeling, Volume 2"
   },
   "25": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Me desculpe por te fazer pagar em cima de tudo mais...",
     "EN": "I'm sorry for making ya pay on top of everythin' else..."
   },
   "26": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Não se preocupe. Que bom que o pergaminho ainda está em boas condições.\"",
     "EN": "\"Don't worry about it. I'm glad the scroll's still in good condition.\""
   },
   "27": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Gostaria de pagar para mostrar meu lado legal e confiável...\nmas não tenho dinheiro suficiente...!)",
     "EN": "(I'd love to offer to pay and show her my cool, reliable side...\nBut I don't have enough money...!)"
   },
   "28": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"...Dá muita vergonha falar isso, mas...\"",
     "EN": "\"...I'm really ashamed to say this, but...\""
   },
   "29": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Honoka-san! Você pode pagar? Por favor, por favor, sinto muito mesmo!!\"",
     "EN": "\"Honoka-san! Could you please pay pretty please I'm so sorryyyy!!\""
   },
   "30": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Er... Tá bom...",
     "EN": "Uhh... Okay..."
   },
   "31": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Na real, esse era mais ou menos o plano, então...\nnem precisa se desesperar por isso, tá bom...?",
     "EN": "That was kinda the plan anyway, so...\nYa don't gotta work yourself up over it, all right...?"
   },
   "32": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Ela está sendo gentil, mas isso machuca ainda mais...)",
     "EN": "(She's being nice, but that just hurts even more...)"
   },
   "33": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Hãh, sinto meio que culpa por te ter deixado numa furada,\nmas o combinado é combinado... Aqui está o seu pergaminho.",
     "EN": "Uh, I'm kinda sorry I made you look bad,\nbut a deal's a deal... Here's your book."
   },
   "34": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Obteve: Pergaminho de Canalização de Espíritos, Volume 2",
     "EN": "Obtained: Scroll of Spirit Channeling, Volume 2"
   },
   "35": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Nem posso comprar joias de verdade,\nmas ainda quero escolher algo especial para a Favna.)",
     "EN": "(I might not be able to afford real jewelry,\nbut I still want to pick out something special for Favna.)"
   },
   "36": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Com o seu orçamento, eu recomendaria acessórios de zircônia.",
     "EN": "With your budget, I would recommend zircon accessories."
   },
   "37": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Estes brincos são bem bonitos... Levo estes!)",
     "EN": "(These earrings are really pretty... I'll get these!)"
   },
   "38": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Vou dar estes para a Favna da próxima vez.\nEspero que ela goste...)",
     "EN": "(I'll give these to Favna next time we meet.\nI hope she likes them...)"
   },
   "39": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Não consigo acessar os arquivos desse HD.\nTalvez ele esteja quebrado de verdade...",
     "EN": "I can't access the files on this hard drive.\nMaybe it really is broken..."
   },
   "40": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Olha. Você teria interesse nesta coisa?\nSão 5.000 ienes, só para tirar das minhas mãos.",
     "EN": "Hey there. Would you be interested in this thing?\nIt'll be 5000 yen, just to take it off my hands."
   },
   "41": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Pagar 5.000 ienes:option6;Recusar:option7",
     "EN": "Pay 5000 yen:option6;Decline:option7"
   },
   "42": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Tem certeza? Isso pode ter bastante valor, sabe?",
     "EN": "You sure? It could actually be pretty valuable, y'know?"
   },
   "43": {
     "Personagem": "Ayami",
-    "PT": "",
+    "PT": "Obrigada. Quem sabe, talvez seja valiosa de verdade.",
     "EN": "Thanks. Who knows, maybe it's actually pretty valuable."
   },
   "44": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Eeeh! Você achou o Sun Hard Drive!",
     "EN": "Whoa! You found the Sun Hard Drive!"
   },
   "45": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Não há ninguém na loja, e o silêncio é inquietante.",
     "EN": "There's no one in the store, which is eerily quiet."
   },
   "46": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "O gatinho não está aqui.",
     "EN": "The kitty isn't here."
   },
   "47": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Será que você confundiu outra coisa com o gato?\nNesse caso, não há mais nada a fazer aqui...",
     "EN": "Could you have mistaken something else for the cat?\nIn that case, you have no more business here..."
   },
   "48": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "...BAM!",
     "EN": "...BAM!"
   },
   "49": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Quê?! Acabamos de ser trancados de novo?!\"",
     "EN": "\"What?! Did we just get trapped again?!\""
   },
   "50": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Calma, Senhor Familiar.\nOlha, tem um bilhete aqui também.",
     "EN": "Calm down, Mr. Familiar.\nLook, there's a note here too."
   },
   "51": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "\"Os demônios adoram o silêncio.\nToque a melodia ancestral para banir as garras do mal que se aproximam.\"",
     "EN": "\"Demons are fond of silence.\nPerform the ancient melody to banish the encroaching claws of evil.\""
   },
   "52": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Parece que este é um enigma musical!\nVamos examinar qualquer coisa que tenha a ver com música.",
     "EN": "Looks like this is a musical riddle!\nLet's take a closer look at anything that has to do with music."
   },
   "53": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Este violino está estragado.\nProvavelmente não tem nada a ver com o enigma.\"",
     "EN": "\"This violin is broken.\nIt probably doesn't have to do with the riddle.\""
   },
   "54": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Ahaha, esse não é um violino!\nÉ um contrabaixo.",
     "EN": "Ahaha, that's not a violin!\nThat's a double bass."
   },
   "55": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Achei um fonógrafo com cara de retrô.\nTalvez tenha a ver com o enigma...\"",
     "EN": "\"I found a retro-looking phonograph.\nIt might have to do with the riddle...\""
   },
   "56": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Mas ele não tem disco.\nNão vai tocar nada assim...",
     "EN": "It doesn't have a record, though,\nso it won't play anything..."
   },
   "57": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Você não vê nenhum disco por perto.\nTalvez o fonógrafo não tenha a ver com o enigma no fim das contas.",
     "EN": "You don't see any records nearby.\nMaybe the phonograph isn't related to the riddle after all."
   },
   "58": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Achei uma caixinha de música antiga.\nTem uma mini figura em cima! Que fofa!",
     "EN": "I found an old music box.\nThere's a little figurine on it! How cute!"
   },
   "59": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "A Rin toca a caixinha de música,\nque de repente começa a tocar sozinha.",
     "EN": "Rin touches the music box,\nwhich suddenly starts playing on its own."
   },
   "60": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Que som leve e delicado...\nParece estar purificando a minha alma.",
     "EN": "What a gentle, delicate sound...\nI feel like it's purifying my soul."
   },
   "61": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Não é só isso... Essa canção deve ser a chave para resolver o enigma!)",
     "EN": "(That's not all... This song must be the key to solving the riddle!)"
   },
   "62": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Ah, um koto antigo.\nPeraí, ele parece diferente de um koto japonês...\"",
     "EN": "\"Oh, an old koto.\nWait, it looks different from the Japanese koto...\""
   },
   "63": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Está num lugar tão à vista que deve ter a ver com o enigma!\nVai, você deveria tentar tocar!",
     "EN": "It's in such an obvious spot, it must have to do with the riddle!\nCome on, you should try playing it!"
   },
   "64": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Nossa, você toca muito bem, Senhor Familiar!\nSoou exatamente como a canção da caixinha de música.",
     "EN": "Whoa, you're so good, Mr. Familiar!\nThat sounded exactly like the music box's song."
   },
   "65": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Ahh, você está falando por falar... Hã?\"",
     "EN": "\"Nah, you're just saying that... Huh?\""
   },
   "66": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Assim que você termina de tocar o guqin,\num estranho círculo de magia brilhante aparece na parede oposta da sala.",
     "EN": "Immediately after you finish playing the guqin,\na strange, glowing magic circle appears on the opposite wall of the room."
   },
   "67": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Mas que... O que diabos é aquilo?!\"",
     "EN": "\"What the... What in the world is that?!\""
   },
   "68": {
     "Personagem": "Black Cat",
-    "PT": "",
+    "PT": "...Miau miau miau!",
     "EN": "...Meow meow meow!"
   },
   "69": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "E, como se esperasse o sinal, o gato preto espreita\nfora do esconderijo e salta direto para o círculo de magia.",
     "EN": "And as if on cue, the black cat peeks out from its\nhiding spot and jumps right into the magic circle."
   },
   "70": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Ele desapareceu! Foi teleportado para algum lugar...?!",
     "EN": "It disappeared! Did it get teleported somewhere...?!"
   },
   "71": {
     "Personagem": "Rin",
-    "PT": "",
+    "PT": "Não podemos ficar parados aqui! Vamos, bora!",
     "EN": "We can't just stand here! Come on, let's go!"
   },
   "72": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Peraí, a sério...?)",
     "EN": "(Wait, really...?)"
   }
 }

@@ -1,452 +1,452 @@
 {
   "0": {
     "Personagem": "Black Cat",
-    "PT": "",
+    "PT": "Miau~",
     "EN": "Meow~"
   },
   "1": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Olá, meu querido servo.",
     "EN": "...Hello, my dear servant."
   },
   "2": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Você sabe onde está o pingente?\nPoderia me ajudar a encontrá-lo?",
     "EN": "Do you know where the pendant is?\nCould you help me find it?"
   },
   "3": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Ela está falando com um gato preto num tom muito sério.",
     "EN": "She's talking to a black cat in a very serious tone."
   },
   "4": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Sem aquele pingente, não posso forjar um pacto para tornar aquela pessoa meu familiar.",
     "EN": "Without that pendant, I can't forge a pact to make that person my familiar."
   },
   "5": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Você deve saber de quem estou falando, não?\nNo instante em que pus os olhos nele, as engrenagens do destino começaram a girar.",
     "EN": "You must know who I'm talking about, don't you?\nThe second I laid my eyes on him, the wheels of fate started turning."
   },
   "6": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Então, por favor.",
     "EN": "So, please."
   },
   "7": {
     "Personagem": "Black Cat",
-    "PT": "",
+    "PT": "Miau.",
     "EN": "Meow."
   },
   "8": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "O gato preto ronrona como se estivesse respondendo\ne sai andando com o rabo bem erguido.",
     "EN": "The black cat purrs as if in reply,\nand walks off with its tail lifted high."
   },
   "9": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Hehe... Isso mesmo... O próprio Destino com certeza guiará Favna...",
     "EN": "Hehe... That's right... Fate herself will surely guide Favna..."
   },
   "10": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "A Favna segue o gato e vai embora.",
     "EN": "Fafna follows the cat and leaves."
   },
   "11": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Ah...)",
     "EN": "(Oh...)"
   },
   "12": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "(Eu ia falar com ela, mas perdi a chance.)",
     "EN": "(I was going to talk to her, but I missed my chance.)"
   },
   "13": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Um pingente... Será que ela quer dizer...)",
     "EN": "(A pendant... Does she mean...)"
   },
   "14": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(...De qualquer forma, é melhor eu voltar por hoje.)",
     "EN": "(...Either way, I should head back for today.)"
   },
   "15": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Eu achei que ia conseguir encontrá-la aqui...)",
     "EN": "(I thought I'd be able to find her here...)"
   },
   "16": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Mas agora que eu realmente quero falar com ela,\nela não está em lugar nenhum. Que garota difícil de achar.)",
     "EN": "(But now that I actually want to talk to her,\nshe's nowhere to be seen. What an elusive girl.)"
   },
   "17": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Acho que só me resta esperar o dia em que eu esbarrar nela de novo...)",
     "EN": "(Guess I'll just have to wait for the day I'll run into her again...)"
   },
   "18": {
     "Personagem": "Black Cat",
-    "PT": "",
+    "PT": "Miaaau...",
     "EN": "Mrooow..."
   },
   "19": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Eu achei que a gente ia se encontrar no parque... Não é da Shiro se atrasar.)",
     "EN": "(I thought we were meeting at the park... It's not like Shiro to be late.)"
   },
   "20": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Bom, não tem o que fazer a não ser esperar.)",
     "EN": "(Well, nothing to do but wait.)"
   },
   "21": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "10 minutos depois...",
     "EN": "10 minutes later..."
   },
   "22": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "...Gerente~!",
     "EN": "...Manager~!"
   },
   "23": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Aaah, me desculpa tanto! Fiquei nervosa ontem à noite e não consegui dormir, sei lá por quê...",
     "EN": "Ohhh, I'm so sorry! I got nervous last night and couldn't sleep for some reason..."
   },
   "24": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Relaxa, eu também acabei de chegar.\"",
     "EN": "\"Don't worry, I just got here too.\""
   },
   "25": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Espero não ter esquecido nada...\nAh! Ahn, espero que meu cabelo não esteja estranho!",
     "EN": "I hope I haven't forgotten anything...\nOh! Um, I hope my hair doesn't look weird!"
   },
   "26": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Está ótimo:option1;Está fofo:option2",
     "EN": "It looks fine:option1;It looks cute:option2"
   },
   "27": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ufa, ainda bem!\nÉ uma preocupação a menos.",
     "EN": "Ohh, thank goodness!\nThat's one less thing to worry about."
   },
   "28": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "O qu... E-Eiii, não me provoque desse jeito!",
     "EN": "Wh... H-Heyyy, don't tease me like that!"
   },
   "29": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Enfim, aonde a gente vai?\nDa última vez que fui com a Miyu, a gente foi à Associação Comercial, então...\"",
     "EN": "\"Anyway, where should we go?\nLast time I went with Miyu, we went to the Shopping Association, so...\""
   },
   "30": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ahn, a gente podia ir à Associação Comercial de novo?\nSó se você não se importar, claro!",
     "EN": "Um, could we go to the Shopping Association again?\nOnly if you don't mind, of course!"
   },
   "31": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Tem um monte de lojas ótimas que a gente ainda não visitou,\nentão eu queria te mostrar!",
     "EN": "There's a lot of great shops we haven't been to yet,\nso I wanted to show you around!"
   },
   "32": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Parece uma boa ideia.\nEu estava morrendo de vontade de conhecer melhor esta cidade.\"",
     "EN": "\"That sounds like a good idea.\nI've been itching to learn more about this city.\""
   },
   "33": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Fico feliz em ouvir isso! Então vamos!",
     "EN": "I'm glad to hear that! Then let's go!"
   },
   "34": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Aí está você.",
     "EN": "...There you are."
   },
   "35": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Desculpa demais! Espero que você não tenha sentido tanto a minha falta...\"",
     "EN": "\"I'm so sorry! I hope you didn't miss me too much...\""
   },
   "36": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "C-Com certeza que não! Eu sempre fui uma existência solitária.\nTais trivialidades mal são suficientes para me agastar!",
     "EN": "A-Absolutely not! I have always been a solitary existence.\nSuch trivial matters are hardly enough to aggravate me!"
   },
   "37": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Entendi... Mas ainda assim, deixa eu compensar.\nHoje eu vou aonde você quiser.\"",
     "EN": "\"I see... But still, let me make it up to you.\nI'll go wherever you want today.\""
   },
   "38": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Uma oferta caridosa. Eu planejava convidá-lo\nà Mansão Lustrosa das Vestes Glamurosas.",
     "EN": "A charitable offer. I was planning on inviting you\nto the Lustrous Mansion of Glamourous Garments."
   },
   "39": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Vestes...? Ah, você quer dizer tipo uma butique?\nClaro, a gente pode passar depois.\"",
     "EN": "\"Garments...? Oh, do you mean like a boutique?\nSure, we can stop by later.\""
   },
   "40": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(Espero que a Favna se divirta hoje.)",
     "EN": "(I hope Favna enjoys herself today.)"
   },
   "41": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Então partamos, meu familiar. Venha!",
     "EN": "Then let us depart, my familiar. Come!"
   },
   "42": {
     "Personagem": "Miyu",
-    "PT": "",
+    "PT": "Ooh, um círculo mágico!\nIgualzinho os de Magic Angel!",
     "EN": "Ooh, a magic circle!\nJust like the ones in Magic Angel!"
   },
   "43": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Você mandou a gente pegar frango, suco de tomate e corante vermelho...\nEu achei que você ia cozinhar alguma coisa pra gente.",
     "EN": "You had us grab some chicken, tomato juice, and red food coloring...\nI reckoned you were gonna cook us somethin'."
   },
   "44": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Desenhar um círculo mágico com materiais alinhados\naos atributos do conjurador potencializa os seus efeitos, veja bem.",
     "EN": "Drawing a magic circle with materials that are in line\nwith the caster's attributes enhances its effects, you see."
   },
   "45": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "No meu caso, não posso usar sangue de verdade...\nEntão usarei ingredientes vermelhos para imitar a aparência dele.",
     "EN": "In my case, I cannot use real blood...\nSo I will use red ingredients to imitate its appearance."
   },
   "46": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "O círculo está completo.\n...Fique aí, meu familiar.",
     "EN": "The circle is complete.\n...Stand there, my familiar."
   },
   "47": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "...Escute as minhas palavras.",
     "EN": "...Heed my words."
   },
   "48": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Minha vontade cria o teu corpo, e o teu graal cria o meu destino.\nSe acatares a Chave Sagrada e obedeceres à minha vontade e razão, então responde-me!",
     "EN": "My will creates your body, and your grail creates my destiny.\nIf you heed the Holy Key and obey my will and reason, then answer me!"
   },
   "49": {
     "Personagem": "Favna",
-    "PT": "",
+    "PT": "Evoquei o poder dos espíritos heroicos de outrora para despertar o seu verdadeiro potencial.\nSem dúvida, você se tornou ainda mais formidável!",
     "EN": "I have summoned the power of heroic spirits of yore to unlock your true potential.\nUndoubtedly, you have become even more formidable!"
   },
   "50": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "(A Favna se esforçou tanto nisso, então eu vou entrar na brincadeira.)",
     "EN": "(Favna worked really hard on this, so I'll just play along.)"
   },
   "51": {
     "Personagem": "Shiro",
-    "PT": "",
+    "PT": "Ótimo trabalho, pessoal. Vamos todos descansar por agora\ne ir encontrar o fantasma amanhã!",
     "EN": "Great work, everyone. Let's all get some rest for now\nand go meet the ghost tomorrow!"
   },
   "52": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Pode ser por causa do ritual que a Favna fez em você,\nmas você dormiu muito bem naquela noite.",
     "EN": "It might be because of the ritual Favna performed on you,\nbut you slept very soundly that night."
   },
   "53": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ufa, foi divertido! Pensando bem,\neu acabei te arrastando pra todo lado. Tudo bem com você?",
     "EN": "Hoo, that was fun! Now that I think about it,\nI ended up draggin' ya all over the place. Was that okay with ya?"
   },
   "54": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Foi muito divertido!\"",
     "EN": "\"It was a lot of fun!\""
   },
   "55": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ehehe... Eu também fico feliz que você veio junto. Valeu!",
     "EN": "Ehehe... I'm happy ya came along too. Thanks!"
   },
   "56": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "...Não, mas sério. Eu tenho muita coisa pra te agradecer, Gerente.",
     "EN": "...No, but really. I got a lot to thank ya for, Manager."
   },
   "57": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Como assim?\"",
     "EN": "\"What do you mean?\""
   },
   "58": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ah, sabe, em casa eu sou sempre a irmã mais velha, então...\nEu sempre acabo sendo quem arrasta todo mundo junto.",
     "EN": "Oh, y'know, at home I'm always the big sister, so...\nI always end up bein' the one draggin' everyone else along."
   },
   "59": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E o papai não é o homem mais caprichoso do mundo, mesmo sendo sacerdote,\nentão sou eu a principal responsável pelas contas da família.",
     "EN": "And Daddy ain't the most meticulous man, even though he's a priest,\nso I'm the main person in charge of the family's finances."
   },
   "60": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Então as moças do bairro sempre falam umas coisas tipo,\n\"Você é tão madura, Honoka-chan!\"",
     "EN": "So the ladies in the neighborhood always say stuff like,\n\"You're so mature, Honoka-chan!\""
   },
   "61": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Quando a Nanoka e a Nonoka nasceram, eu fiquei feliz de ouvir\nque eu tinha virado irmã mais velha.",
     "EN": "When Nanoka and Nonoka were born I was happy to hear\nthat I'd just become an older sister."
   },
   "62": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "...Mas uma vez, quando eu ouvi alguém me chamar de madura de novo...",
     "EN": "...But one time, when I heard someone call me mature again..."
   },
   "63": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Eu comecei a pensar, e se na verdade elas estiverem\ndizendo que eu sou pão-dura, ou pouco feminina... ou sei lá.",
     "EN": "I started to think, what if they're actually\nsayin' I'm stingy, or unladylike... or somethin'."
   },
   "64": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Depois disso, eu parei de gostar quando as pessoas me chamavam de madura.",
     "EN": "After that, I stopped likin' when people called me mature."
   },
   "65": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "E eu nunca gostei muito da parte de mim\nque sempre se preocupa com o menor detalhe...",
     "EN": "And I never really liked the part of me\nthat always frets over the tiniest details..."
   },
   "66": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Mas sabe como a Shiro me elogiou\nquando a gente tava pensando no rally de carimbos?",
     "EN": "But y'know how Shiro complimented me\nwhen we were brainstormin' for the stamp rally?"
   },
   "67": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ela me encheu de elogios com tanta sinceridade\nque não foi ruim nem um pouco.",
     "EN": "She showered me with compliments so sincerely,\nit didn't feel bad at all."
   },
   "68": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "A Miyu e a Favnyan também... e você também.\nE vocês ficaram comigo mesmo quando eu comecei a tomar a frente sem motivo.",
     "EN": "So did Miyu and Favnyan... and ya did too.\nAnd y'all stuck with me even when I started takin' the lead for no reason."
   },
   "69": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Então eu fiquei... feliz. Eu não esperava que alguém\nme achasse tão confiável e... que eu valesse alguma coisa.",
     "EN": "So I was... happy. I didn't expect anyone\nto think I was all reliable and... worth somethin'."
   },
   "70": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Então eu, ahn... Sou muito grata de você ter me apresentado ao Fuwa Fuwa,\npra eu poder conhecer vocês e ter vocês na minha vida. É só isso.",
     "EN": "So I, um... I'm real grateful that ya introduced me to Fuwa Fuwa,\nso that I could meet y'all and have ya in my life. That's all."
   },
   "71": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Eu acho que você é uma pessoa notável, Honoka.\"",
     "EN": "\"I think you're a remarkable person, Honoka.\""
   },
   "72": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Notável? Eu? Por quê?",
     "EN": "Remarkable? Me? Why?"
   },
   "73": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Você cuida da sua família\ne apoia todo mundo no Fuwa Fuwa ao mesmo tempo.\"",
     "EN": "\"You take care of your family\nand support everyone in Fuwa Fuwa at the same time.\""
   },
   "74": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Digo, tá, pelo menos na parte da família...\nmas quem apoia a gente é você, não o contrário.",
     "EN": "I mean, sure, at least for the family part...\nbut you're the one who supports us, not the other way round."
   },
   "75": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Eu só fiquei um pouco tagarela desta vez porque eu me viro bem com dinheiro, só isso.",
     "EN": "I just got a li'l yappy this time 'cause I'm kinda good with money, that's all."
   },
   "76": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Quem apoia as maids do Fuwa Fuwa é você... inclusive eu.\nA gente tá contando com você, viu?",
     "EN": "You're the one supportin' the maids of Fuwa Fuwa... includin' me.\nWe're all countin' on ya, y'know?"
   },
   "77": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Mas sério, Gerente... Você deve ter sido um cara bem\nimpressionante antes de vir pro Fuwa Fuwa.",
     "EN": "But for real, Manager... Ya must've been a real\nimpressive guy before you came to Fuwa Fuwa."
   },
   "78": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Eu...\"",
     "EN": "\"I...\""
   },
   "79": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "...Ah, olha a hora. Eu tenho que ir pra casa\nfazer o jantar. Se eu não for logo, as pequenas—\ne os grandes também—vão morrer de fome.",
     "EN": "...Oh, would ya look at the time. I should go home\nand make dinner. If I don't go soon, the li'l ones—\nand the big ones too—are gonna starve to death."
   },
   "80": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "O tempo voa quando a gente se diverte.\nComo foi o seu dia, Gerente?",
     "EN": "Time sure flies when you're havin' fun.\nHow was your day, Manager?"
   },
   "81": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "Foi muito divertido!:option3;O dia ainda não acabou...:option4",
     "EN": "I had a lot of fun!:option3;The day's not over yet...:option4"
   },
   "82": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Sério? Que bom! Desculpa por ter te arrastado,\nmas eu fiquei muito feliz de ter você comigo!",
     "EN": "Really? Good! I'm sorry for draggin' ya along,\nbut I was really happy to have ya with me!"
   },
   "83": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Ahaha! Verdade, verdade! Mas a gente andou tanto que minhas pernas\nestão molezinhas, então acho que já deu pra ir pra casa por hoje.",
     "EN": "Ahaha! Right, right! But we've been walkin' so much my legs\nfeel like jelly, so we should be good and go home for the day."
   },
   "84": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Além disso, você tem que se preparar pra conversa\ncom o presidente amanhã, né?",
     "EN": "Besides, ya gotta get prepared for the talk\nwith the chairman tomorrow, right?"
   },
   "85": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Não fica acordado até tarde e descansa direito, tá?",
     "EN": "Don't stay up too late and make sure to get enough rest, okay?"
   },
   "86": {
     "Personagem": "(protagonista)",
-    "PT": "",
+    "PT": "\"Tá, vou fazer o que você diz.\"",
     "EN": "\"Okay, I'll do as you say.\""
   },
   "87": {
     "Personagem": "suinaixiang2",
-    "PT": "",
+    "PT": "Então, valeu por ter saído comigo hoje.\nUm dia a gente vai ver outro filme juntos!\nAté amanhã!",
     "EN": "Well then, thanks for hangin' out with me today.\nLet's go watch another movie together someday!\nSee ya tomorrow!"
   },
   "88": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Hã? Tem alguma coisa enterrada na areia...",
     "EN": "Hm? There's something buried in the sand..."
   },
   "89": {
     "Personagem": "(narração)",
-    "PT": "",
+    "PT": "Uau! Você encontrou um Cartão de Som Prateado!",
     "EN": "Whoa! You found a Silver Sound Card!"
   }
 }
