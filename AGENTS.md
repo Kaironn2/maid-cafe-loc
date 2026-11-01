@@ -8,6 +8,7 @@ Fan translation of Maid Cafe on Electric Street into Brazilian Portuguese. The t
   - `texts/`: UI, item and character names, short NPC lines.
   - `scenes/`: story dialogue, one scene per file.
   - `extras/`: random NPC lines, CG names, credits.
+  - `excel/`: prologue and day 1 dialogue that the game stores as spreadsheets (MonoBehaviours, not TextAssets).
   - `glossary.md`: how recurring terms are translated. Read it before translating.
 - `tools/maidloc/`: Go tool. `extract` reads the game, `sync` updates `translations/`, `status` shows progress, `patch` writes PT into the game.
 - `tools/check/`: validators. `check.js` checks translation files, `check-md.js` checks text file encoding.

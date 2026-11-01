@@ -2,7 +2,7 @@ package main
 
 // Mapeamento dos assets: em quais arquivos, idiomas e campos está o texto traduzível.
 //
-// Dois formatos de texto existem no jogo:
+// Dois formatos de texto existem no jogo (as planilhas de excel.go chegam aqui já como "rows"):
 //   - "dict": um asset por idioma (ui_en, ui_jp...), cada um {chave: texto}.
 //     Traduzimos o asset *_en.
 //   - "rows": um asset com todas as línguas em cada linha, {id: {..., "EN": texto}}.
@@ -61,6 +61,10 @@ func MapAssets(docs map[string]any) []Unit {
 			if hasField(obj, "ChatNum") {
 				u.Category = "scenes"
 			}
+			sheet, isSheet := strings.CutPrefix(name, excelPrefix)
+			if isSheet {
+				u.Category = "excel"
+			}
 			if fam := rowFamily(obj); fam >= 0 {
 				u.Kind = KindRows
 				u.Field = rowLangFields[fam][2]
@@ -69,7 +73,9 @@ func MapAssets(docs map[string]any) []Unit {
 						u.Langs = append(u.Langs, langCodes[i])
 					}
 				}
-				if u.Category == "scenes" {
+				if isSheet {
+					u.File = "excel/" + sheet + ".json"
+				} else if u.Category == "scenes" {
 					u.File = "scenes/" + name + ".json"
 				} else {
 					u.File = "extras/" + name + ".json"

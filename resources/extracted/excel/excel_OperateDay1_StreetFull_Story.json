@@ -1,0 +1,74 @@
+{
+  "0": {
+    "Character": "xinyou",
+    "StoryText": "啊，等一下。",
+    "JP": "あ、ちょっと待って。",
+    "EN": "Oh, hang on.",
+    "TC": "啊，等一下。",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "",
+    "Col9": "Reflection",
+    "Col10": "3_Day1_6_OperateDay1_StreetFull_Story_Part1__0_xinyou"
+  },
+  "1": {
+    "Character": "xinyou",
+    "StoryText": "上电车前，我想顺路去趟便利店。",
+    "JP": "電車に乗る前に、コンビニ寄ってかない？",
+    "EN": "Can we stop by the convenience store before I go?",
+    "TC": "上電車前，我想順路去趟便利商店。",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "",
+    "Col9": "Smile",
+    "Col10": "3_Day1_6_OperateDay1_StreetFull_Story_Part1__1_xinyou"
+  },
+  "2": {
+    "Character": "system",
+    "StoryText": "趁着还没那么晚，把心优送去车站吧。",
+    "JP": "遅くなる前に、ミユを駅まで送っていこう。",
+    "EN": "You walk Miyu to the station before it gets too late.",
+    "TC": "趁著還沒那麼晚，把心優送去車站吧。",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "",
+    "Col9": "",
+    "Col10": ""
+  },
+  "3": {
+    "Character": "xinyou",
+    "StoryText": "哎嘿嘿，我这还是第一次让男性送我呢。",
+    "JP": "えへへ。\n男の人に送ってもらうなんて、初めてだな。",
+    "EN": "Ehehe. It's the first time a guy's escorted me like this.",
+    "TC": "哎嘿嘿，我這還是第一次讓男性送我呢。",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "",
+    "Col9": "Shyness",
+    "Col10": "3_Day1_6_OperateDay1_StreetFull_Story_Part1__3_xinyou"
+  },
+  "4": {
+    "Character": "???",
+    "StoryText": "本来还以为这家店已经倒闭了，\n没想到又开始有客人来了。",
+    "JP": "この店、てっきり潰れたんかと思ってたのに、\nお客さん来るようになったんやなぁ。",
+    "EN": "I thought this place had closed down ages ago,\nbut I heard it's gettin' customers again!",
+    "TC": "本來還以為這家店已經倒閉了， \n沒想到又開始有客人來了。",
+    "Col6": "1",
+    "Col7": "part2",
+    "Col8": "",
+    "Col9": "Amazed",
+    "Col10": "3_Day2_3_ Street Full_Story_Part1__0_suinaixiang"
+  },
+  "5": {
+    "Character": "???",
+    "StoryText": "唉……\n为什么咱家的神社就没有人来呢",
+    "JP": "はぁ……\nなんでウチの神社には来てくれへんのやろ……。",
+    "EN": "Sigh... Why don't they come to our shrine, though...?",
+    "TC": "唉……\n為什麼咱家的神社就沒有人來呢",
+    "Col6": "1",
+    "Col7": "part2",
+    "Col8": "",
+    "Col9": "Tired",
+    "Col10": "3_Day2_3_ Street Full_Story_Part1__1_suinaixiang"
+  }
+}

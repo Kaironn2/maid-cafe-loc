@@ -1,0 +1,110 @@
+{
+  "0": {
+    "Character": "xiaobai1",
+    "StoryText": "这里是便利店！",
+    "JP": "ファミストップですね！",
+    "EN": "This is Famistop!\nThey have everything from snacks to daily necessities.",
+    "TC": "這裡是便利商店！",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "normal",
+    "Col9": "",
+    "Col10": "2_FaimlyShop_part1_0_xiaobai"
+  },
+  "1": {
+    "Character": "xiaobai1",
+    "StoryText": "因为地处电器街，偶尔也会有一些别的地方没有的商品哦。",
+    "JP": "電気街のファミストップなら他にはない商品が見つかるかもしれません！",
+    "EN": "And since it's the Electric Street Famistop,\nthey might have special items you can't find anywhere else!",
+    "TC": "因為地處電器街，偶爾也會有一些別的地方沒有的商品哦。",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "normal",
+    "Col9": "",
+    "Col10": "2_FaimlyShop_part1_1_xiaobai"
+  },
+  "2": {
+    "Character": "xiaobai1",
+    "StoryText": "哇，今天有夏季限定西瓜味的汽水，赶紧买一瓶尝尝。",
+    "JP": "わあ！夏限定のスイカ味サイダーがありますね！",
+    "EN": "Ooh! Seasonal watermelon soda! I want to try that!",
+    "TC": "哇，今天有夏季限定西瓜味的汽水，趕緊買一瓶嚐嚐。",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "smile",
+    "Col9": "",
+    "Col10": "2_FaimlyShop_part1_2_xiaobai"
+  },
+  "3": {
+    "Character": "system",
+    "StoryText": "转眼间白已经冲向了饮料柜，不一会儿，她的手上抱着一堆零食回来了。",
+    "JP": "いつのまにかシロは、食べきれないほどのたくさんのお菓子を抱えていた。",
+    "EN": "You watch Shiro run up to the drinks fridge\nand then come back with her arms full of snacks.",
+    "TC": "轉眼間白已經衝向了飲料櫃，不一會，她的手上抱著一堆零食回來了。",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "",
+    "Col9": "",
+    "Col10": ""
+  },
+  "4": {
+    "Character": "xiaobai1",
+    "StoryText": "嘿嘿，每次来都忍不住，一会儿我们分着吃吧。",
+    "JP": "ヘヘ……ちょっと買いすぎちゃいました。あとで一緒に食べましょう。",
+    "EN": "Hehe... I keep buying too much.\nLet's share some of it together!",
+    "TC": "嘿嘿，每次來都忍不住，一會我們分著吃吧。",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "shyness",
+    "Col9": "",
+    "Col10": "2_FaimlyShop_part1_4_xiaobai"
+  },
+  "5": {
+    "Character": "1008_Narumi",
+    "StoryText": "欢迎光临。",
+    "JP": "いらっしゃいませ。",
+    "EN": "Welcome!",
+    "TC": "歡迎光臨。",
+    "Col6": "0",
+    "Col7": "part1",
+    "Col8": "Normal",
+    "Col9": "",
+    "Col10": ""
+  },
+  "6": {
+    "Character": "1008_Narumi",
+    "StoryText": "社团的后辈也太懈怠了，看来需要好好的教育他们什么叫做“上进心”。",
+    "JP": "部活の後輩たちが最近たるんでるんですよね。これから「向上心」ってやつを教えてやろうと思ってるんですよ。",
+    "EN": "The juniors in my club have been slacking off lately.\nLooks like someone needs to teach 'em what the word \"ambition\" means.",
+    "TC": "社團的後輩也太懈怠了，看來需要好好的教育他們什麼叫做「上進心」。",
+    "Col6": "1",
+    "Col7": "part1",
+    "Col8": "Angry",
+    "Col9": "",
+    "Col10": ""
+  },
+  "7": {
+    "Character": "1008_Narumi",
+    "StoryText": "一到暑假，社团活动也少了。感觉我的肌肉都要缺氧了。",
+    "JP": "夏休みに入ると部活も休みだから運動不足なんですよ。",
+    "EN": "Summer break means no school club activities,\nwhich means I'm not getting enough exercise.",
+    "TC": "一到暑假，社團活動也少了。感覺我的肌肉都要缺氧了。",
+    "Col6": "1",
+    "Col7": "part1",
+    "Col8": "Shyness",
+    "Col9": "",
+    "Col10": ""
+  },
+  "8": {
+    "Character": "1008_Narumi",
+    "StoryText": "你喜欢炒面面包吗？这里的炒面面包我很推荐哦，欢迎购买！",
+    "JP": "ここの焼きそばパン、俺のオススメですよ！ぜひお買い求めください！",
+    "EN": "Do you like yakisoba-pan?\nWe've got plenty of that in stock today!",
+    "TC": "你喜歡炒麵麵包嗎？這裡的炒麵麵包我很推薦哦，歡迎購買！",
+    "Col6": "1",
+    "Col7": "part1",
+    "Col8": "Smile",
+    "Col9": "",
+    "Col10": ""
+  }
+}

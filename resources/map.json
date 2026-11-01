@@ -833,6 +833,283 @@
     "keys": 120
   },
   {
+    "asset": "excel_AShop",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 26,
+    "translatable": 26,
+    "en_chars": 1675,
+    "translation_file": "excel/AShop.json"
+  },
+  {
+    "asset": "excel_Cinema",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 34,
+    "translatable": 34,
+    "en_chars": 2916,
+    "translation_file": "excel/Cinema.json"
+  },
+  {
+    "asset": "excel_FaimlyShop",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 9,
+    "translatable": 9,
+    "en_chars": 669,
+    "translation_file": "excel/FaimlyShop.json"
+  },
+  {
+    "asset": "excel_GameCenter",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 82,
+    "translatable": 82,
+    "en_chars": 5399,
+    "translation_file": "excel/GameCenter.json"
+  },
+  {
+    "asset": "excel_House",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 57,
+    "translatable": 57,
+    "en_chars": 2964,
+    "translation_file": "excel/House.json"
+  },
+  {
+    "asset": "excel_MakeCoffee",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 10,
+    "translatable": 10,
+    "en_chars": 273,
+    "translation_file": "excel/MakeCoffee.json"
+  },
+  {
+    "asset": "excel_OperateDay1_Operat_Lobby_Story",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 32,
+    "translatable": 32,
+    "en_chars": 1516,
+    "translation_file": "excel/OperateDay1_Operat_Lobby_Story.json"
+  },
+  {
+    "asset": "excel_OperateDay1_StreetFull_Story",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 6,
+    "translatable": 6,
+    "en_chars": 312,
+    "translation_file": "excel/OperateDay1_StreetFull_Story.json"
+  },
+  {
+    "asset": "excel_Park",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 31,
+    "translatable": 31,
+    "en_chars": 1021,
+    "translation_file": "excel/Park.json"
+  },
+  {
+    "asset": "excel_Shrine",
+    "category": "excel",
+    "keys": 15
+  },
+  {
+    "asset": "excel_Street_2_rain",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 14,
+    "translatable": 14,
+    "en_chars": 1125,
+    "translation_file": "excel/Street_2_rain.json"
+  },
+  {
+    "asset": "excel_WcDonalds",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 11,
+    "translatable": 11,
+    "en_chars": 665,
+    "translation_file": "excel/WcDonalds.json"
+  },
+  {
+    "asset": "excel_ditiezhan",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 47,
+    "translatable": 47,
+    "en_chars": 3056,
+    "translation_file": "excel/ditiezhan.json"
+  },
+  {
+    "asset": "excel_milakulu",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 82,
+    "translatable": 82,
+    "en_chars": 2003,
+    "translation_file": "excel/milakulu.json"
+  },
+  {
+    "asset": "excel_office",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 132,
+    "translatable": 128,
+    "en_chars": 7828,
+    "translation_file": "excel/office.json"
+  },
+  {
+    "asset": "excel_xinyou",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 32,
+    "translatable": 32,
+    "en_chars": 1566,
+    "translation_file": "excel/xinyou.json"
+  },
+  {
+    "asset": "excel_xuzhang_gamecenter",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 19,
+    "translatable": 19,
+    "en_chars": 2442,
+    "translation_file": "excel/xuzhang_gamecenter.json"
+  },
+  {
+    "asset": "excel_xuzhang_street",
+    "category": "excel",
+    "format": "rows",
+    "field": "EN",
+    "languages": [
+      "cn",
+      "jp",
+      "en",
+      "tc"
+    ],
+    "keys": 122,
+    "translatable": 122,
+    "en_chars": 6568,
+    "translation_file": "excel/xuzhang_street.json"
+  },
+  {
     "asset": "charactername_cn",
     "category": "languages",
     "languages": [
