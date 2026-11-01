@@ -585,3 +585,11 @@ Locais recorrentes das missões (fixados): Theater → cinema ("Vá ao cinema");
 | Opções `Texto:optionN;Texto:optionN` | traduzir só o texto | manter `:optionN` e `;` exatamente, inclusive typos do EN (`:optoin54`) |
 | GameCG (EN em chinês) | títulos curtos em PT | traduzidos do chinês |
 | DevelopmentReport (nomes em chinês) | manter | nomes e handles de pessoas e lojas não se traduzem; só cargos |
+| Employee Number 996 / Number 996 | Funcionário número 996 / Número 996 | prólogo (excel/office); os rótulos "Employee 997" do Personagem não se traduzem |
+| 3 Minute Rule / Employee Manual | Regra dos 3 Minutos / Manual do Funcionário | prólogo |
+| Obtained: X | Obteve: X | igual às cenas |
+| Mysterious Silver Pendant | Pingente Misterioso de Prata | prólogo (excel/xuzhang_street) |
+| Chat button | Botão de Conversa | igual à UI |
+| Be delicious / 美味しくなあれ | Fique delicioso | feitiço da maid |
+| stand-in manager (店長代理) | gerente interino | |
+| excel/ com EN em japonês (milakulu, MakeCoffee, Park) | traduzir do japonês | o jogo nunca traduziu essas linhas |

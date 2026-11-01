@@ -1,0 +1,642 @@
+{
+  "0": {
+    "Personagem": "BOSS",
+    "PT": "Funcionário número 996!",
+    "EN": "Employee Number 996!"
+  },
+  "1": {
+    "Personagem": "BOSS",
+    "PT": "Eu contei quanto tempo você passou no banheiro... 4 minutos e 3 segundos.",
+    "EN": "I counted how long you spent in the bathroom... 4 minutes and 3 seconds."
+  },
+  "2": {
+    "Personagem": "BOSS",
+    "PT": "Acho que você conhece a \"Regra dos 3 Minutos\" do Manual do Funcionário, hmm?",
+    "EN": "I believe you're aware of the \"3 Minute Rule\" in the Employee Manual, hmm?"
+  },
+  "3": {
+    "Personagem": "BOSS",
+    "PT": "Está bem claro: \"3 idas ao banheiro por dia, 3 minutos cada.\"",
+    "EN": "It says clearly, \"3 bathroom breaks a day, 3 minutes each.\""
+  },
+  "4": {
+    "Personagem": "BOSS",
+    "PT": "Mas parece que você não está seguindo as regras!",
+    "EN": "But you don't seem to be following the rules!"
+  },
+  "5": {
+    "Personagem": "BOSS",
+    "PT": "Tenho certeza de que você sabe que a empresa\nnunca atrasou o pagamento do seu salário.",
+    "EN": "I'm sure you're aware that the company\nhas never been late with your salary payments."
+  },
+  "6": {
+    "Personagem": "BOSS",
+    "PT": "E você? Não consegue sequer seguir a regra mais simples!",
+    "EN": "But how about you? You can't even follow the simplest of rules!"
+  },
+  "7": {
+    "Personagem": "BOSS",
+    "PT": "Portanto, o salário de hoje será descontado do seu pagamento deste mês.\nVou ficar de olho em você, moleque.",
+    "EN": "Therefore, your salary for today will be deducted from your paycheck this month.\nI'll be keeping an eye on you, punk."
+  },
+  "8": {
+    "Personagem": "BOSS",
+    "PT": "Espero mesmo que não tenha uma próxima vez, mas se tiver...\nAí acaba o seu tempo aqui, entendeu?",
+    "EN": "I really hope there won't be a next time, but if there is...\nThat'd be the end of your time here, got it?"
+  },
+  "9": {
+    "Personagem": "BOSS",
+    "PT": "Ah, isso me lembra...",
+    "EN": "Oh, that reminds me..."
+  },
+  "10": {
+    "Personagem": "BOSS",
+    "PT": "Tem uma tarefa urgente para você.\nQuero ela pronta até o fim do dia.",
+    "EN": "There's an urgent assignment for you.\nI want to see it done by the end of the day."
+  },
+  "11": {
+    "Personagem": "BOSS",
+    "PT": "Agora volte para a sua mesa e vá trabalhar, Número 996.",
+    "EN": "Now go back to your desk and get to work, Number 996."
+  },
+  "12": {
+    "Personagem": "(narração)",
+    "PT": "Movimento: ←→ /Analógico Esquerdo\nConfirmar/Interagir: tecla Z / botão A\nCancelar: tecla X / botão B",
+    "EN": "Movement: ←→ /Left Stick\nConfirm/Interact: Z key / A button\nCancel: X key / B button"
+  },
+  "13": {
+    "Personagem": "Yuuki",
+    "PT": "Acabou de receber uma tarefa urgente?\nAzar o seu, cara, parece que você vai ficar aqui a noite toda de novo.",
+    "EN": "Did you just get an urgent assignment?\nTough luck, dude, looks like you'll be here all night again."
+  },
+  "14": {
+    "Personagem": "Yuuki",
+    "PT": "Olha, aqui vai um conselho de quem já está aqui há mais tempo.",
+    "EN": "Listen, here's some advice from your senior."
+  },
+  "15": {
+    "Personagem": "Yuuki",
+    "PT": "Enrola quando ele não estiver olhando.\nSe não conseguir fazer isso, você não vai durar muito.",
+    "EN": "Slack off when he's not looking.\nIf you can't do that, you won't last long."
+  },
+  "16": {
+    "Personagem": "Yuuki",
+    "PT": "Nem no corpo, nem na cabeça...",
+    "EN": "Neither physically nor mentally..."
+  },
+  "17": {
+    "Personagem": "Yuuki",
+    "PT": "Agora volta a trabalhar antes que ele comece a reclamar de novo.",
+    "EN": "Now get back to work before he starts complaining again."
+  },
+  "18": {
+    "Personagem": "Yuuki",
+    "PT": "Você senta bem do meu lado, então volta a trabalhar antes que ele comece a reclamar de novo.\n(Pressione o botão Confirmar ao lado da sua mesa para começar a trabalhar.)",
+    "EN": "You sit right next to me, so get back to work before he starts complaining again.\n(Press Confirm Button next to your desk to start working.)"
+  },
+  "19": {
+    "Personagem": "Employee 997",
+    "PT": "Não aguento mais, minha cabeça vai explodir... Argh...",
+    "EN": "I can't take it anymore, my head's gonna explode... Guh..."
+  },
+  "20": {
+    "Personagem": "Employee 997",
+    "PT": "......",
+    "EN": "......"
+  },
+  "21": {
+    "Personagem": "Employee 985",
+    "PT": "O cara do meu lado não mexe um músculo há horas.",
+    "EN": "The guy next to me hasn't moved a muscle for hours."
+  },
+  "22": {
+    "Personagem": "Employee 985",
+    "PT": "Deve estar esgotado de tanto o chefe xingar ele, mas mesmo assim... Será que ele...?",
+    "EN": "He must be exhausted from the boss chewing him out, but still... Is he...?"
+  },
+  "23": {
+    "Personagem": "Employee 404",
+    "PT": "......",
+    "EN": "......"
+  },
+  "24": {
+    "Personagem": "Employee 811648",
+    "PT": "Aquele maldito chefão fica patrulhando os corredores o dia inteiro.\nTenta tirar o menor intervalo que seja, e já era.",
+    "EN": "That damn bigwig keeps patrolling the aisles for the whole day.\nTry to take even the shortest break, and it's over."
+  },
+  "25": {
+    "Personagem": "Employee 811648",
+    "PT": "Eu já comecei a esquecer o que é um \"intervalo\"\ndesde que entrei nessa empresa. Droga...",
+    "EN": "I've started to forget what a \"break\" is\never since I joined this company. Dammit..."
+  },
+  "26": {
+    "Personagem": "colleague41",
+    "PT": "Aff, que saco... Eu só dei uma olhadinha rápida nas redes sociais\ne ele descontou o salário do dia inteiro!",
+    "EN": "Ugh, this sucks... I just took a quick look at my social media\nand he deducted my entire day's worth of pay!"
+  },
+  "27": {
+    "Personagem": "Employee 807",
+    "PT": "(Alô... Amor, ainda estou no escritório...\nSim, eu sei, mas podemos falar do nosso encontro depois do trabalho?)",
+    "EN": "(Hello... Honey, I'm still at the office...\nYes, I know, but cacn we talk about our date after work?)"
+  },
+  "28": {
+    "Personagem": "Employee 807",
+    "PT": "(Eu sei, eu sei! Se eu conseguir nem que seja um dia de folga essa semana,\neu prometo que passo ele com você, tá?)",
+    "EN": "(I know, I know! If I can get even a single day off this week,\nI promise I'll spend it with you, okay?)"
+  },
+  "29": {
+    "Personagem": "Employee 807",
+    "PT": "(Dessa vez eu não vou te deixar plantada, prometo.\nPor favor, acredita em mim, só dessa vez...)",
+    "EN": "(I won't stand you up this time, I promise.\nPlease believe in me, just this once...)"
+  },
+  "30": {
+    "Personagem": "Employee 807",
+    "PT": "(Alô...? Alô, você está me ouvindo...?)",
+    "EN": "(Hello...? Hello, can you hear me...?)"
+  },
+  "31": {
+    "Personagem": "Employee 807",
+    "PT": "*bip... bip... bip...*",
+    "EN": "*beep... beep... beep...*"
+  },
+  "32": {
+    "Personagem": "Employee 807",
+    "PT": "......",
+    "EN": "......"
+  },
+  "33": {
+    "Personagem": "Employee 711",
+    "PT": "Ei, você está bem?",
+    "EN": "Hey, are you all right?"
+  },
+  "34": {
+    "Personagem": "Employee 711",
+    "PT": "Aquele cara contou o número exato de vezes que eu fui à máquina de vendas.\nEle é um stalker ou o quê?",
+    "EN": "That guy counted the exact number of times I went to the vending machine.\nWhat is he, a stalker or something?"
+  },
+  "35": {
+    "Personagem": "Employee 711",
+    "PT": "Além disso, esse é o trabalho dele o dia todo? Só ficar vigiando a gente?\nSerá que é isso que eu vou fazer se for promovido no futuro...?",
+    "EN": "Besides, is that his whole job? Just to monitor us all day?\nDoes that mean I'll do that if I get promoted in the future...?"
+  },
+  "36": {
+    "Personagem": "Employee 711",
+    "PT": "Ah, e outra: eu ando usando um app de namoro quando ele não está olhando...",
+    "EN": "By the way, I've been using a dating app while he's not looking..."
+  },
+  "37": {
+    "Personagem": "Employee 711",
+    "PT": "Mas acabei de perceber que não tenho tempo nenhum para ir a encontros!\nPor causa desse emprego idiota! E eu fico pagando o app o tempo todo!",
+    "EN": "But I just realized that I have absolutely no time to go on dates!\nBecause of this stupid job! And I'm paying for that app the whole time!"
+  },
+  "38": {
+    "Personagem": "Employee 711",
+    "PT": "Eu só queria muito uma namorada, cara... Mas não tenho tempo...",
+    "EN": "I just really want a girlfriend, man... But I don't have the time..."
+  },
+  "39": {
+    "Personagem": "Junior Employee",
+    "PT": "Se quiser saber há quanto tempo alguém está na empresa, aqui vai uma dica de ouro: quanto mais careca, mais tempo aqui. 99% de precisão.",
+    "EN": "If you wanna know how long someone's been in the company, here's a pro tip: the balder they are, the longer their time here. 99% accuracy."
+  },
+  "40": {
+    "Personagem": "Yuuki",
+    "PT": "Finalmente, ele foi embora.",
+    "EN": "Finally, he's gone."
+  },
+  "41": {
+    "Personagem": "Yuuki",
+    "PT": "Todo dia, bem na hora de encerrar, ele começa a ficar parado na porta.",
+    "EN": "He starts standing at the door right around the end of the work day, every day."
+  },
+  "42": {
+    "Personagem": "Yuuki",
+    "PT": "É para garantir que você bata o ponto primeiro e depois volte a trabalhar.",
+    "EN": "It's so that he can make sure you clock out first, and then go back to work."
+  },
+  "43": {
+    "Personagem": "Yuuki",
+    "PT": "Ah, é mesmo, quer ir tomar uma depois?",
+    "EN": "Oh, right, wanna go grab a drink later?"
+  },
+  "44": {
+    "Personagem": "Yuuki",
+    "PT": "Quê, você ainda tem trabalho?\nQualé, os dois sabemos que isso não é coisa que se termina num dia.",
+    "EN": "What, you still have work?\nCome on, we can both tell it's not something you can finish in a day."
+  },
+  "45": {
+    "Personagem": "Yuuki",
+    "PT": "Essa tarefa é praticamente inútil, de qualquer forma.\nEle só quer te tirar do sério.",
+    "EN": "That assignment is pretty much meaningless, anyway.\nHe's just trying to get under your skin."
+  },
+  "46": {
+    "Personagem": "Yuuki",
+    "PT": "...Não vai? Tudo bem, mas você não está com uma cara boa.",
+    "EN": "...You're not going? Sure, but you don't look so good."
+  },
+  "47": {
+    "Personagem": "Yuuki",
+    "PT": "Eu já vou, mas toma cuidado, tá?",
+    "EN": "I'll be off, but you be careful, okay?"
+  },
+  "48": {
+    "Personagem": "(protagonista)",
+    "PT": "(Finalmente terminei o trabalho de hoje...)",
+    "EN": "(I finally finished my work for today...)"
+  },
+  "49": {
+    "Personagem": "Employee 404",
+    "PT": "......",
+    "EN": "......"
+  },
+  "50": {
+    "Personagem": "Employee 811648",
+    "PT": "Ah, você está saindo? Beleza, até amanhã...\nEspera, não, até hoje, eu acho...",
+    "EN": "Oh, you're leaving? Okay, see you tomorrow...\nWait, no, see you today, I guess..."
+  },
+  "51": {
+    "Personagem": "Employee 811648",
+    "PT": "Eu vou dormir aqui esta noite. Se eu for para casa, não sobra tempo nenhum para dormir.",
+    "EN": "I'll be sleeping here tonight. If I go home, I'd have no time to sleep at all."
+  },
+  "52": {
+    "Personagem": "Employee 811648",
+    "PT": "Pode ir. Descansa sempre que puder, entendeu?",
+    "EN": "Off you go. Rest whenever you can, got it?"
+  },
+  "53": {
+    "Personagem": "(narração)",
+    "PT": "Pressione Confirmar na porta para sair do escritório.",
+    "EN": "Press Confirm at the door to leave the office."
+  },
+  "58": {
+    "Personagem": "BOSS",
+    "PT": "Número 996!",
+    "EN": "Number 996!"
+  },
+  "59": {
+    "Personagem": "BOSS",
+    "PT": "Inacreditável. Você falhou em seguir outra regra básica.",
+    "EN": "Unbelievable. You failed to follow another basic rule."
+  },
+  "60": {
+    "Personagem": "BOSS",
+    "PT": "Você está ATRASADO! Você está 3 minutos e 20 segundos...\nNÃO! 3 minutos e 21 segundos atrasado!",
+    "EN": "You're LATE! You're 3 minutes and 20 seconds...\nNO! 3 minutes and 21 seconds late!"
+  },
+  "61": {
+    "Personagem": "BOSS",
+    "PT": "Como está escrito na seção da Regra dos 3 Minutos no Manual do Funcionário...",
+    "EN": "As said in the 3 Minute Rule section in the Employee Manual..."
+  },
+  "62": {
+    "Personagem": "BOSS",
+    "PT": "\"A cada 3 minutos de atraso, descontam-se 3 dias de salário.\"",
+    "EN": "\"Every 3 minutes of tardiness is punishable by deducting 3 days' worth of pay.\""
+  },
+  "63": {
+    "Personagem": "BOSS",
+    "PT": "Você enrolou no banheiro ontem, e agora está atrasado.\nPara enfiar isso de uma vez nessa sua cabeça dura...",
+    "EN": "You slacked off on the toilet yesterday, and now you're late.\nTo really drill it in that thick skull of yours..."
+  },
+  "64": {
+    "Personagem": "BOSS",
+    "PT": "Vou cortar 50% do seu salário este mês.\nO valor descontado vai para o meu salário.",
+    "EN": "I'm cutting your paycheck by 50% this month.\nThe deducted amount will be added to my paycheck instead."
+  },
+  "65": {
+    "Personagem": "BOSS",
+    "PT": "Não gostou? Então cai fora daqui.\nTem um monte de verme igual a você rastejando por aí nas ruas.",
+    "EN": "Don't like it? Then get out of here.\nThere's plenty more vermin like you scurrying around in the streets."
+  },
+  "66": {
+    "Personagem": "BOSS",
+    "PT": "Você está pagando por uma preciosa lição de vida, para crescer como pessoa.\nPensando assim, está baratinho, não é?",
+    "EN": "You're paying for a precious life lesson, so you can grow as a person.\nWhen you think of it that way, it's dirt cheap, isn't it?"
+  },
+  "67": {
+    "Personagem": "BOSS",
+    "PT": "Depois de lições suficientes e uns puxões de orelha bem dados, você vira um homem de verdade.\nUm dia, você vai se arrepender de não ter me agradecido mais. Entendeu?",
+    "EN": "After enough lessons and some strict telling-off, you'll grow into a proper man.\nSomeday, you'll regret not thanking me more. Do you understand?"
+  },
+  "68": {
+    "Personagem": "(protagonista)",
+    "PT": "Sim, chefe, obrigado, chefe...:option1;Não, não entendi!:option3",
+    "EN": "Yes, boss, thanks, boss...:option1;No I don't!:option3"
+  },
+  "69": {
+    "Personagem": "BOSS",
+    "PT": "Você está abrindo mão de metade do salário do mês\npara compensar os seus erros. Correto?",
+    "EN": "You're willingly giving up half a month's pay\nto make up for your mistakes. Correct?"
+  },
+  "70": {
+    "Personagem": "(protagonista)",
+    "PT": "Sim:option2;Não:option4",
+    "EN": "Yes:option2;No:option4"
+  },
+  "71": {
+    "Personagem": "BOSS",
+    "PT": "Você é burro, ou você é burro?\nVou repetir mais uma vez.",
+    "EN": "Are you stupid, or are you stupid?\nI'll say it once more."
+  },
+  "72": {
+    "Personagem": "BOSS",
+    "PT": "Muito bem. Então vou ficar com 50% do seu salário.",
+    "EN": "Very good. Then I'll be taking 50% of your paycheck."
+  },
+  "73": {
+    "Personagem": "BOSS",
+    "PT": "Eu sabia que essa seria a sua resposta.\nConfiei que você faria a escolha certa.",
+    "EN": "I knew that would be your answer.\nI trusted you would make the correct choice."
+  },
+  "74": {
+    "Personagem": "BOSS",
+    "PT": "Agora volte para a sua mesa, Número 996.",
+    "EN": "Now go back to your desk, Number 996."
+  },
+  "75": {
+    "Personagem": "BOSS",
+    "PT": "Dedique a sua vida inteira ao nosso nobre negócio.",
+    "EN": "Dedicate your entire life to our noble business."
+  },
+  "76": {
+    "Personagem": "(narração)",
+    "PT": "Você despeja a alma inteira no trabalho,\ne, no meio da labuta sem sentido, logo esquece todas as suas preocupações.",
+    "EN": "You pour your entire soul into the work,\nand among the busywork, you soon forget all of your worries."
+  },
+  "77": {
+    "Personagem": "(narração)",
+    "PT": "Você fez a escolha certa. Para te recompensar por isso,\ntomei a generosa decisão de descontar um dia a menos do seu salário.\nNão precisa me agradecer, eu sei que sou um piegas.",
+    "EN": "You made the correct choice. To commend you for that,\nI've made the generous decision to cut one less day's worth of your pay.\nNo need to thank me, I know I'm a huge sap."
+  },
+  "78": {
+    "Personagem": "(narração)",
+    "PT": "Agora volte ao trabalho.",
+    "EN": "Now get back to work."
+  },
+  "79": {
+    "Personagem": "(narração)",
+    "PT": "Final 1 - Vender Sua Alma ao Trabalho",
+    "EN": "END 1 - Sell Your Soul to the Workplace"
+  },
+  "80": {
+    "Personagem": "BOSS",
+    "PT": "......",
+    "EN": "......"
+  },
+  "81": {
+    "Personagem": "BOSS",
+    "PT": "...Hm? Não ouvi direito. Pode repetir?",
+    "EN": "...Hm? I didn't catch that. Come again?"
+  },
+  "82": {
+    "Personagem": "(protagonista)",
+    "PT": "Não foi nada...:option1;Eu me demito!:option5",
+    "EN": "It's nothing...:option1;I quit!:option5"
+  },
+  "83": {
+    "Personagem": "BOSS",
+    "PT": "Você... Você se demitiu?!",
+    "EN": "You... You quit?!"
+  },
+  "84": {
+    "Personagem": "BOSS",
+    "PT": "Você realmente acha que alguém mais vai te contratar?\nDaqui a 3 dias você volta rastejando até mim!",
+    "EN": "Do you really think anyone else is going to hire you?\nYou'll come crawling back to me in 3 days' time!"
+  },
+  "85": {
+    "Personagem": "BOSS",
+    "PT": "Ainda dá tempo de voltar atrás, sabia? Eu sou um homem perdoador.",
+    "EN": "It's not too late to take it back, you know. I'm a forgiving man."
+  },
+  "86": {
+    "Personagem": "(protagonista)",
+    "PT": "EU ME DEMITO!:option6;Não preciso do seu perdão!:option6",
+    "EN": "I QUIT!:option6;I don't need your forgiveness!:option6"
+  },
+  "87": {
+    "Personagem": "BOSS",
+    "PT": "Você realmente acha que pode se demitir assim, do nada?\nO-O trabalho que você não fez vai ser\nempurado para os seus colegas! Você sabe disso, né?!",
+    "EN": "You really think you can quit just like that?\nTh-The work you haven't done is gonna be\npushed onto your colleagues! You know that, right?!"
+  },
+  "88": {
+    "Personagem": "BOSS",
+    "PT": "V-Você não quer o seu salário?\nPosso desfazer o corte de 50% se você insistir!",
+    "EN": "D-Don't you want your salary?\nI can take back the 50% reduction if you insist!"
+  },
+  "89": {
+    "Personagem": "(protagonista)",
+    "PT": "Não aguento mais!:option7;Eu já decidi!:option7",
+    "EN": "I can't take it anymore!:option7;I've already decided!:option7"
+  },
+  "90": {
+    "Personagem": "BOSS",
+    "PT": "Você... VOCÊ! Ainda tem trabalho para fazer!\nVolta pra sua MESA!",
+    "EN": "You... YOU! You still have work to do!\nGet BACK to your DESK!"
+  },
+  "91": {
+    "Personagem": "(protagonista)",
+    "PT": "FAZ VOCÊ!:option8;Não é problema meu!:option8",
+    "EN": "YOU do it!:option8;None of my business!:option8"
+  },
+  "92": {
+    "Personagem": "BOSS",
+    "PT": "......",
+    "EN": "......"
+  },
+  "93": {
+    "Personagem": "BOSS",
+    "PT": "T-Tá bom! Então some daqui!",
+    "EN": "F-Fine! Then scram!"
+  },
+  "94": {
+    "Personagem": "BOSS",
+    "PT": "Você tem 3 dias!\n3 dias para arrumar as suas coisas e sumir do alojamento dos funcionários!",
+    "EN": "You have 3 days!\n3 days to pack your things and get the hell out of the employee dorms!"
+  },
+  "95": {
+    "Personagem": "BOSS",
+    "PT": "A nossa empresa não precisa de um lixo fura-regras\nque nem sabe dizer obrigado!",
+    "EN": "Our company doesn't need a rule-breaking piece of trash\nwho doesn't even know how to say thank you!"
+  },
+  "96": {
+    "Personagem": "BOSS",
+    "PT": "Agora some. Agora. Já.",
+    "EN": "Now get lost. Right. Now."
+  },
+  "97": {
+    "Personagem": "BOSS",
+    "PT": "SOME DAQUI!",
+    "EN": "Get LOST!"
+  },
+  "98": {
+    "Personagem": "Employee 997",
+    "PT": "Você é incrível!",
+    "EN": "You're amazing!"
+  },
+  "99": {
+    "Personagem": "Employee 985",
+    "PT": "Boa sorte por aí!",
+    "EN": "Good luck out there!"
+  },
+  "100": {
+    "Personagem": "Employee 811648",
+    "PT": "Isso aí! Eu também me demito!",
+    "EN": "Hell yeah! I quit too!"
+  },
+  "101": {
+    "Personagem": "Employee 807",
+    "PT": "Parabéns pela sua liberdade!",
+    "EN": "Congrats to your freedom!"
+  },
+  "102": {
+    "Personagem": "Employee 711",
+    "PT": "Você é o meu herói!",
+    "EN": "You're my hero!"
+  },
+  "103": {
+    "Personagem": "Yuuki",
+    "PT": "Deixa o resto comigo, eu mantenho contato.",
+    "EN": "Leave the rest to me, I'll keep in touch."
+  },
+  "104": {
+    "Personagem": "Yuuki",
+    "PT": "Te desejo tudo de bom.",
+    "EN": "I wish you all the best."
+  },
+  "105": {
+    "Personagem": "Junior Employee",
+    "PT": "Mandou bem! Talvez você não tenha percebido,\nmas todo mundo gostou.",
+    "EN": "Great job! Maybe you didn't notice,\nbut everyone liked that."
+  },
+  "106": {
+    "Personagem": "Junior Employee",
+    "PT": "Você viu a cara dele quando você respondeu?\nFoi catártico pra caramba!",
+    "EN": "Did you see his face when you talked back to him?\nThat was straight up cathartic!"
+  },
+  "107": {
+    "Personagem": "(narração)",
+    "PT": "Sair do escritório?",
+    "EN": "Leave the office?"
+  },
+  "108": {
+    "Personagem": "(protagonista)",
+    "PT": "Sair de vez:option9;Ainda não:null",
+    "EN": "Leave for good:option9;Not yet:null"
+  },
+  "109": {
+    "Personagem": "BOSS",
+    "PT": "Quem acabou de bater palma?",
+    "EN": "Who just clapped?"
+  },
+  "110": {
+    "Personagem": "BOSS",
+    "PT": "QUEM? Confessa!",
+    "EN": "WHO? Fess up!"
+  },
+  "111": {
+    "Personagem": "BOSS",
+    "PT": "Você fez a escolha certa. Para te recompensar por isso,\ntomei a generosa decisão de descontar um dia a menos do seu salário.\nNão precisa me agradecer, eu sei que sou um piegas.",
+    "EN": "You made the correct choice. To commend you for that,\nI've made the generous decision to cut one less day's worth of your pay.\nNo need to thank me, I know I'm a huge sap."
+  },
+  "112": {
+    "Personagem": "BOSS",
+    "PT": "Agora volte ao trabalho.",
+    "EN": "Now get back to work."
+  },
+  "113": {
+    "Personagem": "Employee 997",
+    "PT": "Não aguento mais, minha cabeça vai explodir... Argh...",
+    "EN": "I can't take it anymore, my head's gonna explode... Guh..."
+  },
+  "114": {
+    "Personagem": "Employee 997",
+    "PT": "......",
+    "EN": "......"
+  },
+  "115": {
+    "Personagem": "Employee 985",
+    "PT": "O cara do meu lado não veio trabalhar hoje...\nEstou um pouco preocupado...",
+    "EN": "The guy next to me isn't at work today...\nI'm a little worried..."
+  },
+  "116": {
+    "Personagem": "Employee 811648",
+    "PT": "Aff, que saco... Eu só dei uma olhadinha rápida nas redes sociais,\ne ele descontou o salário do dia inteiro!",
+    "EN": "Ugh, this sucks... I just took a quick look at my social media,\nand he deducted my entire day's worth of pay!"
+  },
+  "117": {
+    "Personagem": "Employee 811648",
+    "PT": "Droga...",
+    "EN": "Dammit..."
+  },
+  "118": {
+    "Personagem": "Employee 807",
+    "PT": "(Alô? Por que você voltou de repente para a casa da sua mãe?)",
+    "EN": "(Hello? Why did you suddenly go back to your mom's place?)"
+  },
+  "119": {
+    "Personagem": "Employee 807",
+    "PT": "(É que estou muito atolado no trabalho, amor...\nPor favor, você tem que acreditar em mim...)",
+    "EN": "(I'm just really swamped at work, honey...\nPlease, you've gotta believe me...)"
+  },
+  "120": {
+    "Personagem": "Employee 807",
+    "PT": "*bip... bip... bip...*",
+    "EN": "*beep... beep... beep...*"
+  },
+  "121": {
+    "Personagem": "Employee 807",
+    "PT": "......",
+    "EN": "......"
+  },
+  "122": {
+    "Personagem": "Employee 711",
+    "PT": "......",
+    "EN": "......"
+  },
+  "123": {
+    "Personagem": "Junior Employee",
+    "PT": "Se quiser saber há quanto tempo alguém está na empresa, aqui vai uma dica de ouro: quanto mais careca, mais tempo aqui. 99% de precisão.",
+    "EN": "If you wanna know how long someone's been in the company, here's a pro tip: the balder they are, the longer their time here. 99% accuracy."
+  },
+  "124": {
+    "Personagem": "Yuuki",
+    "PT": "Hora extra até altas horas, e ainda um corte no\nseu salário no meio disso... É um mundo cruel, cruel.",
+    "EN": "Overtime until ungodly hours, and a cut out of\nyour paycheck while you're at it... It's a cruel, cruel world."
+  },
+  "125": {
+    "Personagem": "Yuuki",
+    "PT": "Não se preocupa, é só seguir o meu exemplo.\nEu te ensino a respirar aqui dentro.",
+    "EN": "Don't worry, just follow my lead.\nI'll teach you how to breathe in here."
+  },
+  "126": {
+    "Personagem": "Yuuki",
+    "PT": "Se você fizer o que eu disser, você sobrevive. Prometo.",
+    "EN": "If you do as I say, you'll survive. Promise."
+  },
+  "127": {
+    "Personagem": "Yuuki",
+    "PT": "Abre o arquivo do projeto e finge que está trabalhando\nantes que o chefe comece a reclamar.",
+    "EN": "Open your project file and pretend to work\nbefore the boss starts complaining."
+  },
+  "128": {
+    "Personagem": "(narração)",
+    "PT": "O seu trabalho ainda não acabou.",
+    "EN": "Your work is not done."
+  },
+  "129": {
+    "Personagem": "(narração)",
+    "PT": "Você deveria voltar e trabalhar na sua mesa.",
+    "EN": "You should go back and work at your desk."
+  },
+  "130": {
+    "Personagem": "(narração)",
+    "PT": "O expediente acabou. Você deveria voltar para o seu quarto no alojamento.",
+    "EN": "Work's over. You should go back to your dorm room."
+  },
+  "131": {
+    "Personagem": "(narração)",
+    "PT": "Você não vai sentir falta deste lugar. Está na hora de ir.",
+    "EN": "You won't miss this place. It's time to go."
+  }
+}

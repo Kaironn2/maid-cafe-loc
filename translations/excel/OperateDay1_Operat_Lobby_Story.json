@@ -1,0 +1,162 @@
+{
+  "0": {
+    "Personagem": "(protagonista)",
+    "PT": "\"...Vocês duas chegaram bem cedo.\"",
+    "EN": "\"...You two arrived quite early.\""
+  },
+  "1": {
+    "Personagem": "Shiro",
+    "PT": "Aham!",
+    "EN": "Mhm!"
+  },
+  "2": {
+    "Personagem": "Shiro",
+    "PT": "A Miyu queria que eu mostrasse a cozinha, então viemos cedo.",
+    "EN": "Miyu wanted me to show her around the kitchen, so we came early."
+  },
+  "3": {
+    "Personagem": "(narração)",
+    "PT": "(Agora que ela fala disso, tem um cheiro bom no ar.)",
+    "EN": "(Now that she mentions it, something smells good.)"
+  },
+  "4": {
+    "Personagem": "Miyu",
+    "PT": "Pode parecer que não, mas eu cozinoo super bem~♪\nEm casa, quem prepara os meus pratos sou eu mesma.",
+    "EN": "I might not look like it, but I'm actually pretty good at cooking~♪\nI make my own meals at home."
+  },
+  "5": {
+    "Personagem": "Shiro",
+    "PT": "Por favor, sente-se, Gerente.",
+    "EN": "Please take a seat, Manager."
+  },
+  "6": {
+    "Personagem": "(narração)",
+    "PT": "A Miyu traz o seu café da manhã da cozinha.",
+    "EN": "Miyu brings you breakfast from the kitchen."
+  },
+  "7": {
+    "Personagem": "(narração)",
+    "PT": "É um sanduíche tostado de bacon e queijo.",
+    "EN": "It's a bacon and cheese toast sandwich."
+  },
+  "8": {
+    "Personagem": "(narração)",
+    "PT": "Olhar para a Miyu:option1;Olhar para o sanduíche:option2",
+    "EN": "Look at Miyu:option1;Look at the sandwich:option2"
+  },
+  "9": {
+    "Personagem": "Miyu",
+    "PT": "Que foi? Peraí, não vai me dizer que você não gosta de sanduíches?",
+    "EN": "What's the matter? Wait, do you not like sandwiches?"
+  },
+  "10": {
+    "Personagem": "(protagonista)",
+    "PT": "\"Obrigado pela comida!\"",
+    "EN": "\"Thank you for the food!\""
+  },
+  "11": {
+    "Personagem": "(narração)",
+    "PT": "Você dá uma mordida no sanduíche...",
+    "EN": "You take a bite of the sandwich..."
+  },
+  "12": {
+    "Personagem": "(protagonista)",
+    "PT": "...Está muito bom!",
+    "EN": "...It's really good!"
+  },
+  "13": {
+    "Personagem": "(narração)",
+    "PT": "É só um sanduíche simples, mas o pão está no ponto da torradinha,\no bacon bem crocante, e o queijo desmanchando que é uma delícia.",
+    "EN": "It's just a simple sandwich, but the bread is perfectly toasted,\nthe bacon wonderfully crisp, and the cheese delightfully melty."
+  },
+  "14": {
+    "Personagem": "(narração)",
+    "PT": "Você nunca conseguiria fazer nada tão bom por si próprio.",
+    "EN": "You wouldn't be able to make something this good yourself."
+  },
+  "15": {
+    "Personagem": "(narração)",
+    "PT": "A Miyu te observa enquanto você come. Você comenta que está uma delícia,\ne ela sorri toda contente com o elogio.",
+    "EN": "Miyu watches you as you eat. You tell her that it's delicious,\nand she smiles happily at the compliment."
+  },
+  "16": {
+    "Personagem": "Miyu",
+    "PT": "...Ehehe.",
+    "EN": "...Ehehe."
+  },
+  "17": {
+    "Personagem": "Miyu",
+    "PT": "Certinho, então vou ficar na sala de espera.",
+    "EN": "All righty then, I'll be in the waiting room."
+  },
+  "18": {
+    "Personagem": "Shiro",
+    "PT": "Eu não sabia que a Miyu cozinhava tão bem...\nAaah, quem dera ela pudesse casar com alguém da minha família~!",
+    "EN": "I didn't know Miyu was so good at cooking...\nOhhh, I wish she could marry someone in my family~!"
+  },
+  "19": {
+    "Personagem": "Shiro",
+    "PT": "Ah, é, Gerente. Antes de abrir o café,\nquero falar com você sobre como funcionam os nossos turnos.",
+    "EN": "Oh right, Manager. Before we open the cafe,\nI want to talk to you about how our shifts work."
+  },
+  "20": {
+    "Personagem": "Shiro",
+    "PT": "Por favor, vá até a sala de espera.",
+    "EN": "Please come to the waiting room."
+  },
+  "21": {
+    "Personagem": "Miyu",
+    "PT": "Prontinho, tá na mão!\nVamos encerrar por hoje! ♪",
+    "EN": "There, that does it!\nLet's wrap up for the day! ♪"
+  },
+  "22": {
+    "Personagem": "(protagonista)",
+    "PT": "Como foi o trabalho?:option3",
+    "EN": "How was work?:option3"
+  },
+  "23": {
+    "Personagem": "Miyu",
+    "PT": "Hãm, foi puxado, mas muito divertido!",
+    "EN": "Mm, it was hard, but a lot of fun!"
+  },
+  "24": {
+    "Personagem": "Miyu",
+    "PT": "...Sabe, meus pais estão sempre super atarefados com trabalho e tals.",
+    "EN": "...Y'know, my parents are always really busy with work and stuff."
+  },
+  "25": {
+    "Personagem": "Miyu",
+    "PT": "Então, faz um tempão que eu mesma preparo as minhas comidas e como sozinha...",
+    "EN": "So I've been cooking my own meals and eating alone for who knows how long now..."
+  },
+  "26": {
+    "Personagem": "Miyu",
+    "PT": "É meio estranho ver clientes comerem o que eu cozinhei.",
+    "EN": "It feels kinda weird to see customers eat my cooking."
+  },
+  "27": {
+    "Personagem": "(protagonista)",
+    "PT": "Bom trabalho.:option4",
+    "EN": "Good job.:option4"
+  },
+  "28": {
+    "Personagem": "Miyu",
+    "PT": "Ehe. Você também, Gerente~!",
+    "EN": "Ehe. You too, Manager~!"
+  },
+  "29": {
+    "Personagem": "(protagonista)",
+    "PT": "\"Já está escurecendo. Eu te acompanho até a estação.\"",
+    "EN": "\"It's getting dark. I'll walk you to the station.\""
+  },
+  "30": {
+    "Personagem": "Miyu",
+    "PT": "Hã?",
+    "EN": "Huh?"
+  },
+  "31": {
+    "Personagem": "Miyu",
+    "PT": "Ora, claro! Obrigada!",
+    "EN": "Well, sure! Thanks!"
+  }
+}

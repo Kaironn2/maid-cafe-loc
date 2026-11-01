@@ -1,0 +1,412 @@
+{
+  "0": {
+    "Personagem": "Shiori",
+    "PT": "Mestre, minha senhora, obrigada por usarem o ingresso de visita grátis!\nAguardem um momentinho. Já trago o pedido de vocês.",
+    "EN": "ご主人様とお嬢様、無料体験チケットのご利用ありがとうございます！\n少々お待ちください。すぐに注文の品を持ってまいります。"
+  },
+  "1": {
+    "Personagem": "(narração)",
+    "PT": "......",
+    "EN": "……"
+  },
+  "2": {
+    "Personagem": "(protagonista)",
+    "PT": "Olhar a Shiro:option1;Perguntar o que ela achou:null",
+    "EN": "シロの様子を見る。:option1;感想を聞く。:null"
+  },
+  "3": {
+    "Personagem": "Shiro",
+    "PT": "*olha...*",
+    "EN": "じーーー"
+  },
+  "4": {
+    "Personagem": "(narração)",
+    "PT": "......",
+    "EN": "……"
+  },
+  "5": {
+    "Personagem": "Shiro",
+    "PT": "*olha...*",
+    "EN": "じーーー"
+  },
+  "6": {
+    "Personagem": "(narração)",
+    "PT": "Ela encara você sem dizer uma palavra.",
+    "EN": "何も言わずに君を見つめている"
+  },
+  "7": {
+    "Personagem": "Shiro",
+    "PT": "*olha...*",
+    "EN": "じーーー"
+  },
+  "8": {
+    "Personagem": "Shiro",
+    "PT": "Gerente... Desde que a gente entrou no café,\nvocê ficou olhando as maids daqui, não foi?",
+    "EN": "店長さん……お店に入ったときから、\nここのメイドさんたちを見つめていましたね？"
+  },
+  "9": {
+    "Personagem": "Shiro",
+    "PT": "Só ficar olhando não dá para se considerar um profissional.",
+    "EN": "ただ見つめているだけではプロとは言えません。"
+  },
+  "10": {
+    "Personagem": "Shiro",
+    "PT": "As maids daqui são fofas mesmo, e o design do uniforme de maid é lindo...",
+    "EN": "ここのメイドさんは確かに可愛いし、メイド服のデザインも素敵で……"
+  },
+  "11": {
+    "Personagem": "Shiro",
+    "PT": "Se fosse um menino, gostaria muito, né.",
+    "EN": "男の子だったら、すごく好きなんでしょうね。"
+  },
+  "12": {
+    "Personagem": "Shiro",
+    "PT": "Mas, mas!",
+    "EN": "でも、でも!"
+  },
+  "13": {
+    "Personagem": "Shiro",
+    "PT": "Ainda não dá para chamar isso de um verdadeiro café de maids...",
+    "EN": "これではまだ真のメイド喫茶とは言えない……。"
+  },
+  "14": {
+    "Personagem": "Shiro",
+    "PT": "É a nossa primeira visita,\nmas elas não pareceram perceber isso.",
+    "EN": "私たちは初めて来店したのに、\n彼女たちはそれに気づいていないようでした。"
+  },
+  "15": {
+    "Personagem": "Shiro",
+    "PT": "No Fuwa Fuwa de antes, todo mundo lembrava de cada cliente,\ne mesmo na primeira visita a gente se esforçava\npara que o cliente se divertisse, com um cuidado bem caprichado.",
+    "EN": "以前のふわふわでは、みんながお客さん一人ひとりを覚えていて、\n初めての来店でもお客さんが楽しめるように\n細やかな気配りをしていましたよ。"
+  },
+  "16": {
+    "Personagem": "Shiro",
+    "PT": "S-Se não conseguem nem isso, não dá para chamar de um café de maids de primeira!",
+    "EN": "こ、これが出来ていないようでは、一流のメイド喫茶とは呼べません！"
+  },
+  "17": {
+    "Personagem": "Shiori",
+    "PT": "Mestre, minha senhora, é a primeira vez que voltam para casa, não é?",
+    "EN": "ご主人様とお嬢様、ご帰宅は初めてですよね。"
+  },
+  "18": {
+    "Personagem": "Shiori",
+    "PT": "Preparamos um presente especial para vocês!",
+    "EN": "こちらに特別なプレゼントを用意しています！"
+  },
+  "19": {
+    "Personagem": "Shiori",
+    "PT": "Mas, antes disso, vamos completar o ritual de boas-vindas.\nMestre, minha senhora, por favor, façam junto comigo.",
+    "EN": "でもその前に、ご帰宅の儀式を済ませておきましょう。\nご主人様、お嬢様、ご一緒におねがいします。"
+  },
+  "20": {
+    "Personagem": "Shiro",
+    "PT": "...Aquele ritual foi novo e divertido.",
+    "EN": "……さっきの儀式、新鮮で面白かった。"
+  },
+  "21": {
+    "Personagem": "Shiro",
+    "PT": "Então existia um truque desses!\nAssim o cliente realmente fica com vontade de voltar, né.",
+    "EN": "こんな手があったとは！\nこれなら確かに、また来ようという気になってもらえますね。"
+  },
+  "22": {
+    "Personagem": "Shiro",
+    "PT": "A gente também precisa pensar melhor nisso.",
+    "EN": "私たちも、もっとしっかり考えなきゃ。"
+  },
+  "23": {
+    "Personagem": "Shiro",
+    "PT": "Mas, mas!",
+    "EN": "でも、でも!"
+  },
+  "24": {
+    "Personagem": "Shiro",
+    "PT": "Ainda não dá para chamar isso de um verdadeiro café de maids...",
+    "EN": "これではまだ真のメイド喫茶とは言えない……。"
+  },
+  "25": {
+    "Personagem": "Shiro",
+    "PT": "No pedido de agora, nem a quantidade de gelo, leite ou açúcar da bebida\nelas se deram ao trabalho de perguntar para a gente.",
+    "EN": "さっきの注文、飲み物に入れる氷やミルクや砂糖の量も、\n私たちに訊ねようとはしませんでした。"
+  },
+  "26": {
+    "Personagem": "Shiro",
+    "PT": "Assim não tem como o cliente ficar satisfeito.",
+    "EN": "これではお客さんに満足してもらえるわけがありません。"
+  },
+  "27": {
+    "Personagem": "Shiro",
+    "PT": "Como maids do café de maids Nº 1, acho que falta capricho com o cliente.",
+    "EN": "No.1メイドカフェのメイドとしては気配りが出来ていないと思います。"
+  },
+  "28": {
+    "Personagem": "Shiori",
+    "PT": "Obrigada pela espera, Mestre, minha senhora.",
+    "EN": "お待たせしました、ご主人様、お嬢様。"
+  },
+  "29": {
+    "Personagem": "Shiori",
+    "PT": "Todo o cardápio do Miracle é feito com receitas perfeitas,\nentão já é uma delícia do jeito que está,",
+    "EN": "ミラクルのメニューは全て完璧なレシピで作られていますので、\nそのままでもとっても美味しいですけど、"
+  },
+  "30": {
+    "Personagem": "Shiori",
+    "PT": "mas para que o Mestre e a minha senhora aproveitem ainda mais,\nvamos fazer um encantamento cheio de amor para ficar ainda mais gostoso--",
+    "EN": "ご主人様とお嬢様にもっともっと美味しく召し上がっていただくために、\n愛情をこめてさらに美味しくなるおまじないをしましょう--"
+  },
+  "31": {
+    "Personagem": "Shiori",
+    "PT": "Fique delicioso--",
+    "EN": "美味しくなあれ--"
+  },
+  "32": {
+    "Personagem": "Shiori",
+    "PT": "Moe moe-- Miracle--♡♡♡♡♡",
+    "EN": "萌え萌え--ミラクル--♡♡♡♡♡"
+  },
+  "33": {
+    "Personagem": "Shiori",
+    "PT": "Então, por favor, aproveitem com calma.",
+    "EN": "それでは、ごゆっくりお召し上がりください。"
+  },
+  "34": {
+    "Personagem": "Shiro",
+    "PT": "Haa, estava uma delícia.",
+    "EN": "はー、おいしかった。"
+  },
+  "35": {
+    "Personagem": "Shiro",
+    "PT": "Se a gente descobrisse a receita... Se vier comer várias vezes, talvez dê!",
+    "EN": "レシピがわかればいいのに……何度も食べに来れば、できるかも！"
+  },
+  "36": {
+    "Personagem": "Shiro",
+    "PT": "E o seu, gerente? Está gostoso?",
+    "EN": "店長さんのはどうですか。おいしいですか？"
+  },
+  "37": {
+    "Personagem": "(protagonista)",
+    "PT": "Dividir com a Shiro:option2;Comer tudo sozinho:null",
+    "EN": "シロに分けてあげる。:option2;自分で全部食べる:null"
+  },
+  "38": {
+    "Personagem": "Shiro",
+    "PT": "Hã, pode ser?",
+    "EN": "えっ、いいんですか？"
+  },
+  "39": {
+    "Personagem": "Shiro",
+    "PT": "Então, vou aceitar sem cerimônia.",
+    "EN": "じゃあ、遠慮なくいただいちゃいます。"
+  },
+  "40": {
+    "Personagem": "Shiro",
+    "PT": "Que delícia!",
+    "EN": "おいしい！"
+  },
+  "41": {
+    "Personagem": "Shiro",
+    "PT": "Ah, é mesmo, gerente, prova o meu também.",
+    "EN": "そうだ、店長さん、私のも食べてください。"
+  },
+  "42": {
+    "Personagem": "Shiro",
+    "PT": "Mas eu já comi quase tudo, só sobrou um pouquinho...",
+    "EN": "でも、もうほとんど食べちゃって、少ししか残ってないや……。"
+  },
+  "43": {
+    "Personagem": "Shiro",
+    "PT": "Mesmo assim, a comida daqui é realmente deliciosa...",
+    "EN": "それにしても、ここの食べ物は本当においしいです……。"
+  },
+  "44": {
+    "Personagem": "Shiro",
+    "PT": "Isso já passou do nível de café de maids.",
+    "EN": "これはもうメイド喫茶のレベルじゃない。"
+  },
+  "45": {
+    "Personagem": "Shiro",
+    "PT": "Não relaxar nem nisso... Realmente são as campeãs dos cafés de maids...",
+    "EN": "こんなところまで手を抜かないなんて……さすがメイド喫茶の王者……。"
+  },
+  "46": {
+    "Personagem": "(narração)",
+    "PT": "......",
+    "EN": "……"
+  },
+  "47": {
+    "Personagem": "Shiro",
+    "PT": "Mas, mas!",
+    "EN": "でも、でも!"
+  },
+  "48": {
+    "Personagem": "Shiro",
+    "PT": "Só com isso, ainda...",
+    "EN": "これだけでは、まだ……"
+  },
+  "49": {
+    "Personagem": "Suzuka",
+    "PT": "Ora? Não é a Shiro!",
+    "EN": "あらっ？　シロじゃない！"
+  },
+  "50": {
+    "Personagem": "Shiro",
+    "PT": "Su-Suzuka-san!",
+    "EN": "す、鈴香さん！"
+  },
+  "51": {
+    "Personagem": "Suzuka",
+    "PT": "Faz um tempinho, né.",
+    "EN": "なんだか、久しぶりね。"
+  },
+  "52": {
+    "Personagem": "Shiro",
+    "PT": "Sim! Quanto tempo!",
+    "EN": "はい！お久しぶりです。"
+  },
+  "53": {
+    "Personagem": "Suzuka",
+    "PT": "E ainda por cima... a Shiro conseguiu um namorado.",
+    "EN": "それに……シロに彼氏ができたなんて。"
+  },
+  "54": {
+    "Personagem": "Shiro",
+    "PT": "Ê, e-espera!",
+    "EN": "え、ちょ、待って！"
+  },
+  "55": {
+    "Personagem": "Suzuka",
+    "PT": "Prazer em conhecê-lo, Mestre. Sou a Suzuka, a maid mais popular.",
+    "EN": "ご主人様、はじめまして。一番人気の鈴香です。"
+  },
+  "56": {
+    "Personagem": "Suzuka",
+    "PT": "Antes eu servia junto com a Shiro no Fuwa Fuwa. Prazer.",
+    "EN": "以前は、シロと一緒にふわふわでお給仕していたの。よろしくね。"
+  },
+  "57": {
+    "Personagem": "(protagonista)",
+    "PT": "Eu sou o gerente interino do Fuwa Fuwa.:null;Eu sou o namorado da Shiro.:option3",
+    "EN": "私はふわふわの店長代理です。:null;私はシロの彼氏です。:option3"
+  },
+  "58": {
+    "Personagem": "Shiro",
+    "PT": "Gerente, o-o-o-o que você está dizendo!?\n",
+    "EN": "店長さん、な、な、な、何を言うんですか！？\n"
+  },
+  "59": {
+    "Personagem": "Suzuka",
+    "PT": "O que foi? Briga de casal?",
+    "EN": "どうしたの？夫婦喧嘩ですか？"
+  },
+  "60": {
+    "Personagem": "Suzuka",
+    "PT": "Sinto muito, mas aqui não oferecemos\num serviço de mediação de briga de casal.",
+    "EN": "申し訳ありませんが、ここでは夫婦喧嘩を\n仲裁するサービスはしていませんよ。"
+  },
+  "61": {
+    "Personagem": "Shiro",
+    "PT": "Não é isso!!!!",
+    "EN": "違います！！！！"
+  },
+  "62": {
+    "Personagem": "Shiro",
+    "PT": "Essa pessoa é o novo gerente do Fuwa Fuwa!",
+    "EN": "この人はふわふわの新店長です！"
+  },
+  "63": {
+    "Personagem": "Suzuka",
+    "PT": "Hã! O gerente... do Fuwa Fuwa?",
+    "EN": "えっ！ふわふわの……店長？"
+  },
+  "64": {
+    "Personagem": "Suzuka",
+    "PT": "Não me diga que vocês realmente acharam alguém!?",
+    "EN": "まさか、本当に見つかったの！？"
+  },
+  "65": {
+    "Personagem": "Suzuka",
+    "PT": "Quando o Fuwa Fuwa fechou, todo mundo ficou pra baixo.\nEra um lugar tão aconchegante... parecia a casa da gente.",
+    "EN": "ふわふわが閉店した時、みんな落ち込んでた。\nとてもあたたかくて……みんなの家みたいな場所だったから。"
+  },
+  "66": {
+    "Personagem": "Suzuka",
+    "PT": "Não dava tanto lucro, e o salário por hora era baixo... fufu.",
+    "EN": "あまり儲かってはいなくて、時給は安かったけどね……ふふっ。"
+  },
+  "67": {
+    "Personagem": "Suzuka",
+    "PT": "\"Se acharem um gerente novo, podem continuar\"\nFoi o que o dono disse, mas ninguém levou a sério.",
+    "EN": "「新しい店長が見つかったら、続けてもいい」\nそうオーナーは言ったけど、誰も本気にしなかった。"
+  },
+  "68": {
+    "Personagem": "Suzuka",
+    "PT": "Gerente, você sabia? Quando a Shiro chegou no café,\nela era super tímida. Mas, num piscar de olhos,\ncomo se tivesse virado outra pessoa, virou a maid mais popular da casa.",
+    "EN": "店長さん、知ってますか？　シロって、店に来たばかりのときは\nすごく恥ずかしがり屋だったんですよ。でも、あっという間に、\n人が変わったように、店で一番人気のメイドになったんです。"
+  },
+  "69": {
+    "Personagem": "Shiro",
+    "PT": "N-Não é nada disso.\nEu só fiquei dependendo da Suzuka-san o tempo todo...",
+    "EN": "そ、そんなことないです。\n鈴香さんにはずっとお世話になりっぱなしで……。"
+  },
+  "70": {
+    "Personagem": "Suzuka",
+    "PT": "A Shiro é uma garota que se esforça de verdade, né?\nMesmo sem estar do lado, dá para perceber.",
+    "EN": "シロは本当にすごく一生懸命な子でしょう？\nそばにいなくても、わかります。"
+  },
+  "71": {
+    "Personagem": "Shiro",
+    "PT": "Suzuka-san...",
+    "EN": "鈴香さん……。"
+  },
+  "72": {
+    "Personagem": "(narração)",
+    "PT": ".............",
+    "EN": "………………。"
+  },
+  "73": {
+    "Personagem": "Suzuka",
+    "PT": "Ei, Shiro. Mesmo trabalhando em cafés diferentes, a gente continua amiga.\nEntão, se tiver alguma coisa em que eu possa ajudar, é só falar, a qualquer hora.\n",
+    "EN": "ねぇ、シロ。働くお店は違っても、私たちはずっと友達よ。\nだから、何か手伝えることがあったら、いつでも言ってね。\n"
+  },
+  "74": {
+    "Personagem": "Shiro",
+    "PT": "...Sim!",
+    "EN": "……はい！"
+  },
+  "75": {
+    "Personagem": "Suzuka",
+    "PT": "Novo gerente, cuide bem da Shiro. Mas...",
+    "EN": "新しい店長さん、シロをお願いします。でも……"
+  },
+  "76": {
+    "Personagem": "Suzuka",
+    "PT": "Se você fizer ela chorar, sua fama ruim vai ecoar pela Rua Elétrica inteira.",
+    "EN": "シロを泣かせたら、電気街中に悪名が響きわたることになるわよ。"
+  },
+  "77": {
+    "Personagem": "Suzuka",
+    "PT": "Fica esperto, tá?",
+    "EN": "おぼえておいてね？"
+  },
+  "78": {
+    "Personagem": "Suzuka",
+    "PT": "Quando eu tiver um tempinho, passo no Fuwa Fuwa. Se esforça, tá!",
+    "EN": "時間があるとき、ふわふわに顔出すから、頑張ってね！"
+  },
+  "79": {
+    "Personagem": "Suzuka",
+    "PT": "Então, Mestre, minha senhora, vou me retirando.\nPor favor, fiquem à vontade.",
+    "EN": "それではご主人様、お嬢さま、お先に失礼させていただきます。\nどうぞごゆっくりしてください。"
+  },
+  "80": {
+    "Personagem": "Shiro",
+    "PT": "...A Suzuka-san realmente é uma Senpai incrível.\nTanto como maid quanto como uma mulher em quem dá para confiar.",
+    "EN": "……鈴香さんは、やっぱりすごいセンパイです。\nメイドとしても、頼れる女性としても。"
+  },
+  "81": {
+    "Personagem": "Shiro",
+    "PT": "Gerente, vamos nos esforçar juntos!\nPara não perdermos para a Suzuka-san nem para este Miracle Maid Cafe!",
+    "EN": "店長さん、一緒にがんばりましょう！\n鈴香さんにも、このミラクルメイドカフェにも負けないように！"
+  }
+}
