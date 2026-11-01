@@ -1,0 +1,157 @@
+{
+  "0": {
+    "Personagem": "Shiro",
+    "PT": "Faz um tempo que eu não vinha a um parque... Que saudade.",
+    "EN": "久しぶりの公園、懐かしいなあ。"
+  },
+  "1": {
+    "Personagem": "(protagonista)",
+    "PT": "Não vamos brincar como na infância?: option1;Eu brincava bastante com os amigos quando era pequeno:option2",
+    "EN": "童心に帰って遊ばない？: option1;小さい頃、よく友達と遊んでたな:option2"
+  },
+  "2": {
+    "Personagem": "Shiro",
+    "PT": "Então... Gerente, que tal a gangorra? Quando era criança, eu tinha poucas pessoas com quem brincar...",
+    "EN": "じゃあ……店長さん、シーソーにしませんか？子どもの頃は遊び相手が少なくて……。"
+  },
+  "3": {
+    "Personagem": "Shiro",
+    "PT": "O Gerente tem muitos amigos, né? Que bom... Ah, tem uma gangorra ali!\nDá vontade de brincar...",
+    "EN": "店長さんはお友達が多いんですね。いいな～。あ、あそこにシーソーがあります！\n遊んでみたいなあ……。"
+  },
+  "4": {
+    "Personagem": "Shiro",
+    "PT": "Então, que tal essa aqui... Ah!",
+    "EN": "じゃあ、こっちにしようかな……あっ！"
+  },
+  "5": {
+    "Personagem": "(narração)",
+    "PT": "A Shiro levanta a perna para subir na gangorra, mas...\nsem ter costume de brincar, acaba perdendo o equilíbrio.",
+    "EN": "シーソーに乗ろうと足を上げるシロだったが……\n遊び慣れていないためかバランスを崩してしまう。"
+  },
+  "6": {
+    "Personagem": "(narração)",
+    "PT": "Você segura a Shiro, que estava prestes a cair. Mal se alivia por ter evitado a queda...\ne percebe que o corpo dela está bem colado no seu.",
+    "EN": "君は転びそうになるシロをとっさに受け止める。なんとか転倒を防いでほっとした矢先…\nシロと体が密着していることに気づいた。"
+  },
+  "7": {
+    "Personagem": "Shiro",
+    "PT": "D-D-D-Desculpa!!!",
+    "EN": "ご、ご、ごめんなさい! ! !"
+  },
+  "8": {
+    "Personagem": "(narração)",
+    "PT": "Com o rosto vermelho de vergonha, a Shiro se afasta do corpo do protagonista.",
+    "EN": "シロは、顔を真っ赤にしながら密着した体を離す。"
+  },
+  "9": {
+    "Personagem": "Shiro",
+    "PT": "Desculpa. Não tenho jeito com essas coisas...",
+    "EN": "ごめんなさい。不慣れで……。"
+  },
+  "10": {
+    "Personagem": "(narração)",
+    "PT": "Um silêncio constrangedor dura alguns segundos, mas a Shiro logo retoma a expressão de sempre.",
+    "EN": "気まずい沈黙が数秒間続いたが、シロはすぐさま普段と変わらない表情に戻った。"
+  },
+  "11": {
+    "Personagem": "(narração)",
+    "PT": "Vocês brincaram juntos na gangorra.",
+    "EN": "シーソーを一緒に楽しんだ。"
+  },
+  "12": {
+    "Personagem": "Shiro",
+    "PT": "Ainda quero brincar mais, Gerente! Vamos no balanço!",
+    "EN": "まだまだ遊びたいです、店長さん、ブランコに乗りましょう！"
+  },
+  "13": {
+    "Personagem": "Shiro",
+    "PT": "Hê? Balanço... é meio vergonhoso... não vamos brincar de outra coisa primeiro?",
+    "EN": "えっ？ブランコ…ちょっと恥ずかしい……まずは他のにしませんか？"
+  },
+  "14": {
+    "Personagem": "Shiro",
+    "PT": "Hehe, não sei por quê, mas brincar no parque é muito divertido!",
+    "EN": "へへ、どうしてかわからないけど、公園で遊ぶのって楽しいですね！"
+  },
+  "15": {
+    "Personagem": "Shiro",
+    "PT": "Gerente, parece que tem algo pesando no seu coração...?",
+    "EN": "店長さん、何かお悩みがあるようですね……？"
+  },
+  "16": {
+    "Personagem": "(protagonista)",
+    "PT": "Você é perspicaz:option3;Como você percebeu...?:option3",
+    "EN": "鋭いな:option3;どうしてわかったの……？:option3"
+  },
+  "17": {
+    "Personagem": "Shiro",
+    "PT": "Eu tenho uma intuição muito boa. Se não fizer diferença, conte para mim o que está te incomodando.",
+    "EN": "私ってよく勘が働くんです。もしよかったら店長さんのお悩みを聞かせてください。"
+  },
+  "18": {
+    "Personagem": "(protagonista)",
+    "PT": "Sera que consigo ser gerente mesmo sem experiência?:option4;Talvez eu acabe te decepcionando:option4",
+    "EN": "未経験なのに店長の仕事ができるだろうか:option4;君の期待を裏切るかもしれない:option4"
+  },
+  "19": {
+    "Personagem": "Shiro",
+    "PT": "Entendo perfeitamente como você se sente, Gerente.",
+    "EN": "なるほど、店長さんの気持ちはよくわかります。"
+  },
+  "20": {
+    "Personagem": "Shiro",
+    "PT": "Quando eu era maid novata, eu estava muito mais nervosa do que você está agora.",
+    "EN": "私、新人メイドだった頃は、今の店長さんより緊張してたんです。"
+  },
+  "21": {
+    "Personagem": "Shiro",
+    "PT": "Eu vivia fazendo besteiras e dando trabalho para todo mundo, tanto que já pensei em desistir.",
+    "EN": "ドジばかりで周りに迷惑をかけて、もう辞めようと思ったこともありました。"
+  },
+  "22": {
+    "Personagem": "Shiro",
+    "PT": "Foi então que o dono me disse: \"Se você logo desistir e cair fora, os sonhos que te fizeram querer ser maid vão virar mentira.\"",
+    "EN": "オーナーはその時、「すぐに挫折して諦めてしまったら、メイドさんになりたかった思いも嘘になってしまうよ」って教えてくれたんです。"
+  },
+  "23": {
+    "Personagem": "Shiro",
+    "PT": "E, com o apoio das veteranas e o carinho dos clientes, eu acabei me apaixonando por esse trabalho...\nPouco a pouco, o café se tornou algo que eu não poderia ficar sem.",
+    "EN": "それに先輩達のサポートやお客さんの応援のおかげでお仕事が大好きになって…次第にお店は私にとってなくてはならない存在になったんです。"
+  },
+  "24": {
+    "Personagem": "Shiro",
+    "PT": "Se o Gerente também continuar se esforçando, os resultados virão!",
+    "EN": "店長さんだって頑張れば結果が付いてきます！"
+  },
+  "25": {
+    "Personagem": "Shiro",
+    "PT": "Eu também quero poder apoiar alguém, assim como o dono e as veteranas fizeram por mim.",
+    "EN": "私もオーナーや先輩達みたいに誰かの力になりたいです。"
+  },
+  "26": {
+    "Personagem": "Shiro",
+    "PT": "Por isso, Gerente! Vamos dar o nosso melhor juntos!",
+    "EN": "ですので、店長さん！一緒に頑張りましょう！"
+  },
+  "27": {
+    "Personagem": "(protagonista)",
+    "PT": "Obrigado, Shiro: option5;Falando com você, já me sinto melhor:option5",
+    "EN": "ありがとう、シロ: option5;話したら楽になったよ:option5"
+  },
+  "28": {
+    "Personagem": "Shiro",
+    "PT": "Que bom ter ajudado o Gerente!",
+    "EN": "店長さんのお役に立ててよかったです！"
+  },
+  "29": {
+    "Personagem": "Shiro",
+    "PT": "Sou eu que agradeço. Sem você, Gerente, não haveria nenhuma esperança para o Fuwa Fuwa.",
+    "EN": "お礼を言うのは私の方です。店長さんがいなかったら、ふわふわに希望はありませんでした。"
+  },
+  "30": {
+    "Personagem": "Shiro",
+    "PT": "Obrigada por brincar comigo. Quer voltar ao parque com o Gerente outra vez.",
+    "EN": "一緒に遊んでくれてありがとうございました。また店長さんと公園に行きたいです。"
+  }
+}

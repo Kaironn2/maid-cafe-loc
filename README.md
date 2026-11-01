@@ -62,15 +62,16 @@ In scenes, each line also shows who is speaking, to help keep the voice consiste
 
 ### What to translate
 
-10,978 texts in total, about 683k English characters. Run `maidloc status` to see progress.
+11,720 texts in total, about 725k English characters. Run `maidloc status` to see progress.
 
 | Folder | Files | Texts | Contents |
 |---|---:|---:|---|
 | `translations/texts/` | 4 | 2,992 | `ui_en` (menus, 860), `textdata_en` (names, items, dishes, 1,131), `dialogue_en` (short NPC lines, 973), `charactername_en` (28) |
 | `translations/scenes/` | 49 | 7,394 | Story dialogue. The largest are `Dialogue02_Operat_Lobby` (1,360), `Dialogue03_Operat_RestRoom` (725), `Dialogue41_OsakaCastlePark` (643), `Dialogue05_Shrine` (575) and `Dialogue21_Cinema_Indoor` (544) |
 | `translations/extras/` | 4 | 592 | `RamdomNpcDiaText` (random lines, 250), `DevelopmentReport` (credits, 239), `GameCG` (CG names, 91), `InterActionDialogue` (12) |
+| `translations/excel/` | 17 | 742 | Prologue and day 1 dialogue stored as spreadsheets. The largest are `office` (128), `xuzhang_street` (122), `GameCenter` (82) and `milakulu` (82) |
 
-Suggested order: `texts/ui_en.json` → `texts/textdata_en.json` → `texts/dialogue_en.json` → `scenes/` → `extras/`.
+Suggested order: `texts/ui_en.json` → `texts/textdata_en.json` → `texts/dialogue_en.json` → `excel/` → `scenes/` → `extras/`.
 
 Not included: `QuestionData` (quiz) and `LineMessage`. The game only has Chinese text for these two, and we don't know yet where their English version comes from.
 
@@ -133,6 +134,7 @@ How the patch works:
 - ✅ Accented characters (ã õ ç á é í ó ú â ê ô) render correctly in game.
 - ✅ Item and character names, character profiles and short NPC lines translated (`texts/textdata_en.json` 1,131, `texts/dialogue_en.json` 973, `texts/charactername_en.json` 28). Not yet tested in game.
 - ✅ Story scenes (`scenes/`, 49 files, 7,394 lines) and extras (`extras/`: random NPC lines, CG gallery names, credits; 592) translated. Not yet tested in game.
+- ✅ Prologue and day 1 dialogue stored as spreadsheets (`excel/`, 17 files, 742 lines) extracted and translated. Not yet tested in game.
 - ⏳ Next: test everything in game and review.
 
 ### How it works
@@ -196,15 +198,16 @@ Nas cenas, cada fala também mostra quem está falando, para ajudar na coerênci
 
 ### O que traduzir
 
-10.978 textos no total, cerca de 683 mil caracteres em inglês. Use `maidloc status` para ver o progresso.
+11.720 textos no total, cerca de 725 mil caracteres em inglês. Use `maidloc status` para ver o progresso.
 
 | Pasta | Arquivos | Textos | Conteúdo |
 |---|---:|---:|---|
 | `translations/texts/` | 4 | 2.992 | `ui_en` (menus, 860), `textdata_en` (nomes, itens, pratos, 1.131), `dialogue_en` (falas curtas de NPC, 973), `charactername_en` (28) |
 | `translations/scenes/` | 49 | 7.394 | Diálogos da história. Os maiores são `Dialogue02_Operat_Lobby` (1.360), `Dialogue03_Operat_RestRoom` (725), `Dialogue41_OsakaCastlePark` (643), `Dialogue05_Shrine` (575) e `Dialogue21_Cinema_Indoor` (544) |
 | `translations/extras/` | 4 | 592 | `RamdomNpcDiaText` (falas aleatórias, 250), `DevelopmentReport` (créditos, 239), `GameCG` (nomes das CGs, 91), `InterActionDialogue` (12) |
+| `translations/excel/` | 17 | 742 | Diálogos do prólogo e do dia 1 guardados como planilhas. Os maiores são `office` (128), `xuzhang_street` (122), `GameCenter` (82) e `milakulu` (82) |
 
-Prioridade sugerida: `texts/ui_en.json` → `texts/textdata_en.json` → `texts/dialogue_en.json` → `scenes/` → `extras/`.
+Prioridade sugerida: `texts/ui_en.json` → `texts/textdata_en.json` → `texts/dialogue_en.json` → `excel/` → `scenes/` → `extras/`.
 
 Não estão incluídos: `QuestionData` (quiz) e `LineMessage`. Esses dois só têm texto em chinês no jogo, e ainda não sabemos de onde vem a versão em inglês.
 
@@ -267,6 +270,7 @@ Como o patch funciona:
 - ✅ Acentos (ã õ ç á é í ó ú â ê ô) aparecem corretamente no jogo.
 - ✅ Nomes de itens e personagens, fichas de personagens e falas curtas de NPC traduzidos (`texts/textdata_en.json` 1.131, `texts/dialogue_en.json` 973, `texts/charactername_en.json` 28). Ainda não testados no jogo.
 - ✅ Cenas da história (`scenes/`, 49 arquivos, 7.394 falas) e extras (`extras/`: falas aleatórias, nomes das CGs da galeria, créditos; 592) traduzidos. Ainda não testados no jogo.
+- ✅ Diálogos do prólogo e do dia 1 guardados como planilhas (`excel/`, 17 arquivos, 742 falas) extraídos e traduzidos. Ainda não testados no jogo.
 - ⏳ Próximos: testar tudo no jogo e revisar.
 
 ### Como funciona por dentro

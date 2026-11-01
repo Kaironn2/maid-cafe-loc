@@ -1,0 +1,287 @@
+{
+  "0": {
+    "Personagem": "Shiro",
+    "PT": "A partir de agora, este será o seu lugar para ficar.",
+    "EN": "This will be your place to stay from now on."
+  },
+  "1": {
+    "Personagem": "Shiro",
+    "PT": "Faz um bom tempo que ninguém usa este lugar,\nmas eu venho aqui regularmente para deixar tudo bem limpinho!",
+    "EN": "It hasn't been used in a pretty long time,\nbut I come here regularly to keep it nice and clean!"
+  },
+  "2": {
+    "Personagem": "Shiro",
+    "PT": "Então você pode dormir aqui hoje à noite, se quiser.",
+    "EN": "So you can sleep here tonight if you want."
+  },
+  "3": {
+    "Personagem": "Shiro",
+    "PT": "Ah, e acho bom a gente repassar a situação do café de agora,\npara você entender no que está se metendo.",
+    "EN": "By the way, we should probably go over the cafe's situation\nso you understand what you're getting into."
+  },
+  "4": {
+    "Personagem": "Shiro",
+    "PT": "Nós temos 3 problemas principais:\nfalta de funcionários, falta de dinheiro e falta de clientes.",
+    "EN": "We have 3 main problems:\nLack of employees, lack of money, and lack of customers."
+  },
+  "5": {
+    "Personagem": "(protagonista)",
+    "PT": "Sobre a falta de funcionários:option1;Sobre a falta de dinheiro:option2;Sobre a falta de clientes:option3",
+    "EN": "About the lack of employees:option1;About the lack of money:option2;About the lack of customers:option3"
+  },
+  "6": {
+    "Personagem": "Shiro",
+    "PT": "Como você já sabe, eu sou a única pessoa que ainda trabalha no café.",
+    "EN": "As you already know, I'm the only person left working in the cafe."
+  },
+  "7": {
+    "Personagem": "Shiro",
+    "PT": "Mas o café precisa de pelo menos 2 maids para funcionar de verdade.",
+    "EN": "But the cafe needs at least 2 maids to actually operate."
+  },
+  "8": {
+    "Personagem": "Shiro",
+    "PT": "Então a nossa prioridade máxima é achar alguém para ser a nossa segunda maid.",
+    "EN": "So our top priority is to find someone who'll be our second maid."
+  },
+  "9": {
+    "Personagem": "Shiro",
+    "PT": "Eu já cheguei a espalhar cartazes anunciando a vaga e tudo mais,\nmas nunca apareceu ninguém para a posição...",
+    "EN": "I've already tried putting up posters for it and everything,\nbut no one's ever shown up for the position..."
+  },
+  "10": {
+    "Personagem": "(protagonista)",
+    "PT": "Vamos roubar alguém do Miracle Maid Cafe!:option4;Que tal procurarmos numa rua bem movimentada?:option4",
+    "EN": "Let's poach someone from Miracle Maid Cafe!:option4;Should we go look in a busy street somewhere?:option4"
+  },
+  "11": {
+    "Personagem": "Shiro",
+    "PT": "M-Mas... isso é meio assustador...",
+    "EN": "B-But... That's kind of scary..."
+  },
+  "12": {
+    "Personagem": "Shiro",
+    "PT": "Mas agora que você chegou, provavelmente vai ficar tudo bem! É isso!",
+    "EN": "But now that you're here, it'll probably be fine! Yes!"
+  },
+  "13": {
+    "Personagem": "Shiro",
+    "PT": "O café não está faturando o suficiente para cobrir as despesas.",
+    "EN": "The cafe isn't making enough money to cover its expenses."
+  },
+  "14": {
+    "Personagem": "Shiro",
+    "PT": "O dono deixou algum dinheiro para o aluguel,\nmas isso está prestes a acabar.",
+    "EN": "The owner left some money for rent,\nbut that's about to run out soon."
+  },
+  "15": {
+    "Personagem": "Shiro",
+    "PT": "Se o café continuar fechado por mais um tempo,\npode ser que a gente não consiga pagar o próximo aluguel...",
+    "EN": "If the cafe stays closed any longer,\nwe might not be able to pay the next rent..."
+  },
+  "16": {
+    "Personagem": "(protagonista)",
+    "PT": "Que horror!:option5;Espera, isso inclui o apartamento do andar de cima?:option5",
+    "EN": "That's horrible!:option5;Wait, does that include the upstairs apartment?:option5"
+  },
+  "17": {
+    "Personagem": "Shiro",
+    "PT": "Sim, então não temos tempo a perder.",
+    "EN": "Yes, so we have no time to lose."
+  },
+  "18": {
+    "Personagem": "Shiro",
+    "PT": "Mesmo que o apartamento fosse só para o uso pessoal do dono,\nele é alugado como parte do café.",
+    "EN": "Even though the apartment was just for the owner's personal use,\nit's rented as a part of the cafe itself."
+  },
+  "19": {
+    "Personagem": "Shiro",
+    "PT": "Então, se não conseguirmos pagar o aluguel, o apartamento teria de ir junto com o café.",
+    "EN": "So if we can't pay rent, the apartment would have to go along with the cafe."
+  },
+  "20": {
+    "Personagem": "Shiro",
+    "PT": "Deve ser destino você aparecer\ne virar o novo gerente exatamente nesse momento!",
+    "EN": "It must be fate that you showed up\nand became the new manager at this exact moment!"
+  },
+  "21": {
+    "Personagem": "Shiro",
+    "PT": "O café de maids mais popular da Rua Elétrica é o Miracle Maid Cafe.",
+    "EN": "The most popular maid cafe at Electric Street is Miracle Maid Cafe."
+  },
+  "22": {
+    "Personagem": "Shiro",
+    "PT": "Todo mundo vai até lá.",
+    "EN": "Everyone goes there."
+  },
+  "23": {
+    "Personagem": "Shiro",
+    "PT": "E nós nem chegamos perto deles, nem na localização, nem na popularidade.",
+    "EN": "And we can't hold a candle to them, either in location or popularity."
+  },
+  "24": {
+    "Personagem": "Shiro",
+    "PT": "O que podemos fazer para atrair mais clientes...?",
+    "EN": "What can we do to attract more customers...?"
+  },
+  "25": {
+    "Personagem": "(protagonista)",
+    "PT": "Podemos distribuir panfletos na rua.:option6;Podemos organizar um evento.:option6",
+    "EN": "We could give out flyers on the street.:option6;We could organize an event.:option6"
+  },
+  "26": {
+    "Personagem": "Shiro",
+    "PT": "Hmm, não sei...",
+    "EN": "Hmm, I don't know..."
+  },
+  "27": {
+    "Personagem": "Shiro",
+    "PT": "Mas essas coisas eu deixo para você, Gerente!",
+    "EN": "But I'll leave that sort of thing to you, manager!"
+  },
+  "28": {
+    "Personagem": "Shiro",
+    "PT": "A nossa prioridade máxima é achar uma garota disposta\na trabalhar aqui como maid!",
+    "EN": "Our top priority is to find a girl who is willing\nto work here as a maid!"
+  },
+  "29": {
+    "Personagem": "Shiro",
+    "PT": "Vamos reabrir o café o quanto antes!",
+    "EN": "Let's reopen the cafe as soon as possible!"
+  },
+  "30": {
+    "Personagem": "Shiro",
+    "PT": "Podemos começar a procurar amanhã!",
+    "EN": "We should start looking tomorrow!"
+  },
+  "31": {
+    "Personagem": "Shiro",
+    "PT": "Maid número 2, lá vamos nós!",
+    "EN": "Maid number 2, here we come!"
+  },
+  "32": {
+    "Personagem": "Shiro",
+    "PT": "Ah, é, a gente pode trocar os números para se falar mais facilmente?",
+    "EN": "Oh right, could we exchange numbers so we can contact each other?"
+  },
+  "33": {
+    "Personagem": "(narração)",
+    "PT": "Obteve: Número de Celular da Shiro",
+    "EN": "Obtained: Shiro's Phone Number"
+  },
+  "34": {
+    "Personagem": "Shiro",
+    "PT": "Ai não, está ficando tarde... Será melhor que eu vá para casa.",
+    "EN": "Oh no, it's getting late... I should go home."
+  },
+  "35": {
+    "Personagem": "Shiro",
+    "PT": "Boa noite, Gerente. Bons sonhos!",
+    "EN": "Good night, manager. Sweet dreams!"
+  },
+  "36": {
+    "Personagem": "Shiro",
+    "PT": "Até amanhã!",
+    "EN": "See you tomorrow!"
+  },
+  "37": {
+    "Personagem": "(protagonista)",
+    "PT": "(É uma cama simples e arrumadinha.)",
+    "EN": "(It's a simple, tidy bed.)"
+  },
+  "38": {
+    "Personagem": "(protagonista)",
+    "PT": "(Vou ter de me virar até chegarem as minhas coisas.)",
+    "EN": "(I'll just have to hold out until my belongings arrive.)"
+  },
+  "39": {
+    "Personagem": "(narração)",
+    "PT": "Descansar por hoje?",
+    "EN": "Rest for today?"
+  },
+  "40": {
+    "Personagem": "(protagonista)",
+    "PT": "Sim:option7;Não",
+    "EN": "Yes:option7;No"
+  },
+  "41": {
+    "Personagem": "(protagonista)",
+    "PT": "(Hoje foi um dia bem comprido. Melhor eu ir dormir.)",
+    "EN": "(Today was a really long day. I should go to bed.)"
+  },
+  "42": {
+    "Personagem": "(protagonista)",
+    "PT": "(Hoje foi um bom dia. Boa noite.)",
+    "EN": "(Today was a nice day. Good night.)"
+  },
+  "43": {
+    "Personagem": "Shiro",
+    "PT": "G-Gerente...",
+    "EN": "M-Manager..."
+  },
+  "44": {
+    "Personagem": "Shiro",
+    "PT": "B-B-B-B-Bom... bom dia...",
+    "EN": "G-G-G-G-Good, good morning..."
+  },
+  "45": {
+    "Personagem": "Shiro",
+    "PT": "D-Desculpa...",
+    "EN": "S-Sorry..."
+  },
+  "46": {
+    "Personagem": "Shiro",
+    "PT": "É que... hã... faz eras que eu não falo com ninguém pelo celular, então...",
+    "EN": "I, um. I haven't talked to anyone on the phone in ages, so..."
+  },
+  "47": {
+    "Personagem": "Shiro",
+    "PT": "Só que eu estou... um pouco nervosa...",
+    "EN": "I'm just, a little nervous..."
+  },
+  "48": {
+    "Personagem": "Shiro",
+    "PT": "E-Eu vou embarcar no trem daqui a pouco...",
+    "EN": "I-I'm getting on the train soon..."
+  },
+  "49": {
+    "Personagem": "Shiro",
+    "PT": "Chego aí em, hã... umas 2 ou 3 estações, então...",
+    "EN": "I'll be there in, um, 2 or 3 stations, so..."
+  },
+  "50": {
+    "Personagem": "Shiro",
+    "PT": "N-Nos encontramos na estação! Do lado leste da Rua Elétrica!",
+    "EN": "L-Let's meet up at the station! On the east side of Electric Street!"
+  },
+  "51": {
+    "Personagem": "Shiro",
+    "PT": "Ok, então... Nos vemos lá...!",
+    "EN": "Okay, then... See you there...!"
+  },
+  "52": {
+    "Personagem": "(narração)",
+    "PT": "Ir para a estação?",
+    "EN": "Leave for the station?"
+  },
+  "53": {
+    "Personagem": "(narração)",
+    "PT": "Sim:option8;Não",
+    "EN": "Yes:option8;No"
+  },
+  "54": {
+    "Personagem": "(protagonista)",
+    "PT": "(Ah, é, eu acabei de conseguir o número da Miyu. Melhor anotar.)",
+    "EN": "(Oh, right, I just got Miyu's number. I should note it down.)"
+  },
+  "55": {
+    "Personagem": "(narração)",
+    "PT": "Obteve: Número de Celular da Miyu",
+    "EN": "Obtained: Miyu's Phone Number"
+  },
+  "56": {
+    "Personagem": "(protagonista)",
+    "PT": "(Amanhã é a reabertura oficial, então é melhor eu descansar direito.)",
+    "EN": "(We're officially reopening tomorrow, so I should get enough rest.)"
+  }
+}

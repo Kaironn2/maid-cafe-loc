@@ -1,0 +1,52 @@
+{
+  "0": {
+    "Personagem": "Maid",
+    "PT": "Deixa eu ver...",
+    "EN": "えっと……"
+  },
+  "1": {
+    "Personagem": "Maid",
+    "PT": "Segundo a receita que o dono deixou, a base do \"Fuwa Fuwa Special\" é espresso.",
+    "EN": "オーナーが残したレシピによると、「ふわふわスペシャル」のベースはエスプレッソ。"
+  },
+  "2": {
+    "Personagem": "Maid",
+    "PT": "Basta adicionar leite na medida certa e, no final, usar canela para dar o sabor.",
+    "EN": "牛乳を適量加え、仕上げにシナモンを使って風味をつけたら完成です。"
+  },
+  "3": {
+    "Personagem": "Maid",
+    "PT": "Temos pó de café e canela, e o leite eu acabei de comprar.",
+    "EN": "コーヒー粉とシナモンはありますし、牛乳は先ほど買いました。"
+  },
+  "4": {
+    "Personagem": "(protagonista)",
+    "PT": "(Escolher a base...)",
+    "EN": "(ベースから選んで……)"
+  },
+  "5": {
+    "Personagem": "(protagonista)",
+    "PT": "(Em seguida, adicionar leite na medida certa. Se colocar canela, está pronto.)",
+    "EN": "(次に牛乳を適量加える そこにシナモンを加えれば完成だ。)"
+  },
+  "6": {
+    "Personagem": "Maid",
+    "PT": "Uau! Nem parece a primeira vez! Você tem muito talento, Mestre.",
+    "EN": "わあ！初めてとは思えません！ご主人様には才能があるんですね。"
+  },
+  "7": {
+    "Personagem": "Maid",
+    "PT": "A propósito, dá para refazer a bebida quantas vezes quiser, desde que seja antes de servir ao cliente. Lembre-se disso se errar a receita.",
+    "EN": "ちなみにドリンクは、お客様にお出しする前なら何度でも作り直せます。レシピを間違えた際に思い出してくださいね。"
+  },
+  "8": {
+    "Personagem": "Maid",
+    "PT": "Desculpe. Isso nem é trabalho seu, Mestre...",
+    "EN": "ごめんなさい。ご主人様のお仕事じゃないのに……。"
+  },
+  "9": {
+    "Personagem": "Maid",
+    "PT": "Então, Mestre, por favor, volte ao seu lugar.",
+    "EN": "では、ご主人様、お席にお戻りください。"
+  }
+}

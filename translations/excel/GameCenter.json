@@ -1,0 +1,412 @@
+{
+  "0": {
+    "Personagem": "Shiro",
+    "PT": "Gerente, chega mais perto! Dá para ver o lado de fora daqui!",
+    "EN": "Manager, come closer! We can see outside from here!"
+  },
+  "1": {
+    "Personagem": "(narração)",
+    "PT": "Você faz o que a Shiro pede e espia pela fresta entre as cortinas.\nVocê observa a garota de cabelo rosa com atenção, mas, enquanto isso,\na Shiro chega cada vez mais perto de você.",
+    "EN": "You do as Shiro says and peek out of the crack between the curtains.\nYou watch the pink-haired girl carefully, but as you do so,\nShiro gets closer and closer to you."
+  },
+  "2": {
+    "Personagem": "(narração)",
+    "PT": "Quando você percebe que a Shiro tem um cheiro gostoso,\nvocês já estão praticamente colados um no outro.\nAo notar isso, você tenta se afastar um pouco, mas...",
+    "EN": "By the time you notice that Shiro smells kind of nice,\nyou're practically attached to each other.\nNoticing this, you attempt to put some distance between you, but..."
+  },
+  "3": {
+    "Personagem": "Shiro",
+    "PT": "Gerente, não se mexa! Vamos perder ela de vista!",
+    "EN": "Manager, don't move! We're losing her!"
+  },
+  "4": {
+    "Personagem": "(narração)",
+    "PT": "A Shiro puxa você de volta.",
+    "EN": "Shiro pulls you back in."
+  },
+  "5": {
+    "Personagem": "Shiro",
+    "PT": "Ah!",
+    "EN": "Ah!"
+  },
+  "6": {
+    "Personagem": "(narração)",
+    "PT": "Seus rostos se encostam.",
+    "EN": "Your faces touch."
+  },
+  "7": {
+    "Personagem": "Shiro",
+    "PT": "M-Me desculpe...",
+    "EN": "I-I'm sorry..."
+  },
+  "8": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Hã? O que foi isso?",
+    "EN": "Hm? What was that?"
+  },
+  "9": {
+    "Personagem": "(narração)",
+    "PT": "No desespero, um de vocês aperta um botão da máquina de fotos sem querer. Uma voz alegre sai dos alto-falantes, alheia ao momento péssimo.",
+    "EN": "In your panic, one of you accidentally pushes a button on the photo machine. A joyful voice rings out of the speakers, oblivious of the bad timing."
+  },
+  "10": {
+    "Personagem": "machine",
+    "PT": "Parabéns! Vocês ganharam uma foto grátis!",
+    "EN": "Congratulations! You won a chance for one free photo!"
+  },
+  "11": {
+    "Personagem": "machine",
+    "PT": "\"Preparem-se para a foto grátis!\"",
+    "EN": "\"Get ready for your free photo!\""
+  },
+  "12": {
+    "Personagem": "machine",
+    "PT": "Digam xiiis!",
+    "EN": "Say cheeese!"
+  },
+  "13": {
+    "Personagem": "machine",
+    "PT": "\"Obrigada pela visita! Voltem sempre!\"",
+    "EN": "\"Thank you for coming! See you again!\""
+  },
+  "14": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Ah, deve ter sido impressão minha.",
+    "EN": "Eh, must've been my imagination."
+  },
+  "15": {
+    "Personagem": "Shiro",
+    "PT": "Ela foi embora...",
+    "EN": "She's gone..."
+  },
+  "16": {
+    "Personagem": "Shiro",
+    "PT": "Ah, é mesmo. Vamos sair.",
+    "EN": "Oh, right. Let's get out."
+  },
+  "17": {
+    "Personagem": "Shiro",
+    "PT": "Essa foi por pouco... Pelo menos saímos com uma foto grátis...? Parece que imprimiram 2. O que fazemos com elas?",
+    "EN": "That was close... At least we got a free photo out of it...? Looks like they printed out 2. What should we do with them?"
+  },
+  "18": {
+    "Personagem": "(protagonista)",
+    "PT": "(Dar uma das fotos para a Shiro?)",
+    "EN": "(Give Shiro one of the photos?)"
+  },
+  "19": {
+    "Personagem": "(protagonista)",
+    "PT": "Dar uma das fotos para ela:option1;Ficar com as duas:option2",
+    "EN": "Give her one of the photos:option1;Keep both for yourself:option2"
+  },
+  "20": {
+    "Personagem": "Shiro",
+    "PT": "Você vai me dar uma? É um pouco constrangedor...",
+    "EN": "You're giving one of them to me? This is a little embarrassing..."
+  },
+  "21": {
+    "Personagem": "Shiro",
+    "PT": "Mas sim, claro. Eu aceito.",
+    "EN": "But yes, of course. I'll take it."
+  },
+  "22": {
+    "Personagem": "Shiro",
+    "PT": "Obrigada...",
+    "EN": "Thank you..."
+  },
+  "23": {
+    "Personagem": "Shiro",
+    "PT": "E-Enfim! Precisamos seguir ela para o andar de cima.",
+    "EN": "A-Anyway! We should follow her upstairs."
+  },
+  "24": {
+    "Personagem": "Shiro",
+    "PT": "E-Enfim! Precisamos seguir ela para o andar de cima.",
+    "EN": "A-Anyway! We should follow her upstairs."
+  },
+  "25": {
+    "Personagem": "Shiro",
+    "PT": "Aqui deve ser perfeito. Olha, ela está ali...!",
+    "EN": "Right here should be perfect. Look, there she is...!"
+  },
+  "26": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Aaah, droga, cheguei na luta do chefe por tempo limitado,\nmas nenhum dos meus parceiros está online...",
+    "EN": "Aww man, I got to the limited-time boss fight,\nbut none of my teammates are online..."
+  },
+  "27": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "(Nem o sr46 está online. O que eu faço...)",
+    "EN": "(Not even sr46 is online. What do I do...)"
+  },
+  "28": {
+    "Personagem": "Shiro",
+    "PT": "(...Espera, isso é...?!)",
+    "EN": "(...Wait, is that...?!)"
+  },
+  "29": {
+    "Personagem": "Shiro",
+    "PT": "Ah, não! Eu tinha esquecido completamente do evento por tempo limitado!\nGerente, por favor, me ajude!",
+    "EN": "Oh, no! I forgot all about the limited-time event!\nManager, please lend me a hand!"
+  },
+  "30": {
+    "Personagem": "Shiro",
+    "PT": "Você só precisa se cadastrar nessa máquina.",
+    "EN": "All you need to do is register with this machine."
+  },
+  "31": {
+    "Personagem": "Shiro",
+    "PT": "Gerente! Esse chefe limitado dropa itens raros!",
+    "EN": "Manager! This limited boss drops rare items!"
+  },
+  "32": {
+    "Personagem": "Shiro",
+    "PT": "Não sei se dá para vencer só com duas pessoas, mas vamos nos esforçar!",
+    "EN": "I don't know if we can win with just 2 people, but let's do our best!"
+  },
+  "33": {
+    "Personagem": "Shiro",
+    "PT": "Ah, espera! Minha amiga também está online, então dá para lutar em um time de 3!",
+    "EN": "Oh, wait! My friend is online too, so we can fight in a team of 3!"
+  },
+  "34": {
+    "Personagem": "(narração)",
+    "PT": "kokoro entrou no seu time!",
+    "EN": "kokoro joined your team!"
+  },
+  "35": {
+    "Personagem": "(narração)",
+    "PT": "Depois de uma batalha puxada, vocês saem vitoriosos.",
+    "EN": "After a grueling battle, you emerge victorious."
+  },
+  "36": {
+    "Personagem": "Shiro",
+    "PT": "Uhuu! Conseguimos! GG, Gerente!",
+    "EN": "Woohoo! We did it! GG, Manager!"
+  },
+  "37": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Ufa! Ainda bem que o sr46 entrou a tempo. Só não sei por que trouxe um novato junto.",
+    "EN": "Phew! Thank god sr46 hopped on in time. No idea why they brought a newbie with them, though."
+  },
+  "38": {
+    "Personagem": "Shiro",
+    "PT": "...?!",
+    "EN": "...?!"
+  },
+  "39": {
+    "Personagem": "Shiro",
+    "PT": "(Ela...)",
+    "EN": "(She...)"
+  },
+  "40": {
+    "Personagem": "Shiro",
+    "PT": "(Não, não tem como...)",
+    "EN": "(No, there's no way...)"
+  },
+  "41": {
+    "Personagem": "Shiro",
+    "PT": "Você... você é a kokoro?",
+    "EN": "Are... are you kokoro?"
+  },
+  "42": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Espera, sem chance... VOCÊ é o sr46?!",
+    "EN": "Wait, no way... Are YOU sr46?!"
+  },
+  "43": {
+    "Personagem": "player",
+    "PT": "Você conhece ela?:option3;Vocês são amigas?:option3",
+    "EN": "Do you know her?:option3;Are you friends?:option3"
+  },
+  "44": {
+    "Personagem": "Shiro",
+    "PT": "Ela é a kokoro, a jogadora que acabou de vencer a luta do chefe com a gente!",
+    "EN": "She's kokoro, the player who beat the boss battle with us just now!"
+  },
+  "45": {
+    "Personagem": "Shiro",
+    "PT": "Ela é a minha melhor parceira!",
+    "EN": "She's my best partner!"
+  },
+  "46": {
+    "Personagem": "Shiro",
+    "PT": "Nunca imaginei que seria assim, mas estou muito feliz de te conhecer na vida real!",
+    "EN": "I never thought it'd go like this, but I'm really happy to meet you in real life!"
+  },
+  "47": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Ei, eu também!",
+    "EN": "Hey, same here!"
+  },
+  "48": {
+    "Personagem": "Miyu",
+    "PT": "Então deixa eu me apresentar pra valer. Meu nome é Miyu Kousaka.",
+    "EN": "I'll introduce myself for realsies, then. The name's Miyu Kousaka."
+  },
+  "49": {
+    "Personagem": "Shiro",
+    "PT": "Eu sou Shiro Kamigishi, e este é o gerente.",
+    "EN": "I'm Shiro Kamigishi, and this is the manager."
+  },
+  "50": {
+    "Personagem": "Miyu",
+    "PT": "O gerente...?",
+    "EN": "The manager...?"
+  },
+  "51": {
+    "Personagem": "(protagonista)",
+    "PT": "Eu sou só o gerente interino...:option4;Prazer em conhecê-la.:option4",
+    "EN": "I'm just a stand-in...:option4;Nice to meet you.:option4"
+  },
+  "52": {
+    "Personagem": "Miyu",
+    "PT": "Não é do fliperama, né? O que ele gerencia?",
+    "EN": "Not of the arcade, right? What does he manage?"
+  },
+  "53": {
+    "Personagem": "Shiro",
+    "PT": "Nós administramos um café de maids chamado Fuwa Fuwa Cafe!\nFica no lado oeste da Rua Elétrica!",
+    "EN": "We run a maid cafe called Fuwa Fuwa Cafe!\nIt's on the west side of Electric Street!"
+  },
+  "54": {
+    "Personagem": "Miyu",
+    "PT": "Uaaau, que legal! Depois eu passo lá!",
+    "EN": "Whoa, that sounds cool! I'll go visit next time!"
+  },
+  "55": {
+    "Personagem": "Shiro",
+    "PT": "Muito obrigada!\nMas, na verdade... estamos com um problema bem sério agora...",
+    "EN": "Thank you so much!\nThe thing is, though... we're actually in serious trouble right now..."
+  },
+  "56": {
+    "Personagem": "(narração)",
+    "PT": "A Shiro conta para a Miyu sobre o café e a situação atual.",
+    "EN": "Shiro tells Miyu about the cafe and its situation."
+  },
+  "57": {
+    "Personagem": "Miyu",
+    "PT": "É um problema SÉRIO sério, hein?!",
+    "EN": "You're in SERIOUS serious trouble, huh?!"
+  },
+  "58": {
+    "Personagem": "Shiro",
+    "PT": "Sim... Então...",
+    "EN": "Yes... So..."
+  },
+  "59": {
+    "Personagem": "Shiro",
+    "PT": "Miyu, você quer ser uma maid?",
+    "EN": "Miyu, do you want to be a maid?"
+  },
+  "60": {
+    "Personagem": "Miyu",
+    "PT": "Tipo, agora?!",
+    "EN": "Like right now?!"
+  },
+  "61": {
+    "Personagem": "Shiro",
+    "PT": "Eu sei que é um pedido grande, você não precisa aceitar...",
+    "EN": "I know it's a lot to ask, you don't have to say yes..."
+  },
+  "62": {
+    "Personagem": "Shiro",
+    "PT": "Mas, por favor! Pelo menos venha dar uma olhada no nosso café!",
+    "EN": "But please! At least come take a look at our cafe!"
+  },
+  "63": {
+    "Personagem": "Shiro",
+    "PT": "Gerente! Venha aqui, rápido.",
+    "EN": "Manager! Please come over here, quick."
+  },
+  "64": {
+    "Personagem": "Shiro",
+    "PT": "Vamos subir para o 2º andar!",
+    "EN": "Let's go up to the 2nd floor!"
+  },
+  "65": {
+    "Personagem": "(protagonista)",
+    "PT": "Sim:option4;Não:null",
+    "EN": "Yes:option4;No:null"
+  },
+  "66": {
+    "Personagem": "Shiro",
+    "PT": "Hm, hm, hm~",
+    "EN": "Hm, hm, hm~"
+  },
+  "67": {
+    "Personagem": "Shiro",
+    "PT": "Tem uma coisa que eu quero te mostrar no segundo andar!",
+    "EN": "There's something I want to show you on the second floor!"
+  },
+  "68": {
+    "Personagem": "Shiro",
+    "PT": "Tã-dããã! Este é o meu jogo favorito,\nMagic Angel: Lilith of the Moon and the Idols of the 12 Stars!\nMas só Magic Angel também vale.",
+    "EN": "Ta-daaa! This is my favorite game,\nMagic Angel: Lilith of the Moon and the Idols of the 12 Stars!\nJust Magic Angel is fine though."
+  },
+  "69": {
+    "Personagem": "Shiro",
+    "PT": "O Magic Angel ainda não é o jogo mais popular por aí,\nmas graças aos mangás, às light novels e aos shows ao vivo,\ncom CERTEZA vai ser o próximo fenômeno! O anime estreia no ano que vem também!",
+    "EN": "Magic Angel isn't the most popular game out there just yet,\nbut thanks to the comics and light novels and offline live concerts,\nit's DEFINITELY going to be the next big thing! The anime starts next year too!"
+  },
+  "69#2": {
+    "Personagem": "Shiro",
+    "PT": "Os temas de garota mágica e idol provavelmente soam bem batidos,\nmas é super bem-feito e tem tanto amor e esforço colocados nisso\nque EU SEI que vai definir o novo padrão para outras obras do tipo!",
+    "EN": "The magical girl and idol themes probably sound really overdone,\nbut it's super well-made and has so much love and effort put into it,\nso I KNOW it's going to set the new standard for other media like it!"
+  },
+  "70": {
+    "Personagem": "Shiro",
+    "PT": "As pessoas só odeiam o que é \"clichê\" ou \"batido\" quando é malfeito!\nMas a qualidade alta do Magic Angel o diferencia dos outros\ne retrata os tropes favoritos de todo mundo sob uma luz nova!",
+    "EN": "People only hate things that are \"cliché\" or \"overdone\" when they're badly made!\nBut Magic Angel's high quality sets it apart from the others\nand it portrays everyone's favorite tropes in a fresh new light!"
+  },
+  "71": {
+    "Personagem": "Shiro",
+    "PT": "Eu acho isso muito melhor do que gente que fica enfiando tropes estranhos\nem fórmulas já consagradas só para parecer diferente e chocante.\nEssas pessoas não têm amor nenhum pelos gêneros que estão criando!",
+    "EN": "I personally think this is way better than the people who keep adding weird tropes\nto tried-and-tested formulas just to appear different and shocking.\nThese people have no love for the genres they're creating for!"
+  },
+  "72": {
+    "Personagem": "Shiro",
+    "PT": "Amor é A coisa mais importante na hora de criar arte!\nE clichê é clichê por um motivo: muita gente ama!\nNão importa a época, é o amor que dá origem à arte mais emocionante!",
+    "EN": "Love is THE most important thing in creating art!\nAnd clichés are clichés for a reason—they're loved by many!\nNo matter the era, love is what gives birth to the most moving art!"
+  },
+  "73": {
+    "Personagem": "Shiro",
+    "PT": "...Ah! M-Me desculpe!\nEu me empolguei demais...",
+    "EN": "...Ah! I-I'm sorry!\nI got carried away there..."
+  },
+  "74": {
+    "Personagem": "Shiro",
+    "PT": "Ahem. O que eu quero dizer é que\neste jogo de fliperama é a origem da série Magic Angel.",
+    "EN": "Ahem. What I'm trying to say is,\nthis arcade game is the origin of the Magic Angel series."
+  },
+  "75": {
+    "Personagem": "Shiro",
+    "PT": "É um jogo de cartas em que você usa cartas colecionáveis de verdade.\nO jogador apoia a fofa Lilith, a demônio da lua,\nque produz 12 idols e as envia para lutar contra monstros alienígenas.",
+    "EN": "It's a card game where you use real-life trading cards.\nThe player supports the cute moon devil Lilith,\nwho produces 12 idols and assigns them to fight alien monsters."
+  },
+  "76": {
+    "Personagem": "Shiro",
+    "PT": "A jogabilidade não é nada revolucionária, mas o jogo dá um foco extra\nno dia a dia das garotas fora das batalhas também. Olha a tela inicial!\nAs idols não ficam uma fofura só de ficarem juntas na sala de descanso?!",
+    "EN": "The gameplay isn't anything groundbreaking, but the game puts extra focus\non the daily lives of the girls outside of battle too. Look at the homescreen!\nDon't the idols look cute just hanging out in the breakroom?!"
+  },
+  "77": {
+    "Personagem": "Shiro",
+    "PT": "E quando você derrota um monstro alienígena e conclui a missão,\nas idols que lutaram fazem um show ao vivo! Aí você usa o dinheiro\ndos shows para melhorar as idols e os equipamentos antes da próxima missão!",
+    "EN": "And once you beat an alien monster and clear the mission,\nthe idols who fought hold a live concert! And then you use the money earned\nfrom the concerts to upgrade your idols and gear before going on the next mission!"
+  },
+  "78": {
+    "Personagem": "Shiro",
+    "PT": "Tem uma personagem atrevida chamada Lililana, e ela é super fofa!\nEu farmei TANTO no banner dela, e quando finalmente consegui,\npassei tanto tempo cutucando ela para ver as falas que esqueci de jogar o jogo de verdade!",
+    "EN": "There's this cheeky character called Lililana, and she's super cute!\nI grinded SO much for her banner, and when I finally got her,\nI spent so much time poking her for interactions I forgot to play the actual game!"
+  },
+  "79": {
+    "Personagem": "Shiro",
+    "PT": "Então! Se você tiver a chance, TEM que experimentar!",
+    "EN": "So! If you ever get the chance, you HAVE to try it!"
+  },
+  "80": {
+    "Personagem": "Shiro",
+    "PT": "Maaas a nossa missão de hoje é encontrar uma nova maid para o café.\nNão temos tempo de nos perder no mundo da magia e da música!",
+    "EN": "Buuut our mission today is to find a new maid for the cafe.\nWe don't have the time to get lost in the world of magic and music!"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "0": {
+    "Personagem": "(narração)",
+    "PT": "Quando você chega à estação,\numa garota de cabelo preto chama a sua atenção.",
+    "EN": "When you arrive at the station,\na girl with black hair catches your attention."
+  },
+  "1": {
+    "Personagem": "(narração)",
+    "PT": "Você nota que ela está de fones de ouvido.\nEla olha em volta, como se procurasse alguém na multidão.",
+    "EN": "You notice that she has headphones on.\nShe looks around at the crowd, as if looking for someone."
+  },
+  "2": {
+    "Personagem": "(protagonista)",
+    "PT": "É a Shiro. Ela parece um pouco diferente fora do vestido de maid.",
+    "EN": "It's Shiro. She looks a little different outside of her maid dress."
+  },
+  "3": {
+    "Personagem": "(narração)",
+    "PT": "Ela parece não ter percebido que você está ali.",
+    "EN": "She doesn't seem to notice you're there."
+  },
+  "4": {
+    "Personagem": "(narração)",
+    "PT": "Observar ela:option1;Cumprimentar ela:option2;",
+    "EN": "Watch her:option1;Greet her:option2;"
+  },
+  "5": {
+    "Personagem": "Shiro",
+    "PT": "Hm~ Hm~ Hm~",
+    "EN": "Hm~ Hm~ Hm~"
+  },
+  "6": {
+    "Personagem": "(narração)",
+    "PT": "Ela parece estar curtindo muito a música dela.",
+    "EN": "She seems to be enjoying her music."
+  },
+  "7": {
+    "Personagem": "(narração)",
+    "PT": "Ela balança pro ritmo, e até faz uma pose fofa.",
+    "EN": "She bounces to the rhythm, and even strikes a cute pose."
+  },
+  "8": {
+    "Personagem": "(narração)",
+    "PT": "......",
+    "EN": "......"
+  },
+  "9": {
+    "Personagem": "(narração)",
+    "PT": "Mas, talvez atingida por uma onda repentina de vergonha,\nela para rapidinho e finge que nada aconteceu.",
+    "EN": "But, perhaps hit by a sudden wave of embarrassment,\nshe quickly stops and pretends nothing ever happened."
+  },
+  "10": {
+    "Personagem": "Shiro",
+    "PT": "Gerente! Quando foi que você chegou?",
+    "EN": "Manager! When did you arrive?"
+  },
+  "11": {
+    "Personagem": "Shiro",
+    "PT": "V-Você poderia ter me contado que já tinha chegado...!",
+    "EN": "Y-You could've told me that you'd already gotten here...!"
+  },
+  "12": {
+    "Personagem": "Shiro",
+    "PT": "Gerente! Você dormiu bem?",
+    "EN": "Manager! Did you sleep well?"
+  },
+  "13": {
+    "Personagem": "Shiro",
+    "PT": "Fico feliz por você estar melhor hoje.",
+    "EN": "I'm glad you seem to be doing better today."
+  },
+  "14": {
+    "Personagem": "Shiro",
+    "PT": "Então está bem, vamos dar o nosso melhor!\nVamos procurar a nossa nova maid!",
+    "EN": "All right then, let's do our best!\nLet's go find ourselves a new maid!"
+  },
+  "15": {
+    "Personagem": "(protagonista)",
+    "PT": "Sobre como você virou gerente...:option3;Que roupa fofa:option4;Por que a Rua Elétrica?:option5;Como vamos achar uma maid?:option6;Estou ansioso pelo nosso encontro de hoje:option7;Vamos!:option8",
+    "EN": "About becoming manager...:option3;That's a cute outfit:option4;Why Electric Street?:option5;How will we find a maid?:option6;I'm looking forward to our date today:option7;Let's go!:option8"
+  },
+  "16": {
+    "Personagem": "Shiro",
+    "PT": "Quando cheguei em casa ontem, fiquei pensando nisso também.\nSerá que estava mesmo certo pedir a alguém que eu nunca vi para virar o gerente? E ele estaria mesmo disposto a ajudar o café?",
+    "EN": "When I got home yesterday, I thought about it too.\nWas it really okay for me to ask someone I've never met to be the manager? Will he really be willing to help out the cafe?"
+  },
+  "17": {
+    "Personagem": "Shiro",
+    "PT": "Mas aí, eu me lembrei de uma frase de um jogo indie, \"Change: A Little Story.\"",
+    "EN": "But then, I remembered a line from the indie game \"Change: A Little Story.\""
+  },
+  "18": {
+    "Personagem": "Shiro",
+    "PT": "\"Perseverança não é um objetivo, é um resultado.\nVocê já está de parabéns só por estar dando o seu melhor.\"",
+    "EN": "\"Perseverance isn't a goal, but a result.\nYou're doing great just by trying your best.\""
+  },
+  "19": {
+    "Personagem": "Shiro",
+    "PT": "É uma frase da produtora do protagonista,\numa ex-super idol...",
+    "EN": "It's a line by the protagonist's producer,\nwho's a former super idol..."
+  },
+  "20": {
+    "Personagem": "Shiro",
+    "PT": "É sob a orientação dela que o protagonista cresce e, no fim, alcança o sucesso.",
+    "EN": "It's under her guidance that the protagonist grows, and eventually finds success."
+  },
+  "21": {
+    "Personagem": "Shiro",
+    "PT": "O final fica um pouco em aberto, então deixa bastante coisa para a interpretação do jogador...\nmas eu gostei muito do jogo!",
+    "EN": "The ending is a little open-ended, so it left a lot up to the player's interpretation... but I really liked the game!"
+  },
+  "22": {
+    "Personagem": "Shiro",
+    "PT": "Falando nisso! O jogo tem uma prequela que é toda sobre aquela super idol que virou produtora de idols!\nEu gosto muito dela também!",
+    "EN": "Speaking of which! The game has a prequel that's all about the super idol turned idol producer! I like that one a lot, too!"
+  },
+  "23": {
+    "Personagem": "Shiro",
+    "PT": "Ah, desculpe, esse não é o momento de ficar babando em videogames...",
+    "EN": "Oh, sorry, this isn't the time to gush about video games..."
+  },
+  "24": {
+    "Personagem": "(protagonista)",
+    "PT": "(O que eu digo?)",
+    "EN": "(What should I say?)"
+  },
+  "25": {
+    "Personagem": "Shiro",
+    "PT": "N-Não é nada disso! Eu ando por aí com ela a toda hora!",
+    "EN": "N-Nooo it's not! I wear this all the time!"
+  },
+  "26": {
+    "Personagem": "Shiro",
+    "PT": "Fiquei um pouco com receio de você não me reconhecer, com eu fora do vestido de maid...",
+    "EN": "I was a little worried you wouldn't recognize me since I'm not in my maid dress..."
+  },
+  "27": {
+    "Personagem": "Shiro",
+    "PT": "N-Não é tão fofa assim...",
+    "EN": "I-It's not that cute..."
+  },
+  "28": {
+    "Personagem": "Shiro",
+    "PT": "A gente só se encontrou duas vezes até agora, e você fica me bajulando. Isso não é muito gentil, Gerente!",
+    "EN": "We've only met twice so far, but you keep trying to flatter me. That's not very nice, Manager!"
+  },
+  "29": {
+    "Personagem": "Shiro",
+    "PT": "Ah, mas a verdade é que fui eu quem pediu a um total estranho para virar gerente de um café, né?\nProvavelmente não fui muito gentil também...",
+    "EN": "Oh, but I guess I did ask a total stranger to become the manager of a cafe, huh? That's probably not very nice, either..."
+  },
+  "30": {
+    "Personagem": "Shiro",
+    "PT": "Enfim! Precisamos achar hoje alguém que trabalhe junto com a gente.",
+    "EN": "Anyway! We've got to find someone who'll work alongside us today."
+  },
+  "31": {
+    "Personagem": "Shiro",
+    "PT": "Assim conseguiremos reabrir o café! Então vamos dar o nosso melhor!",
+    "EN": "That way, we'll be able to reopen the cafe! So let's give it our best shot!"
+  },
+  "32": {
+    "Personagem": "(protagonista)",
+    "PT": "(O que eu digo?)",
+    "EN": "(What should I say?)"
+  },
+  "33": {
+    "Personagem": "Shiro",
+    "PT": "Isto é só o que vejo pessoalmente,\nmas sinto que há mais garotas por aqui que podem se interessar por cafés de maids.",
+    "EN": "This is just what I've noticed personally,\nbut I feel like there are more girls here that might be interested in maid cafes."
+  },
+  "34": {
+    "Personagem": "Shiro",
+    "PT": "Se você for para qualquer outro lugar e perguntar a garotas aleatórias na rua,\n\"Você quer virar maid?\" ou algo do tipo...",
+    "EN": "If you go anywhere else and ask random girls on the street,\n\"Do you want to become a maid?\" or something like that..."
+  },
+  "35": {
+    "Personagem": "Shiro",
+    "PT": "Elas vão achar que você é suspeito,\nou pior, talvez até chamem a polícia!",
+    "EN": "They'd think you're suspicious,\nor worse, they might even call the police!"
+  },
+  "36": {
+    "Personagem": "(protagonista)",
+    "PT": "(O que eu digo?)",
+    "EN": "(What should I say?)"
+  },
+  "37": {
+    "Personagem": "Shiro",
+    "PT": "Então, começamos dando uma volta pela cidade!",
+    "EN": "Well, we'll start by walking around town!"
+  },
+  "38": {
+    "Personagem": "Shiro",
+    "PT": "Ah, é, tem um monte de lojas diferentes na Rua Elétrica.",
+    "EN": "Oh, right, there's a lot of different shops at Electric Street."
+  },
+  "39": {
+    "Personagem": "Shiro",
+    "PT": "Com um pouco de sorte, a gente pode dar de cara com uma candidata a maid!\nProvavelmente. Se a gente tiver... muita sorte mesmo.",
+    "EN": "We might run into a new maid candidate if we're lucky! Probably. If we're... very lucky."
+  },
+  "40": {
+    "Personagem": "Shiro",
+    "PT": "Você ainda não conhece bem este lugar, né?\nDeixa que eu mostro para você!",
+    "EN": "You don't know this place very well yet, do you?\nI'll show you around!"
+  },
+  "41": {
+    "Personagem": "(protagonista)",
+    "PT": "(O que eu digo?)",
+    "EN": "(What should I say?)"
+  },
+  "42": {
+    "Personagem": "Shiro",
+    "PT": "U-Um, um e-e-e-encontro?!",
+    "EN": "A, A d-d-d-date?!"
+  },
+  "43": {
+    "Personagem": "Shiro",
+    "PT": "Não, isso é um... hã... Tecnicamente, não é...",
+    "EN": "No, this is a... uh... Technically, it's not..."
+  },
+  "44": {
+    "Personagem": "Shiro",
+    "PT": "Ei... Não me deixe embaraçada desse jeito, Gerente!",
+    "EN": "Hey... Don't tease me like that, Manager!"
+  },
+  "45": {
+    "Personagem": "(protagonista)",
+    "PT": "(O que eu digo?)",
+    "EN": "(What should I say?)"
+  },
+  "46": {
+    "Personagem": "Shiro",
+    "PT": "Tudo bem, então eu vou logo atrás de você!",
+    "EN": "All right, then I'll be right behind you!"
+  }
+}

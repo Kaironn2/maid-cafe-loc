@@ -1,0 +1,162 @@
+{
+  "0": {
+    "Personagem": "(narração)",
+    "PT": "A noite está caindo, e vocês não encontraram ninguém.\nVocê decide acompanhar a Shiro até a estação.",
+    "EN": "It's getting dark, and you haven't found anyone.\nYou decide to walk Shiro to the station."
+  },
+  "1": {
+    "Personagem": "Shiro",
+    "PT": "Está ficando tarde. Acho melhor eu ir para casa.",
+    "EN": "It's getting late. I should probably go home."
+  },
+  "2": {
+    "Personagem": "Shiro",
+    "PT": "Faz um tempo que eu não passo uma tarde inteira aqui.",
+    "EN": "It's been a while since I spent a whole afternoon here."
+  },
+  "3": {
+    "Personagem": "Shiro",
+    "PT": "Então... Até logo, Gerente... Nos vemos... amanhã...",
+    "EN": "Well then... Goodbye, Manager... See you... tomorrow..."
+  },
+  "4": {
+    "Personagem": "Shiro",
+    "PT": "E-Espera! Um minutinho.\nÉ hoje que a gente ia encontrar uma nova maid, não lembrava?!",
+    "EN": "Wait. Waaait a minute.\nWe were supposed to find a new maid today, weren't we?!"
+  },
+  "5": {
+    "Personagem": "Shiro",
+    "PT": "O que faremos?!\nAssim a gente não consegue abrir o café amanhã...",
+    "EN": "What do we do?!\nWe won't be able to open the cafe tomorrow at this rate..."
+  },
+  "6": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Desculpa~! Deixa passar.",
+    "EN": "Sorryyy, coming through."
+  },
+  "7": {
+    "Personagem": "Shiro",
+    "PT": "Ah, desculpe.",
+    "EN": "Oh, sorry."
+  },
+  "8": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Obrigada!",
+    "EN": "Thanks!"
+  },
+  "9": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Ah, espera! Esqueci que precisava comprar batom! O meu está acabando!",
+    "EN": "Oh, wait! I forgot I needed to buy lipstick! I'm running out!"
+  },
+  "10": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Podem ir na frente.",
+    "EN": "You guys can go first."
+  },
+  "11": {
+    "Personagem": "Red-haired Girl",
+    "PT": "A gente pode ir com você!",
+    "EN": "We can go with you!"
+  },
+  "12": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Ah, nada disso! Vou bem sozinha!",
+    "EN": "Nah, I'll be fine on my own!"
+  },
+  "13": {
+    "Personagem": "Twin Buns Girl",
+    "PT": "Miyu, por que você anda sumindo sozinha ultimamente?",
+    "EN": "Miyu, why do you keep sneaking away on your own lately?"
+  },
+  "14": {
+    "Personagem": "Twin Buns Girl",
+    "PT": "Espera, não me diga... arrumou um namorado?",
+    "EN": "Wait, don't tell me, did you get a boyfriend?"
+  },
+  "15": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Que nada! Se eu arrumar um namorado, vocês duas ficam sabendo primeiro!",
+    "EN": "No way! If I get a boyfriend, you two would be the first to know!"
+  },
+  "16": {
+    "Personagem": "Twin Buns Girl",
+    "PT": "Sério? Eu ia guardar segredo por um tempinho,\naté a gente começar a falar de garotos e esses assuntos...\nE AÍ, eu tirava a foto do meu namorado e falava assim, toda calma:",
+    "EN": "Forreal? I know I would keep it a secret for a while,\nuntil we, like, start talking about boys and stuff...\nAnd THEN, I'd take out a pic of my boyfriend and be all like,"
+  },
+  "17": {
+    "Personagem": "Twin Buns Girl",
+    "PT": "\"Vocês nem imaginam como o MEU namorado é insuportável!\"\nToda calminha, para vocês nem verem o que vem.",
+    "EN": "\"You guys have NO idea how annoying my boyfriend is!\"\nAll calm-like, so you don't even see it coming!"
+  },
+  "18": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "Ahaha! É lógico que seria você!",
+    "EN": "Ahaha! That's so you!"
+  },
+  "19": {
+    "Personagem": "Twin Buns Girl",
+    "PT": "Tá, mas se NÃO é um garoto, então o que é?\nPara onde você anda sumindo?",
+    "EN": "Okay, but if it ISN'T a boy, what is it?\nWhere do you keep sneaking off to?"
+  },
+  "20": {
+    "Personagem": "Pink-haired Girl",
+    "PT": "No fliperama. Ainda não terminei o evento de tempo limitado...",
+    "EN": "The arcade. I still haven't cleared the limited-time event yet..."
+  },
+  "21": {
+    "Personagem": "Red-haired Girl",
+    "PT": "Ah, que bom. Vai lá, então. Nós vamos para casa.",
+    "EN": "Ohhhh, okay. You go do that, then. We'll go home."
+  },
+  "22": {
+    "Personagem": "Twin Buns Girl",
+    "PT": "Tchau! Nos avisa se você arrumar um namorado mesmo!",
+    "EN": "Bye! Tell us if you do get a boyfriend!"
+  },
+  "23": {
+    "Personagem": "Red-haired Girl",
+    "PT": "Tchaaau! Até mais!",
+    "EN": "Byyye! Seeya!"
+  },
+  "24": {
+    "Personagem": "Shiro",
+    "PT": "......",
+    "EN": "......"
+  },
+  "25": {
+    "Personagem": "(protagonista)",
+    "PT": "Essa garota é bem fofa.:option1;Tem algo com aquela garota?:option1",
+    "EN": "That girl was pretty cute.:option1;Is there something about that girl?:option1"
+  },
+  "26": {
+    "Personagem": "Shiro",
+    "PT": "Ah, hã... Sim...",
+    "EN": "Oh, um... Yes..."
+  },
+  "27": {
+    "Personagem": "Shiro",
+    "PT": "(Ela falou algo sobre um evento de tempo limitado...)",
+    "EN": "(She said something about a limited-time event...)"
+  },
+  "28": {
+    "Personagem": "Shiro",
+    "PT": "Gerente! Vamos segui-la!",
+    "EN": "Manager! Let's follow her!"
+  },
+  "29": {
+    "Personagem": "Shiro",
+    "PT": "Ela entrou no fliperama! Eu sabia!",
+    "EN": "She went into the arcade. Just as I thought!"
+  },
+  "30": {
+    "Personagem": "Shiro",
+    "PT": "Se der tudo certo, convencemos ela num instante!",
+    "EN": "If this goes well, we'll convince her in no time!"
+  },
+  "31": {
+    "Personagem": "Shiro",
+    "PT": "Vamos, Gerente! Pelo Fuwa Fuwa!",
+    "EN": "Let's go, Manager! For Fuwa Fuwa!"
+  }
+}

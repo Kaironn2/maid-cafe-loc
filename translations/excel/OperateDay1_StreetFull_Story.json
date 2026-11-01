@@ -1,0 +1,32 @@
+{
+  "0": {
+    "Personagem": "Miyu",
+    "PT": "Ah, espere.",
+    "EN": "Oh, hang on."
+  },
+  "1": {
+    "Personagem": "Miyu",
+    "PT": "Podemos passar na loja de conveniência antes de eu ir?",
+    "EN": "Can we stop by the convenience store before I go?"
+  },
+  "2": {
+    "Personagem": "(narração)",
+    "PT": "Você acompanha a Miyu até a estação antes que fique tarde demais.",
+    "EN": "You walk Miyu to the station before it gets too late."
+  },
+  "3": {
+    "Personagem": "Miyu",
+    "PT": "Ehehe. É a primeira vez que um garoto me acompanha assim.",
+    "EN": "Ehehe. It's the first time a guy's escorted me like this."
+  },
+  "4": {
+    "Personagem": "???",
+    "PT": "Eu achei que esse lugar tinha fechado faz tempo,\nmas ouvi dizer que tá recebendo clientes de novo!",
+    "EN": "I thought this place had closed down ages ago,\nbut I heard it's gettin' customers again!"
+  },
+  "5": {
+    "Personagem": "???",
+    "PT": "Haah... Mas por que eles não vêm no nosso santuário...?",
+    "EN": "Sigh... Why don't they come to our shrine, though...?"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "0": {
+    "Personagem": "(narração)",
+    "PT": "Você arrasta o corpo exausto para fora do escritório,\ne percebe que está chovendo torrencialmente lá fora.",
+    "EN": "You drag your exhausted body out of the office,\nonly to realize that it's raining heavily outside."
+  },
+  "1": {
+    "Personagem": "(protagonista)",
+    "PT": "(Que bom que levei um guarda-chuva.)",
+    "EN": "(Good thing I brought an umbrella.)"
+  },
+  "2": {
+    "Personagem": "(narração)",
+    "PT": "Você abre o guarda-chuva e caminha contra o vento.\nNo meio da noite, as ruas estão vazias de um jeito assustador.",
+    "EN": "You open your umbrella and walk against the wind.\nThe streets are eerily empty in the middle of the night."
+  },
+  "3": {
+    "Personagem": "(narração)",
+    "PT": "O vento forte rouba toda a sua energia,\ne no momento em que a sua concentração falha,\no guarda-chuva voa das suas mãos.",
+    "EN": "The strong winds drain your stamina,\nand the second your concentration wanes,\nyour umbrella is whipped out of your hands."
+  },
+  "4": {
+    "Personagem": "(protagonista)",
+    "PT": "(Ah não!)",
+    "EN": "(Oh no!)"
+  },
+  "5": {
+    "Personagem": "(narração)",
+    "PT": "Sem equilíbrio e sem enxergar direito por causa da chuva,\nvocê tropeça em algo e cai.",
+    "EN": "Losing your balance and being unable to see clearly through the rain,\nyou trip on something and fall over."
+  },
+  "6": {
+    "Personagem": "(narração)",
+    "PT": "Você luta para se levantar. O guarda-chuva se perdeu no vento,\ne a chuva abre ainda mais sobre os seus ombros.",
+    "EN": "You struggle to stand back up. Your umbrella is lost to the winds,\nand so the rain pelts relentlessly on your shoulders."
+  },
+  "7": {
+    "Personagem": "(protagonista)",
+    "PT": "(Está... tão frio... Preciso chegar à estação...)",
+    "EN": "(It's... so cold... I have to get to the station...)"
+  },
+  "8": {
+    "Personagem": "(protagonista)",
+    "PT": "(Estou com tanto sono... Preciso... aguentar firme... Já está chegando...)",
+    "EN": "(I'm so sleepy... I have to... tough it out... I'm almost there...)"
+  },
+  "9": {
+    "Personagem": "(narração)",
+    "PT": "Você não se lembra de nada de como conseguiu entrar no trem,\nnem de como chegou ao quarto do seu dormitório.",
+    "EN": "You have no recollection of how you managed to get on the train,\nor how you reached your dorm."
+  },
+  "10": {
+    "Personagem": "(narração)",
+    "PT": "Você só se lembra de abrir a porta do quarto como sonâmbulo\ne desabar na cama, com as pálpebras se fechando sozinhas...",
+    "EN": "You only remember opening the door to your dorm groggily\nand collapsing on your bed, your eyelids closing on their own..."
+  },
+  "11": {
+    "Personagem": "(narração)",
+    "PT": "Mas, num piscar de olhos, o despertador ao lado da sua cama começa a tocar sem parar. Você se sente tão cansado quanto, ou até mais do que, no dia anterior.",
+    "EN": "But in what feels like the blink of an eye, the alarm clock next to your bed starts ringing incessantly. You feel just as, if not even more, tired than the day before."
+  },
+  "12": {
+    "Personagem": "(narração)",
+    "PT": "......",
+    "EN": "......"
+  },
+  "13": {
+    "Personagem": "(narração)",
+    "PT": "Você vai se atrasar!",
+    "EN": "You're going to be late!"
+  }
+}

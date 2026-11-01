@@ -1,0 +1,57 @@
+{
+  "0": {
+    "Personagem": "Shiro",
+    "PT": "Este lugar tem um cardápio de tempo limitado que acompanha brindes,\ntipo merch de anime ou videogame.",
+    "EN": "This place has a limited-time menu that comes with extra goodies,\nlike anime or video game tie-in merch."
+  },
+  "1": {
+    "Personagem": "Shiro",
+    "PT": "Passe por aqui quando tiver tempo.",
+    "EN": "You should stop by when you have the time."
+  },
+  "2": {
+    "Personagem": "(narração)",
+    "PT": "*borrr... bord...*",
+    "EN": "*gurgle gurgle...*"
+  },
+  "3": {
+    "Personagem": "Shiro",
+    "PT": "Ah! Você ainda não comeu?",
+    "EN": "Oh! Have you not eaten yet?"
+  },
+  "4": {
+    "Personagem": "Shiro",
+    "PT": "Então vamos almoçar juntos.",
+    "EN": "Then let's have lunch together."
+  },
+  "5": {
+    "Personagem": "Shiro",
+    "PT": "Pode ser a de sempre: uma porção grande de batatas fritas!",
+    "EN": "I'll have the usual, one serving of large fries!"
+  },
+  "6": {
+    "Personagem": "Haru",
+    "PT": "Certo. Espere um momentinho, por favor, enquanto preparamos o seu pedido.",
+    "EN": "All right, please wait for a moment while we prepare your food."
+  },
+  "7": {
+    "Personagem": "Haru",
+    "PT": "Bem-vindo! Posso anotar o seu pedido?",
+    "EN": "Welcome! May I have your order?"
+  },
+  "8": {
+    "Personagem": "Haru",
+    "PT": "A recomendação especial de hoje é o sanduíche de frango frito com queijo.\nGostaria de experimentar um?",
+    "EN": "Today's special recommendation is the fried chicken and cheese sandwich.\nWould you like to try one?"
+  },
+  "9": {
+    "Personagem": "Haru",
+    "PT": "Espero que o gatinho do beco não esteja passando fome agora...\nAh! Oi, desculpe, você vem fazer um pedido?",
+    "EN": "I hope the little kitty in the alley isn't going hungry right now...\nOh! Sorry, are you here to order?"
+  },
+  "10": {
+    "Personagem": "Haru",
+    "PT": "Ontem vi uma garota de cabelo azul conversando com um gato preto na rua...\nOu será que foi impressão minha...?",
+    "EN": "I saw a girl with blue hair talk to a black cat on the street yesterday...\nOr did I imagine that...?"
+  }
+}

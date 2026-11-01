@@ -1,0 +1,612 @@
+{
+  "0": {
+    "Personagem": "(narração)",
+    "PT": "Você perdeu seu emprego.",
+    "EN": "You have lost your job."
+  },
+  "1": {
+    "Personagem": "(narração)",
+    "PT": "A sua nova vida começa aqui.",
+    "EN": "Your new life begins here."
+  },
+  "2": {
+    "Personagem": "(protagonista)",
+    "PT": "(A loja de conveniência também não estava contratando...)",
+    "EN": "(The convenience store wasn't hiring either...)"
+  },
+  "3": {
+    "Personagem": "(protagonista)",
+    "PT": "(Não tenho muita reserva, então preciso de um emprego novo logo...\ne de um lugar para ficar também.)",
+    "EN": "(I don't have much in savings, so I need to get a new job soon...\nand a place to stay, too.)"
+  },
+  "4": {
+    "Personagem": "Senpai",
+    "PT": "Já faz um dia inteiro, né.\nVocê já encontrou um emprego novo ou um lugar para ficar?",
+    "EN": "It's been a whole day already, huh.\nHave you found a new job or a place to stay yet?"
+  },
+  "5": {
+    "Personagem": "Senpai",
+    "PT": "......",
+    "EN": "......"
+  },
+  "6": {
+    "Personagem": "Senpai",
+    "PT": "Não? ...É, faz sentido.\nFoi rápido demais.",
+    "EN": "No? ...Yeah, that makes sense.\nIt was way too sudden."
+  },
+  "7": {
+    "Personagem": "Senpai",
+    "PT": "Você precisa achar um lugar para ficar primeiro... Se não sair até o 3º dia,\nvocê-sabe-quem provavelmente vai jogar as suas coisas no lixo\ne ainda te cobrar uma taxa de descarte ou algo assim.",
+    "EN": "You've got to find a place to stay first... If you don't move out by the 3rd day,\nyou-know-who is probably going to toss your belongings into the trash\nand then charge you a disposal fee or something."
+  },
+  "8": {
+    "Personagem": "Senpai",
+    "PT": "Mas não se preocupa, eu vou dar um jeito de esconder as suas coisas.",
+    "EN": "Don't worry though, I'll figure out a way to hide your stuff."
+  },
+  "9": {
+    "Personagem": "Senpai",
+    "PT": "Ah, imagina. Você deveria aproveitar para descansar um pouco.\nA gente se encontra de novo quando você estiver estabelecido.",
+    "EN": "Oh, don't mention it. You should take the opportunity to get some rest.\nWe can hang out again once you've settled down."
+  },
+  "10": {
+    "Personagem": "Senpai",
+    "PT": "Ops, 2 minutos e 45 segundos e contando.\nEu já vou. A gente se fala de novo em breve.",
+    "EN": "Oops, 2 minutes and 45 seconds and ticking.\nI'll be off. Talk to you again soon."
+  },
+  "11": {
+    "Personagem": "(protagonista)",
+    "PT": "(Ainda está bem cedo. Eu deveria dar mais uma olhada por aí,\nou talvez achar um lugar para descansar.)",
+    "EN": "(It's still pretty early. I should look around some more,\nor maybe find some place to rest.)"
+  },
+  "12": {
+    "Personagem": "Maid",
+    "PT": "Olá, Mestre.",
+    "EN": "Hello, Master."
+  },
+  "13": {
+    "Personagem": "Maid",
+    "PT": "Miracle Maid Cafe, às suas ordens!\nGostaria de nos fazer uma visita? Tem um evento especial acontecendo hoje!",
+    "EN": "Miracle Maid Cafe, at your service!\nWould you like to pay us a visit? There's a special event going on today!"
+  },
+  "14": {
+    "Personagem": "(protagonista)",
+    "PT": "Acenar com a cabeça:option1;Negar com a cabeça:option2",
+    "EN": "Nod:option1;Shake your head:option2"
+  },
+  "15": {
+    "Personagem": "Maid",
+    "PT": "Eba!",
+    "EN": "Yay!"
+  },
+  "16": {
+    "Personagem": "Maid",
+    "PT": "Haha, você é tão fofo, Mestre~\nNão tem por que ter vergonha!",
+    "EN": "Haha, you're so cute, Master~\nThere's nothing to be embarrassed about!"
+  },
+  "17": {
+    "Personagem": "Maid",
+    "PT": "O nosso café fica no lado oeste desta rua.\nÉ só seguir em frente que você vê. Estaremos esperando por você!",
+    "EN": "Our cafe is on the west side of this street.\nJust go straight and you'll see it. We'll be waiting for you!"
+  },
+  "18": {
+    "Personagem": "(protagonista)",
+    "PT": "(Um café de maids... Parece legal. Talvez eu dê uma olhada.)",
+    "EN": "(A maid cafe... That sounds nice. Maybe I'll go check it out.)"
+  },
+  "19": {
+    "Personagem": "Maid",
+    "PT": "O nosso café fica no lado oeste desta rua.\nÉ só seguir em frente que você vê. Estaremos esperando por você!",
+    "EN": "Our cafe is on the west side of this street.\nJust go straight and you'll see it. We'll be waiting for you!"
+  },
+  "20": {
+    "Personagem": "Maid",
+    "PT": "Sinto muitíssimo, Mestre!\nO café está lotado agora, então você vai ter que ficar na fila lá fora...",
+    "EN": "I'm terribly sorry, Master!\nThe cafe is full right now, so you'll have to line up outside..."
+  },
+  "21": {
+    "Personagem": "Maid",
+    "PT": "Como desculpa, por favor, fique com este ingresso de visita grátis.\nPor favor, volte novamente!",
+    "EN": "As an apology, please take this free trial ticket.\nPlease come again!"
+  },
+  "22": {
+    "Personagem": "(narração)",
+    "PT": "Obteve: Ingresso de Visita Grátis do Miracle Maid Cafe.",
+    "EN": "Obtained: Miracle Maid Cafe Free Trial Ticket."
+  },
+  "23": {
+    "Personagem": "(protagonista)",
+    "PT": "(O café parece estar lotado de clientes.\nVou ter que voltar outra hora.)",
+    "EN": "(The cafe seems to be packed with customers.\nI'll have to come another time.)"
+  },
+  "24": {
+    "Personagem": "Big Guy",
+    "PT": "Você acabou de entrar?\nComo é lá dentro? Tem lugar?",
+    "EN": "Did you go inside just now?\nHow's it like in there? Any seats?"
+  },
+  "25": {
+    "Personagem": "Big Guy",
+    "PT": "......",
+    "EN": "......"
+  },
+  "26": {
+    "Personagem": "Big Guy",
+    "PT": "Não, né. Então vou ter que continuar esperando...",
+    "EN": "No, huh. I'll just have to keep waiting..."
+  },
+  "27": {
+    "Personagem": "Big Guy",
+    "PT": "Está lotado de novo, e não parece que vou conseguir um lugar tão cedo.",
+    "EN": "It's full again, and it doesn't look like I'll get a seat any time soon."
+  },
+  "28": {
+    "Personagem": "Big Guy",
+    "PT": "Por isso que eu disse que a gente devia ter vindo mais cedo!\nA culpa é sua por ter perdido metade do dia na Surugaya.",
+    "EN": "That's why I said we should've come earlier!\nIt's your fault for wasting half the day in Surugaya."
+  },
+  "29": {
+    "Personagem": "Big Guy",
+    "PT": "V-Você que não queria sair do fliperama!",
+    "EN": "Y-You're the one who refused to leave the arcade!"
+  },
+  "30": {
+    "Personagem": "Big Guy",
+    "PT": "Você também está na fila do Miracle? Entra na turma.",
+    "EN": "Are you lining up for Miracle too? Join the gang."
+  },
+  "31": {
+    "Personagem": "Big Guy",
+    "PT": "Ah, é verdade, ouvi falar que tem outro café na parte mais a oeste da rua.\nPor que você não vai dar uma olhada?",
+    "EN": "Oh right, I've heard that there's another cafe on the westmost part of the street.\nWhy don't you go scout it out?"
+  },
+  "32": {
+    "Personagem": "Big Guy",
+    "PT": "Por que eu? Vai você.",
+    "EN": "Why me? You go."
+  },
+  "33": {
+    "Personagem": "Big Guy",
+    "PT": "Eu andei o dia inteiro, cara! Não quero me mexer.",
+    "EN": "I've been walking all day, man! I don't wanna move."
+  },
+  "34": {
+    "Personagem": "Big Guy",
+    "PT": "......",
+    "EN": "......"
+  },
+  "35": {
+    "Personagem": "(protagonista)",
+    "PT": "(Estou um pouco cansado. Se ao menos tivesse um lugar para sentar e descansar.)",
+    "EN": "(I'm a little tired. If only there was a place I could sit down and take a break.)"
+  },
+  "36": {
+    "Personagem": "(protagonista)",
+    "PT": "(Eles disseram que tem outro café a oeste... Eu poderia ir dar uma olhada.)",
+    "EN": "(They said there's another cafe to the west... I could go check it out.)"
+  },
+  "37": {
+    "Personagem": "(protagonista)",
+    "PT": "(É só continuar andando pela rua.)",
+    "EN": "(I just have to keep walking down the street.)"
+  },
+  "38": {
+    "Personagem": "(protagonista)",
+    "PT": "(Devem ter outras lojas no caminho também,\nentão eu poderia tentar a sorte.)",
+    "EN": "(There should be a few other shops on the way there too,\nso I could try my luck.)"
+  },
+  "39": {
+    "Personagem": "dianyuan",
+    "PT": "Desculpe, não temos nenhuma vaga aberta no momento...",
+    "EN": "Sorry, we don't have any empty positions right now..."
+  },
+  "40": {
+    "Personagem": "dianyuan",
+    "PT": "Desculpe, mas você vai ter que tentar em outro lugar.\nEspero que encontre um emprego em breve.",
+    "EN": "Sorry, but you'll have to try somewhere else.\nI hope you find a job soon."
+  },
+  "41": {
+    "Personagem": "dianyuan",
+    "PT": "Não estamos contratando agora, desculpe!",
+    "EN": "We're not hiring right now, sorry!"
+  },
+  "42": {
+    "Personagem": "dianyuan",
+    "PT": "Sim, estamos contratando, mas estamos procurando um chef certificado...\nDesculpe, mas você não parece estar qualificado para a vaga.",
+    "EN": "Yes, we're hiring, but we're looking for a certified chef...\nSorry, but you don't seem to be qualified for the position."
+  },
+  "43": {
+    "Personagem": "(protagonista)",
+    "PT": "(É este o café de que eles estavam falando?\nA porta está aberta, então acho que vou entrar.)",
+    "EN": "(Is this the cafe they were talking about?\nThe door's open, so I guess I'll go in.)"
+  },
+  "44": {
+    "Personagem": "(narração)",
+    "PT": "*PAM!*",
+    "EN": "*BAM!*"
+  },
+  "45": {
+    "Personagem": "(narração)",
+    "PT": "......",
+    "EN": "......"
+  },
+  "46": {
+    "Personagem": "(narração)",
+    "PT": "......",
+    "EN": "......"
+  },
+  "47": {
+    "Personagem": "(narração)",
+    "PT": "A garota sentada no chão levanta um pouco a cabeça para olhar para você.",
+    "EN": "The girl sitting on the ground lifts her head a little to look at you."
+  },
+  "48": {
+    "Personagem": "(protagonista)",
+    "PT": "Desculpa!:option3",
+    "EN": "Sorry!:option3"
+  },
+  "49": {
+    "Personagem": "？？？",
+    "PT": "*encara*...",
+    "EN": "*stares*..."
+  },
+  "50": {
+    "Personagem": "(narração)",
+    "PT": "A garota não responde e só continua encarando você.",
+    "EN": "The girl doesn't respond and only keeps staring at you."
+  },
+  "51": {
+    "Personagem": "(protagonista)",
+    "PT": "Continuar se desculpando:option3;Estender a mão para ajudá-la a se levantar:option4",
+    "EN": "Keep apologizing:option3;Lend her a hand to help her up:option4"
+  },
+  "52": {
+    "Personagem": "？？？",
+    "PT": "......",
+    "EN": "......"
+  },
+  "53": {
+    "Personagem": "(narração)",
+    "PT": "A garota hesita, mas acaba pegando a sua mão e se levantando.",
+    "EN": "The girl hesitates, but eventually takes your hand and stands up."
+  },
+  "54": {
+    "Personagem": "(protagonista)",
+    "PT": "Observar a garota:option5;Ir embora:option6",
+    "EN": "Observe the girl:option5;Take your leave:option6"
+  },
+  "55": {
+    "Personagem": "(narração)",
+    "PT": "A garota é bem pequena, e está usando um vestido lolita escuro com babados de renda.",
+    "EN": "The girl is rather petite, and she's wearing a dark lolita dress with lace frills."
+  },
+  "56": {
+    "Personagem": "(narração)",
+    "PT": "Ela tem cabelo azul-claro, meticulosamente cacheado, e olhos que queimam num vermelho vivo.\nCada traço é tão marcante quanto o anterior.",
+    "EN": "She has light blue, meticulously curled hair, and eyes that burn a bright red.\nEvery feature is as striking as the last."
+  },
+  "57": {
+    "Personagem": "(narração)",
+    "PT": "O rosto dela é tão belo quanto o de uma boneca de porcelana pintada,\nmas a expressão parece um tanto fria e misteriosa.",
+    "EN": "Her face is as beautiful as a painted porcelain doll,\nyet her expression feels somewhat cool and mysterious."
+  },
+  "58": {
+    "Personagem": "(narração)",
+    "PT": "Ela parece que saiu da capa de uma light novel.",
+    "EN": "She looks like she belongs on the cover of a light novel."
+  },
+  "59": {
+    "Personagem": "？？？",
+    "PT": "......",
+    "EN": "......"
+  },
+  "60": {
+    "Personagem": "？？？",
+    "PT": "Não há como se enganar...",
+    "EN": "There's no mistaking it..."
+  },
+  "61": {
+    "Personagem": "(narração)",
+    "PT": "A garota fala de repente.",
+    "EN": "The girl suddenly speaks."
+  },
+  "62": {
+    "Personagem": "？？？",
+    "PT": "O destino conhece a vida de cada grão de poeira do universo...",
+    "EN": "Fate knows the life of every speck of dust in the universe..."
+  },
+  "63": {
+    "Personagem": "？？？",
+    "PT": "Eu previ o seu futuro.",
+    "EN": "I have foreseen your future."
+  },
+  "64": {
+    "Personagem": "？？？",
+    "PT": "Em breve, você será atingido por uma terrível catástrofe!",
+    "EN": "You will soon be struck by a terrible catastrophe!"
+  },
+  "65": {
+    "Personagem": "？？？",
+    "PT": "Uma vez que as engrenagens do destino começarem a girar,\nnem os deuses poderão fazer algo para detê-las.",
+    "EN": "Once the gears of fate have started to turn,\nnot even the gods can do anything to stop them."
+  },
+  "66": {
+    "Personagem": "(narração)",
+    "PT": "Você encara a garota com a confusão estampada claramente no rosto.",
+    "EN": "You stare at the girl with confusion written clearly on your face."
+  },
+  "67": {
+    "Personagem": "(protagonista)",
+    "PT": "Hã? Sério?:option7;Do que você está falando?:option7",
+    "EN": "Huh? Really?:option7;What are you talking about?:option7"
+  },
+  "68": {
+    "Personagem": "？？？",
+    "PT": "Eu sou a Matadora do Deus Falso, a Rainha do Reino das Trevas,\na Oráculo que Tudo Vê, a Guardiã de Todos os Sonhos—",
+    "EN": "I am the Slayer of the False God, the Queen of the Kingdom of Darkness,\nthe All-Seeing Oracle, the Guardian of All Dreams—"
+  },
+  "69": {
+    "Personagem": "？？？",
+    "PT": "Favna.",
+    "EN": "Favna."
+  },
+  "70": {
+    "Personagem": "Favna",
+    "PT": "O destino nos colocou um diante do outro.",
+    "EN": "Fate brought us before each other."
+  },
+  "71": {
+    "Personagem": "Favna",
+    "PT": "Agora faça o que eu digo, para que você possa ser salvo.",
+    "EN": "Now do as I say, so that you may be saved."
+  },
+  "72": {
+    "Personagem": "Favna",
+    "PT": "Mas, é claro...",
+    "EN": "But, of course..."
+  },
+  "73": {
+    "Personagem": "Favna",
+    "PT": "A salvação tem um preço.",
+    "EN": "Salvation comes with a price."
+  },
+  "74": {
+    "Personagem": "(protagonista)",
+    "PT": "Por favor, me salva!:option8;Se o que você quer é dinheiro, então esquece...:option9",
+    "EN": "Please save me!:option8;If it's money you want, then forget it...:option9"
+  },
+  "75": {
+    "Personagem": "Favna",
+    "PT": "Hehehe.",
+    "EN": "Hehehe."
+  },
+  "76": {
+    "Personagem": "(narração)",
+    "PT": "A boca da garota se curva num sorriso presunçoso.\nA pose fria e misteriosa se desfaz num instante.",
+    "EN": "The girl's mouth curls up into a smug grin.\nHer cool and mysterious demeanor is shattered in an instant."
+  },
+  "77": {
+    "Personagem": "Favna",
+    "PT": "É exatamente como as profecias dizem... Você está cheio de potencial.",
+    "EN": "It's just as the prophecies say... You are full of potential."
+  },
+  "78": {
+    "Personagem": "Favna",
+    "PT": "Você vai ser um Familiar excelente!",
+    "EN": "You will make an excellent familiar!"
+  },
+  "79": {
+    "Personagem": "Favna",
+    "PT": "E-Espera!",
+    "EN": "W-Wait!"
+  },
+  "80": {
+    "Personagem": "Favna",
+    "PT": "Não vou te cobrar nada, prometo!",
+    "EN": "I won't charge you for anything, promise!"
+  },
+  "81": {
+    "Personagem": "Favna",
+    "PT": "Mas se você não me ouvir, vai ser amaldiçoado com azar! Vai encontrar doenças e infortúnios sem fim!",
+    "EN": "But if you don't listen to me, you'll be cursed with bad luck! You'll encounter ceaseless maladies and misfortune!"
+  },
+  "82": {
+    "Personagem": "Favna",
+    "PT": "Q-Quer dizer...",
+    "EN": "I-I mean..."
+  },
+  "83": {
+    "Personagem": "Favna",
+    "PT": "Você vai ter um azar danado e com certeza vai se arrepender!",
+    "EN": "You'll be really unlucky and you'll definitely regret it!"
+  },
+  "84": {
+    "Personagem": "Favna",
+    "PT": "N-Nesse ritmo você não vai ser um bom Familiar!",
+    "EN": "Y-You won't make a good familiar at this rate!"
+  },
+  "85": {
+    "Personagem": "(narração)",
+    "PT": "A expressão da garota se transforma em pânico.",
+    "EN": "The girl's expression turns into one of panic."
+  },
+  "86": {
+    "Personagem": "(narração)",
+    "PT": "A pose fria e misteriosa se desfaz num instante.",
+    "EN": "Her cool and mysterious demeanor is shattered in an instant."
+  },
+  "87": {
+    "Personagem": "(protagonista)",
+    "PT": "Um Familiar?:option10",
+    "EN": "A familiar?:option10"
+  },
+  "88": {
+    "Personagem": "Favna",
+    "PT": "Ahem... Não se preocupe com isso agora.",
+    "EN": "Ahem... Don't worry about that right now."
+  },
+  "89": {
+    "Personagem": "(narração)",
+    "PT": "Ela parece estar tentando parecer digna de novo.",
+    "EN": "She seems to be trying to appear dignified again."
+  },
+  "90": {
+    "Personagem": "Favna",
+    "PT": "Eu acredito... que você vai me retribuir com algo que vale muito mais do que dinheiro.",
+    "EN": "I believe... that you will repay me in something that is worth far more than money."
+  },
+  "91": {
+    "Personagem": "(narração)",
+    "PT": "Ela coloca a mão no bolso.",
+    "EN": "She puts a hand in her pocket."
+  },
+  "92": {
+    "Personagem": "Favna",
+    "PT": "Agora, aceite a minha bênção.\nIsso vai lhe conceder o poder de abater o deus falso.",
+    "EN": "Now, accept my blessing.\nThis will bestow upon you the power to slay the false god."
+  },
+  "93": {
+    "Personagem": "Favna",
+    "PT": "......",
+    "EN": "......"
+  },
+  "94": {
+    "Personagem": "Favna",
+    "PT": "...?",
+    "EN": "...?"
+  },
+  "95": {
+    "Personagem": "Favna",
+    "PT": "Hã? Espera, sumiu?\nMas eu ainda estava com ele quando saí da livraria...",
+    "EN": "Huh? Wait, it's gone?\nBut I still had it when I left the bookstore..."
+  },
+  "96": {
+    "Personagem": "Favna",
+    "PT": "Para onde foi?",
+    "EN": "Where'd it go?"
+  },
+  "97": {
+    "Personagem": "(narração)",
+    "PT": "Pressione Confirmar para investigar os arredores.",
+    "EN": "Press Confirm to investigate your surroundings."
+  },
+  "98": {
+    "Personagem": "Favna",
+    "PT": "Onde será que está...?",
+    "EN": "Where could it be...?"
+  },
+  "99": {
+    "Personagem": "(narração)",
+    "PT": "Você avista alguma coisa no canto.",
+    "EN": "You spot something in the corner."
+  },
+  "100": {
+    "Personagem": "(protagonista)",
+    "PT": "Tentar pegar:option11;Deixar:null",
+    "EN": "Try to take it:option11;Leave it:null"
+  },
+  "101": {
+    "Personagem": "(protagonista)",
+    "PT": "Você estica a mão, mas está fora de alcance.\nTalvez precise de uma ferramenta para pegar.",
+    "EN": "You reach in with your hand, but it's out of range.\nYou might need a tool to get it."
+  },
+  "102": {
+    "Personagem": "(narração)",
+    "PT": "Você encontra uma vassoura encostada na parede da livraria.",
+    "EN": "You find a broom leaning on the wall of the bookstore."
+  },
+  "103": {
+    "Personagem": "(protagonista)",
+    "PT": "Perguntar se pode emprestar:option12;Deixar:null",
+    "EN": "Ask if you can borrow it:option12;Leave it:null"
+  },
+  "104": {
+    "Personagem": "(narração)",
+    "PT": "Você pediu para alguém na livraria lhe emprestar a vassoura.",
+    "EN": "You asked someone in the bookstore to lend you the broom."
+  },
+  "105": {
+    "Personagem": "(narração)",
+    "PT": "A pessoa disse que sim!",
+    "EN": "They said yes!"
+  },
+  "106": {
+    "Personagem": "(narração)",
+    "PT": "Obteve: Vassoura",
+    "EN": "Obtained: Broom"
+  },
+  "107": {
+    "Personagem": "(narração)",
+    "PT": "Você avista alguma coisa no canto.",
+    "EN": "You spot something in the corner."
+  },
+  "108": {
+    "Personagem": "(protagonista)",
+    "PT": "Tentar tirar com a vassoura:option11;Deixar:nullsaoba",
+    "EN": "Try to get it out with the broom:option11;Leave it:nullsaoba"
+  },
+  "109": {
+    "Personagem": "(narração)",
+    "PT": "Você tenta tirar com a vassoura.",
+    "EN": "You try to get it out with the broom."
+  },
+  "110": {
+    "Personagem": "(narração)",
+    "PT": "Obteve: Pingente Misterioso de Prata",
+    "EN": "Obtained: Mysterious Silver Pendant"
+  },
+  "111": {
+    "Personagem": "(narração)",
+    "PT": "Obteve: Pingente Misterioso de Prata",
+    "EN": "Obtained: Mysterious Silver Pendant"
+  },
+  "112": {
+    "Personagem": "(protagonista)",
+    "PT": "\"Ei, era isto que você estava procurando?\"",
+    "EN": "\"Hey, were you looking for this?\""
+  },
+  "113": {
+    "Personagem": "(narração)",
+    "PT": "Mas quando você olha em volta, a garota estranha não está em lugar nenhum.",
+    "EN": "But when you look around, the strange girl is nowhere to be seen."
+  },
+  "114": {
+    "Personagem": "(narração)",
+    "PT": "Você devolve a vassoura e coloca o pingente no bolso.",
+    "EN": "You return the broom and put the pendant in your pocket."
+  },
+  "115": {
+    "Personagem": "(narração)",
+    "PT": "Obteve: Informações sobre Favna",
+    "EN": "Obtained: Information about Favna"
+  },
+  "116": {
+    "Personagem": "Shiro",
+    "PT": "Certo, vamos começar a procurar uma nova maid!\nTemos que ficar de olho em garotas fofas!",
+    "EN": "All right, let's start looking for a new maid!\nWe have to keep our eyes peeled for cute girls!"
+  },
+  "117": {
+    "Personagem": "Shiro",
+    "PT": "Mas se alguma fofa aparece ou não depende tudo da sorte,\nentão vamos com calma.",
+    "EN": "But whether anyone cute comes by is all down to luck,\nso let's take it easy."
+  },
+  "118": {
+    "Personagem": "Shiro",
+    "PT": "Isso mesmo! Tem algum lugar para onde você queira ir, Gerente?\nJá que estamos aqui, você deveria conhecer a Rua Elétrica!",
+    "EN": "That's right! Is there anywhere you want to go, Manager?\nSince we're here, you should get to know Electric Street!"
+  },
+  "119": {
+    "Personagem": "Shiro",
+    "PT": "Se quiser falar comigo sobre alguma coisa, é só apertar o Botão de Conversa!\n(tecla V/botão Y)",
+    "EN": "If you want to talk to me about something, just press the Chat button!\n(V key/Y button)"
+  },
+  "120": {
+    "Personagem": "1",
+    "PT": "1",
+    "EN": "1"
+  },
+  "119@2": {
+    "Personagem": "Shiro",
+    "PT": "Se quiser falar comigo sobre alguma coisa, é só apertar o Botão de Conversa!\n(botão Y)",
+    "EN": "If you want to talk to me about something, just press the Chat button!\n(Y button)"
+  }
+}
