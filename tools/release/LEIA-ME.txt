@@ -1,0 +1,44 @@
+Maid Cafe on Electric Street: tradução PT-BR (feita por fãs)
+https://github.com/Kaironn2/maid-cafe-loc
+
+COMO INSTALAR
+-------------
+1. Feche o jogo.
+2. Abra o instalador (veja abaixo como fazer no seu sistema).
+3. Ele procura o jogo na Steam sozinho. Se não achar, abre uma janela para você
+   escolher a pasta do jogo: "Maid Cafe on Electric Street", dentro de
+   steamapps/common na sua biblioteca da Steam.
+4. Confirme e espere terminar. Pronto, é só abrir o jogo.
+
+Windows
+  Dê dois cliques em MaidCafe-PTBR.exe.
+  Se o Windows mostrar "O Windows protegeu o computador", clique em
+  "Mais informações" e depois em "Executar assim mesmo". O aviso aparece porque
+  o programa não tem assinatura digital paga.
+
+Linux / Steam Deck (o jogo roda pelo Proton)
+  Abra um terminal nesta pasta e rode:
+    chmod +x MaidCafe-PTBR
+    ./MaidCafe-PTBR
+  No Steam Deck, use o Modo Desktop e o aplicativo Konsole.
+
+macOS (o jogo roda pelo CrossOver ou Whisky)
+  Use o pacote macos-arm64 em Macs com Apple Silicon (M1 ou mais novo) e o
+  macos-x64 em Macs com Intel. Na primeira vez, clique com o botão direito em
+  MaidCafe-PTBR e escolha "Abrir". Se o macOS não deixar, rode no Terminal:
+    xattr -d com.apple.quarantine MaidCafe-PTBR
+  Se o jogo não for encontrado sozinho, escolha a pasta do jogo dentro da
+  garrafa (drive_c/Program Files (x86)/Steam/steamapps/common/...).
+
+COMO DESINSTALAR
+----------------
+Abra o instalador de novo e escolha "Restaurar o jogo original".
+Na Steam, "Verificar integridade dos arquivos" também volta o jogo para o inglês.
+
+DEPOIS DE UMA ATUALIZAÇÃO DO JOGO
+---------------------------------
+Se a Steam atualizar o jogo, os textos podem voltar para o inglês. Abra o
+instalador de novo e escolha "Reinstalar".
+
+O instalador guarda uma cópia dos arquivos originais (com a extensão .bak) na
+pasta do jogo. Nenhum outro arquivo do jogo é alterado.

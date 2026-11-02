@@ -4,6 +4,7 @@
 //	go run ./tools/maidloc sync      resources/extracted -> translations/ (preserva o PT já feito)
 //	go run ./tools/maidloc status    progresso da tradução
 //	go run ./tools/maidloc patch     translations/ (campo PT) -> resources.assets e global-metadata.dat do jogo
+//	go run ./tools/maidloc install   instalador para jogadores (é o que roda sem argumentos, no duplo clique)
 package main
 
 import (
@@ -28,14 +29,16 @@ Comandos:
   sync      gera/atualiza os arquivos de tradução em translations/ (não apaga o PT já feito)
   status    mostra o progresso da tradução
   patch     grava o campo PT de translations/ no resources.assets e no global-metadata.dat (-apply para gravar)
+  install   instala a tradução embutida no binário (é o que roda sem argumentos)
+  version   mostra a versão
 
 Use "maidloc <comando> -h" para ver as opções.
 `
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Print(usage)
-		os.Exit(2)
+		runInstaller()
+		return
 	}
 	cmd, args := os.Args[1], os.Args[2:]
 	var err error
@@ -48,6 +51,11 @@ func main() {
 		err = cmdStatus(args)
 	case "patch":
 		err = cmdPatch(args)
+	case "install":
+		err = cmdInstall(args)
+	case "version":
+		fmt.Println(version)
+		return
 	case "-h", "--help", "help":
 		fmt.Print(usage)
 		return
@@ -81,6 +89,11 @@ func original(path string) string {
 }
 
 func loadGame(dataDir string) (*gameData, error) {
+	for _, f := range gameFiles(dataDir) {
+		if err := dropStaleBackup(f); err != nil {
+			return nil, err
+		}
+	}
 	path := original(filepath.Join(dataDir, "resources.assets"))
 	a, err := OpenAssets(path)
 	if err != nil {
@@ -285,6 +298,10 @@ func readWorkFile(path string) (map[string]WorkEntry, []string, error) {
 	if err != nil {
 		return nil, nil, err
 	}
+	return parseWorkFile(path, data)
+}
+
+func parseWorkFile(path string, data []byte) (map[string]WorkEntry, []string, error) {
 	root, err := ParseJSON(data)
 	if err != nil {
 		var se *json.SyntaxError
@@ -413,9 +430,16 @@ func cmdPatch(args []string) error {
 	metaOut := fl.String("meta-out", "", "gravar em outro arquivo em vez do global-metadata.dat do jogo")
 	fl.Parse(args)
 
-	g, err := loadGame(*dataDir)
+	_, err := patch(*dataDir, os.DirFS(*dir), *dir, *apply, *out, *metaOut)
+	return err
+}
+
+// patch aplica as traduções de work (arquivos como "texts/ui_en.json"; label é o nome da
+// pasta nas mensagens) aos arquivos do jogo em dataDir. Devolve o número de avisos.
+func patch(dataDir string, work fs.FS, label string, apply bool, out, metaOut string) (int, error) {
+	g, err := loadGame(dataDir)
 	if err != nil {
-		return err
+		return 0, err
 	}
 	patched := map[string]bool{}
 	totalPT, warnings := 0, 0
@@ -423,13 +447,16 @@ func cmdPatch(args []string) error {
 		if u.File == "" {
 			continue
 		}
-		path := filepath.Join(*dir, filepath.FromSlash(u.File))
-		if _, err := os.Stat(path); err != nil {
+		data, err := fs.ReadFile(work, u.File)
+		if errors.Is(err, fs.ErrNotExist) {
 			continue
 		}
-		entries, order, err := readWorkFile(path)
 		if err != nil {
-			return err
+			return 0, err
+		}
+		entries, order, err := parseWorkFile(filepath.Join(label, filepath.FromSlash(u.File)), data)
+		if err != nil {
+			return 0, err
 		}
 		source := map[string]string{}
 		for _, e := range SourceEntries(u, g.docs[u.Asset]) {
@@ -484,19 +511,19 @@ func cmdPatch(args []string) error {
 		fmt.Printf("; %d avisos", warnings)
 	}
 	fmt.Println(".")
-	if !*apply {
+	if !apply {
 		fmt.Println("[teste] nada foi gravado. Use -apply para gravar.")
-		return nil
+		return warnings, nil
 	}
 
-	if err := writeGameFile(*out, filepath.Join(*dataDir, "resources.assets"), g.assets.Raw, result); err != nil {
-		return err
+	if err := writeGameFile(out, filepath.Join(dataDir, "resources.assets"), g.assets.Raw, result); err != nil {
+		return warnings, err
 	}
-	if *out != "" && *metaOut == "" {
+	if out != "" && metaOut == "" {
 		fmt.Println("global-metadata.dat não gravado (use -meta-out junto com -out)")
-		return nil
+		return warnings, nil
 	}
-	return writeGameFile(*metaOut, metadataPath(*dataDir), g.meta.Raw, meta)
+	return warnings, writeGameFile(metaOut, metadataPath(dataDir), g.meta.Raw, meta)
 }
 
 // writeGameFile grava data em out ou, sem out, no arquivo do jogo, guardando antes o
@@ -516,6 +543,12 @@ func writeGameFile(out, gameFile string, originalData, data []byte) error {
 	}
 	if err := os.WriteFile(target, data, 0o644); err != nil {
 		return err
+	}
+	if out == "" {
+		// a marca guarda o hash do que foi gravado: se o jogo trocar o arquivo, o .bak ficou velho
+		if err := os.WriteFile(target+markSuffix, []byte(fileHash(data)+"\n"), 0o644); err != nil {
+			return err
+		}
 	}
 	fmt.Println("Gravado: " + target)
 	return nil

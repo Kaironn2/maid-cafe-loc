@@ -4,11 +4,13 @@
 
 | English | Português (Brasil) |
 |---|---|
+| [Installing (players)](#installing-players) | [Como instalar (jogadores)](#como-instalar-jogadores) |
 | [Repository layout](#repository-layout) | [Estrutura do repositório](#estrutura-do-repositório) |
 | [Translation file format](#translation-file-format) | [Como estão os arquivos de tradução](#como-estão-os-arquivos-de-tradução) |
 | [What to translate](#what-to-translate) | [O que traduzir](#o-que-traduzir) |
 | [Translation rules](#translation-rules) | [Regras de tradução](#regras-de-tradução) |
 | [The `maidloc` tool](#the-maidloc-tool) | [Ferramenta `maidloc`](#ferramenta-maidloc) |
+| [Publishing a release](#publishing-a-release) | [Publicar uma release](#publicar-uma-release) |
 | [Current status](#current-status) | [Estado atual](#estado-atual) |
 | [How it works](#how-it-works) | [Como funciona por dentro](#como-funciona-por-dentro) |
 
@@ -17,6 +19,14 @@
 ## English
 
 Brazilian Portuguese fan translation of *Maid Cafe on Electric Street*. The translated text replaces the game's English text directly in `resources.assets` (and, for a few lines written in the code, in `global-metadata.dat`). No mod loader is required.
+
+### Installing (players)
+
+1. Download the zip for your system from [Releases](https://github.com/Kaironn2/maid-cafe-loc/releases/latest): Windows, Linux / Steam Deck (Proton) or macOS (CrossOver/Whisky).
+2. Close the game, extract the zip and open `MaidCafe-PTBR`.
+3. It finds the game in Steam by itself. If it can't, it opens a window to pick the game folder.
+
+To uninstall, open it again and choose "Restaurar" (restore). The `LEIA-ME.txt` in the zip has the details for each system.
 
 ### Repository layout
 
@@ -129,6 +139,17 @@ How the patch works:
 3. `go run ./tools/maidloc sync`: review the texts flagged `REVISAR` (English changed) and `ÓRFÃ` (text removed from the game).
 4. `go run ./tools/maidloc patch -apply`
 
+### Publishing a release
+
+The player installer is `maidloc` itself, built with `translations/` embedded (`embed.go`). Run without arguments, it runs `install`: it looks for the game in the Steam libraries (registry and `libraryfolders.vdf` on Windows, the usual Steam folders on Linux, CrossOver/Whisky bottles on macOS), and if it doesn't find it, opens the system's folder picker (Win32 API on Windows, `osascript` on macOS, `zenity`/`kdialog`/`yad` on Linux) or asks for the path in the terminal.
+
+```
+go run ./tools/release v1.0.0    # local build: dist/*.zip and dist/SHA256SUMS.txt
+git tag v1.0.0 && git push origin v1.0.0
+```
+
+Pushing a `v*` tag runs `.github/workflows/release.yml`, which builds the zips and creates a **draft** release with them. Review it on GitHub and publish it.
+
 ### Current status
 
 - ✅ Extraction, mapping, sync and patch work and are tested. An empty patch reproduces the original file byte for byte. A patch with translations changes only the translated texts.
@@ -158,6 +179,14 @@ A few lines are written directly in the C# code, for example "Your work is not d
 ## Português (Brasil)
 
 Tradução não oficial de *Maid Cafe on Electric Street* para o português do Brasil. O texto traduzido substitui o inglês direto no `resources.assets` (e, para algumas falas escritas no código, no `global-metadata.dat`). Não é preciso instalar mod nem BepInEx.
+
+### Como instalar (jogadores)
+
+1. Baixe o zip do seu sistema em [Releases](https://github.com/Kaironn2/maid-cafe-loc/releases/latest): Windows, Linux / Steam Deck (Proton) ou macOS (CrossOver/Whisky).
+2. Feche o jogo, extraia o zip e abra o `MaidCafe-PTBR`.
+3. Ele acha o jogo na Steam sozinho. Se não achar, abre uma janela para você escolher a pasta do jogo.
+
+Para desinstalar, abra de novo e escolha "Restaurar". O `LEIA-ME.txt` dentro do zip explica os detalhes de cada sistema.
 
 ### Estrutura do repositório
 
@@ -269,6 +298,17 @@ Como o patch funciona:
 2. `go run ./tools/maidloc extract`
 3. `go run ./tools/maidloc sync`: confira os textos marcados como `REVISAR` (inglês mudou) e `ÓRFÃ` (texto removido do jogo).
 4. `go run ./tools/maidloc patch -apply`
+
+### Publicar uma release
+
+O instalador dos jogadores é o próprio `maidloc`, compilado com `translations/` embutido (`embed.go`). Sem argumentos, ele roda o `install`: procura o jogo nas bibliotecas da Steam (registro e `libraryfolders.vdf` no Windows, pastas comuns da Steam no Linux, garrafas do CrossOver/Whisky no macOS) e, se não achar, abre a janela de seleção de pasta do sistema (API do Win32 no Windows, `osascript` no macOS, `zenity`/`kdialog`/`yad` no Linux) ou pede o caminho no terminal.
+
+```
+go run ./tools/release v1.0.0    # build local: dist/*.zip e dist/SHA256SUMS.txt
+git tag v1.0.0 && git push origin v1.0.0
+```
+
+Enviar uma tag `v*` roda o `.github/workflows/release.yml`, que gera os zips e cria uma release em **rascunho** com eles. Revise no GitHub e publique.
 
 ### Estado atual
 
