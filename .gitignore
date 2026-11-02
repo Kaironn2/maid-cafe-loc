@@ -6,3 +6,4 @@ obj/
 # cópias do arquivo do jogo geradas em testes
 *.assets
 *.assets.bak
+dist/

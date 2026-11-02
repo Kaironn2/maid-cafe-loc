@@ -1,0 +1,23 @@
+# Ao enviar uma tag vX.Y.Z, gera os pacotes e cria uma release em rascunho com eles.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+      - run: go vet ./...
+      - run: go run ./tools/release "$GITHUB_REF_NAME"
+      - run: gh release create "$GITHUB_REF_NAME" dist/* --draft --title "Tradução PT-BR $GITHUB_REF_NAME" --notes-file tools/release/notes.md
+        env:
+          GH_TOKEN: ${{ github.token }}
